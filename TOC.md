@@ -76,7 +76,6 @@
 | ⬜️ | scumm | thinkerk | Big Thinkers Kindergarten | |
 | ⬜️ | scumm | water | Freddi Fish and Luther's Water Worries | |
 | ⬜️ | access | amazon | Amazon: Guardians of Eden | |
-| ⬜️ | access | martian | Martian Memorandum | |
 | ⬜️ | adl | hires0 | Hi-Res Adventure #0: Mission Asteroid | |
 | ✅ | adl | hires1 | Hi-Res Adventure #1: Mystery House | JenniBee |
 | ⬜️ | adl | hires2 | Hi-Res Adventure #2: Wizard and the Princess | |
@@ -86,7 +85,6 @@
 | ⬜️ | adl | hires6 | Hi-Res Adventure #6: The Dark Crystal | |
 | ⬜️ | agi | agi | Sierra AGI game | |
 | ⬜️ | agi | agi-fanmade | Fanmade AGI game | |
-| ⬜️ | agi | agidemo | AGI Demo | |
 | ⬜️ | agi | bc | The Black Cauldron | |
 | ⬜️ | agi | caitlyn | Caitlyn's Destiny | |
 | ✅ | agi | ddp | Donald Duck's Playground | JenniBee |
@@ -125,7 +123,6 @@
 | ✅ | avalanche | avalanche | Lord Avalot d'Argent | JenniBee |
 | ✅ | bbvs | bbvs | Beavis and Butt-head in Virtual Stupidity | JenniBee |
 | ⬜️ | bladerunner | bladerunner | Blade Runner | |
-| ⬜️ | bladerunner | bladerunner-final | Blade Runner with restored content | |
 | ✅ | cge | soltys | Soltys | JenniBee |
 | ✅ | cge2 | sfinx | Sfinx | JenniBee |
 | ⬜️ | cine | fw | Future Wars | |
@@ -2046,9 +2043,7 @@
 | ⬜️ | glk | vanyar | Vanyar | |
 | ✅ | gnap | gnap | Gnap | JenniBee |
 | ⬜️ | gob | gob1 | Gobliiins | |
-| ⬜️ | gob | gob1cd | Gobliiins CD | |
 | ⬜️ | gob | gob2 | Gobliins 2 | |
-| ⬜️ | gob | gob2cd | Gobliins 2 CD | |
 | ⬜️ | gob | ween | Ween: The Prophecy | |
 | ⬜️ | gob | bargon | Bargon Attack | |
 | ⬜️ | gob | babayaga | Once Upon A Time: Baba Yaga | |
@@ -2057,7 +2052,6 @@
 | ⬜️ | gob | onceupon | Once Upon A Time | |
 | ⬜️ | gob | ajworld | A.J.'s World of Discovery | |
 | ⬜️ | gob | gob3 | Goblins Quest 3 | |
-| ⬜️ | gob | gob3cd | Goblins Quest 3 CD | |
 | ✅ | gob | crousti | Croustibat | JenniBee |
 | ⬜️ | gob | lit1 | Lost in Time Part 1 | |
 | ⬜️ | gob | lit2 | Lost in Time Part 2 | |
@@ -2077,10 +2071,6 @@
 | ⬜️ | gob | bambou | Playtoons Limited Edition - Bambou le sauveur de la jungle | |
 | ✅ | gob | fascination | Fascination | JenniBee |
 | ✅ | gob | geisha | Geisha | JenniBee |
-| ⬜️ | gob | adi2 | ADI 2 | |
-| ⬜️ | gob | adi4 | ADI 4 | |
-| ⬜️ | gob | adibou2 | Adibou 2 | |
-| ⬜️ | gob | adibou1 | Adibou 1 | |
 | ⬜️ | griffon | griffon | The Griffon Legend | |
 | ⬜️ | groovie | t7g | The 7th Guest | |
 | ⬜️ | hdb | hdb | Hyperspace Delivery Boy! | |
@@ -2088,7 +2078,6 @@
 | ✅ | hugo | hugo1 | Hugo 1: Hugo's House of Horrors | JenniBee |
 | ✅ | hugo | hugo2 | Hugo 2: Whodunit? | JenniBee |
 | ✅ | hugo | hugo3 | Hugo 3: Jungle of Doom | JenniBee |
-| ⬜️ | illusions | bbdou | Beavis and Butt-head Do U | |
 | ⬜️ | illusions | duckman | Duckman | |
 | ⬜️ | kyra | kyra1 | The Legend of Kyrandia | |
 | ⬜️ | kyra | kyra2 | The Legend of Kyrandia: The Hand of Fate | |
@@ -2102,16 +2091,10 @@
 | ✅ | made | rtz | Return to Zork | JenniBee |
 | ⬜️ | made | lgop2 | Leather Goddesses of Phobos 2 | |
 | ⬜️ | made | rodney | Rodney's Funscreen | |
-| ⬜️ | mads | dragonsphere | Dragonsphere | |
 | ⬜️ | mads | nebular | Rex Nebular and the Cosmic Gender Bender | |
-| ⬜️ | mads | phantom | Return of the Phantom | |
 | ⬜️ | mohawk | myst | Myst | |
 | ⬜️ | mohawk | makingofmyst | The Making of Myst | |
 | ⬜️ | mohawk | riven | Riven: The Sequel to Myst | |
-| ⬜️ | mohawk | cstime | Where in Time is Carmen Sandiego? | |
-| ⬜️ | mohawk | carmentq | Carmen Sandiego's ThinkQuick Challenge | |
-| ⬜️ | mohawk | carmentqc | Carmen Sandiego's ThinkQuick Challenge Custom Question Creator | |
-| ⬜️ | mohawk | maggiesfa | Maggie's Farmyard Adventure | |
 | ⬜️ | mohawk | greeneggs | Green Eggs and Ham | |
 | ⬜️ | mohawk | seussabc | Dr Seuss's ABC | |
 | ⬜️ | mohawk | tortoise | Aesop's Fables: The Tortoise and the Hare | |
@@ -2119,31 +2102,22 @@
 | ⬜️ | mohawk | grandma | Just Grandma and Me | |
 | ⬜️ | mohawk | ruff | Ruff's Bone | |
 | ⬜️ | mohawk | newkid | The New Kid on the Block | |
-| ⬜️ | mohawk | arthurrace | Arthur's Reading Race | |
 | ⬜️ | mohawk | arthurbday | Arthur's Birthday | |
 | ⬜️ | mohawk | lilmonster | Little Monster at School | |
-| ⬜️ | mohawk | catinthehat | The Cat in the Hat | |
-| ⬜️ | mohawk | rugrats | Rugrats Adventure Game | |
-| ⬜️ | mohawk | lbsampler | Living Books Sampler | |
 | ⬜️ | mohawk | bearfight | The Berenstain Bears Get in a Fight | |
 | ⬜️ | mohawk | beardark | The Berenstain Bears In The Dark | |
-| ⬜️ | mohawk | arthurcomp | Arthur's Computer Adventure | |
 | ⬜️ | mohawk | harryhh | Harry and the Haunted House | |
 | ⬜️ | mohawk | stellaluna | Stellaluna | |
 | ⬜️ | mohawk | sheila | Sheila Rae, the Brave | |
-| ⬜️ | mohawk | rugratsps | Rugrats Print Shop | |
 | ⬜️ | mortevielle | mortevielle | Mortville Manor | |
 | ✅ | neverhood | neverhood | The Neverhood Chronicles | JenniBee |
 | ⬜️ | parallaction | nippon | Nippon Safes Inc. | |
-| ⬜️ | parallaction | bra | The Big Red Adventure | |
 | ⬜️ | pegasus | pegasus | The Journeyman Project: Pegasus Prime | |
 | ⬜️ | plumbers | plumbers | Plumbers Don't Wear Ties! | |
 | ✅ | prince | prince | The Prince and the Coward | JenniBee |
 | ⬜️ | queen | queen | Flight of the Amazon Queen | |
 | ✅ | saga | ite | Inherit the Earth: Quest for the Orb | JenniBee |
 | ⬜️ | saga | ihnm | I Have No Mouth and I Must Scream | |
-| ⬜️ | saga | dino | Dinotopia | |
-| ⬜️ | saga | fta2 | Faery Tale Adventure II: Halls of the Dead | |
 | ⬜️ | sci | sci | Sierra SCI Game | |
 | ⬜️ | sci | sci-fanmade | Fanmade SCI Game | |
 | ⬜️ | sci | astrochicken | Astro Chicken | |
@@ -2188,7 +2162,6 @@
 | ⬜️ | sci | ecoquest2 | EcoQuest II: Lost Secret of the Rainforest | |
 | ⬜️ | sci | freddypharkas | Freddy Pharkas: Frontier Pharmacist | |
 | ⬜️ | sci | hoyle4 | Hoyle Classic Card Games | |
-| ⬜️ | sci | inndemo | ImagiNation Network (INN) Demo | |
 | ✅ | sci | kq6 | King's Quest VI: Heir Today, Gone Tomorrow | JenniBee |
 | ⬜️ | sci | laurabow2 | Laura Bow 2: The Dagger of Amon Ra | |
 | ✅ | sci | qfg1vga | Quest for Glory I: So You Want to Be a Hero | JenniBee |
@@ -2198,9 +2171,6 @@
 | ✅ | sci | lsl6 | Leisure Suit Larry 6: Shape Up or Slip Out! | JenniBee |
 | ⬜️ | sci | pepper | Pepper's Adventure in Time | |
 | ⬜️ | sci | slater | Slater & Charlie Go Camping | |
-| ⬜️ | sci | gk1demo | Gabriel Knight: Sins of the Fathers | |
-| ⬜️ | sci | qfg4demo | Quest for Glory IV: Shadows of Darkness | |
-| ⬜️ | sci | pq4demo | Police Quest IV: Open Season | |
 | ⬜️ | sci | catdate | The Dating Pool | |
 | ⬜️ | sci | gk1 | Gabriel Knight: Sins of the Fathers | |
 | ⬜️ | sci | pq4 | Police Quest IV: Open Season | |
@@ -2230,17 +2200,7 @@
 | ⬜️ | supernova | msn1 | Mission Supernova 1 | |
 | ⬜️ | supernova | msn2 | Mission Supernova 2 | |
 | ⬜️ | sword1 | sword1 | Broken Sword: The Shadow of the Templars | |
-| ⬜️ | sword1 | sword1demo | Broken Sword: The Shadow of the Templars (Demo) | |
-| ⬜️ | sword1 | sword1mac | Broken Sword: The Shadow of the Templars (Mac) | |
-| ⬜️ | sword1 | sword1macdemo | Broken Sword: The Shadow of the Templars (Mac demo) | |
-| ⬜️ | sword1 | sword1psx | Broken Sword: The Shadow of the Templars (PlayStation) | |
-| ⬜️ | sword1 | sword1psxdemo | Broken Sword: The Shadow of the Templars (PlayStation demo) | |
 | ⬜️ | sword2 | sword2 | Broken Sword II: The Smoking Mirror | |
-| ⬜️ | sword2 | sword2alt | Broken Sword II: The Smoking Mirror (alt) | |
-| ⬜️ | sword2 | sword2psx | Broken Sword II: The Smoking Mirror (PlayStation) | |
-| ⬜️ | sword2 | sword2psxdemo | Broken Sword II: The Smoking Mirror (PlayStation/Demo) | |
-| ⬜️ | sword2 | sword2demo | Broken Sword II: The Smoking Mirror (Demo) | |
-| ⬜️ | sword2 | sword2demo-es | Broken Sword II: The Smoking Mirror (Spanish/Demo) | |
 | ✅ | sword25 | sword25 | Broken Sword 2.5 | JenniBee |
 | ⬜️ | teenagent | teenagent | Teen Agent | |
 | ✅ | tinsel | dw | Discworld | JenniBee |
@@ -2253,20 +2213,10 @@
 | ✅ | tsage | ringworld | Ringworld: Revenge of the Patriarch | JenniBee |
 | ✅ | tsage | blueforce | Blue Force | JenniBee |
 | ⬜️ | tsage | ringworld2 | Return to Ringworld | |
-| ⬜️ | tsage | sherlock-logo | The Lost Files of Sherlock Holmes (Logo) | |
 | ✅ | tucker | tucker | Bud Tucker in Double Trouble | JenniBee |
-| ⬜️ | ultima | ultima1 | Ultima I - The First Age of Darkness | |
 | ⬜️ | ultima | ultima4 | Ultima IV - Quest of the Avatar | |
-| ⬜️ | ultima | ultima4_enh | Ultima IV - Quest of the Avatar - Enhanced | |
 | ⬜️ | ultima | ultima6 | Ultima VI - The False Prophet | |
-| ⬜️ | ultima | ultima6_enh | Ultima VI - The False Prophet - Enhanced | |
 | ⬜️ | ultima | ultima8 | Ultima VIII - Pagan | |
-| ⬜️ | ultima | remorse | Crusader: No Remorse | |
-| ⬜️ | ultima | regret | Crusader: No Regret | |
-| ⬜️ | ultima | martiandreams | Worlds of Ultima: Martian Dreams | |
-| ⬜️ | ultima | martiandreams_enh | Worlds of Ultima: Martian Dreams - Enhanced | |
-| ⬜️ | ultima | thesavageempire | Worlds of Ultima: The Savage Empire | |
-| ⬜️ | ultima | thesavageempire_enh | Worlds of Ultima: The Savage Empire - Enhanced | |
 | ✅ | voyeur | voyeur | Voyeur | JenniBee |
 | ⬜️ | wintermute | 5ld | Five Lethal Demons | |
 | ⬜️ | wintermute | 5ma | Five Magical Amulets | |
@@ -2392,8 +2342,6 @@
 | ⬜️ | wintermute | vsevolod | Vsevolod | |
 | ⬜️ | wintermute | wayoflove | The Way Of Love: Sub Zero | |
 | ⬜️ | wintermute | wintermute | Wintermute engine game | |
-| ⬜️ | wintermute | wmedemo | Wintermute Engine Technology Demo | |
-| ⬜️ | wintermute | wmedemo3d | Wintermute 3D Characters Technology Demo | |
 | ⬜️ | wintermute | wtetris | Wilma Tetris | |
 | ⬜️ | wintermute | zilm | Zilm: A Game of Reflex | |
 | ⬜️ | wintermute | zbang | Zbang! The Game | |
