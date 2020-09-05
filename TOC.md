@@ -5,17 +5,17 @@
 | ✅ | example | example | Example Entry | Your Name Here
 | ✅ | scumm | atlantis | Indiana Jones and the Fate of Atlantis | JenniBee |
 | ✅ | scumm | indy3 | Indiana Jones and the Last Crusade | JenniBee |
-| ⬜️ | scumm | loom | Loom | |
+| ✅ | scumm | loom | Loom | |
 | ⬜️ | scumm | maniac | Maniac Mansion | |
 | ⬜️ | scumm | monkey | The Secret of Monkey Island | |
 | ⬜️ | scumm | monkey2 | Monkey Island 2: LeChuck's Revenge | |
 | ✅ | scumm | pass | Passport to Adventure | JenniBee |
 | ✅ | scumm | samnmax | Sam & Max Hit the Road | JenniBee |
 | ✅ | scumm | tentacle | Day of the Tentacle | JenniBee |
-| ⬜️ | scumm | zak | Zak McKracken and the Alien Mindbenders | |
-| ⬜️ | scumm | indyloom | Indiana Jones and the Last Crusade & Loom | |
-| ⬜️ | scumm | indyzak | Indiana Jones and the Last Crusade & Zak McKracken | |
-| ⬜️ | scumm | zakloom | Zak McKracken & Loom | |
+| ✅ | scumm | zak | Zak McKracken and the Alien Mindbenders | JenniBee |
+| ✅ | scumm | indyloom | Indiana Jones and the Last Crusade & Loom | JenniBee |
+| ✅ | scumm | indyzak | Indiana Jones and the Last Crusade & Zak McKracken | JenniBee |
+| ✅ | scumm | zakloom | Zak McKracken & Loom | JenniBee |
 | ⬜️ | scumm | ft | Full Throttle | |
 | ⬜️ | scumm | dig | The Dig | |
 | ⬜️ | scumm | comi | The Curse of Monkey Island | |
