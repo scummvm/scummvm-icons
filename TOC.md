@@ -32,7 +32,7 @@
 | ⬜️ | scumm | basketball | Backyard Basketball | |
 | ⬜️ | scumm | football2002 | Backyard Football 2002 | |
 | ⬜️ | scumm | freddicove | Freddi Fish 5: The Case of the Creature of Coral Cove | |
-| ⬜️ | scumm | moonbase | Moonbase Commander | |
+| ✅ | scumm | moonbase | Moonbase Commander | JenniBee|
 | ⬜️ | scumm | pjgames | Pajama Sam: Games to Play on Any Day | |
 | ⬜️ | scumm | readtime | Blue's Reading Time Activities | |
 | ⬜️ | scumm | soccer2004 | Backyard Soccer 2004 | |
@@ -78,7 +78,7 @@
 | ⬜️ | access | amazon | Amazon: Guardians of Eden | |
 | ⬜️ | access | martian | Martian Memorandum | |
 | ⬜️ | adl | hires0 | Hi-Res Adventure #0: Mission Asteroid | |
-| ⬜️ | adl | hires1 | Hi-Res Adventure #1: Mystery House | |
+| ✅ | adl | hires1 | Hi-Res Adventure #1: Mystery House | JenniBee |
 | ⬜️ | adl | hires2 | Hi-Res Adventure #2: Wizard and the Princess | |
 | ⬜️ | adl | hires3 | Hi-Res Adventure #3: Cranston Manor | |
 | ⬜️ | adl | hires4 | Hi-Res Adventure #4: Ulysses and the Golden Fleece | |
@@ -89,13 +89,13 @@
 | ⬜️ | agi | agidemo | AGI Demo | |
 | ⬜️ | agi | bc | The Black Cauldron | |
 | ⬜️ | agi | caitlyn | Caitlyn's Destiny | |
-| ⬜️ | agi | ddp | Donald Duck's Playground | |
+| ✅ | agi | ddp | Donald Duck's Playground | JenniBee |
 | ⬜️ | agi | goldrush | Gold Rush! | |
 | ⬜️ | agi | kq1 | King's Quest I: Quest for the Crown | |
 | ⬜️ | agi | kq2 | King's Quest II: Romancing the Throne | |
 | ⬜️ | agi | kq3 | King's Quest III: To Heir Is Human | |
-| ⬜️ | agi | kq4 | King's Quest IV: The Perils of Rosella | |
-| ⬜️ | agi | lsl1 | Leisure Suit Larry in the Land of the Lounge Lizards | |
+| ✅ | agi | kq4 | King's Quest IV: The Perils of Rosella | JenniBee |
+| ✅ | agi | lsl1 | Leisure Suit Larry in the Land of the Lounge Lizards | JenniBee |
 | ⬜️ | agi | mickey | Mickey's Space Adventure | |
 | ⬜️ | agi | mixedup | Mixed-Up Mother Goose | |
 | ⬜️ | agi | mh1 | Manhunter 1: New York | |
@@ -104,17 +104,17 @@
 | ⬜️ | agi | serguei1 | Serguei's Destiny 1 | |
 | ⬜️ | agi | serguei2 | Serguei's Destiny 2 | |
 | ⬜️ | agi | sq0 | Space Quest 0: Replicated | |
-| ⬜️ | agi | sq1 | Space Quest I: The Sarien Encounter | |
+| ✅ | agi | sq1 | Space Quest I: The Sarien Encounter | JenniBee |
 | ⬜️ | agi | sq2 | Space Quest II: Vohaul's Revenge | |
 | ⬜️ | agi | sqx | Space Quest X: The Lost Chapter | |
-| ⬜️ | agi | tetris | AGI Tetris | |
-| ⬜️ | agi | troll | Troll's Tale | |
+| ✅ | agi | tetris | AGI Tetris | JenniBee |
+| ✅ | agi | troll | Troll's Tale | JenniBee |
 | ⬜️ | agi | winnie | Winnie the Pooh in the Hundred Acre Wood | |
 | ⬜️ | agi | xmascard | Xmas Card | |
 | ⬜️ | agos | pn | Personal Nightmare | |
-| ⬜️ | agos | elvira1 | Elvira - Mistress of the Dark | |
+| ✅ | agos | elvira1 | Elvira - Mistress of the Dark | JenniBee |
 | ⬜️ | agos | elvira2 | Elvira II - The Jaws of Cerberus | |
-| ⬜️ | agos | waxworks | Waxworks | |
+| ✅ | agos | waxworks | Waxworks | JenniBee |
 | ⬜️ | agos | simon1 | Simon the Sorcerer 1 | |
 | ⬜️ | agos | simon2 | Simon the Sorcerer 2 | |
 | ⬜️ | agos | feeble | The Feeble Files | |
@@ -122,13 +122,14 @@
 | ⬜️ | agos | jumble | Jumble | |
 | ⬜️ | agos | puzzle | NoPatience | |
 | ⬜️ | agos | swampy | Swampy Adventures | |
-| ⬜️ | bbvs | bbvs | Beavis and Butt-head in Virtual Stupidity | |
+| ✅ | avalanche | avalanche | Lord Avalot d'Argent | JenniBee |
+| ✅ | bbvs | bbvs | Beavis and Butt-head in Virtual Stupidity | JenniBee |
 | ⬜️ | bladerunner | bladerunner | Blade Runner | |
 | ⬜️ | bladerunner | bladerunner-final | Blade Runner with restored content | |
-| ⬜️ | cge | soltys | Soltys | |
-| ⬜️ | cge2 | sfinx | Sfinx | |
+| ✅ | cge | soltys | Soltys | JenniBee |
+| ✅ | cge2 | sfinx | Sfinx | JenniBee |
 | ⬜️ | cine | fw | Future Wars | |
-| ⬜️ | cine | os | Operation Stealth | |
+| ✅ | cine | os | Operation Stealth | JenniBee |
 | ⬜️ | composer | babayaga | Magic Tales: Baba Yaga and the Magic Geese | |
 | ⬜️ | composer | darby | Darby the Dragon | |
 | ⬜️ | composer | gregory | Gregory and the Hot Air Balloon | |
@@ -140,7 +141,7 @@
 | ⬜️ | composer | sleepingcub | Magic Tales: Sleeping Cub's Test of Courage | |
 | ⬜️ | cruise | cruise | Cruise for a Corpse | |
 | ⬜️ | cryomni3d | versailles | Versailles 1685 | |
-| ⬜️ | draci | draci | Draci Historie | |
+| ✅ | draci | draci | Draci Historie | JenniBee |
 | ⬜️ | dragons | dragons | Blazing Dragons | |
 | ⬜️ | drascula | drascula | Drascula: The Vampire Strikes Back | |
 | ⬜️ | dreamweb | dreamweb | DreamWeb | |
@@ -1128,7 +1129,7 @@
 | ⬜️ | glk | verla | No Quiero Verla | |
 | ⬜️ | glk | amfv | A Mind Forever Voyaging | |
 | ⬜️ | glk | ballyhoo | Ballyhoo | |
-| ⬜️ | glk | beyondzork | Beyond Zork | |
+| ✅ | glk | beyondzork | Beyond Zork | JenniBee |
 | ⬜️ | glk | borderzone | Border Zone | |
 | ⬜️ | glk | bureaucracy | Bureaucracy | |
 | ⬜️ | glk | cutthroats | Cutthroats | |
@@ -1138,7 +1139,7 @@
 | ⬜️ | glk | hollywoodhijinx | Hollywood Hijinx | |
 | ⬜️ | glk | infidel | Infidel | |
 | ⬜️ | glk | journey | Journey | |
-| ⬜️ | glk | lgop | Leather Goddesses of Phobos | |
+| ✅ | glk | lgop | Leather Goddesses of Phobos | JenniBee |
 | ⬜️ | glk | infocomsampler1 | Infocom Sampler 1 | |
 | ⬜️ | glk | infocomsampler2 | Infocom Sampler 2 | |
 | ⬜️ | glk | lurkinghorror | The Lurking Horror | |
@@ -1161,11 +1162,11 @@
 | ⬜️ | glk | trinity | Trinity | |
 | ⬜️ | glk | wishbringer | Wishbringer | |
 | ⬜️ | glk | thewitness | The Witness | |
-| ⬜️ | glk | zork0 | Zork Zero: The Revenge of Megaboz | |
-| ⬜️ | glk | zork1 | Zork I: The Great Underground Empire | |
-| ⬜️ | glk | zork2 | Zork II: The Wizard of Frobozz | |
-| ⬜️ | glk | zork3 | Zork III: The Dungeon Master | |
-| ⬜️ | glk | ztuu | Zork: The Undiscovered Underground | |
+| ✅ | glk | zork0 | Zork Zero: The Revenge of Megaboz | JenniBee |
+| ✅ | glk | zork1 | Zork I: The Great Underground Empire | JenniBee |
+| ✅ | glk | zork2 | Zork II: The Wizard of Frobozz | JenniBee |
+| ✅ | glk | zork3 | Zork III: The Dungeon Master | JenniBee |
+| ✅ | glk | ztuu | Zork: The Undiscovered Underground | JenniBee |
 | ⬜️ | glk | zcode | Unknown Z-code game | |
 | ⬜️ | glk | 404life | 404 - Life not found | |
 | ⬜️ | glk | 69105keys | 69,105 Keys | |
@@ -1672,7 +1673,7 @@
 | ⬜️ | glk | snowquest | Snowquest | |
 | ⬜️ | glk | neverplayed | So, You've Never Played a Text Adventure Before, Huh? | |
 | ⬜️ | glk | sofar | So Far, An Interactive Catharsis | |
-| ⬜️ | glk | softporn | Softporn Adventure | |
+| ✅ | glk | softporn | Softporn Adventure | JenniBee |
 | ⬜️ | glk | solitary | Solitary | |
 | ⬜️ | glk | somewhere | Somewhere | |
 | ⬜️ | glk | soreality | So Reality | |
@@ -2043,7 +2044,7 @@
 | ⬜️ | glk | storforsen | Storforsen | |
 | ⬜️ | glk | stuga | Stuga | |
 | ⬜️ | glk | vanyar | Vanyar | |
-| ⬜️ | gnap | gnap | Gnap | |
+| ✅ | gnap | gnap | Gnap | JenniBee |
 | ⬜️ | gob | gob1 | Gobliiins | |
 | ⬜️ | gob | gob1cd | Gobliiins CD | |
 | ⬜️ | gob | gob2 | Gobliins 2 | |
@@ -2057,14 +2058,14 @@
 | ⬜️ | gob | ajworld | A.J.'s World of Discovery | |
 | ⬜️ | gob | gob3 | Goblins Quest 3 | |
 | ⬜️ | gob | gob3cd | Goblins Quest 3 CD | |
-| ⬜️ | gob | crousti | Croustibat | |
+| ✅ | gob | crousti | Croustibat | JenniBee |
 | ⬜️ | gob | lit1 | Lost in Time Part 1 | |
 | ⬜️ | gob | lit2 | Lost in Time Part 2 | |
 | ⬜️ | gob | lit | Lost in Time | |
 | ⬜️ | gob | inca2 | Inca II: Wiracocha | |
 | ⬜️ | gob | woodruff | The Bizarre Adventures of Woodruff and the Schnibble | |
 | ⬜️ | gob | dynasty | The Last Dynasty | |
-| ⬜️ | gob | urban | Urban Runner | |
+| ✅ | gob | urban | Urban Runner | JenniBee |
 | ⬜️ | gob | playtoons1 | Playtoons 1 - Uncle Archibald | |
 | ⬜️ | gob | playtoons2 | Playtoons 2 - The Case of the Counterfeit Collaborator | |
 | ⬜️ | gob | playtoons3 | Playtoons 3 - The Secret of the Castle | |
@@ -2074,8 +2075,8 @@
 | ⬜️ | gob | playtnck2 | Playtoons Construction Kit 2 - Knights | |
 | ⬜️ | gob | playtnck3 | Playtoons Construction Kit 3 - Far West | |
 | ⬜️ | gob | bambou | Playtoons Limited Edition - Bambou le sauveur de la jungle | |
-| ⬜️ | gob | fascination | Fascination | |
-| ⬜️ | gob | geisha | Geisha | |
+| ✅ | gob | fascination | Fascination | JenniBee |
+| ✅ | gob | geisha | Geisha | JenniBee |
 | ⬜️ | gob | adi2 | ADI 2 | |
 | ⬜️ | gob | adi4 | ADI 4 | |
 | ⬜️ | gob | adibou2 | Adibou 2 | |
@@ -2084,9 +2085,9 @@
 | ⬜️ | groovie | t7g | The 7th Guest | |
 | ⬜️ | hdb | hdb | Hyperspace Delivery Boy! | |
 | ⬜️ | hopkins | hopkins | Hopkins FBI | |
-| ⬜️ | hugo | hugo1 | Hugo 1: Hugo's House of Horrors | |
-| ⬜️ | hugo | hugo2 | Hugo 2: Whodunit? | |
-| ⬜️ | hugo | hugo3 | Hugo 3: Jungle of Doom | |
+| ✅ | hugo | hugo1 | Hugo 1: Hugo's House of Horrors | JenniBee |
+| ✅ | hugo | hugo2 | Hugo 2: Whodunit? | JenniBee |
+| ✅ | hugo | hugo3 | Hugo 3: Jungle of Doom | JenniBee |
 | ⬜️ | illusions | bbdou | Beavis and Butt-head Do U | |
 | ⬜️ | illusions | duckman | Duckman | |
 | ⬜️ | kyra | kyra1 | The Legend of Kyrandia | |
@@ -2098,7 +2099,7 @@
 | ⬜️ | lab | lab | Labyrinth of Time | |
 | ⬜️ | lure | lure | Lure of the Temptress | |
 | ⬜️ | made | manhole | The Manhole | |
-| ⬜️ | made | rtz | Return to Zork | |
+| ✅ | made | rtz | Return to Zork | JenniBee |
 | ⬜️ | made | lgop2 | Leather Goddesses of Phobos 2 | |
 | ⬜️ | made | rodney | Rodney's Funscreen | |
 | ⬜️ | mads | dragonsphere | Dragonsphere | |
@@ -2132,14 +2133,14 @@
 | ⬜️ | mohawk | sheila | Sheila Rae, the Brave | |
 | ⬜️ | mohawk | rugratsps | Rugrats Print Shop | |
 | ⬜️ | mortevielle | mortevielle | Mortville Manor | |
-| ⬜️ | neverhood | neverhood | The Neverhood Chronicles | |
+| ✅ | neverhood | neverhood | The Neverhood Chronicles | JenniBee |
 | ⬜️ | parallaction | nippon | Nippon Safes Inc. | |
 | ⬜️ | parallaction | bra | The Big Red Adventure | |
 | ⬜️ | pegasus | pegasus | The Journeyman Project: Pegasus Prime | |
 | ⬜️ | plumbers | plumbers | Plumbers Don't Wear Ties! | |
-| ⬜️ | prince | prince | The Prince and the Coward | |
+| ✅ | prince | prince | The Prince and the Coward | JenniBee |
 | ⬜️ | queen | queen | Flight of the Amazon Queen | |
-| ⬜️ | saga | ite | Inherit the Earth: Quest for the Orb | |
+| ✅ | saga | ite | Inherit the Earth: Quest for the Orb | JenniBee |
 | ⬜️ | saga | ihnm | I Have No Mouth and I Must Scream | |
 | ⬜️ | saga | dino | Dinotopia | |
 | ⬜️ | saga | fta2 | Faery Tale Adventure II: Halls of the Dead | |
@@ -2152,14 +2153,14 @@
 | ⬜️ | sci | funseeker | Fun Seeker's Guide | |
 | ⬜️ | sci | hoyle1 | Hoyle Official Book of Games: Volume 1 | |
 | ⬜️ | sci | hoyle2 | Hoyle Official Book of Games: Volume 2 | |
-| ⬜️ | sci | kq4sci | King's Quest IV: The Perils of Rosella | |
+| ✅ | sci | kq4sci | King's Quest IV: The Perils of Rosella | JenniBee |
 | ⬜️ | sci | laurabow | Laura Bow: The Colonel's Bequest | |
-| ⬜️ | sci | lsl2 | Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places) | |
-| ⬜️ | sci | lsl3 | Leisure Suit Larry 3: Passionate Patti in Pursuit of the Pulsating Pectorals | |
+| ✅ | sci | lsl2 | Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places) | JenniBee |
+| ✅ | sci | lsl3 | Leisure Suit Larry 3: Passionate Patti in Pursuit of the Pulsating Pectorals | JenniBee |
 | ⬜️ | sci | mothergoose | Mixed-Up Mother Goose | |
-| ⬜️ | sci | pq2 | Police Quest II: The Vengeance | |
-| ⬜️ | sci | qfg1 | Quest for Glory I: So You Want to Be a Hero | |
-| ⬜️ | sci | sq3 | Space Quest III: The Pirates of Pestulon | |
+| ✅ | sci | pq2 | Police Quest II: The Vengeance | JenniBee |
+| ✅ | sci | qfg1 | Quest for Glory I: So You Want to Be a Hero | JenniBee |
+| ✅ | sci | sq3 | Space Quest III: The Pirates of Pestulon | JenniBee |
 | ⬜️ | sci | qfg2 | Quest for Glory II: Trial by Fire | |
 | ⬜️ | sci | kq1sci | King's Quest I: Quest for the Crown | |
 | ⬜️ | sci | castlebrain | Castle of Dr. Brain | |
@@ -2173,28 +2174,28 @@
 | ⬜️ | sci | fairytales | Mixed-up Fairy Tales | |
 | ⬜️ | sci | hoyle3 | Hoyle Official Book of Games: Volume 3 | |
 | ⬜️ | sci | jones | Jones in the Fast Lane | |
-| ⬜️ | sci | kq5 | King's Quest V: Absence Makes the Heart Go Yonder | |
+| ✅ | sci | kq5 | King's Quest V: Absence Makes the Heart Go Yonder | JenniBee |
 | ⬜️ | sci | longbow | Conquests of the Longbow: The Adventures of Robin Hood | |
-| ⬜️ | sci | lsl1sci | Leisure Suit Larry in the Land of the Lounge Lizards | |
-| ⬜️ | sci | lsl5 | Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work | |
+| ✅ | sci | lsl1sci | Leisure Suit Larry in the Land of the Lounge Lizards | JenniBee |
+| ✅ | sci | lsl5 | Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work | JenniBee |
 | ⬜️ | sci | mothergoose256 | Mixed-Up Mother Goose | |
 | ⬜️ | sci | msastrochicken | Ms. Astro Chicken | |
 | ⬜️ | sci | pq1sci | Police Quest: In Pursuit of the Death Angel | |
-| ⬜️ | sci | pq3 | Police Quest III: The Kindred | |
-| ⬜️ | sci | sq1sci | Space Quest I: The Sarien Encounter | |
-| ⬜️ | sci | sq4 | Space Quest IV: Roger Wilco and the Time Rippers | |
+| ✅ | sci | pq3 | Police Quest III: The Kindred | JenniBee |
+| ✅ | sci | sq1sci | Space Quest I: The Sarien Encounter | JenniBee |
+| ✅ | sci | sq4 | Space Quest IV: Roger Wilco and the Time Rippers | JenniBee |
 | ⬜️ | sci | christmas1992 | Christmas Card 1992 | |
 | ⬜️ | sci | ecoquest2 | EcoQuest II: Lost Secret of the Rainforest | |
 | ⬜️ | sci | freddypharkas | Freddy Pharkas: Frontier Pharmacist | |
 | ⬜️ | sci | hoyle4 | Hoyle Classic Card Games | |
 | ⬜️ | sci | inndemo | ImagiNation Network (INN) Demo | |
-| ⬜️ | sci | kq6 | King's Quest VI: Heir Today, Gone Tomorrow | |
+| ✅ | sci | kq6 | King's Quest VI: Heir Today, Gone Tomorrow | JenniBee |
 | ⬜️ | sci | laurabow2 | Laura Bow 2: The Dagger of Amon Ra | |
 | ⬜️ | sci | qfg1vga | Quest for Glory I: So You Want to Be a Hero | |
 | ⬜️ | sci | qfg3 | Quest for Glory III: Wages of War | |
-| ⬜️ | sci | sq5 | Space Quest V: The Next Mutation | |
+| ✅ | sci | sq5 | Space Quest V: The Next Mutation | JenniBee |
 | ⬜️ | sci | islandbrain | The Island of Dr. Brain | |
-| ⬜️ | sci | lsl6 | Leisure Suit Larry 6: Shape Up or Slip Out! | |
+| ✅ | sci | lsl6 | Leisure Suit Larry 6: Shape Up or Slip Out! | JenniBee |
 | ⬜️ | sci | pepper | Pepper's Adventure in Time | |
 | ⬜️ | sci | slater | Slater & Charlie Go Camping | |
 | ⬜️ | sci | gk1demo | Gabriel Knight: Sins of the Fathers | |
@@ -2210,16 +2211,16 @@
 | ⬜️ | sci | hoyle5solitaire | Hoyle Solitaire | |
 | ⬜️ | sci | chest | Inside the Chest | |
 | ⬜️ | sci | gk2 | The Beast Within: A Gabriel Knight Mystery | |
-| ⬜️ | sci | kq7 | King's Quest VII: The Princeless Bride | |
+| ✅ | sci | kq7 | King's Quest VII: The Princeless Bride | JenniBee |
 | ⬜️ | sci | kquestions | King's Questions | |
 | ⬜️ | sci | lsl6hires | Leisure Suit Larry 6: Shape Up or Slip Out! | |
 | ⬜️ | sci | mothergoosehires | Mixed-Up Mother Goose Deluxe | |
 | ⬜️ | sci | phantasmagoria | Phantasmagoria | |
 | ⬜️ | sci | pqswat | Police Quest: SWAT | |
 | ⬜️ | sci | shivers | Shivers | |
-| ⬜️ | sci | sq6 | Space Quest 6: The Spinal Frontier | |
+| ✅ | sci | sq6 | Space Quest 6: The Spinal Frontier | JenniBee |
 | ⬜️ | sci | torin | Torin's Passage | |
-| ⬜️ | sci | lsl7 | Leisure Suit Larry 7: Love for Sail! | |
+| ✅ | sci | lsl7 | Leisure Suit Larry 7: Love for Sail! | JenniBee |
 | ⬜️ | sci | lighthouse | Lighthouse: The Dark Being | |
 | ⬜️ | sci | phantasmagoria2 | Phantasmagoria 2: A Puzzle of Flesh | |
 | ⬜️ | sci | rama | RAMA | |
@@ -2240,20 +2241,20 @@
 | ⬜️ | sword2 | sword2psxdemo | Broken Sword II: The Smoking Mirror (PlayStation/Demo) | |
 | ⬜️ | sword2 | sword2demo | Broken Sword II: The Smoking Mirror (Demo) | |
 | ⬜️ | sword2 | sword2demo-es | Broken Sword II: The Smoking Mirror (Spanish/Demo) | |
-| ⬜️ | sword25 | sword25 | Broken Sword 2.5 | |
+| ✅ | sword25 | sword25 | Broken Sword 2.5 | JenniBee |
 | ⬜️ | teenagent | teenagent | Teen Agent | |
-| ⬜️ | tinsel | dw | Discworld | |
-| ⬜️ | tinsel | dw2 | Discworld 2: Missing Presumed ...!? | |
+| ✅ | tinsel | dw | Discworld | JenniBee |
+| ✅ | tinsel | dw2 | Discworld 2: Missing Presumed ...!? | JenniBee |
 | ⬜️ | titanic | titanic | Starship Titanic | |
 | ⬜️ | toltecs | toltecs | 3 Skulls of the Toltecs | |
 | ⬜️ | tony | tony | Tony Tough and the Night of Roasted Moths | |
-| ⬜️ | toon | toon | Toonstruck | |
+| ✅ | toon | toon | Toonstruck | JenniBee |
 | ⬜️ | touche | touche | Touche: The Adventures of the Fifth Musketeer | |
-| ⬜️ | tsage | ringworld | Ringworld: Revenge of the Patriarch | |
-| ⬜️ | tsage | blueforce | Blue Force | |
+| ✅ | tsage | ringworld | Ringworld: Revenge of the Patriarch | JenniBee |
+| ✅ | tsage | blueforce | Blue Force | JenniBee |
 | ⬜️ | tsage | ringworld2 | Return to Ringworld | |
 | ⬜️ | tsage | sherlock-logo | The Lost Files of Sherlock Holmes (Logo) | |
-| ⬜️ | tucker | tucker | Bud Tucker in Double Trouble | |
+| ✅ | tucker | tucker | Bud Tucker in Double Trouble | JenniBee |
 | ⬜️ | ultima | ultima1 | Ultima I - The First Age of Darkness | |
 | ⬜️ | ultima | ultima4 | Ultima IV - Quest of the Avatar | |
 | ⬜️ | ultima | ultima4_enh | Ultima IV - Quest of the Avatar - Enhanced | |
@@ -2266,7 +2267,7 @@
 | ⬜️ | ultima | martiandreams_enh | Worlds of Ultima: Martian Dreams - Enhanced | |
 | ⬜️ | ultima | thesavageempire | Worlds of Ultima: The Savage Empire | |
 | ⬜️ | ultima | thesavageempire_enh | Worlds of Ultima: The Savage Empire - Enhanced | |
-| ⬜️ | voyeur | voyeur | Voyeur | |
+| ✅ | voyeur | voyeur | Voyeur | JenniBee |
 | ⬜️ | wintermute | 5ld | Five Lethal Demons | |
 | ⬜️ | wintermute | 5ma | Five Magical Amulets | |
 | ⬜️ | wintermute | actualdest | Actual Destination | |
@@ -2293,7 +2294,7 @@
 | ⬜️ | wintermute | carolreed12 | Carol Reed 12 - Profound Red | |
 | ⬜️ | wintermute | carolreed13 | Carol Reed 13 - The Birdwatcher | |
 | ⬜️ | wintermute | carolreed14 | Carol Reed 14 - The Fall Of April | |
-| ⬜️ | wintermute | chivalry | Chivalry is Not Dead | |
+| ✅ | wintermute | chivalry | Chivalry is Not Dead | JenniBee |
 | ⬜️ | wintermute | colorsoncanvas | Colors on Canvas | |
 | ⬜️ | wintermute | conspiracao | Conspiracao Dumont | |
 | ⬜️ | wintermute | corrosion | Corrosion: Cold Winter Waiting | |
@@ -2343,7 +2344,7 @@
 | ⬜️ | wintermute | oknytt | Oknytt | |
 | ⬜️ | wintermute | one | One | |
 | ⬜️ | wintermute | onehelluvaday | One Helluva Day | |
-| ⬜️ | wintermute | openquest | Open Quest | |
+| ✅ | wintermute | openquest | Open Quest | JenniBee |
 | ⬜️ | wintermute | paintaria | Paintaria | |
 | ⬜️ | wintermute | palladion | Palladion | |
 | ⬜️ | wintermute | papasdaughters1 | Papa's Daughters | |
@@ -2356,8 +2357,8 @@
 | ⬜️ | wintermute | qajarycat | Qajary Cat | |
 | ⬜️ | wintermute | rebeccacarlson1 | Rebecca Carlson Mystery 01 - Silent Footsteps | |
 | ⬜️ | wintermute | reptilesquest | On the Tracks of Dinosaurs | |
-| ⬜️ | wintermute | reversion1 | Reversion: The Escape | |
-| ⬜️ | wintermute | reversion2 | Reversion: The Meeting | |
+| ✅ | wintermute | reversion1 | Reversion: The Escape | JenniBee |
+| ✅ | wintermute | reversion2 | Reversion: The Meeting | JenniBee |
 | ⬜️ | wintermute | reversion3 | Reversion: The Return | |
 | ⬜️ | wintermute | rhiannon | Rhiannon: Curse of the four Branches | |
 | ⬜️ | wintermute | ritter | 1 1/2 Ritter: Auf der Suche nach der hinreissenden Herzelinde | |
@@ -2400,5 +2401,5 @@
 | ⬜️ | xeen | darksideofxeen | Might and Magic V: Dark Side of Xeen | |
 | ⬜️ | xeen | worldofxeen | Might and Magic: World of Xeen | |
 | ⬜️ | xeen | swordsofxeen | Might and Magic: Swords of Xeen | |
-| ⬜️ | zvision | znemesis | Zork Nemesis: The Forbidden Lands | |
-| ⬜️ | zvision | zgi | Zork: Grand Inquisitor | |
+| ✅ | zvision | znemesis | Zork Nemesis: The Forbidden Lands | JenniBee |
+| ✅ | zvision | zgi | Zork: Grand Inquisitor | JenniBee |
