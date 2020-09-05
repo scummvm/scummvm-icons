@@ -103,10 +103,10 @@
 | ⬜️ | agi | pq1 | Police Quest I: In Pursuit of the Death Angel | |
 | ⬜️ | agi | serguei1 | Serguei's Destiny 1 | |
 | ⬜️ | agi | serguei2 | Serguei's Destiny 2 | |
-| ⬜️ | agi | sq0 | Space Quest 0: Replicated | |
+| ✅ | agi | sq0 | Space Quest 0: Replicated | JenniBee |
 | ✅ | agi | sq1 | Space Quest I: The Sarien Encounter | JenniBee |
-| ⬜️ | agi | sq2 | Space Quest II: Vohaul's Revenge | |
-| ⬜️ | agi | sqx | Space Quest X: The Lost Chapter | |
+| ✅ | agi | sq2 | Space Quest II: Vohaul's Revenge | JenniBee |
+| ✅ | agi | sqx | Space Quest X: The Lost Chapter | JenniBee |
 | ✅ | agi | tetris | AGI Tetris | JenniBee |
 | ✅ | agi | troll | Troll's Tale | JenniBee |
 | ⬜️ | agi | winnie | Winnie the Pooh in the Hundred Acre Wood | |
@@ -2191,7 +2191,7 @@
 | ⬜️ | sci | inndemo | ImagiNation Network (INN) Demo | |
 | ✅ | sci | kq6 | King's Quest VI: Heir Today, Gone Tomorrow | JenniBee |
 | ⬜️ | sci | laurabow2 | Laura Bow 2: The Dagger of Amon Ra | |
-| ⬜️ | sci | qfg1vga | Quest for Glory I: So You Want to Be a Hero | |
+| ✅ | sci | qfg1vga | Quest for Glory I: So You Want to Be a Hero | JenniBee |
 | ⬜️ | sci | qfg3 | Quest for Glory III: Wages of War | |
 | ✅ | sci | sq5 | Space Quest V: The Next Mutation | JenniBee |
 | ⬜️ | sci | islandbrain | The Island of Dr. Brain | |
@@ -2213,7 +2213,7 @@
 | ⬜️ | sci | gk2 | The Beast Within: A Gabriel Knight Mystery | |
 | ✅ | sci | kq7 | King's Quest VII: The Princeless Bride | JenniBee |
 | ⬜️ | sci | kquestions | King's Questions | |
-| ⬜️ | sci | lsl6hires | Leisure Suit Larry 6: Shape Up or Slip Out! | |
+| ✅ | sci | lsl6hires | Leisure Suit Larry 6: Shape Up or Slip Out! | JenniBee |
 | ⬜️ | sci | mothergoosehires | Mixed-Up Mother Goose Deluxe | |
 | ⬜️ | sci | phantasmagoria | Phantasmagoria | |
 | ⬜️ | sci | pqswat | Police Quest: SWAT | |
