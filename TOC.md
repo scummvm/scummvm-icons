@@ -5,10 +5,10 @@
 | ✅ | example | example | Example Entry | Your Name Here
 | ✅ | scumm | atlantis | Indiana Jones and the Fate of Atlantis | JenniBee |
 | ✅ | scumm | indy3 | Indiana Jones and the Last Crusade | JenniBee |
-| ✅ | scumm | loom | Loom | |
-| ⬜️ | scumm | maniac | Maniac Mansion | |
-| ⬜️ | scumm | monkey | The Secret of Monkey Island | |
-| ⬜️ | scumm | monkey2 | Monkey Island 2: LeChuck's Revenge | |
+| ✅ | scumm | loom | Loom | JenniBee |
+| ✅ | scumm | maniac | Maniac Mansion | JenniBee |
+| ✅ | scumm | monkey | The Secret of Monkey Island | JenniBee |
+| ✅ | scumm | monkey2 | Monkey Island 2: LeChuck's Revenge | JenniBee |
 | ✅ | scumm | pass | Passport to Adventure | JenniBee |
 | ✅ | scumm | samnmax | Sam & Max Hit the Road | JenniBee |
 | ✅ | scumm | tentacle | Day of the Tentacle | JenniBee |
@@ -18,7 +18,7 @@
 | ✅ | scumm | zakloom | Zak McKracken & Loom | JenniBee |
 | ⬜️ | scumm | ft | Full Throttle | |
 | ⬜️ | scumm | dig | The Dig | |
-| ⬜️ | scumm | comi | The Curse of Monkey Island | |
+| ✅ | scumm | comi | The Curse of Monkey Island | JenniBee |
 | ⬜️ | scumm | activity | Putt-Putt & Fatty Bear's Activity Pack | |
 | ⬜️ | scumm | brstorm | Bear Stormin' | |
 | ⬜️ | scumm | fbear | Fatty Bear's Birthday Surprise | |
@@ -83,7 +83,7 @@
 | ⬜️ | adl | hires4 | Hi-Res Adventure #4: Ulysses and the Golden Fleece | |
 | ⬜️ | adl | hires5 | Hi-Res Adventure #5: Time Zone | |
 | ⬜️ | adl | hires6 | Hi-Res Adventure #6: The Dark Crystal | |
-| ⬜️ | agi | agi | Sierra AGI game | |
+| ✅ | agi | agi | Sierra AGI game | JenniBee |
 | ⬜️ | agi | agi-fanmade | Fanmade AGI game | |
 | ⬜️ | agi | bc | The Black Cauldron | |
 | ⬜️ | agi | caitlyn | Caitlyn's Destiny | |
