@@ -122,7 +122,7 @@
 | ⬜️ | agos | swampy | Swampy Adventures | |
 | ✅ | avalanche | avalanche | Lord Avalot d'Argent | JenniBee |
 | ✅ | bbvs | bbvs | Beavis and Butt-head in Virtual Stupidity | JenniBee |
-| ⬜️ | bladerunner | bladerunner | Blade Runner | |
+| ✅ | bladerunner | bladerunner | Blade Runner | NekoFever |
 | ✅ | cge | soltys | Soltys | JenniBee |
 | ✅ | cge2 | sfinx | Sfinx | JenniBee |
 | ⬜️ | cine | fw | Future Wars | |
