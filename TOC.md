@@ -37,7 +37,7 @@
 | ⬜️ | scumm | readtime | Blue's Reading Time Activities | |
 | ⬜️ | scumm | soccer2004 | Backyard Soccer 2004 | |
 | ⬜️ | scumm | soccermls | Backyard Soccer MLS Edition | |
-| ⬜️ | scumm | spyozon | SPY Fox 3: Operation Ozone | |
+| ✅ | scumm | spyozon | SPY Fox 3: Operation Ozone | Tucky27 |
 | ⬜️ | scumm | airport | Let's Explore the Airport with Buzzy | |
 | ⬜️ | scumm | balloon | Putt-Putt and Pep's Balloon-O-Rama | |
 | ⬜️ | scumm | baseball | Backyard Baseball | |
