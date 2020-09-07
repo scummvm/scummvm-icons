@@ -343,8 +343,8 @@
 | ⬜️ | sky | sky | Beneath a Steel Sky | |
 | ⬜️ | supernova | msn1 | Mission Supernova 1 | |
 | ⬜️ | supernova | msn2 | Mission Supernova 2 | |
-| ⬜️ | sword1 | sword1 | Broken Sword: The Shadow of the Templars | |
-| ⬜️ | sword2 | sword2 | Broken Sword II: The Smoking Mirror | |
+| ✅ | sword1 | sword1 | Broken Sword: The Shadow of the Templars | nightm4re94 |
+| ✅ | sword2 | sword2 | Broken Sword II: The Smoking Mirror | nightm4re94 |
 | ✅ | sword25 | sword25 | Broken Sword 2.5 | JenniBee |
 | ⬜️ | teenagent | teenagent | Teen Agent | |
 | ✅ | tinsel | dw | Discworld | JenniBee |
