@@ -17,4 +17,9 @@ Icons should follow this format:
 - 512x512px size.
 - `<engine>-<game>.png` filename (use the IDs in the TOC).
 
+Commits should follow this message format in order to comply with our standards:
+
+`ICONS: Add icon for The Great Adventures of ScummVM` or  
+`ICONS: Update icons for The Even Greater Adventures of ScummVM`
+
 Variants of the same game can have the same icon. For engines with lots of games (eg. Wintermute, Glk) it might be better to have a generic `<engine>.png` icon to cover all the games.
