@@ -186,8 +186,8 @@
 | ⬜️ | glk | zcode | Unknown Z-code game | |
 | ✅ | glk | softporn | Softporn Adventure | JenniBee |
 | ✅ | gnap | gnap | Gnap | JenniBee |
-| ⬜️ | gob | gob1 | Gobliiins | |
-| ⬜️ | gob | gob2 | Gobliins 2 | |
+| ✅ | gob | gob1 | Gobliiins | nightm4re94 |
+| ✅ | gob | gob2 | Gobliins 2 | nightm4re94 |
 | ⬜️ | gob | ween | Ween: The Prophecy | |
 | ⬜️ | gob | bargon | Bargon Attack | |
 | ⬜️ | gob | babayaga | Once Upon A Time: Baba Yaga | |
@@ -257,7 +257,7 @@
 | ✅ | neverhood | neverhood | The Neverhood Chronicles | JenniBee |
 | ⬜️ | parallaction | nippon | Nippon Safes Inc. | |
 | ⬜️ | pegasus | pegasus | The Journeyman Project: Pegasus Prime | |
-| ⬜️ | plumbers | plumbers | Plumbers Don't Wear Ties! | |
+| ✅ | plumbers | plumbers | Plumbers Don't Wear Ties! | nightm4re94 |
 | ✅ | prince | prince | The Prince and the Coward | JenniBee |
 | ⬜️ | queen | queen | Flight of the Amazon Queen | |
 | ✅ | saga | ite | Inherit the Earth: Quest for the Orb | JenniBee |
@@ -340,11 +340,11 @@
 | ⬜️ | sci | rama | RAMA | |
 | ⬜️ | sherlock | scalpel | The Case of the Serrated Scalpel | |
 | ⬜️ | sherlock | rosetattoo | The Case of the Rose Tattoo | |
-| ⬜️ | sky | sky | Beneath a Steel Sky | |
+| ✅ | sky | sky | Beneath a Steel Sky | nightm4re94 |
 | ⬜️ | supernova | msn1 | Mission Supernova 1 | |
 | ⬜️ | supernova | msn2 | Mission Supernova 2 | |
-| ⬜️ | sword1 | sword1 | Broken Sword: The Shadow of the Templars | |
-| ⬜️ | sword2 | sword2 | Broken Sword II: The Smoking Mirror | |
+| ✅ | sword1 | sword1 | Broken Sword: The Shadow of the Templars | nightm4re94 |
+| ✅ | sword2 | sword2 | Broken Sword II: The Smoking Mirror | nightm4re94 |
 | ✅ | sword25 | sword25 | Broken Sword 2.5 | JenniBee |
 | ⬜️ | teenagent | teenagent | Teen Agent | |
 | ✅ | tinsel | dw | Discworld | JenniBee |
