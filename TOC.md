@@ -346,7 +346,7 @@
 | ✅ | sword1 | sword1 | Broken Sword: The Shadow of the Templars | nightm4re94 |
 | ✅ | sword2 | sword2 | Broken Sword II: The Smoking Mirror | nightm4re94 |
 | ✅ | sword25 | sword25 | Broken Sword 2.5 | JenniBee |
-| ⬜️ | teenagent | teenagent | Teen Agent | |
+| ✅ | teenagent | teenagent | Teen Agent | robertmegone |
 | ✅ | tinsel | dw | Discworld | JenniBee |
 | ✅ | tinsel | dw2 | Discworld 2: Missing Presumed ...!? | JenniBee |
 | ⬜️ | titanic | titanic | Starship Titanic | |
