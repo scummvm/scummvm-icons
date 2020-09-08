@@ -16,7 +16,7 @@
 | ✅ | scumm | indyloom | Indiana Jones and the Last Crusade & Loom | JenniBee |
 | ✅ | scumm | indyzak | Indiana Jones and the Last Crusade & Zak McKracken | JenniBee |
 | ✅ | scumm | zakloom | Zak McKracken & Loom | JenniBee |
-| ⬜️ | scumm | ft | Full Throttle | |
+| ✅ | scumm | ft | Full Throttle | JenniBee |
 | ⬜️ | scumm | dig | The Dig | |
 | ✅ | scumm | comi | The Curse of Monkey Island | JenniBee |
 | ⬜️ | scumm | activity | Putt-Putt & Fatty Bear's Activity Pack | |
