@@ -143,11 +143,18 @@
 | ⬜️ | drascula | drascula | Drascula: The Vampire Strikes Back | |
 | ⬜️ | dreamweb | dreamweb | DreamWeb | |
 | ⬜️ | fullpipe | fullpipe | Full Pipe | |
+| ✅ | glk | adv350 | Adventure, 350 point Colossal Cave | JenniBee |
+| ✅ | glk | adv350h | Adventure, 350 point Colossal Cave | JenniBee |
+| ✅ | glk | adv440 | Adventure II, 440 point Colossal Cave | JenniBee |
+| ✅ | glk | adv550 | Adventure 3, 550 point Colossal Cave | JenniBee |
+| ✅ | glk | adv551 | Adventure 6, 551 point Colossal Cave | JenniBee |
 | ⬜️ | glk | amfv | A Mind Forever Voyaging | |
 | ⬜️ | glk | ballyhoo | Ballyhoo | |
 | ✅ | glk | beyondzork | Beyond Zork | JenniBee |
 | ⬜️ | glk | borderzone | Border Zone | |
 | ⬜️ | glk | bureaucracy | Bureaucracy | |
+| ✅ | glk | ccfirstadv | Colossal Cave - The First Adventure | JenniBee |
+| ✅ | glk | colossaladvjod | Colossal Adventure /JoD | JenniBee |
 | ⬜️ | glk | cutthroats | Cutthroats | |
 | ⬜️ | glk | deadline | Deadline | |
 | ⬜️ | glk | enchanter | Enchanter | |
