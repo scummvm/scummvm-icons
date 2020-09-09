@@ -16,7 +16,7 @@
 | ✅ | scumm | indyloom | Indiana Jones and the Last Crusade & Loom | JenniBee |
 | ✅ | scumm | indyzak | Indiana Jones and the Last Crusade & Zak McKracken | JenniBee |
 | ✅ | scumm | zakloom | Zak McKracken & Loom | JenniBee |
-| ⬜️ | scumm | ft | Full Throttle | |
+| ✅ | scumm | ft | Full Throttle | JenniBee |
 | ⬜️ | scumm | dig | The Dig | |
 | ✅ | scumm | comi | The Curse of Monkey Island | JenniBee |
 | ⬜️ | scumm | activity | Putt-Putt & Fatty Bear's Activity Pack | |
@@ -37,7 +37,7 @@
 | ⬜️ | scumm | readtime | Blue's Reading Time Activities | |
 | ⬜️ | scumm | soccer2004 | Backyard Soccer 2004 | |
 | ⬜️ | scumm | soccermls | Backyard Soccer MLS Edition | |
-| ⬜️ | scumm | spyozon | SPY Fox 3: Operation Ozone | |
+| ✅ | scumm | spyozon | SPY Fox 3: Operation Ozone | Tucky27 |
 | ⬜️ | scumm | airport | Let's Explore the Airport with Buzzy | |
 | ⬜️ | scumm | balloon | Putt-Putt and Pep's Balloon-O-Rama | |
 | ⬜️ | scumm | baseball | Backyard Baseball | |
@@ -143,11 +143,18 @@
 | ⬜️ | drascula | drascula | Drascula: The Vampire Strikes Back | |
 | ⬜️ | dreamweb | dreamweb | DreamWeb | |
 | ⬜️ | fullpipe | fullpipe | Full Pipe | |
+| ✅ | glk | adv350 | Adventure, 350 point Colossal Cave | JenniBee |
+| ✅ | glk | adv350h | Adventure, 350 point Colossal Cave | JenniBee |
+| ✅ | glk | adv440 | Adventure II, 440 point Colossal Cave | JenniBee |
+| ✅ | glk | adv550 | Adventure 3, 550 point Colossal Cave | JenniBee |
+| ✅ | glk | adv551 | Adventure 6, 551 point Colossal Cave | JenniBee |
 | ⬜️ | glk | amfv | A Mind Forever Voyaging | |
 | ⬜️ | glk | ballyhoo | Ballyhoo | |
 | ✅ | glk | beyondzork | Beyond Zork | JenniBee |
 | ⬜️ | glk | borderzone | Border Zone | |
 | ⬜️ | glk | bureaucracy | Bureaucracy | |
+| ✅ | glk | ccfirstadv | Colossal Cave - The First Adventure | JenniBee |
+| ✅ | glk | colossaladvjod | Colossal Adventure /JoD | JenniBee |
 | ⬜️ | glk | cutthroats | Cutthroats | |
 | ⬜️ | glk | deadline | Deadline | |
 | ⬜️ | glk | enchanter | Enchanter | |
@@ -186,8 +193,8 @@
 | ⬜️ | glk | zcode | Unknown Z-code game | |
 | ✅ | glk | softporn | Softporn Adventure | JenniBee |
 | ✅ | gnap | gnap | Gnap | JenniBee |
-| ⬜️ | gob | gob1 | Gobliiins | |
-| ⬜️ | gob | gob2 | Gobliins 2 | |
+| ✅ | gob | gob1 | Gobliiins | nightm4re94 |
+| ✅ | gob | gob2 | Gobliins 2 | nightm4re94 |
 | ⬜️ | gob | ween | Ween: The Prophecy | |
 | ⬜️ | gob | bargon | Bargon Attack | |
 | ⬜️ | gob | babayaga | Once Upon A Time: Baba Yaga | |
@@ -257,7 +264,7 @@
 | ✅ | neverhood | neverhood | The Neverhood Chronicles | JenniBee |
 | ⬜️ | parallaction | nippon | Nippon Safes Inc. | |
 | ⬜️ | pegasus | pegasus | The Journeyman Project: Pegasus Prime | |
-| ⬜️ | plumbers | plumbers | Plumbers Don't Wear Ties! | |
+| ✅ | plumbers | plumbers | Plumbers Don't Wear Ties! | nightm4re94 |
 | ✅ | prince | prince | The Prince and the Coward | JenniBee |
 | ⬜️ | queen | queen | Flight of the Amazon Queen | |
 | ✅ | saga | ite | Inherit the Earth: Quest for the Orb | JenniBee |
@@ -297,7 +304,7 @@
 | ✅ | sci | lsl1sci | Leisure Suit Larry in the Land of the Lounge Lizards | JenniBee |
 | ✅ | sci | lsl5 | Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work | JenniBee |
 | ⬜️ | sci | mothergoose256 | Mixed-Up Mother Goose | |
-| ⬜️ | sci | msastrochicken | Ms. Astro Chicken | |
+| ✅ | sci | msastrochicken | Ms. Astro Chicken | Tucky27 |
 | ⬜️ | sci | pq1sci | Police Quest: In Pursuit of the Death Angel | |
 | ✅ | sci | pq3 | Police Quest III: The Kindred | JenniBee |
 | ✅ | sci | sq1sci | Space Quest I: The Sarien Encounter | JenniBee |
@@ -340,13 +347,13 @@
 | ⬜️ | sci | rama | RAMA | |
 | ⬜️ | sherlock | scalpel | The Case of the Serrated Scalpel | |
 | ⬜️ | sherlock | rosetattoo | The Case of the Rose Tattoo | |
-| ⬜️ | sky | sky | Beneath a Steel Sky | |
+| ✅ | sky | sky | Beneath a Steel Sky | nightm4re94 |
 | ⬜️ | supernova | msn1 | Mission Supernova 1 | |
 | ⬜️ | supernova | msn2 | Mission Supernova 2 | |
-| ⬜️ | sword1 | sword1 | Broken Sword: The Shadow of the Templars | |
-| ⬜️ | sword2 | sword2 | Broken Sword II: The Smoking Mirror | |
+| ✅ | sword1 | sword1 | Broken Sword: The Shadow of the Templars | nightm4re94 |
+| ✅ | sword2 | sword2 | Broken Sword II: The Smoking Mirror | nightm4re94 |
 | ✅ | sword25 | sword25 | Broken Sword 2.5 | JenniBee |
-| ⬜️ | teenagent | teenagent | Teen Agent | |
+| ✅ | teenagent | teenagent | Teen Agent | robertmegone |
 | ✅ | tinsel | dw | Discworld | JenniBee |
 | ✅ | tinsel | dw2 | Discworld 2: Missing Presumed ...!? | JenniBee |
 | ⬜️ | titanic | titanic | Starship Titanic | |
@@ -358,137 +365,16 @@
 | ✅ | tsage | blueforce | Blue Force | JenniBee |
 | ⬜️ | tsage | ringworld2 | Return to Ringworld | |
 | ✅ | tucker | tucker | Bud Tucker in Double Trouble | JenniBee |
-| ⬜️ | ultima | ultima4 | Ultima IV - Quest of the Avatar | |
-| ⬜️ | ultima | ultima6 | Ultima VI - The False Prophet | |
-| ⬜️ | ultima | ultima8 | Ultima VIII - Pagan | |
+| ✅ | ultima | ultima4 | Ultima IV - Quest of the Avatar | Tucky27 |
+| ✅ | ultima | ultima6 | Ultima VI - The False Prophet | Tucky27 |
+| ✅ | ultima | ultima8 | Ultima VIII - Pagan | Tucky27 |
 | ✅ | voyeur | voyeur | Voyeur | JenniBee |
-| ⬜️ | wintermute | 5ld | Five Lethal Demons | |
-| ⬜️ | wintermute | 5ma | Five Magical Amulets | |
-| ⬜️ | wintermute | actualdest | Actual Destination | |
-| ⬜️ | wintermute | agustin | Boredom of Agustin Cordes | |
-| ⬜️ | wintermute | alavi | Informer Alavi - Murder of Miss Rojan | |
-| ⬜️ | wintermute | alimardan1 | Alimardan's Mischief | |
-| ⬜️ | wintermute | alimardan2 | Alimardan Meets Merlin | |
-| ⬜️ | wintermute | alphapolaris | Alpha Polaris | |
-| ⬜️ | wintermute | apeiron | Apeiron | |
-| ⬜️ | wintermute | artofmurder1 | Art of Murder 1: FBI Confidential | |
-| ⬜️ | wintermute | barrowhilldp | Barrow Hill - The Dark Path | |
-| ⬜️ | wintermute | basisoctavus | Basis Octavus | |
-| ⬜️ | wintermute | bickadoodle | Bickadoodle | |
-| ⬜️ | wintermute | bookofgron | Book of Gron Part One | |
-| ⬜️ | wintermute | bthreshold | Beyond the Threshold | |
-| ⬜️ | wintermute | carolreed4 | Carol Reed 4 - East Side Story | |
-| ⬜️ | wintermute | carolreed5 | Carol Reed 5 - The Colour of Murder | |
-| ⬜️ | wintermute | carolreed6 | Carol Reed 6 - Black Circle | |
-| ⬜️ | wintermute | carolreed7 | Carol Reed 7 - Blue Madonna | |
-| ⬜️ | wintermute | carolreed8 | Carol Reed 8 - Amber's Blood | |
-| ⬜️ | wintermute | carolreed9 | Carol Reed 9 - Cold Case Summer | |
-| ⬜️ | wintermute | carolreed10 | Carol Reed 10 - Bosch's Damnation | |
-| ⬜️ | wintermute | carolreed11 | Carol Reed 11 - Shades Of Black | |
-| ⬜️ | wintermute | carolreed12 | Carol Reed 12 - Profound Red | |
-| ⬜️ | wintermute | carolreed13 | Carol Reed 13 - The Birdwatcher | |
-| ⬜️ | wintermute | carolreed14 | Carol Reed 14 - The Fall Of April | |
 | ✅ | wintermute | chivalry | Chivalry is Not Dead | JenniBee |
-| ⬜️ | wintermute | colorsoncanvas | Colors on Canvas | |
-| ⬜️ | wintermute | conspiracao | Conspiracao Dumont | |
 | ⬜️ | wintermute | corrosion | Corrosion: Cold Winter Waiting | |
-| ⬜️ | wintermute | darkfallls | Dark Fall: Lost Souls | |
-| ⬜️ | wintermute | deadcity | Dead City | |
-| ⬜️ | wintermute | devilincapital | Devil In The Capital | |
-| ⬜️ | wintermute | dfafadventure | DFAF Adventure | |
-| ⬜️ | wintermute | drbohus | Dr. Bohus | |
-| ⬜️ | wintermute | drdoylemotch | Dr. Doyle - Mystery Of The Cloche Hat | |
-| ⬜️ | wintermute | dreamcat | Dreamcat | |
-| ⬜️ | wintermute | dreaming | Des Reves Elastiques Avec Mille Insectes Nommes Georges | |
-| ⬜️ | wintermute | driller | The Driller Incident | |
-| ⬜️ | wintermute | dirtysplit | Dirty Split | |
-| ⬜️ | wintermute | dreamscape | Dreamscape | |
-| ⬜️ | wintermute | erinmyers | The Death of Erin Myers | |
-| ⬜️ | wintermute | escapemansion | Escape from the Mansion | |
-| ⬜️ | wintermute | everydaygray | Everyday Grey | |
-| ⬜️ | wintermute | facenoir | Face Noir | |
-| ⬜️ | wintermute | findinghope | Finding Hope | |
-| ⬜️ | wintermute | forgottensound1 | Forgotten Sound 1 - Revelation | |
-| ⬜️ | wintermute | forgottensound2 | Forgotten Sound 2 - Destiny | |
-| ⬜️ | wintermute | four | Four | |
-| ⬜️ | wintermute | foxtail | FoxTail | |
-| ⬜️ | wintermute | framed | Framed | |
-| ⬜️ | wintermute | ghostsheet | Ghost in the Sheet | |
-| ⬜️ | wintermute | goldencalf | The Golden Calf | |
-| ⬜️ | wintermute | hamlet | Hamlet or the last game without MMORPG features, shaders and product placement | |
-| ⬜️ | wintermute | helga | Helga Deep In Trouble | |
-| ⬜️ | wintermute | hor | Hor | |
-| ⬜️ | wintermute | jamesperis | James Peris: No License Nor Control | |
-| ⬜️ | wintermute | knossos | K'NOSSOS | |
-| ⬜️ | wintermute | kulivocko | Kulivocko | |
-| ⬜️ | wintermute | lifein3minutes | Life In 3 Minutes | |
-| ⬜️ | wintermute | lonelyrobot | Project Lonely Robot | |
-| ⬜️ | wintermute | looky | Looky | |
-| ⬜️ | wintermute | lovmamuta | Lov Mamuta | |
-| ⬜️ | wintermute | julia | J.U.L.I.A. | |
-| ⬜️ | wintermute | juliastars | J.U.L.I.A.: Among the Stars | |
-| ⬜️ | wintermute | juliauntold | J.U.L.I.A.: Untold | |
-| ⬜️ | wintermute | lotl | Limbo of the Lost | |
-| ⬜️ | wintermute | machumayu | Machu Mayu | |
-| ⬜️ | wintermute | mentalrepairs | Mental Repairs Inc | |
-| ⬜️ | wintermute | mirage | Mirage | |
-| ⬜️ | wintermute | msos | Monday Starts on Saturday | |
-| ⬜️ | wintermute | mythguff | Myth: A Guff's Tale | |
-| ⬜️ | wintermute | nighttrain | Night Train | |
-| ⬜️ | wintermute | oknytt | Oknytt | |
-| ⬜️ | wintermute | one | One | |
-| ⬜️ | wintermute | onehelluvaday | One Helluva Day | |
 | ✅ | wintermute | openquest | Open Quest | JenniBee |
-| ⬜️ | wintermute | paintaria | Paintaria | |
-| ⬜️ | wintermute | palladion | Palladion | |
-| ⬜️ | wintermute | papasdaughters1 | Papa's Daughters | |
-| ⬜️ | wintermute | papasdaughters2 | Papa's Daughters Go to the Sea | |
-| ⬜️ | wintermute | pigeons | Pigeons in the Park | |
-| ⬜️ | wintermute | pizzamorgana | Pizza Morgana: Episode 1 - Monsters and Manipulations in the Magical Forest | |
-| ⬜️ | wintermute | polechudes | Pole Chudes | |
-| ⬜️ | wintermute | projectdoom | Project: Doom | |
-| ⬜️ | wintermute | projectjoe | Project Joe | |
-| ⬜️ | wintermute | qajarycat | Qajary Cat | |
-| ⬜️ | wintermute | rebeccacarlson1 | Rebecca Carlson Mystery 01 - Silent Footsteps | |
-| ⬜️ | wintermute | reptilesquest | On the Tracks of Dinosaurs | |
 | ✅ | wintermute | reversion1 | Reversion: The Escape | JenniBee |
 | ✅ | wintermute | reversion2 | Reversion: The Meeting | JenniBee |
 | ⬜️ | wintermute | reversion3 | Reversion: The Return | |
-| ⬜️ | wintermute | rhiannon | Rhiannon: Curse of the four Branches | |
-| ⬜️ | wintermute | ritter | 1 1/2 Ritter: Auf der Suche nach der hinreissenden Herzelinde | |
-| ⬜️ | wintermute | rosemary | Rosemary | |
-| ⬜️ | wintermute | satanandsons | Satan and Sons | |
-| ⬜️ | wintermute | securanote | Securanote | |
-| ⬜️ | wintermute | shaban | Shaban | |
-| ⬜️ | wintermute | shinestar | The Shine of a Star | |
-| ⬜️ | wintermute | spaceinvaders | Space Invaders | |
-| ⬜️ | wintermute | spacemadness | Space Madness | |
-| ⬜️ | wintermute | sof1 | Stroke of Fate: Operation Valkyrie | |
-| ⬜️ | wintermute | sof2 | Stroke of Fate: Operation Bunker | |
-| ⬜️ | wintermute | sofiasdebt | Sofia's Debt | |
-| ⬜️ | wintermute | sotv1 | Shadows on the Vatican - Act I: Greed | |
-| ⬜️ | wintermute | sotv2 | Shadows on the Vatican - Act II: Wrath | |
-| ⬜️ | wintermute | strangechange | Strange Change | |
-| ⬜️ | wintermute | sunrise | Sunrise: The game | |
-| ⬜️ | wintermute | tanya1 | Tanya Grotter and the Magical Double Bass | |
-| ⬜️ | wintermute | tanya2 | Tanya Grotter and the Disappearing Floor | |
-| ⬜️ | wintermute | tehran1933 | Murder In Tehran's Alleys 1933 | |
-| ⬜️ | wintermute | tehran2016 | Murder In Tehran's Alleys 2016 | |
-| ⬜️ | wintermute | theancientmark1 | The Ancient Mark - Episode 1 | |
-| ⬜️ | wintermute | thebox | The Box | |
-| ⬜️ | wintermute | thekite | The Kite | |
-| ⬜️ | wintermute | thelastcrownmh | The Last Crown - Midnight Horror | |
-| ⬜️ | wintermute | thelostcrowngha | The Lost Crown - A Ghost-Hunting Adventure | |
-| ⬜️ | wintermute | tib | Fairy Tales About Toshechka and Boshechka | |
-| ⬜️ | wintermute | tradestory | The Trader of Stories | |
-| ⬜️ | wintermute | twc | The White Chamber | |
-| ⬜️ | wintermute | war | War | |
-| ⬜️ | wintermute | vsevolod | Vsevolod | |
-| ⬜️ | wintermute | wayoflove | The Way Of Love: Sub Zero | |
-| ⬜️ | wintermute | wintermute | Wintermute engine game | |
-| ⬜️ | wintermute | wtetris | Wilma Tetris | |
-| ⬜️ | wintermute | zilm | Zilm: A Game of Reflex | |
-| ⬜️ | wintermute | zbang | Zbang! The Game | |
 | ⬜️ | xeen | cloudsofxeen | Might and Magic IV: Clouds of Xeen | |
 | ⬜️ | xeen | darksideofxeen | Might and Magic V: Dark Side of Xeen | |
 | ⬜️ | xeen | worldofxeen | Might and Magic: World of Xeen | |
