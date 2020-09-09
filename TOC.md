@@ -304,7 +304,7 @@
 | ✅ | sci | lsl1sci | Leisure Suit Larry in the Land of the Lounge Lizards | JenniBee |
 | ✅ | sci | lsl5 | Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work | JenniBee |
 | ⬜️ | sci | mothergoose256 | Mixed-Up Mother Goose | |
-| ⬜️ | sci | msastrochicken | Ms. Astro Chicken | |
+| ✅ | sci | msastrochicken | Ms. Astro Chicken | Tucky27 |
 | ⬜️ | sci | pq1sci | Police Quest: In Pursuit of the Death Angel | |
 | ✅ | sci | pq3 | Police Quest III: The Kindred | JenniBee |
 | ✅ | sci | sq1sci | Space Quest I: The Sarien Encounter | JenniBee |
@@ -365,9 +365,9 @@
 | ✅ | tsage | blueforce | Blue Force | JenniBee |
 | ⬜️ | tsage | ringworld2 | Return to Ringworld | |
 | ✅ | tucker | tucker | Bud Tucker in Double Trouble | JenniBee |
-| ⬜️ | ultima | ultima4 | Ultima IV - Quest of the Avatar | |
-| ⬜️ | ultima | ultima6 | Ultima VI - The False Prophet | |
-| ⬜️ | ultima | ultima8 | Ultima VIII - Pagan | |
+| ✅ | ultima | ultima4 | Ultima IV - Quest of the Avatar | Tucky27 |
+| ✅ | ultima | ultima6 | Ultima VI - The False Prophet | Tucky27 |
+| ✅ | ultima | ultima8 | Ultima VIII - Pagan | Tucky27 |
 | ✅ | voyeur | voyeur | Voyeur | JenniBee |
 | ✅ | wintermute | chivalry | Chivalry is Not Dead | JenniBee |
 | ⬜️ | wintermute | corrosion | Corrosion: Cold Winter Waiting | |
