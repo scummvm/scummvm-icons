@@ -286,7 +286,7 @@
 | ✅ | sci | pq2 | Police Quest II: The Vengeance | JenniBee |
 | ✅ | sci | qfg1 | Quest for Glory I: So You Want to Be a Hero | JenniBee |
 | ✅ | sci | sq3 | Space Quest III: The Pirates of Pestulon | JenniBee |
-| ⬜️ | sci | qfg2 | Quest for Glory II: Trial by Fire | |
+| ✅ | sci | qfg2 | Quest for Glory II: Trial by Fire | JenniBee |
 | ⬜️ | sci | kq1sci | King's Quest I: Quest for the Crown | |
 | ⬜️ | sci | castlebrain | Castle of Dr. Brain | |
 | ⬜️ | sci | christmas1990 | Christmas Card 1990: The Seasoned Professional | |
@@ -316,7 +316,7 @@
 | ✅ | sci | kq6 | King's Quest VI: Heir Today, Gone Tomorrow | JenniBee |
 | ⬜️ | sci | laurabow2 | Laura Bow 2: The Dagger of Amon Ra | |
 | ✅ | sci | qfg1vga | Quest for Glory I: So You Want to Be a Hero | JenniBee |
-| ⬜️ | sci | qfg3 | Quest for Glory III: Wages of War | |
+| ✅ | sci | qfg3 | Quest for Glory III: Wages of War | JenniBee |
 | ✅ | sci | sq5 | Space Quest V: The Next Mutation | JenniBee |
 | ⬜️ | sci | islandbrain | The Island of Dr. Brain | |
 | ✅ | sci | lsl6 | Leisure Suit Larry 6: Shape Up or Slip Out! | JenniBee |
