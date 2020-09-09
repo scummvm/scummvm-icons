@@ -175,7 +175,7 @@
 | ⬜️ | glk | questforexcalibur | Arthur: The Quest for Excalibur | |
 | ⬜️ | glk | seastalker | Seastalker | |
 | ⬜️ | glk | sherlockriddle | Sherlock: The Riddle of the Crown Jewels | |
-| ⬜️ | glk | shogun | James Clavell's Shogun | |
+| ✅ | glk | shogun | James Clavell's Shogun | NekoFever |
 | ⬜️ | glk | sorcerer | Sorcerer | |
 | ⬜️ | glk | spellbreaker | Spellbreaker | |
 | ⬜️ | glk | starcross | Starcross | |
@@ -223,7 +223,7 @@
 | ✅ | gob | fascination | Fascination | JenniBee |
 | ✅ | gob | geisha | Geisha | JenniBee |
 | ⬜️ | griffon | griffon | The Griffon Legend | |
-| ⬜️ | groovie | t7g | The 7th Guest | |
+| ✅ | groovie | t7g | The 7th Guest | NekoFever |
 | ⬜️ | hdb | hdb | Hyperspace Delivery Boy! | |
 | ⬜️ | hopkins | hopkins | Hopkins FBI | |
 | ✅ | hugo | hugo1 | Hugo 1: Hugo's House of Horrors | JenniBee |
@@ -266,9 +266,9 @@
 | ⬜️ | pegasus | pegasus | The Journeyman Project: Pegasus Prime | |
 | ✅ | plumbers | plumbers | Plumbers Don't Wear Ties! | nightm4re94 |
 | ✅ | prince | prince | The Prince and the Coward | JenniBee |
-| ⬜️ | queen | queen | Flight of the Amazon Queen | |
+| ✅ | queen | queen | Flight of the Amazon Queen | NekoFever |
 | ✅ | saga | ite | Inherit the Earth: Quest for the Orb | JenniBee |
-| ⬜️ | saga | ihnm | I Have No Mouth and I Must Scream | |
+| ✅ | saga | ihnm | I Have No Mouth and I Must Scream | NekoFever |
 | ⬜️ | sci | sci | Sierra SCI Game | |
 | ⬜️ | sci | sci-fanmade | Fanmade SCI Game | |
 | ⬜️ | sci | astrochicken | Astro Chicken | |
