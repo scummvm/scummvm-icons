@@ -21,7 +21,7 @@
 | ✅ | scumm | comi | The Curse of Monkey Island | JenniBee |
 | ⬜️ | scumm | activity | Putt-Putt & Fatty Bear's Activity Pack | |
 | ⬜️ | scumm | brstorm | Bear Stormin' | |
-| ⬜️ | scumm | fbear | Fatty Bear's Birthday Surprise | |
+| ✅ | scumm | fbear | Fatty Bear's Birthday Surprise | Tucky27 |
 | ⬜️ | scumm | fbpack | Fatty Bear's Fun Pack | |
 | ⬜️ | scumm | funpack | Putt-Putt's Fun Pack | |
 | ⬜️ | scumm | puttmoon | Putt-Putt Goes to the Moon | |
