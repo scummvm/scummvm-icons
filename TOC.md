@@ -325,7 +325,7 @@
 | ⬜️ | sci | catdate | The Dating Pool | |
 | ⬜️ | sci | gk1 | Gabriel Knight: Sins of the Fathers | |
 | ⬜️ | sci | pq4 | Police Quest IV: Open Season | |
-| ⬜️ | sci | qfg4 | Quest for Glory IV: Shadows of Darkness | |
+| ✅ | sci | qfg4 | Quest for Glory IV: Shadows of Darkness | JenniBee |
 | ⬜️ | sci | hoyle5 | Hoyle Classic Games | |
 | ⬜️ | sci | hoyle5bridge | Hoyle Bridge | |
 | ⬜️ | sci | hoyle5children | Hoyle Children's Collection | |
