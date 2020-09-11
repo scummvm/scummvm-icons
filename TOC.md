@@ -85,7 +85,7 @@
 | ⬜️ | adl | hires6 | Hi-Res Adventure #6: The Dark Crystal | |
 | ✅ | agi | agi | Sierra AGI game | JenniBee |
 | ⬜️ | agi | agi-fanmade | Fanmade AGI game | |
-| ⬜️ | agi | bc | The Black Cauldron | |
+| ✅ | agi | bc | The Black Cauldron | Tucky27 |
 | ⬜️ | agi | caitlyn | Caitlyn's Destiny | |
 | ✅ | agi | ddp | Donald Duck's Playground | JenniBee |
 | ⬜️ | agi | goldrush | Gold Rush! | |
@@ -230,12 +230,12 @@
 | ✅ | hugo | hugo2 | Hugo 2: Whodunit? | JenniBee |
 | ✅ | hugo | hugo3 | Hugo 3: Jungle of Doom | JenniBee |
 | ⬜️ | illusions | duckman | Duckman | |
-| ⬜️ | kyra | kyra1 | The Legend of Kyrandia | |
-| ⬜️ | kyra | kyra2 | The Legend of Kyrandia: The Hand of Fate | |
-| ⬜️ | kyra | kyra3 | The Legend of Kyrandia: Malcolm's Revenge | |
+| ✅ | kyra | kyra1 | The Legend of Kyrandia | Tucky27 |
+| ✅ | kyra | kyra2 | The Legend of Kyrandia: The Hand of Fate | Tucky27 |
+| ✅ | kyra | kyra3 | The Legend of Kyrandia: Malcolm's Revenge | Tucky27 |
 | ⬜️ | kyra | lol | Lands of Lore: The Throne of Chaos | |
-| ⬜️ | kyra | eob | Eye of the Beholder | |
-| ⬜️ | kyra | eob2 | Eye of the Beholder II: The Legend of Darkmoon | |
+| ✅ | kyra | eob | Eye of the Beholder | Tucky27 |
+| ✅ | kyra | eob2 | Eye of the Beholder II: The Legend of Darkmoon | Tucky27 |
 | ⬜️ | lab | lab | Labyrinth of Time | |
 | ⬜️ | lure | lure | Lure of the Temptress | |
 | ⬜️ | made | manhole | The Manhole | |
