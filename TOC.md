@@ -75,7 +75,7 @@
 | ⬜️ | scumm | thinker1 | Big Thinkers First Grade | |
 | ⬜️ | scumm | thinkerk | Big Thinkers Kindergarten | |
 | ⬜️ | scumm | water | Freddi Fish and Luther's Water Worries | |
-| ⬜️ | access | amazon | Amazon: Guardians of Eden | |
+| ✅ | access | amazon | Amazon: Guardians of Eden | Tucky27 |
 | ⬜️ | adl | hires0 | Hi-Res Adventure #0: Mission Asteroid | |
 | ✅ | adl | hires1 | Hi-Res Adventure #1: Mystery House | JenniBee |
 | ⬜️ | adl | hires2 | Hi-Res Adventure #2: Wizard and the Princess | |
@@ -137,7 +137,7 @@
 | ⬜️ | composer | princess | Magic Tales: The Princess and the Crab | |
 | ⬜️ | composer | sleepingcub | Magic Tales: Sleeping Cub's Test of Courage | |
 | ⬜️ | cruise | cruise | Cruise for a Corpse | |
-| ⬜️ | cryomni3d | versailles | Versailles 1685 | |
+| ✅ | cryomni3d | versailles | Versailles 1685 | Tucky27 |
 | ✅ | draci | draci | Draci Historie | JenniBee |
 | ⬜️ | dragons | dragons | Blazing Dragons | |
 | ⬜️ | drascula | drascula | Drascula: The Vampire Strikes Back | |
