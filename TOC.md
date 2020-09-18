@@ -157,6 +157,8 @@
 | ✅ | glk | colossaladvjod | Colossal Adventure /JoD | JenniBee |
 | ⬜️ | glk | cutthroats | Cutthroats | |
 | ⬜️ | glk | deadline | Deadline | |
+| ✅ | glk | elf20 | The Elf's Christmas Adventure | JenniBee |
+| ✅ | glk | elves87 | Elves '87 | JenniBee |
 | ⬜️ | glk | enchanter | Enchanter | |
 | ⬜️ | glk | hhgttg | The Hitchhiker's Guide to the Galaxy | |
 | ⬜️ | glk | hollywoodhijinx | Hollywood Hijinx | |
