@@ -24,8 +24,8 @@
 | ✅ | scumm | fbear | Fatty Bear's Birthday Surprise | Tucky27 |
 | ⬜️ | scumm | fbpack | Fatty Bear's Fun Pack | |
 | ⬜️ | scumm | funpack | Putt-Putt's Fun Pack | |
-| ⬜️ | scumm | puttmoon | Putt-Putt Goes to the Moon | |
-| ⬜️ | scumm | puttputt | Putt-Putt Joins the Parade | |
+| ✅ | scumm | puttmoon | Putt-Putt Goes to the Moon | Tucky27 |
+| ✅ | scumm | puttputt | Putt-Putt Joins the Parade | Tucky27 |
 | ⬜️ | scumm | arttime | Blue's Art Time Activities | |
 | ⬜️ | scumm | baseball2001 | Backyard Baseball 2001 | |
 | ⬜️ | scumm | baseball2003 | Backyard Baseball 2003 | |
@@ -39,7 +39,7 @@
 | ⬜️ | scumm | soccermls | Backyard Soccer MLS Edition | |
 | ✅ | scumm | spyozon | SPY Fox 3: Operation Ozone | Tucky27 |
 | ⬜️ | scumm | airport | Let's Explore the Airport with Buzzy | |
-| ⬜️ | scumm | balloon | Putt-Putt and Pep's Balloon-O-Rama | |
+| ✅ | scumm | balloon | Putt-Putt and Pep's Balloon-O-Rama | Tucky27 |
 | ⬜️ | scumm | baseball | Backyard Baseball | |
 | ⬜️ | scumm | blues123time | Blue's 123 Time Activities | |
 | ⬜️ | scumm | bluesabctime | Blue's ABC Time Activities | |
@@ -322,7 +322,7 @@
 | ✅ | sci | sq5 | Space Quest V: The Next Mutation | JenniBee |
 | ⬜️ | sci | islandbrain | The Island of Dr. Brain | |
 | ✅ | sci | lsl6 | Leisure Suit Larry 6: Shape Up or Slip Out! | JenniBee |
-| ⬜️ | sci | pepper | Pepper's Adventure in Time | |
+| ✅ | sci | pepper | Pepper's Adventure in Time | Tucky27 |
 | ⬜️ | sci | slater | Slater & Charlie Go Camping | |
 | ⬜️ | sci | catdate | The Dating Pool | |
 | ⬜️ | sci | gk1 | Gabriel Knight: Sins of the Fathers | |
