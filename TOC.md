@@ -22,7 +22,7 @@
 | ⬜️ | scumm | activity | Putt-Putt & Fatty Bear's Activity Pack | |
 | ⬜️ | scumm | brstorm | Bear Stormin' | |
 | ✅ | scumm | fbear | Fatty Bear's Birthday Surprise | Tucky27 |
-| ⬜️ | scumm | fbpack | Fatty Bear's Fun Pack | |
+| ✅ | scumm | fbpack | Fatty Bear's Fun Pack | Tucky27 |
 | ⬜️ | scumm | funpack | Putt-Putt's Fun Pack | |
 | ✅ | scumm | puttmoon | Putt-Putt Goes to the Moon | Tucky27 |
 | ✅ | scumm | puttputt | Putt-Putt Joins the Parade | Tucky27 |
