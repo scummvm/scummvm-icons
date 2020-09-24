@@ -89,7 +89,7 @@
 | ⬜️ | agi | caitlyn | Caitlyn's Destiny | |
 | ✅ | agi | ddp | Donald Duck's Playground | JenniBee |
 | ⬜️ | agi | goldrush | Gold Rush! | |
-| ⬜️ | agi | kq1 | King's Quest I: Quest for the Crown | |
+| ✅ | agi | kq1 | King's Quest I: Quest for the Crown | dotdc |
 | ⬜️ | agi | kq2 | King's Quest II: Romancing the Throne | |
 | ⬜️ | agi | kq3 | King's Quest III: To Heir Is Human | |
 | ✅ | agi | kq4 | King's Quest IV: The Perils of Rosella | JenniBee |
@@ -289,7 +289,7 @@
 | ✅ | sci | qfg1 | Quest for Glory I: So You Want to Be a Hero | JenniBee |
 | ✅ | sci | sq3 | Space Quest III: The Pirates of Pestulon | JenniBee |
 | ✅ | sci | qfg2 | Quest for Glory II: Trial by Fire | JenniBee |
-| ⬜️ | sci | kq1sci | King's Quest I: Quest for the Crown | |
+| ✅ | sci | kq1sci | King's Quest I: Quest for the Crown | dotdc |
 | ⬜️ | sci | castlebrain | Castle of Dr. Brain | |
 | ⬜️ | sci | christmas1990 | Christmas Card 1990: The Seasoned Professional | |
 | ⬜️ | sci | cnick-lsl | Crazy Nick's Software Picks: Leisure Suit Larry's Casino | |
