@@ -113,8 +113,8 @@
 | ✅ | agos | elvira1 | Elvira - Mistress of the Dark | JenniBee |
 | ⬜️ | agos | elvira2 | Elvira II - The Jaws of Cerberus | |
 | ✅ | agos | waxworks | Waxworks | JenniBee |
-| ⬜️ | agos | simon1 | Simon the Sorcerer 1 | |
-| ⬜️ | agos | simon2 | Simon the Sorcerer 2 | |
+| ✅ | agos | simon1 | Simon the Sorcerer 1 | GandalfTheWhite80 |
+| ✅ | agos | simon2 | Simon the Sorcerer 2 | GandalfTheWhite80 |
 | ⬜️ | agos | feeble | The Feeble Files | |
 | ⬜️ | agos | dimp | Demon in my Pocket | |
 | ⬜️ | agos | jumble | Jumble | |
@@ -239,7 +239,7 @@
 | ✅ | kyra | eob | Eye of the Beholder | Tucky27 |
 | ✅ | kyra | eob2 | Eye of the Beholder II: The Legend of Darkmoon | Tucky27 |
 | ⬜️ | lab | lab | Labyrinth of Time | |
-| ⬜️ | lure | lure | Lure of the Temptress | |
+| ✅ | lure | lure | Lure of the Temptress | GandalfTheWhite80 |
 | ⬜️ | made | manhole | The Manhole | |
 | ✅ | made | rtz | Return to Zork | JenniBee |
 | ⬜️ | made | lgop2 | Leather Goddesses of Phobos 2 | |
