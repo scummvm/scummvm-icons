@@ -31,7 +31,7 @@
 | ⬜️ | scumm | baseball2003 | Backyard Baseball 2003 | |
 | ⬜️ | scumm | basketball | Backyard Basketball | |
 | ⬜️ | scumm | football2002 | Backyard Football 2002 | |
-| ⬜️ | scumm | freddicove | Freddi Fish 5: The Case of the Creature of Coral Cove | |
+| ⬜️ | scumm | freddicove | Freddi Fish 5: The Case of the Creature of Coral Cove | Retrodude |
 | ✅ | scumm | moonbase | Moonbase Commander | JenniBee|
 | ⬜️ | scumm | pjgames | Pajama Sam: Games to Play on Any Day | |
 | ⬜️ | scumm | readtime | Blue's Reading Time Activities | |
@@ -50,10 +50,10 @@
 | ⬜️ | scumm | dog | Putt-Putt and Pep's Dog on a Stick | |
 | ⬜️ | scumm | farm | Let's Explore the Farm with Buzzy | |
 | ⬜️ | scumm | football | Backyard Football | |
-| ⬜️ | scumm | freddi | Freddi Fish 1: The Case of the Missing Kelp Seeds | |
-| ⬜️ | scumm | freddi2 | Freddi Fish 2: The Case of the Haunted Schoolhouse | |
-| ⬜️ | scumm | freddi3 | Freddi Fish 3: The Case of the Stolen Conch Shell | |
-| ⬜️ | scumm | freddi4 | Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch | |
+| ✅ | scumm | freddi | Freddi Fish 1: The Case of the Missing Kelp Seeds | Retrodude |
+| ✅ | scumm | freddi2 | Freddi Fish 2: The Case of the Haunted Schoolhouse | Retrodude |
+| ✅ | scumm | freddi3 | Freddi Fish 3: The Case of the Stolen Conch Shell | Retrodude |
+| ✅ | scumm | freddi4 | Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch | Retrodude |
 | ⬜️ | scumm | freddisfunshop | Freddi Fish's One-Stop Fun Shop | |
 | ⬜️ | scumm | jungle | Let's Explore the Jungle with Buzzy | |
 | ⬜️ | scumm | lost | Pajama Sam's Lost & Found | |
@@ -62,11 +62,11 @@
 | ⬜️ | scumm | pajama | Pajama Sam 1: No Need to Hide When It's Dark Outside | |
 | ⬜️ | scumm | pajama2 | Pajama Sam 2: Thunder and Lightning Aren't so Frightening | |
 | ⬜️ | scumm | pajama3 | Pajama Sam 3: You Are What You Eat From Your Head to Your Feet | |
-| ⬜️ | scumm | puttcircus | Putt-Putt Joins the Circus | |
-| ⬜️ | scumm | puttrace | Putt-Putt Enters the Race | |
+| ✅ | scumm | puttcircus | Putt-Putt Joins the Circus | Retrodude |
+| ✅ | scumm | puttrace | Putt-Putt Enters the Race | Retrodude |
 | ⬜️ | scumm | puttsfunshop | Putt-Putt's One-Stop Fun Shop | |
-| ⬜️ | scumm | putttime | Putt-Putt Travels Through Time | |
-| ⬜️ | scumm | puttzoo | Putt-Putt Saves the Zoo | |
+| ✅ | scumm | putttime | Putt-Putt Travels Through Time | Retrodude |
+| ✅ | scumm | puttzoo | Putt-Putt Saves the Zoo | Retrodude |
 | ⬜️ | scumm | samsfunshop | Pajama Sam's One-Stop Fun Shop | |
 | ⬜️ | scumm | soccer | Backyard Soccer | |
 | ⬜️ | scumm | socks | Pajama Sam's Sock Works | |
