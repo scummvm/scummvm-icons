@@ -330,7 +330,7 @@
 | ✅ | sci | qfg4 | Quest for Glory IV: Shadows of Darkness | JenniBee |
 | ⬜️ | sci | hoyle5 | Hoyle Classic Games | |
 | ⬜️ | sci | hoyle5bridge | Hoyle Bridge | |
-| ⬜️ | sci | hoyle5children | Hoyle Children's Collection |  |
+| ⬜️ | sci | hoyle5children | Hoyle Children's Collection | |
 | ⬜️ | sci | hoyle5solitaire | Hoyle Solitaire | |
 | ⬜️ | sci | chest | Inside the Chest | |
 | ✅ | sci | gk2 | The Beast Within: A Gabriel Knight Mystery | TrivialBalderdash |
