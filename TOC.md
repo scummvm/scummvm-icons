@@ -244,7 +244,7 @@
 | ✅ | made | rtz | Return to Zork | JenniBee |
 | ⬜️ | made | lgop2 | Leather Goddesses of Phobos 2 | |
 | ⬜️ | made | rodney | Rodney's Funscreen | |
-| ⬜️ | mads | nebular | Rex Nebular and the Cosmic Gender Bender | |
+| ✅ | mads | nebular | Rex Nebular and the Cosmic Gender Bender | TrivialBalderdash |
 | ⬜️ | mohawk | myst | Myst | |
 | ⬜️ | mohawk | makingofmyst | The Making of Myst | |
 | ⬜️ | mohawk | riven | Riven: The Sequel to Myst | |
@@ -325,15 +325,15 @@
 | ✅ | sci | pepper | Pepper's Adventure in Time | Tucky27 |
 | ⬜️ | sci | slater | Slater & Charlie Go Camping | |
 | ⬜️ | sci | catdate | The Dating Pool | |
-| ⬜️ | sci | gk1 | Gabriel Knight: Sins of the Fathers | |
+| ✅ | sci | gk1 | Gabriel Knight: Sins of the Fathers | TrivialBalderdash |
 | ⬜️ | sci | pq4 | Police Quest IV: Open Season | |
 | ✅ | sci | qfg4 | Quest for Glory IV: Shadows of Darkness | JenniBee |
 | ⬜️ | sci | hoyle5 | Hoyle Classic Games | |
 | ⬜️ | sci | hoyle5bridge | Hoyle Bridge | |
-| ⬜️ | sci | hoyle5children | Hoyle Children's Collection | |
+| ⬜️ | sci | hoyle5children | Hoyle Children's Collection |  |
 | ⬜️ | sci | hoyle5solitaire | Hoyle Solitaire | |
 | ⬜️ | sci | chest | Inside the Chest | |
-| ⬜️ | sci | gk2 | The Beast Within: A Gabriel Knight Mystery | |
+| ✅ | sci | gk2 | The Beast Within: A Gabriel Knight Mystery | TrivialBalderdash |
 | ✅ | sci | kq7 | King's Quest VII: The Princeless Bride | JenniBee |
 | ⬜️ | sci | kquestions | King's Questions | |
 | ✅ | sci | lsl6hires | Leisure Suit Larry 6: Shape Up or Slip Out! | JenniBee |
