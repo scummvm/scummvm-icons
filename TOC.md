@@ -78,10 +78,10 @@
 | ✅ | access | amazon | Amazon: Guardians of Eden | Tucky27 |
 | ⬜️ | adl | hires0 | Hi-Res Adventure #0: Mission Asteroid | |
 | ✅ | adl | hires1 | Hi-Res Adventure #1: Mystery House | JenniBee |
-| ⬜️ | adl | hires2 | Hi-Res Adventure #2: Wizard and the Princess | |
+| ✅ | adl | hires2 | Hi-Res Adventure #2: Wizard and the Princess | TrivialBalderdash |
 | ⬜️ | adl | hires3 | Hi-Res Adventure #3: Cranston Manor | |
 | ⬜️ | adl | hires4 | Hi-Res Adventure #4: Ulysses and the Golden Fleece | |
-| ⬜️ | adl | hires5 | Hi-Res Adventure #5: Time Zone | |
+| ✅ | adl | hires5 | Hi-Res Adventure #5: Time Zone | TrivialBalderdash |
 | ⬜️ | adl | hires6 | Hi-Res Adventure #6: The Dark Crystal | |
 | ✅ | agi | agi | Sierra AGI game | JenniBee |
 | ⬜️ | agi | agi-fanmade | Fanmade AGI game | |
@@ -330,7 +330,7 @@
 | ✅ | sci | qfg4 | Quest for Glory IV: Shadows of Darkness | JenniBee |
 | ⬜️ | sci | hoyle5 | Hoyle Classic Games | |
 | ⬜️ | sci | hoyle5bridge | Hoyle Bridge | |
-| ⬜️ | sci | hoyle5children | Hoyle Children's Collection |  |
+| ⬜️ | sci | hoyle5children | Hoyle Children's Collection | |
 | ⬜️ | sci | hoyle5solitaire | Hoyle Solitaire | |
 | ⬜️ | sci | chest | Inside the Chest | |
 | ✅ | sci | gk2 | The Beast Within: A Gabriel Knight Mystery | TrivialBalderdash |
