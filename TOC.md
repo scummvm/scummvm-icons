@@ -82,7 +82,7 @@
 | ⬜️ | adl | hires3 | Hi-Res Adventure #3: Cranston Manor | |
 | ⬜️ | adl | hires4 | Hi-Res Adventure #4: Ulysses and the Golden Fleece | |
 | ✅ | adl | hires5 | Hi-Res Adventure #5: Time Zone | TrivialBalderdash |
-| ⬜️ | adl | hires6 | Hi-Res Adventure #6: The Dark Crystal | |
+| ✅ | adl | hires6 | Hi-Res Adventure #6: The Dark Crystal | TrivialBalderdash |
 | ✅ | agi | agi | Sierra AGI game | JenniBee |
 | ⬜️ | agi | agi-fanmade | Fanmade AGI game | |
 | ✅ | agi | bc | The Black Cauldron | Tucky27 |
@@ -245,9 +245,9 @@
 | ⬜️ | made | lgop2 | Leather Goddesses of Phobos 2 | |
 | ⬜️ | made | rodney | Rodney's Funscreen | |
 | ✅ | mads | nebular | Rex Nebular and the Cosmic Gender Bender | TrivialBalderdash |
-| ⬜️ | mohawk | myst | Myst | |
+| ✅ | mohawk | myst | Myst | TrivialBalderdash |
 | ⬜️ | mohawk | makingofmyst | The Making of Myst | |
-| ⬜️ | mohawk | riven | Riven: The Sequel to Myst | |
+| ✅ | mohawk | riven | Riven: The Sequel to Myst | TrivialBalderdash |
 | ⬜️ | mohawk | greeneggs | Green Eggs and Ham | |
 | ⬜️ | mohawk | seussabc | Dr Seuss's ABC | |
 | ⬜️ | mohawk | tortoise | Aesop's Fables: The Tortoise and the Hare | |
