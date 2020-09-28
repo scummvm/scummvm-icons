@@ -95,7 +95,7 @@
 | ✅ | agi | kq4 | King's Quest IV: The Perils of Rosella | JenniBee |
 | ✅ | agi | lsl1 | Leisure Suit Larry in the Land of the Lounge Lizards | JenniBee |
 | ⬜️ | agi | mickey | Mickey's Space Adventure | |
-| ⬜️ | agi | mixedup | Mixed-Up Mother Goose | |
+| ✅ | agi | mixedup | Mixed-Up Mother Goose | dotdc |
 | ⬜️ | agi | mh1 | Manhunter 1: New York | |
 | ⬜️ | agi | mh2 | Manhunter 2: San Francisco | |
 | ⬜️ | agi | pq1 | Police Quest I: In Pursuit of the Death Angel | |
@@ -281,10 +281,10 @@
 | ⬜️ | sci | hoyle1 | Hoyle Official Book of Games: Volume 1 | |
 | ⬜️ | sci | hoyle2 | Hoyle Official Book of Games: Volume 2 | |
 | ✅ | sci | kq4sci | King's Quest IV: The Perils of Rosella | JenniBee |
-| ⬜️ | sci | laurabow | Laura Bow: The Colonel's Bequest | |
+| ✅ | sci | laurabow | Laura Bow: The Colonel's Bequest | dotdc |
 | ✅ | sci | lsl2 | Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places) | JenniBee |
 | ✅ | sci | lsl3 | Leisure Suit Larry 3: Passionate Patti in Pursuit of the Pulsating Pectorals | JenniBee |
-| ⬜️ | sci | mothergoose | Mixed-Up Mother Goose | |
+| ✅ | sci | mothergoose | Mixed-Up Mother Goose | dotdc |
 | ✅ | sci | pq2 | Police Quest II: The Vengeance | JenniBee |
 | ✅ | sci | qfg1 | Quest for Glory I: So You Want to Be a Hero | JenniBee |
 | ✅ | sci | sq3 | Space Quest III: The Pirates of Pestulon | JenniBee |
@@ -305,7 +305,7 @@
 | ⬜️ | sci | longbow | Conquests of the Longbow: The Adventures of Robin Hood | |
 | ✅ | sci | lsl1sci | Leisure Suit Larry in the Land of the Lounge Lizards | JenniBee |
 | ✅ | sci | lsl5 | Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work | JenniBee |
-| ⬜️ | sci | mothergoose256 | Mixed-Up Mother Goose | |
+| ✅ | sci | mothergoose256 | Mixed-Up Mother Goose | dotdc |
 | ✅ | sci | msastrochicken | Ms. Astro Chicken | Tucky27 |
 | ⬜️ | sci | pq1sci | Police Quest: In Pursuit of the Death Angel | |
 | ✅ | sci | pq3 | Police Quest III: The Kindred | JenniBee |
@@ -313,10 +313,10 @@
 | ✅ | sci | sq4 | Space Quest IV: Roger Wilco and the Time Rippers | JenniBee |
 | ⬜️ | sci | christmas1992 | Christmas Card 1992 | |
 | ⬜️ | sci | ecoquest2 | EcoQuest II: Lost Secret of the Rainforest | |
-| ⬜️ | sci | freddypharkas | Freddy Pharkas: Frontier Pharmacist | |
+| ✅ | sci | freddypharkas | Freddy Pharkas: Frontier Pharmacist | dotdc |
 | ⬜️ | sci | hoyle4 | Hoyle Classic Card Games | |
 | ✅ | sci | kq6 | King's Quest VI: Heir Today, Gone Tomorrow | JenniBee |
-| ⬜️ | sci | laurabow2 | Laura Bow 2: The Dagger of Amon Ra | |
+| ✅ | sci | laurabow2 | Laura Bow 2: The Dagger of Amon Ra | dotdc |
 | ✅ | sci | qfg1vga | Quest for Glory I: So You Want to Be a Hero | JenniBee |
 | ✅ | sci | qfg3 | Quest for Glory III: Wages of War | JenniBee |
 | ✅ | sci | sq5 | Space Quest V: The Next Mutation | JenniBee |
@@ -337,7 +337,7 @@
 | ✅ | sci | kq7 | King's Quest VII: The Princeless Bride | JenniBee |
 | ⬜️ | sci | kquestions | King's Questions | |
 | ✅ | sci | lsl6hires | Leisure Suit Larry 6: Shape Up or Slip Out! | JenniBee |
-| ⬜️ | sci | mothergoosehires | Mixed-Up Mother Goose Deluxe | |
+| ✅ | sci | mothergoosehires | Mixed-Up Mother Goose Deluxe | dotdc |
 | ⬜️ | sci | phantasmagoria | Phantasmagoria | |
 | ⬜️ | sci | pqswat | Police Quest: SWAT | |
 | ⬜️ | sci | shivers | Shivers | |
