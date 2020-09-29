@@ -17,7 +17,7 @@
 | ✅ | scumm | indyzak | Indiana Jones and the Last Crusade & Zak McKracken | JenniBee |
 | ✅ | scumm | zakloom | Zak McKracken & Loom | JenniBee |
 | ✅ | scumm | ft | Full Throttle | JenniBee |
-| ⬜️ | scumm | dig | The Dig | |
+| ✅ | scumm | dig | The Dig | Urgeistenergie |
 | ✅ | scumm | comi | The Curse of Monkey Island | JenniBee |
 | ⬜️ | scumm | activity | Putt-Putt & Fatty Bear's Activity Pack | |
 | ⬜️ | scumm | brstorm | Bear Stormin' | |
@@ -342,7 +342,7 @@
 | ⬜️ | sci | pqswat | Police Quest: SWAT | |
 | ⬜️ | sci | shivers | Shivers | |
 | ✅ | sci | sq6 | Space Quest 6: The Spinal Frontier | JenniBee |
-| ⬜️ | sci | torin | Torin's Passage | |
+| ✅ | sci | torin | Torin's Passage | Urgeistenergie |
 | ✅ | sci | lsl7 | Leisure Suit Larry 7: Love for Sail! | JenniBee |
 | ⬜️ | sci | lighthouse | Lighthouse: The Dark Being | |
 | ⬜️ | sci | phantasmagoria2 | Phantasmagoria 2: A Puzzle of Flesh | |
