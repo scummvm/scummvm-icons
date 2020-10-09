@@ -359,7 +359,7 @@
 | ✅ | tinsel | dw | Discworld | JenniBee |
 | ✅ | tinsel | dw2 | Discworld 2: Missing Presumed ...!? | JenniBee |
 | ⬜️ | titanic | titanic | Starship Titanic | |
-| ⬜️ | toltecs | toltecs | 3 Skulls of the Toltecs | |
+| ✅ | toltecs | toltecs | 3 Skulls of the Toltecs |Canuma|
 | ⬜️ | tony | tony | Tony Tough and the Night of Roasted Moths | |
 | ✅ | toon | toon | Toonstruck | JenniBee |
 | ⬜️ | touche | touche | Touche: The Adventures of the Fifth Musketeer | |
