@@ -115,7 +115,7 @@
 | ✅ | agos | waxworks | Waxworks | JenniBee |
 | ✅ | agos | simon1 | Simon the Sorcerer 1 | GandalfTheWhite80 |
 | ✅ | agos | simon2 | Simon the Sorcerer 2 | GandalfTheWhite80 |
-| ⬜️ | agos | feeble | The Feeble Files | |
+| ✅ | agos | feeble | The Feeble Files |Canuma|
 | ⬜️ | agos | dimp | Demon in my Pocket | |
 | ⬜️ | agos | jumble | Jumble | |
 | ⬜️ | agos | puzzle | NoPatience | |
