@@ -19,7 +19,7 @@
 | ✅ | scumm | ft | Full Throttle | JenniBee |
 | ✅ | scumm | dig | The Dig | Urgeistenergie |
 | ✅ | scumm | comi | The Curse of Monkey Island | JenniBee |
-| ⬜️ | scumm | activity | Putt-Putt & Fatty Bear's Activity Pack | |
+| ✅ | scumm | activity | Putt-Putt & Fatty Bear's Activity Pack | Tucky27 |
 | ⬜️ | scumm | brstorm | Bear Stormin' | |
 | ✅ | scumm | fbear | Fatty Bear's Birthday Surprise | Tucky27 |
 | ✅ | scumm | fbpack | Fatty Bear's Fun Pack | Tucky27 |
@@ -335,7 +335,7 @@
 | ⬜️ | sci | chest | Inside the Chest | |
 | ✅ | sci | gk2 | The Beast Within: A Gabriel Knight Mystery | TrivialBalderdash |
 | ✅ | sci | kq7 | King's Quest VII: The Princeless Bride | JenniBee |
-| ⬜️ | sci | kquestions | King's Questions | |
+| ✅ | sci | kquestions | King's Questions | Tucky27 |
 | ✅ | sci | lsl6hires | Leisure Suit Larry 6: Shape Up or Slip Out! | JenniBee |
 | ✅ | sci | mothergoosehires | Mixed-Up Mother Goose Deluxe | dotdc |
 | ⬜️ | sci | phantasmagoria | Phantasmagoria | |
