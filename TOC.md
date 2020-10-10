@@ -19,7 +19,7 @@
 | ✅ | scumm | ft | Full Throttle | JenniBee |
 | ✅ | scumm | dig | The Dig | Urgeistenergie |
 | ✅ | scumm | comi | The Curse of Monkey Island | JenniBee |
-| ⬜️ | scumm | activity | Putt-Putt & Fatty Bear's Activity Pack | |
+| ✅ | scumm | activity | Putt-Putt & Fatty Bear's Activity Pack | Tucky27 |
 | ⬜️ | scumm | brstorm | Bear Stormin' | |
 | ✅ | scumm | fbear | Fatty Bear's Birthday Surprise | Tucky27 |
 | ✅ | scumm | fbpack | Fatty Bear's Fun Pack | Tucky27 |
@@ -96,8 +96,8 @@
 | ✅ | agi | lsl1 | Leisure Suit Larry in the Land of the Lounge Lizards | JenniBee |
 | ⬜️ | agi | mickey | Mickey's Space Adventure | |
 | ✅ | agi | mixedup | Mixed-Up Mother Goose | dotdc |
-| ⬜️ | agi | mh1 | Manhunter 1: New York | |
-| ⬜️ | agi | mh2 | Manhunter 2: San Francisco | |
+| ✅ | agi | mh1 | Manhunter 1: New York | GandalfTheWhite80 |
+| ✅ | agi | mh2 | Manhunter 2: San Francisco | GandalfTheWhite80 |
 | ⬜️ | agi | pq1 | Police Quest I: In Pursuit of the Death Angel | |
 | ⬜️ | agi | serguei1 | Serguei's Destiny 1 | |
 | ⬜️ | agi | serguei2 | Serguei's Destiny 2 | |
@@ -335,7 +335,7 @@
 | ⬜️ | sci | chest | Inside the Chest | |
 | ✅ | sci | gk2 | The Beast Within: A Gabriel Knight Mystery | TrivialBalderdash |
 | ✅ | sci | kq7 | King's Quest VII: The Princeless Bride | JenniBee |
-| ⬜️ | sci | kquestions | King's Questions | |
+| ✅ | sci | kquestions | King's Questions | Tucky27 |
 | ✅ | sci | lsl6hires | Leisure Suit Larry 6: Shape Up or Slip Out! | JenniBee |
 | ✅ | sci | mothergoosehires | Mixed-Up Mother Goose Deluxe | dotdc |
 | ⬜️ | sci | phantasmagoria | Phantasmagoria | |
@@ -350,8 +350,8 @@
 | ⬜️ | sherlock | scalpel | The Case of the Serrated Scalpel | |
 | ⬜️ | sherlock | rosetattoo | The Case of the Rose Tattoo | |
 | ✅ | sky | sky | Beneath a Steel Sky | nightm4re94 |
-| ⬜️ | supernova | msn1 | Mission Supernova 1 | |
-| ⬜️ | supernova | msn2 | Mission Supernova 2 | |
+| ✅ | supernova | msn1 | Mission Supernova 1 | Tucky27 |
+| ✅ | supernova | msn2 | Mission Supernova 2 | Tucky27 |
 | ✅ | sword1 | sword1 | Broken Sword: The Shadow of the Templars | nightm4re94 |
 | ✅ | sword2 | sword2 | Broken Sword II: The Smoking Mirror | nightm4re94 |
 | ✅ | sword25 | sword25 | Broken Sword 2.5 | JenniBee |
