@@ -96,8 +96,8 @@
 | ✅ | agi | lsl1 | Leisure Suit Larry in the Land of the Lounge Lizards | JenniBee |
 | ⬜️ | agi | mickey | Mickey's Space Adventure | |
 | ✅ | agi | mixedup | Mixed-Up Mother Goose | dotdc |
-| ⬜️ | agi | mh1 | Manhunter 1: New York | |
-| ⬜️ | agi | mh2 | Manhunter 2: San Francisco | |
+| ✅ | agi | mh1 | Manhunter 1: New York | GandalfTheWhite80 |
+| ✅ | agi | mh2 | Manhunter 2: San Francisco | GandalfTheWhite80 |
 | ⬜️ | agi | pq1 | Police Quest I: In Pursuit of the Death Angel | |
 | ⬜️ | agi | serguei1 | Serguei's Destiny 1 | |
 | ⬜️ | agi | serguei2 | Serguei's Destiny 2 | |
