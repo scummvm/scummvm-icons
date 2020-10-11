@@ -139,7 +139,7 @@
 | ⬜️ | cruise | cruise | Cruise for a Corpse | |
 | ✅ | cryomni3d | versailles | Versailles 1685 | Tucky27 |
 | ✅ | draci | draci | Draci Historie | JenniBee |
-| ⬜️ | dragons | dragons | Blazing Dragons | |
+| ✅ | dragons | dragons | Blazing Dragons | dotdc |
 | ⬜️ | drascula | drascula | Drascula: The Vampire Strikes Back | |
 | ⬜️ | dreamweb | dreamweb | DreamWeb | |
 | ⬜️ | fullpipe | fullpipe | Full Pipe | |
@@ -235,7 +235,7 @@
 | ✅ | kyra | kyra1 | The Legend of Kyrandia | Tucky27 |
 | ✅ | kyra | kyra2 | The Legend of Kyrandia: The Hand of Fate | Tucky27 |
 | ✅ | kyra | kyra3 | The Legend of Kyrandia: Malcolm's Revenge | Tucky27 |
-| ⬜️ | kyra | lol | Lands of Lore: The Throne of Chaos | |
+| ✅ | kyra | lol | Lands of Lore: The Throne of Chaos | dotdc |
 | ✅ | kyra | eob | Eye of the Beholder | Tucky27 |
 | ✅ | kyra | eob2 | Eye of the Beholder II: The Legend of Darkmoon | Tucky27 |
 | ⬜️ | lab | lab | Labyrinth of Time | |
@@ -338,14 +338,14 @@
 | ✅ | sci | kquestions | King's Questions | Tucky27 |
 | ✅ | sci | lsl6hires | Leisure Suit Larry 6: Shape Up or Slip Out! | JenniBee |
 | ✅ | sci | mothergoosehires | Mixed-Up Mother Goose Deluxe | dotdc |
-| ⬜️ | sci | phantasmagoria | Phantasmagoria | |
+| ✅ | sci | phantasmagoria | Phantasmagoria | dotdc |
 | ⬜️ | sci | pqswat | Police Quest: SWAT | |
 | ⬜️ | sci | shivers | Shivers | |
 | ✅ | sci | sq6 | Space Quest 6: The Spinal Frontier | JenniBee |
 | ✅ | sci | torin | Torin's Passage | Urgeistenergie |
 | ✅ | sci | lsl7 | Leisure Suit Larry 7: Love for Sail! | JenniBee |
 | ⬜️ | sci | lighthouse | Lighthouse: The Dark Being | |
-| ⬜️ | sci | phantasmagoria2 | Phantasmagoria 2: A Puzzle of Flesh | |
+| ✅ | sci | phantasmagoria2 | Phantasmagoria 2: A Puzzle of Flesh | dotdc |
 | ⬜️ | sci | rama | RAMA | |
 | ⬜️ | sherlock | scalpel | The Case of the Serrated Scalpel | |
 | ⬜️ | sherlock | rosetattoo | The Case of the Rose Tattoo | |
