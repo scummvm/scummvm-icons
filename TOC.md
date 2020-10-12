@@ -251,7 +251,7 @@
 | ⬜️ | mohawk | greeneggs | Green Eggs and Ham | |
 | ⬜️ | mohawk | seussabc | Dr Seuss's ABC | |
 | ⬜️ | mohawk | tortoise | Aesop's Fables: The Tortoise and the Hare | |
-| ⬜️ | mohawk | arthur | Arthur's Teacher Trouble | |
+| ✅ | mohawk | arthur | Arthur's Teacher Trouble | mileso |
 | ⬜️ | mohawk | grandma | Just Grandma and Me | |
 | ⬜️ | mohawk | ruff | Ruff's Bone | |
 | ⬜️ | mohawk | newkid | The New Kid on the Block | |
