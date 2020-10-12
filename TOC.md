@@ -277,6 +277,8 @@
 | ✅ | gob | fascination | Fascination | JenniBee |
 | ✅ | gob | geisha | Geisha | JenniBee |
 | ⬜️ | griffon | griffon | The Griffon Legend | |
+| ⬜️ | grim | grim | Grim Fandango | |
+| ⬜️ | grim | monkey4 | Escape From Monkey Island | |
 | ✅ | groovie | t7g | The 7th Guest | NekoFever |
 | ⬜️ | hdb | hdb | Hyperspace Delivery Boy! | |
 | ⬜️ | hopkins | hopkins | Hopkins FBI | |
@@ -315,6 +317,7 @@
 | ⬜️ | mohawk | stellaluna | Stellaluna | |
 | ⬜️ | mohawk | sheila | Sheila Rae, the Brave | |
 | ⬜️ | mortevielle | mortevielle | Mortville Manor | |
+| ⬜️ | myst3 | myst3 | Myst III Exile | |
 | ✅ | neverhood | neverhood | The Neverhood Chronicles | JenniBee |
 | ⬜️ | parallaction | nippon | Nippon Safes Inc. | |
 | ⬜️ | pegasus | pegasus | The Journeyman Project: Pegasus Prime | |
@@ -402,6 +405,7 @@
 | ⬜️ | sherlock | scalpel | The Case of the Serrated Scalpel | |
 | ⬜️ | sherlock | rosetattoo | The Case of the Rose Tattoo | |
 | ✅ | sky | sky | Beneath a Steel Sky | nightm4re94 |
+| ⬜️ | stark | tlj | The Longest Journey | |
 | ✅ | supernova | msn1 | Mission Supernova 1 | Tucky27 |
 | ✅ | supernova | msn2 | Mission Supernova 2 | Tucky27 |
 | ✅ | sword1 | sword1 | Broken Sword: The Shadow of the Templars | nightm4re94 |
