@@ -143,6 +143,59 @@
 | ⬜️ | drascula | drascula | Drascula: The Vampire Strikes Back | |
 | ⬜️ | dreamweb | dreamweb | DreamWeb | |
 | ⬜️ | fullpipe | fullpipe | Full Pipe | |
+| ⬜️ | glk | adrianmole1 | Adrian Mole I | |
+| ⬜️ | glk | adrianmole2 | Adrian Mole II | |
+| ⬜️ | glk | thearchers | The Archers | |
+| ⬜️ | glk | adventurequest | Adventure Quest | |
+| ✅ | glk | colossaladvjod | Colossal Adventure /JoD | JenniBee |
+| ⬜️ | glk | dungeonadv | Dungeon Adventure | |
+| ⬜️ | glk | dungeonadvjod | Dungeon Adventure /JoD | |
+| ⬜️ | glk | emeraldisle | Emerald Isle | |
+| ⬜️ | glk | eriktheviking | Erik the Viking | |
+| ⬜️ | glk | gnomeranger | Gnome Ranger | |
+| ⬜️ | glk | ingridsback | Ingrid's Back | |
+| ⬜️ | glk | knightorc | Knight Orc | |
+| ⬜️ | glk | lancelot | Lancelot | |
+| ⬜️ | glk | lordsoftime | Lords of Time | |
+| ⬜️ | glk | lordsoftimetmgd | Lords of Time /T&M GD | |
+| ⬜️ | glk | lordsoftimetm | Lords of Time /T&M | |
+| ⬜️ | glk | priceofmagik | Price of Magik | |
+| ⬜️ | glk | priceofmagiktmgd | Price of Magik /T&M GD | |
+| ⬜️ | glk | priceofmagiktm | Price of Magik /T&M | |
+| ⬜️ | glk | redmoon | Red Moon | |
+| ⬜️ | glk | redmoontmgd | Red Moon /T&M GD | |
+| ⬜️ | glk | redmoontm | Red Moon /T&M | |
+| ⬜️ | glk | returntoeden | Return to Eden | |
+| ⬜️ | glk | returntoedensd | Return to Eden /SD | |
+| ⬜️ | glk | scapeghost | Scapeghost | |
+| ⬜️ | glk | snowball | Snowball | |
+| ⬜️ | glk | snowballsd | Snowball /SD | |
+| ⬜️ | glk | worminparadise | Worm in Paradise | |
+| ⬜️ | glk | worminparadisesd | Worm in Paradise /SD | |
+| ⬜️ | glk | magnetic | Magnetic Scrolls Game | |
+| ⬜️ | glk | corruption | Corruption | |
+| ⬜️ | glk | fish | Fish! | |
+| ⬜️ | glk | guild | The Guild of Thieves | |
+| ⬜️ | glk | jinxter | Jinxter | |
+| ⬜️ | glk | myth | Myth | |
+| ⬜️ | glk | pawn | the Pawn | |
+| ⬜️ | glk | wonderland | Wonderland | |
+| ⬜️ | glk | adventureland | Adventureland | |
+| ⬜️ | glk | pirateadventure | Pirate Adventure | |
+| ⬜️ | glk | missionimpossible | Mission Impossible | |
+| ⬜️ | glk | voodoocastle | Voodoo Castle | |
+| ⬜️ | glk | thecount | The Count | |
+| ⬜️ | glk | strangeodyssey | Strange Odyssey | |
+| ⬜️ | glk | mysteryfunhouse | Mystery Fun House | |
+| ⬜️ | glk | pyramidofdoom | Pyramid Of Doom | |
+| ⬜️ | glk | ghosttown | Ghost Town | |
+| ⬜️ | glk | savageisland1 | Savage Island, Part 1 | |
+| ⬜️ | glk | savageisland2 | Savage Island, Part 2 | |
+| ⬜️ | glk | goldenvoyage | The Golden Voyage | |
+| ⬜️ | glk | claymorguesorcerer | Sorcerer of Claymorgue Castle | |
+| ⬜️ | glk | pirateisle | Return to Pirate Isle | |
+| ⬜️ | glk | buckaroobanzai | Buckaroo Banzai | |
+| ⬜️ | glk | scottsampler | Adventure International's Mini-Adventure Sampler | |
 | ✅ | glk | adv350 | Adventure, 350 point Colossal Cave | JenniBee |
 | ✅ | glk | adv350h | Adventure, 350 point Colossal Cave | JenniBee |
 | ✅ | glk | adv440 | Adventure II, 440 point Colossal Cave | JenniBee |
@@ -154,7 +207,6 @@
 | ⬜️ | glk | borderzone | Border Zone | |
 | ⬜️ | glk | bureaucracy | Bureaucracy | |
 | ✅ | glk | ccfirstadv | Colossal Cave - The First Adventure | JenniBee |
-| ✅ | glk | colossaladvjod | Colossal Adventure /JoD | JenniBee |
 | ⬜️ | glk | cutthroats | Cutthroats | |
 | ⬜️ | glk | deadline | Deadline | |
 | ✅ | glk | elf20 | The Elf's Christmas Adventure | JenniBee |
