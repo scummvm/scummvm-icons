@@ -31,7 +31,7 @@
 | ⬜️ | scumm | baseball2003 | Backyard Baseball 2003 | |
 | ⬜️ | scumm | basketball | Backyard Basketball | |
 | ⬜️ | scumm | football2002 | Backyard Football 2002 | |
-| ⬜️ | scumm | freddicove | Freddi Fish 5: The Case of the Creature of Coral Cove | Retrodude |
+| ✅ | scumm | freddicove | Freddi Fish 5: The Case of the Creature of Coral Cove | Retrodude |
 | ✅ | scumm | moonbase | Moonbase Commander | JenniBee|
 | ⬜️ | scumm | pjgames | Pajama Sam: Games to Play on Any Day | |
 | ⬜️ | scumm | readtime | Blue's Reading Time Activities | |
