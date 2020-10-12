@@ -256,7 +256,7 @@
 | ⬜️ | gob | littlered | Once Upon A Time: Little Red Riding Hood | |
 | ⬜️ | gob | onceupon | Once Upon A Time | |
 | ⬜️ | gob | ajworld | A.J.'s World of Discovery | |
-| ⬜️ | gob | gob3 | Goblins Quest 3 | |
+| ✅ | gob | gob3 | Goblins Quest 3 |Canuma|
 | ✅ | gob | crousti | Croustibat | JenniBee |
 | ⬜️ | gob | lit1 | Lost in Time Part 1 | |
 | ⬜️ | gob | lit2 | Lost in Time Part 2 | |
