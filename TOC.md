@@ -20,7 +20,7 @@
 | ✅ | scumm | dig | The Dig | Urgeistenergie |
 | ✅ | scumm | comi | The Curse of Monkey Island | JenniBee |
 | ✅ | scumm | activity | Putt-Putt & Fatty Bear's Activity Pack | Tucky27 |
-| ⬜️ | scumm | brstorm | Bear Stormin' | |
+| ✅ | scumm | brstorm | Bear Stormin' | Tucky27 |
 | ✅ | scumm | fbear | Fatty Bear's Birthday Surprise | Tucky27 |
 | ✅ | scumm | fbpack | Fatty Bear's Fun Pack | Tucky27 |
 | ⬜️ | scumm | funpack | Putt-Putt's Fun Pack | |
@@ -38,7 +38,7 @@
 | ⬜️ | scumm | soccer2004 | Backyard Soccer 2004 | |
 | ⬜️ | scumm | soccermls | Backyard Soccer MLS Edition | |
 | ✅ | scumm | spyozon | SPY Fox 3: Operation Ozone | Tucky27 |
-| ⬜️ | scumm | airport | Let's Explore the Airport with Buzzy | |
+| ✅ | scumm | airport | Let's Explore the Airport with Buzzy | Tucky27 |
 | ✅ | scumm | balloon | Putt-Putt and Pep's Balloon-O-Rama | Tucky27 |
 | ⬜️ | scumm | baseball | Backyard Baseball | |
 | ⬜️ | scumm | blues123time | Blue's 123 Time Activities | |
@@ -285,7 +285,7 @@
 | ✅ | hugo | hugo1 | Hugo 1: Hugo's House of Horrors | JenniBee |
 | ✅ | hugo | hugo2 | Hugo 2: Whodunit? | JenniBee |
 | ✅ | hugo | hugo3 | Hugo 3: Jungle of Doom | JenniBee |
-| ⬜️ | illusions | duckman | Duckman | |
+| ✅ | illusions | duckman | Duckman | Tucky27 |
 | ✅ | kyra | kyra1 | The Legend of Kyrandia | Tucky27 |
 | ✅ | kyra | kyra2 | The Legend of Kyrandia: The Hand of Fate | Tucky27 |
 | ✅ | kyra | kyra3 | The Legend of Kyrandia: Malcolm's Revenge | Tucky27 |
@@ -353,9 +353,9 @@
 | ⬜️ | sci | cnick-longbow | Crazy Nick's Software Picks: Robin Hood's Game of Skill and Chance | |
 | ⬜️ | sci | cnick-sq | Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack | |
 | ⬜️ | sci | ecoquest | EcoQuest: The Search for Cetus | |
-| ⬜️ | sci | fairytales | Mixed-up Fairy Tales | |
+| ✅ | sci | fairytales | Mixed-up Fairy Tales | Tucky27 |
 | ⬜️ | sci | hoyle3 | Hoyle Official Book of Games: Volume 3 | |
-| ⬜️ | sci | jones | Jones in the Fast Lane | |
+| ✅ | sci | jones | Jones in the Fast Lane | Tucky27 |
 | ✅ | sci | kq5 | King's Quest V: Absence Makes the Heart Go Yonder | JenniBee |
 | ⬜️ | sci | longbow | Conquests of the Longbow: The Adventures of Robin Hood | |
 | ✅ | sci | lsl1sci | Leisure Suit Larry in the Land of the Lounge Lizards | JenniBee |
