@@ -23,16 +23,16 @@
 | ✅ | scumm | brstorm | Bear Stormin' | Tucky27 |
 | ✅ | scumm | fbear | Fatty Bear's Birthday Surprise | Tucky27 |
 | ✅ | scumm | fbpack | Fatty Bear's Fun Pack | Tucky27 |
-| ⬜️ | scumm | funpack | Putt-Putt's Fun Pack | |
+| ✅ | scumm | funpack | Putt-Putt's Fun Pack |Tucky27  |
 | ✅ | scumm | puttmoon | Putt-Putt Goes to the Moon | Tucky27 |
 | ✅ | scumm | puttputt | Putt-Putt Joins the Parade | Tucky27 |
-| ⬜️ | scumm | arttime | Blue's Art Time Activities | |
-| ⬜️ | scumm | baseball2001 | Backyard Baseball 2001 | |
-| ⬜️ | scumm | baseball2003 | Backyard Baseball 2003 | |
-| ⬜️ | scumm | basketball | Backyard Basketball | |
-| ⬜️ | scumm | football2002 | Backyard Football 2002 | |
+| ✅ | scumm | arttime | Blue's Art Time Activities | Tucky27 |
+| ✅ | scumm | baseball2001 | Backyard Baseball 2001 | Tucky27 |
+| ✅ | scumm | baseball2003 | Backyard Baseball 2003 | Tucky27 |
+| ✅ | scumm | basketball | Backyard Basketball | Tucky27 |
+| ✅ | scumm | football2002 | Backyard Football 2002 | Tucky27 |
 | ✅ | scumm | freddicove | Freddi Fish 5: The Case of the Creature of Coral Cove | Retrodude |
-| ✅ | scumm | moonbase | Moonbase Commander | JenniBee|
+| ✅ | scumm | moonbase | Moonbase Commander | JenniBee |
 | ⬜️ | scumm | pjgames | Pajama Sam: Games to Play on Any Day | |
 | ⬜️ | scumm | readtime | Blue's Reading Time Activities | |
 | ⬜️ | scumm | soccer2004 | Backyard Soccer 2004 | |
