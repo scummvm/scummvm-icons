@@ -80,7 +80,7 @@
 | ✅ | adl | hires1 | Hi-Res Adventure #1: Mystery House | JenniBee |
 | ✅ | adl | hires2 | Hi-Res Adventure #2: Wizard and the Princess | TrivialBalderdash |
 | ✅ | adl | hires3 | Hi-Res Adventure #3: Cranston Manor | Tucky27 |
-| ⬜️ | adl | hires4 | Hi-Res Adventure #4: Ulysses and the Golden Fleece | |
+| ✅ | adl | hires4 | Hi-Res Adventure #4: Ulysses and the Golden Fleece | dotdc |
 | ✅ | adl | hires5 | Hi-Res Adventure #5: Time Zone | TrivialBalderdash |
 | ✅ | adl | hires6 | Hi-Res Adventure #6: The Dark Crystal | TrivialBalderdash |
 | ✅ | agi | agi | Sierra AGI game | JenniBee |
@@ -88,7 +88,7 @@
 | ✅ | agi | bc | The Black Cauldron | Tucky27 |
 | ⬜️ | agi | caitlyn | Caitlyn's Destiny | |
 | ✅ | agi | ddp | Donald Duck's Playground | JenniBee |
-| ⬜️ | agi | goldrush | Gold Rush! | |
+| ✅ | agi | goldrush | Gold Rush! | dotdc |
 | ✅ | agi | kq1 | King's Quest I: Quest for the Crown | dotdc |
 | ✅ | agi | kq2 | King's Quest II: Romancing the Throne | dotdc |
 | ✅ | agi | kq3 | King's Quest III: To Heir Is Human | dotdc |
