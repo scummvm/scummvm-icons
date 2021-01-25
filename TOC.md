@@ -34,7 +34,7 @@
 | ✅ | scumm | freddicove | Freddi Fish 5: The Case of the Creature of Coral Cove | Retrodude |
 | ✅ | scumm | moonbase | Moonbase Commander | JenniBee |
 | ✅ | scumm | pjgames | Pajama Sam: Games to Play on Any Day | Tucky27 |
-| ⬜️ | scumm | readtime | Blue's Reading Time Activities | |
+| ✅ | scumm | readtime | Blue's Reading Time Activities | Tucky27 |
 | ⬜️ | scumm | soccer2004 | Backyard Soccer 2004 | |
 | ⬜️ | scumm | soccermls | Backyard Soccer MLS Edition | |
 | ✅ | scumm | spyozon | SPY Fox 3: Operation Ozone | Tucky27 |
@@ -357,7 +357,7 @@
 | ⬜️ | sci | hoyle3 | Hoyle Official Book of Games: Volume 3 | |
 | ✅ | sci | jones | Jones in the Fast Lane | Tucky27 |
 | ✅ | sci | kq5 | King's Quest V: Absence Makes the Heart Go Yonder | JenniBee |
-| ⬜️ | sci | longbow | Conquests of the Longbow: The Adventures of Robin Hood | |
+| ✅ | sci | longbow | Conquests of the Longbow: The Adventures of Robin Hood | Tucky27 |
 | ✅ | sci | lsl1sci | Leisure Suit Larry in the Land of the Lounge Lizards | JenniBee |
 | ✅ | sci | lsl5 | Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work | JenniBee |
 | ✅ | sci | mothergoose256 | Mixed-Up Mother Goose | dotdc |
