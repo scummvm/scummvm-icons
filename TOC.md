@@ -94,11 +94,11 @@
 | ✅ | agi | kq3 | King's Quest III: To Heir Is Human | dotdc |
 | ✅ | agi | kq4 | King's Quest IV: The Perils of Rosella | JenniBee |
 | ✅ | agi | lsl1 | Leisure Suit Larry in the Land of the Lounge Lizards | JenniBee |
-| ⬜️ | agi | mickey | Mickey's Space Adventure | |
+| ✅ | agi | mickey | Mickey's Space Adventure | Matt |
 | ✅ | agi | mixedup | Mixed-Up Mother Goose | dotdc |
 | ✅ | agi | mh1 | Manhunter 1: New York | GandalfTheWhite80 |
 | ✅ | agi | mh2 | Manhunter 2: San Francisco | GandalfTheWhite80 |
-| ⬜️ | agi | pq1 | Police Quest I: In Pursuit of the Death Angel | |
+| ✅ | agi | pq1 | Police Quest I: In Pursuit of the Death Angel | Thanius |
 | ⬜️ | agi | serguei1 | Serguei's Destiny 1 | |
 | ⬜️ | agi | serguei2 | Serguei's Destiny 2 | |
 | ✅ | agi | sq0 | Space Quest 0: Replicated | JenniBee |
@@ -107,25 +107,25 @@
 | ✅ | agi | sqx | Space Quest X: The Lost Chapter | JenniBee |
 | ✅ | agi | tetris | AGI Tetris | JenniBee |
 | ✅ | agi | troll | Troll's Tale | JenniBee |
-| ⬜️ | agi | winnie | Winnie the Pooh in the Hundred Acre Wood | |
+| ✅ | agi | winnie | Winnie the Pooh in the Hundred Acre Wood | Matt |
 | ⬜️ | agi | xmascard | Xmas Card | |
-| ⬜️ | agos | pn | Personal Nightmare | |
+| ✅ | agos | pn | Personal Nightmare | Matt |
 | ✅ | agos | elvira1 | Elvira - Mistress of the Dark | JenniBee |
-| ⬜️ | agos | elvira2 | Elvira II - The Jaws of Cerberus | |
+| ✅ | agos | elvira2 | Elvira II - The Jaws of Cerberus | Matt |
 | ✅ | agos | waxworks | Waxworks | JenniBee |
 | ✅ | agos | simon1 | Simon the Sorcerer 1 | GandalfTheWhite80 |
 | ✅ | agos | simon2 | Simon the Sorcerer 2 | GandalfTheWhite80 |
 | ✅ | agos | feeble | The Feeble Files |Canuma|
-| ⬜️ | agos | dimp | Demon in my Pocket | |
-| ⬜️ | agos | jumble | Jumble | |
-| ⬜️ | agos | puzzle | NoPatience | |
-| ⬜️ | agos | swampy | Swampy Adventures | |
+| ✅ | agos | dimp | Demon in my Pocket | Matt |
+| ✅ | agos | jumble | Jumble | Matt |
+| ✅ | agos | puzzle | NoPatience | Matt |
+| ✅ | agos | swampy | Swampy Adventures | Matt |
 | ✅ | avalanche | avalanche | Lord Avalot d'Argent | JenniBee |
 | ✅ | bbvs | bbvs | Beavis and Butt-head in Virtual Stupidity | JenniBee |
 | ✅ | bladerunner | bladerunner | Blade Runner | NekoFever |
 | ✅ | cge | soltys | Soltys | JenniBee |
 | ✅ | cge2 | sfinx | Sfinx | JenniBee |
-| ⬜️ | cine | fw | Future Wars | |
+| ✅ | cine | fw | Future Wars | Thanius |
 | ✅ | cine | os | Operation Stealth | JenniBee |
 | ⬜️ | composer | babayaga | Magic Tales: Baba Yaga and the Magic Geese | |
 | ⬜️ | composer | darby | Darby the Dragon | |
@@ -140,8 +140,8 @@
 | ✅ | cryomni3d | versailles | Versailles 1685 | Tucky27 |
 | ✅ | draci | draci | Draci Historie | JenniBee |
 | ✅ | dragons | dragons | Blazing Dragons | dotdc |
-| ⬜️ | drascula | drascula | Drascula: The Vampire Strikes Back | |
-| ⬜️ | dreamweb | dreamweb | DreamWeb | |
+| ✅ | drascula | drascula | Drascula: The Vampire Strikes Back | Thanius |
+| ✅ | dreamweb | dreamweb | DreamWeb | thedoc |
 | ⬜️ | fullpipe | fullpipe | Full Pipe | |
 | ⬜️ | glk | adrianmole1 | Adrian Mole I | |
 | ⬜️ | glk | adrianmole2 | Adrian Mole II | |
@@ -253,16 +253,16 @@
 | ✅ | gob | bargon | Bargon Attack |Canuma |
 | ⬜️ | gob | babayaga | Once Upon A Time: Baba Yaga | |
 | ⬜️ | gob | abracadabra | Once Upon A Time: Abracadabra | |
-| ⬜️ | gob | littlered | Once Upon A Time: Little Red Riding Hood | |
+| ✅ | gob | littlered | Once Upon A Time: Little Red Riding Hood | Matt |
 | ⬜️ | gob | onceupon | Once Upon A Time | |
 | ⬜️ | gob | ajworld | A.J.'s World of Discovery | |
 | ✅ | gob | gob3 | Goblins Quest 3 |Canuma|
 | ✅ | gob | crousti | Croustibat | JenniBee |
 | ⬜️ | gob | lit1 | Lost in Time Part 1 | |
 | ⬜️ | gob | lit2 | Lost in Time Part 2 | |
-| ⬜️ | gob | lit | Lost in Time | |
+| ✅ | gob | lit | Lost in Time | Matt |
 | ⬜️ | gob | inca2 | Inca II: Wiracocha | |
-| ⬜️ | gob | woodruff | The Bizarre Adventures of Woodruff and the Schnibble | |
+| ✅ | gob | woodruff | The Bizarre Adventures of Woodruff and the Schnibble | Matt |
 | ⬜️ | gob | dynasty | The Last Dynasty | |
 | ✅ | gob | urban | Urban Runner | JenniBee |
 | ⬜️ | gob | playtoons1 | Playtoons 1 - Uncle Archibald | |
@@ -273,7 +273,7 @@
 | ⬜️ | gob | playtnck1 | Playtoons Construction Kit 1 - Monsters | |
 | ⬜️ | gob | playtnck2 | Playtoons Construction Kit 2 - Knights | |
 | ⬜️ | gob | playtnck3 | Playtoons Construction Kit 3 - Far West | |
-| ⬜️ | gob | bambou | Playtoons Limited Edition - Bambou le sauveur de la jungle | |
+| ✅ | gob | bambou | Playtoons Limited Edition - Bambou le sauveur de la jungle | Matt |
 | ✅ | gob | fascination | Fascination | JenniBee |
 | ✅ | gob | geisha | Geisha | JenniBee |
 | ⬜️ | griffon | griffon | The Griffon Legend | |
@@ -294,10 +294,10 @@
 | ✅ | kyra | eob2 | Eye of the Beholder II: The Legend of Darkmoon | Tucky27 |
 | ⬜️ | lab | lab | Labyrinth of Time | |
 | ✅ | lure | lure | Lure of the Temptress | GandalfTheWhite80 |
-| ⬜️ | made | manhole | The Manhole | |
+| ✅ | made | manhole | The Manhole | Matt |
 | ✅ | made | rtz | Return to Zork | JenniBee |
-| ⬜️ | made | lgop2 | Leather Goddesses of Phobos 2 | |
-| ⬜️ | made | rodney | Rodney's Funscreen | |
+| ✅ | made | lgop2 | Leather Goddesses of Phobos 2 | Matt |
+| ✅ | made | rodney | Rodney's Funscreen | Matt |
 | ✅ | mads | nebular | Rex Nebular and the Cosmic Gender Bender | TrivialBalderdash |
 | ✅ | mohawk | myst | Myst | TrivialBalderdash |
 | ⬜️ | mohawk | makingofmyst | The Making of Myst | |
@@ -319,8 +319,8 @@
 | ⬜️ | mortevielle | mortevielle | Mortville Manor | |
 | ⬜️ | myst3 | myst3 | Myst III Exile | |
 | ✅ | neverhood | neverhood | The Neverhood Chronicles | JenniBee |
-| ⬜️ | parallaction | nippon | Nippon Safes Inc. | |
-| ⬜️ | pegasus | pegasus | The Journeyman Project: Pegasus Prime | |
+| ✅ | parallaction | nippon | Nippon Safes Inc. | Redbar |
+| ✅ | pegasus | pegasus | The Journeyman Project: Pegasus Prime | JenniBee |
 | ✅ | plumbers | plumbers | Plumbers Don't Wear Ties! | nightm4re94 |
 | ✅ | prince | prince | The Prince and the Coward | JenniBee |
 | ✅ | queen | queen | Flight of the Amazon Queen | NekoFever |
@@ -345,14 +345,14 @@
 | ✅ | sci | sq3 | Space Quest III: The Pirates of Pestulon | JenniBee |
 | ✅ | sci | qfg2 | Quest for Glory II: Trial by Fire | JenniBee |
 | ✅ | sci | kq1sci | King's Quest I: Quest for the Crown | dotdc |
-| ⬜️ | sci | castlebrain | Castle of Dr. Brain | |
+| ✅ | sci | castlebrain | Castle of Dr. Brain | thedoc |
 | ⬜️ | sci | christmas1990 | Christmas Card 1990: The Seasoned Professional | |
 | ⬜️ | sci | cnick-lsl | Crazy Nick's Software Picks: Leisure Suit Larry's Casino | |
 | ⬜️ | sci | cnick-kq | Crazy Nick's Software Picks: King Graham's Board Game Challenge | |
 | ⬜️ | sci | cnick-laurabow | Crazy Nick's Software Picks: Parlor Games with Laura Bow | |
 | ⬜️ | sci | cnick-longbow | Crazy Nick's Software Picks: Robin Hood's Game of Skill and Chance | |
 | ⬜️ | sci | cnick-sq | Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack | |
-| ⬜️ | sci | ecoquest | EcoQuest: The Search for Cetus | |
+| ✅ | sci | ecoquest | EcoQuest: The Search for Cetus | thedoc |
 | ✅ | sci | fairytales | Mixed-up Fairy Tales | Tucky27 |
 | ⬜️ | sci | hoyle3 | Hoyle Official Book of Games: Volume 3 | |
 | ✅ | sci | jones | Jones in the Fast Lane | Tucky27 |
@@ -362,12 +362,12 @@
 | ✅ | sci | lsl5 | Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work | JenniBee |
 | ✅ | sci | mothergoose256 | Mixed-Up Mother Goose | dotdc |
 | ✅ | sci | msastrochicken | Ms. Astro Chicken | Tucky27 |
-| ⬜️ | sci | pq1sci | Police Quest: In Pursuit of the Death Angel | |
+| ✅ | sci | pq1sci | Police Quest: In Pursuit of the Death Angel | Thanius |
 | ✅ | sci | pq3 | Police Quest III: The Kindred | JenniBee |
 | ✅ | sci | sq1sci | Space Quest I: The Sarien Encounter | JenniBee |
 | ✅ | sci | sq4 | Space Quest IV: Roger Wilco and the Time Rippers | JenniBee |
 | ⬜️ | sci | christmas1992 | Christmas Card 1992 | |
-| ⬜️ | sci | ecoquest2 | EcoQuest II: Lost Secret of the Rainforest | |
+| ✅ | sci | ecoquest2 | EcoQuest II: Lost Secret of the Rainforest | thedoc |
 | ✅ | sci | freddypharkas | Freddy Pharkas: Frontier Pharmacist | dotdc |
 | ⬜️ | sci | hoyle4 | Hoyle Classic Card Games | |
 | ✅ | sci | kq6 | King's Quest VI: Heir Today, Gone Tomorrow | JenniBee |
@@ -375,7 +375,7 @@
 | ✅ | sci | qfg1vga | Quest for Glory I: So You Want to Be a Hero | JenniBee |
 | ✅ | sci | qfg3 | Quest for Glory III: Wages of War | JenniBee |
 | ✅ | sci | sq5 | Space Quest V: The Next Mutation | JenniBee |
-| ⬜️ | sci | islandbrain | The Island of Dr. Brain | |
+| ✅ | sci | islandbrain | The Island of Dr. Brain | thedoc |
 | ✅ | sci | lsl6 | Leisure Suit Larry 6: Shape Up or Slip Out! | JenniBee |
 | ✅ | sci | pepper | Pepper's Adventure in Time | Tucky27 |
 | ⬜️ | sci | slater | Slater & Charlie Go Camping | |
@@ -395,13 +395,13 @@
 | ✅ | sci | mothergoosehires | Mixed-Up Mother Goose Deluxe | dotdc |
 | ✅ | sci | phantasmagoria | Phantasmagoria | dotdc |
 | ⬜️ | sci | pqswat | Police Quest: SWAT | |
-| ⬜️ | sci | shivers | Shivers | |
+| ✅ | sci | shivers | Shivers | thedoc |
 | ✅ | sci | sq6 | Space Quest 6: The Spinal Frontier | JenniBee |
 | ✅ | sci | torin | Torin's Passage | Urgeistenergie |
 | ✅ | sci | lsl7 | Leisure Suit Larry 7: Love for Sail! | JenniBee |
-| ⬜️ | sci | lighthouse | Lighthouse: The Dark Being | |
+| ✅ | sci | lighthouse | Lighthouse: The Dark Being | thedoc |
 | ✅ | sci | phantasmagoria2 | Phantasmagoria 2: A Puzzle of Flesh | dotdc |
-| ⬜️ | sci | rama | RAMA | |
+| ✅ | sci | rama | RAMA | thedoc |
 | ⬜️ | sherlock | scalpel | The Case of the Serrated Scalpel | |
 | ⬜️ | sherlock | rosetattoo | The Case of the Rose Tattoo | |
 | ✅ | sky | sky | Beneath a Steel Sky | nightm4re94 |
@@ -414,7 +414,7 @@
 | ✅ | teenagent | teenagent | Teen Agent | robertmegone |
 | ✅ | tinsel | dw | Discworld | JenniBee |
 | ✅ | tinsel | dw2 | Discworld 2: Missing Presumed ...!? | JenniBee |
-| ⬜️ | titanic | titanic | Starship Titanic | |
+| ✅ | titanic | titanic | Starship Titanic | thedoc |
 | ✅ | toltecs | toltecs | 3 Skulls of the Toltecs |Canuma|
 | ⬜️ | tony | tony | Tony Tough and the Night of Roasted Moths | |
 | ✅ | toon | toon | Toonstruck | JenniBee |
