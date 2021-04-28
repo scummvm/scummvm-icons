@@ -282,7 +282,7 @@
 | ✅ | grim | monkey4 | Escape From Monkey Island | Thanius |
 | ✅ | groovie | t7g | The 7th Guest | NekoFever |
 | ✅ | groovie | 11h | The 11th Hour | bobdevis |
-| ⬜️ | hdb | hdb | Hyperspace Delivery Boy! | |
+| ✅ | hdb | hdb | Hyperspace Delivery Boy! | SupSuper |
 | ⬜️ | hopkins | hopkins | Hopkins FBI | |
 | ✅ | hugo | hugo1 | Hugo 1: Hugo's House of Horrors | JenniBee |
 | ✅ | hugo | hugo2 | Hugo 2: Whodunit? | JenniBee |
