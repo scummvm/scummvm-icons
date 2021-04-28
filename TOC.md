@@ -120,6 +120,7 @@
 | ✅ | agos | jumble | Jumble | Matt |
 | ✅ | agos | puzzle | NoPatience | Matt |
 | ✅ | agos | swampy | Swampy Adventures | Matt |
+| ✅ | asylum | asylum | Sanitarium | JenniBee |
 | ✅ | avalanche | avalanche | Lord Avalot d'Argent | JenniBee |
 | ✅ | bbvs | bbvs | Beavis and Butt-head in Virtual Stupidity | JenniBee |
 | ✅ | bladerunner | bladerunner | Blade Runner | NekoFever |
@@ -277,9 +278,10 @@
 | ✅ | gob | fascination | Fascination | JenniBee |
 | ✅ | gob | geisha | Geisha | JenniBee |
 | ⬜️ | griffon | griffon | The Griffon Legend | |
-| ⬜️ | grim | grim | Grim Fandango | |
-| ⬜️ | grim | monkey4 | Escape From Monkey Island | |
+| ✅ | grim | grim | Grim Fandango | Thanius |
+| ✅ | grim | monkey4 | Escape From Monkey Island | Thanius |
 | ✅ | groovie | t7g | The 7th Guest | NekoFever |
+| ✅ | groovie | 11h | The 11th Hour | bobdevis |
 | ⬜️ | hdb | hdb | Hyperspace Delivery Boy! | |
 | ⬜️ | hopkins | hopkins | Hopkins FBI | |
 | ✅ | hugo | hugo1 | Hugo 1: Hugo's House of Horrors | JenniBee |
@@ -317,7 +319,7 @@
 | ⬜️ | mohawk | stellaluna | Stellaluna | |
 | ⬜️ | mohawk | sheila | Sheila Rae, the Brave | |
 | ⬜️ | mortevielle | mortevielle | Mortville Manor | |
-| ⬜️ | myst3 | myst3 | Myst III Exile | |
+| ✅ | myst3 | myst3 | Myst III Exile | JenniBee |
 | ✅ | neverhood | neverhood | The Neverhood Chronicles | JenniBee |
 | ✅ | parallaction | nippon | Nippon Safes Inc. | Redbar |
 | ✅ | pegasus | pegasus | The Journeyman Project: Pegasus Prime | JenniBee |
@@ -405,7 +407,7 @@
 | ⬜️ | sherlock | scalpel | The Case of the Serrated Scalpel | |
 | ⬜️ | sherlock | rosetattoo | The Case of the Rose Tattoo | |
 | ✅ | sky | sky | Beneath a Steel Sky | nightm4re94 |
-| ⬜️ | stark | tlj | The Longest Journey | |
+| ✅ | stark | tlj | The Longest Journey | JenniBee |
 | ✅ | supernova | msn1 | Mission Supernova 1 | Tucky27 |
 | ✅ | supernova | msn2 | Mission Supernova 2 | Tucky27 |
 | ✅ | sword1 | sword1 | Broken Sword: The Shadow of the Templars | nightm4re94 |
