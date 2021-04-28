@@ -77,7 +77,7 @@
 | ⬜️ | scumm | water | Freddi Fish and Luther's Water Worries | |
 | ✅ | access | amazon | Amazon: Guardians of Eden | Tucky27 |
 | ✅ | adl | hires0 | Hi-Res Adventure #0: Mission Asteroid | Tucky27 |
-| ✅ | adl | hires1 | Hi-Res Adventure #1: Mystery House | JenniBee |
+| ✅ | adl | hires1 | Hi-Res Adventure #1: Mystery House | rehail |
 | ✅ | adl | hires2 | Hi-Res Adventure #2: Wizard and the Princess | TrivialBalderdash |
 | ✅ | adl | hires3 | Hi-Res Adventure #3: Cranston Manor | Tucky27 |
 | ✅ | adl | hires4 | Hi-Res Adventure #4: Ulysses and the Golden Fleece | dotdc |
@@ -93,7 +93,7 @@
 | ✅ | agi | kq2 | King's Quest II: Romancing the Throne | dotdc |
 | ✅ | agi | kq3 | King's Quest III: To Heir Is Human | dotdc |
 | ✅ | agi | kq4 | King's Quest IV: The Perils of Rosella | JenniBee |
-| ✅ | agi | lsl1 | Leisure Suit Larry in the Land of the Lounge Lizards | JenniBee |
+| ✅ | agi | lsl1 | Leisure Suit Larry in the Land of the Lounge Lizards | rehail |
 | ✅ | agi | mickey | Mickey's Space Adventure | Matt |
 | ✅ | agi | mixedup | Mixed-Up Mother Goose | dotdc |
 | ✅ | agi | mh1 | Manhunter 1: New York | GandalfTheWhite80 |
@@ -137,7 +137,7 @@
 | ⬜️ | composer | magictales | Magic Tales | |
 | ⬜️ | composer | princess | Magic Tales: The Princess and the Crab | |
 | ⬜️ | composer | sleepingcub | Magic Tales: Sleeping Cub's Test of Courage | |
-| ⬜️ | cruise | cruise | Cruise for a Corpse | |
+| ✅ | cruise | cruise | Cruise for a Corpse | rehail |
 | ✅ | cryomni3d | versailles | Versailles 1685 | Tucky27 |
 | ✅ | draci | draci | Draci Historie | JenniBee |
 | ✅ | dragons | dragons | Blazing Dragons | dotdc |
@@ -283,7 +283,7 @@
 | ✅ | groovie | t7g | The 7th Guest | NekoFever |
 | ✅ | groovie | 11h | The 11th Hour | bobdevis |
 | ✅ | hdb | hdb | Hyperspace Delivery Boy! | SupSuper |
-| ⬜️ | hopkins | hopkins | Hopkins FBI | |
+| ✅ | hopkins | hopkins | Hopkins FBI | rehail |
 | ✅ | hugo | hugo1 | Hugo 1: Hugo's House of Horrors | JenniBee |
 | ✅ | hugo | hugo2 | Hugo 2: Whodunit? | JenniBee |
 | ✅ | hugo | hugo3 | Hugo 3: Jungle of Doom | JenniBee |
@@ -332,15 +332,15 @@
 | ⬜️ | sci | sci-fanmade | Fanmade SCI Game | |
 | ⬜️ | sci | astrochicken | Astro Chicken | |
 | ⬜️ | sci | christmas1988 | Christmas Card 1988 | |
-| ⬜️ | sci | iceman | Codename: Iceman | |
+| ✅ | sci | iceman | Codename: Iceman | rehail |
 | ⬜️ | sci | camelot | Conquests of Camelot: King Arthur, Quest for the Grail | |
 | ⬜️ | sci | funseeker | Fun Seeker's Guide | |
 | ⬜️ | sci | hoyle1 | Hoyle Official Book of Games: Volume 1 | |
 | ⬜️ | sci | hoyle2 | Hoyle Official Book of Games: Volume 2 | |
 | ✅ | sci | kq4sci | King's Quest IV: The Perils of Rosella | JenniBee |
 | ✅ | sci | laurabow | Laura Bow: The Colonel's Bequest | dotdc |
-| ✅ | sci | lsl2 | Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places) | JenniBee |
-| ✅ | sci | lsl3 | Leisure Suit Larry 3: Passionate Patti in Pursuit of the Pulsating Pectorals | JenniBee |
+| ✅ | sci | lsl2 | Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places) | rehail |
+| ✅ | sci | lsl3 | Leisure Suit Larry 3: Passionate Patti in Pursuit of the Pulsating Pectorals | rehail |
 | ✅ | sci | mothergoose | Mixed-Up Mother Goose | dotdc |
 | ✅ | sci | pq2 | Police Quest II: The Vengeance | JenniBee |
 | ✅ | sci | qfg1 | Quest for Glory I: So You Want to Be a Hero | JenniBee |
@@ -360,8 +360,8 @@
 | ✅ | sci | jones | Jones in the Fast Lane | Tucky27 |
 | ✅ | sci | kq5 | King's Quest V: Absence Makes the Heart Go Yonder | JenniBee |
 | ✅ | sci | longbow | Conquests of the Longbow: The Adventures of Robin Hood | Tucky27 |
-| ✅ | sci | lsl1sci | Leisure Suit Larry in the Land of the Lounge Lizards | JenniBee |
-| ✅ | sci | lsl5 | Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work | JenniBee |
+| ✅ | sci | lsl1sci | Leisure Suit Larry in the Land of the Lounge Lizards | rehail |
+| ✅ | sci | lsl5 | Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work | rehail |
 | ✅ | sci | mothergoose256 | Mixed-Up Mother Goose | dotdc |
 | ✅ | sci | msastrochicken | Ms. Astro Chicken | Tucky27 |
 | ✅ | sci | pq1sci | Police Quest: In Pursuit of the Death Angel | Thanius |
@@ -378,7 +378,7 @@
 | ✅ | sci | qfg3 | Quest for Glory III: Wages of War | JenniBee |
 | ✅ | sci | sq5 | Space Quest V: The Next Mutation | JenniBee |
 | ✅ | sci | islandbrain | The Island of Dr. Brain | thedoc |
-| ✅ | sci | lsl6 | Leisure Suit Larry 6: Shape Up or Slip Out! | JenniBee |
+| ✅ | sci | lsl6 | Leisure Suit Larry 6: Shape Up or Slip Out! | rehail |
 | ✅ | sci | pepper | Pepper's Adventure in Time | Tucky27 |
 | ⬜️ | sci | slater | Slater & Charlie Go Camping | |
 | ⬜️ | sci | catdate | The Dating Pool | |
@@ -393,14 +393,14 @@
 | ✅ | sci | gk2 | The Beast Within: A Gabriel Knight Mystery | TrivialBalderdash |
 | ✅ | sci | kq7 | King's Quest VII: The Princeless Bride | JenniBee |
 | ✅ | sci | kquestions | King's Questions | Tucky27 |
-| ✅ | sci | lsl6hires | Leisure Suit Larry 6: Shape Up or Slip Out! | JenniBee |
+| ✅ | sci | lsl6hires | Leisure Suit Larry 6: Shape Up or Slip Out! | rehail |
 | ✅ | sci | mothergoosehires | Mixed-Up Mother Goose Deluxe | dotdc |
 | ✅ | sci | phantasmagoria | Phantasmagoria | dotdc |
 | ⬜️ | sci | pqswat | Police Quest: SWAT | |
 | ✅ | sci | shivers | Shivers | thedoc |
 | ✅ | sci | sq6 | Space Quest 6: The Spinal Frontier | JenniBee |
 | ✅ | sci | torin | Torin's Passage | Urgeistenergie |
-| ✅ | sci | lsl7 | Leisure Suit Larry 7: Love for Sail! | JenniBee |
+| ✅ | sci | lsl7 | Leisure Suit Larry 7: Love for Sail! | rehail |
 | ✅ | sci | lighthouse | Lighthouse: The Dark Being | thedoc |
 | ✅ | sci | phantasmagoria2 | Phantasmagoria 2: A Puzzle of Flesh | dotdc |
 | ✅ | sci | rama | RAMA | thedoc |
@@ -414,11 +414,11 @@
 | ✅ | sword2 | sword2 | Broken Sword II: The Smoking Mirror | nightm4re94 |
 | ✅ | sword25 | sword25 | Broken Sword 2.5 | JenniBee |
 | ✅ | teenagent | teenagent | Teen Agent | robertmegone |
-| ✅ | tinsel | dw | Discworld | JenniBee |
+| ✅ | tinsel | dw | Discworld | rehail |
 | ✅ | tinsel | dw2 | Discworld 2: Missing Presumed ...!? | JenniBee |
 | ✅ | titanic | titanic | Starship Titanic | thedoc |
 | ✅ | toltecs | toltecs | 3 Skulls of the Toltecs |Canuma|
-| ⬜️ | tony | tony | Tony Tough and the Night of Roasted Moths | |
+| ✅ | tony | tony | Tony Tough and the Night of Roasted Moths | rehail |
 | ✅ | toon | toon | Toonstruck | JenniBee |
 | ✅ | touche | touche | Touche: The Adventures of the Fifth Musketeer |Canuma|
 | ✅ | tsage | ringworld | Ringworld: Revenge of the Patriarch | JenniBee |
