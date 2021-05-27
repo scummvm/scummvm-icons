@@ -404,8 +404,8 @@
 | ✅ | sci | lighthouse | Lighthouse: The Dark Being | thedoc |
 | ✅ | sci | phantasmagoria2 | Phantasmagoria 2: A Puzzle of Flesh | dotdc |
 | ✅ | sci | rama | RAMA | thedoc |
-| ⬜️ | sherlock | scalpel | The Case of the Serrated Scalpel | |
-| ⬜️ | sherlock | rosetattoo | The Case of the Rose Tattoo | |
+| ✅ | sherlock | scalpel | The Case of the Serrated Scalpel | Tucky27 |
+| ✅ | sherlock | rosetattoo | The Case of the Rose Tattoo | Tucky27 |
 | ✅ | sky | sky | Beneath a Steel Sky | nightm4re94 |
 | ✅ | stark | tlj | The Longest Journey | JenniBee |
 | ✅ | supernova | msn1 | Mission Supernova 1 | Tucky27 |
