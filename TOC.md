@@ -396,7 +396,7 @@
 | ✅ | sci | lsl6hires | Leisure Suit Larry 6: Shape Up or Slip Out! | rehail |
 | ✅ | sci | mothergoosehires | Mixed-Up Mother Goose Deluxe | dotdc |
 | ✅ | sci | phantasmagoria | Phantasmagoria | dotdc |
-| ⬜️ | sci | pqswat | Police Quest: SWAT | |
+| ✅ | sci | pqswat | Police Quest: SWAT | Tucky27 |
 | ✅ | sci | shivers | Shivers | thedoc |
 | ✅ | sci | sq6 | Space Quest 6: The Spinal Frontier | JenniBee |
 | ✅ | sci | torin | Torin's Passage | Urgeistenergie |
