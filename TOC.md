@@ -143,7 +143,6 @@
 | ✅ | dragons | dragons | Blazing Dragons | dotdc |
 | ✅ | drascula | drascula | Drascula: The Vampire Strikes Back | Thanius |
 | ✅ | dreamweb | dreamweb | DreamWeb | thedoc |
-| ⬜️ | fullpipe | fullpipe | Full Pipe | |
 | ⬜️ | glk | adrianmole1 | Adrian Mole I | |
 | ⬜️ | glk | adrianmole2 | Adrian Mole II | |
 | ⬜️ | glk | thearchers | The Archers | |
@@ -321,10 +320,14 @@
 | ⬜️ | mortevielle | mortevielle | Mortville Manor | |
 | ✅ | myst3 | myst3 | Myst III Exile | JenniBee |
 | ✅ | neverhood | neverhood | The Neverhood Chronicles | JenniBee |
+| ⬜️ | ngi | fullpipe | Full Pipe | |
 | ✅ | parallaction | nippon | Nippon Safes Inc. | Redbar |
 | ✅ | pegasus | pegasus | The Journeyman Project: Pegasus Prime | JenniBee |
+| ⬜️ | petka | petka1 | Red Comrades 1: Save the Galaxy | |
+| ⬜️ | petka | petka2 | Red Comrades 2: For the Great Justice | |
 | ✅ | plumbers | plumbers | Plumbers Don't Wear Ties! | nightm4re94 |
 | ✅ | prince | prince | The Prince and the Coward | JenniBee |
+| ⬜️ | private | private-eye | Private Eye | |
 | ✅ | queen | queen | Flight of the Amazon Queen | NekoFever |
 | ✅ | saga | ite | Inherit the Earth: Quest for the Orb | JenniBee |
 | ✅ | saga | ihnm | I Have No Mouth and I Must Scream | NekoFever |
@@ -421,10 +424,12 @@
 | ✅ | tony | tony | Tony Tough and the Night of Roasted Moths | rehail |
 | ✅ | toon | toon | Toonstruck | JenniBee |
 | ✅ | touche | touche | Touche: The Adventures of the Fifth Musketeer |Canuma|
+| ⬜️ | trecision | nl | Nightlong: Union City Conspiracy | |
 | ✅ | tsage | ringworld | Ringworld: Revenge of the Patriarch | JenniBee |
 | ✅ | tsage | blueforce | Blue Force | JenniBee |
 | ⬜️ | tsage | ringworld2 | Return to Ringworld | |
 | ✅ | tucker | tucker | Bud Tucker in Double Trouble | JenniBee |
+| ⬜️ | twine | lba | Little Big Adventure | |
 | ✅ | ultima | ultima4 | Ultima IV - Quest of the Avatar | Tucky27 |
 | ✅ | ultima | ultima6 | Ultima VI - The False Prophet | Tucky27 |
 | ✅ | ultima | ultima8 | Ultima VIII - Pagan | Tucky27 |
