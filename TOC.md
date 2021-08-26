@@ -338,7 +338,7 @@
 | ✅ | sci | iceman | Codename: Iceman | rehail |
 | ⬜️ | sci | camelot | Conquests of Camelot: King Arthur, Quest for the Grail | |
 | ⬜️ | sci | funseeker | Fun Seeker's Guide | |
-| ⬜️ | sci | hoyle1 | Hoyle Official Book of Games: Volume 1 | |
+| ✅ | sci | hoyle1 | Hoyle Official Book of Games: Volume 1 | Tucky27 |
 | ⬜️ | sci | hoyle2 | Hoyle Official Book of Games: Volume 2 | |
 | ✅ | sci | kq4sci | King's Quest IV: The Perils of Rosella | JenniBee |
 | ✅ | sci | laurabow | Laura Bow: The Colonel's Bequest | dotdc |
