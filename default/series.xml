@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<series>
+	<serie id="agifan" name="AGI Fan"/>
+	<serie id="bigthinkers" name="Big Thinkers"/>
+	<serie id="blue" name="Blue's Clues"/>
+	<serie id="brain" name="Dr. Brain"/>
+	<serie id="carol" name="Carol Reed"/>
+	<serie id="conquests" name="Conquests"/>
+	<serie id="disney" name="Disney AGI"/>
+	<serie id="dw" name="Discworld"/>
+	<serie id="ecoquest" name="EcoQuest"/>
+	<serie id="elvira" name="Elvira"/>
+	<serie id="eob" name="Eye of the Beholder"/>
+	<serie id="fbear" name="Fatty Bear"/>
+	<serie id="freddi" name="Freddi Fish"/>
+	<serie id="gob" name="Gobliiins"/>
+	<serie id="hires" name="Hi-Res Adventure"/>
+	<serie id="hoyle" name="Hoyle's Official Book of Games"/>
+	<serie id="hugo" name="Hugo House of Horrors"/>
+	<serie id="id4" name="Independence Day"/>
+	<serie id="indy" name="Indiana Jones"/>
+	<serie id="juniorfield" name="Junior Field Trips"/>
+	<serie id="juniorsports" name="Junior Sports"/>
+	<serie id="kq" name="King's Quest"/>
+	<serie id="kyra" name="The Legend of Kyrandia"/>
+	<serie id="laurabow" name="Laura Bow"/>
+	<serie id="lba" name="Little Big Adventure"/>
+	<serie id="livingbooks" name="Living Books"/>
+	<serie id="lsl" name="Leisure Suit Larry"/>
+	<serie id="magictales" name="Magic Tales"/>
+	<serie id="manhunt" name="Manhunter"/>
+	<serie id="maniac" name="Maniac Mansion"/>
+	<serie id="mi" name="The Secret of Monkey Island"/>
+	<serie id="mixedup" name="Roberta Williams' Mixed-Up"/>
+	<serie id="mm" name="Might and Magic"/>
+	<serie id="myst" name="Myst"/>
+	<serie id="pajama" name="Pajama Sam"/>
+	<serie id="petka" name="Red Comrades"/>
+	<serie id="pq" name="Police Quest"/>
+	<serie id="puttputt" name="Putt-Putt"/>
+	<serie id="qfg" name="Quest for Glory"/>
+	<serie id="reversion" name="Reversion"/>
+	<serie id="ringworld" name="Ringworld"/>
+	<serie id="sherlock" name="Sherlock Holmes"/>
+	<serie id="simon" name="Simon the Sorcerer"/>
+	<serie id="spyfox" name="Spy Fox"/>
+	<serie id="sq" name="Space Quest"/>
+	<serie id="sword" name="Broken Sword"/>
+	<serie id="ultima" name="Ultima"/>
+	<serie id="zork" name="Zork"/>
+	<serie id="playtoons" name="Playtoons"/>
+	<serie id="gk" name="Gabriel Knight"/>
+	<serie id="startrek" name="Star Trek"/>
+	<serie id="supernova" name="Mission Supernova"/>
+	<serie id="julia" name="J.U.L.I.A."/>
+	<serie id="beavisbutthead" name="Beavis and Butt-Head"/>
+	<serie id="t7g" name="The 7th Guest"/>
+	<serie id="deja_vu" name="Deja Vu"/>
+	<serie id="carmen" name="Carmen Sandiego"/>
+	<serie id="journeyman" name="The Journeyman Project"/>
+	<serie id="phantasmagoria" name="Phantasmagoria"/>
+</series>
