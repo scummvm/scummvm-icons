@@ -120,6 +120,7 @@
 | ✅ | agos | jumble | Jumble | Matt |
 | ✅ | agos | puzzle | NoPatience | Matt |
 | ✅ | agos | swampy | Swampy Adventures | Matt |
+| ✅ | ags | phantomfellows | The Phantom Fellows | thevolumeremote |
 | ✅ | asylum | asylum | Sanitarium | JenniBee |
 | ✅ | avalanche | avalanche | Lord Avalot d'Argent | JenniBee |
 | ✅ | bbvs | bbvs | Beavis and Butt-head in Virtual Stupidity | JenniBee |
