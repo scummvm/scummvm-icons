@@ -212,8 +212,8 @@
 | ⬜️ | glk | deadline | Deadline | |
 | ✅ | glk | elf20 | The Elf's Christmas Adventure | JenniBee |
 | ✅ | glk | elves87 | Elves '87 | JenniBee |
-| ⬜️ | glk | enchanter | Enchanter | |
-| ⬜️ | glk | hhgttg | The Hitchhiker's Guide to the Galaxy | |
+| ✅ | glk | enchanter | Enchanter | Tucky27 |
+| ✅ | glk | hhgttg | The Hitchhiker's Guide to the Galaxy | Tucky27 |
 | ⬜️ | glk | hollywoodhijinx | Hollywood Hijinx | |
 | ⬜️ | glk | infidel | Infidel | |
 | ⬜️ | glk | journey | Journey | |
@@ -231,8 +231,8 @@
 | ⬜️ | glk | seastalker | Seastalker | |
 | ⬜️ | glk | sherlockriddle | Sherlock: The Riddle of the Crown Jewels | |
 | ✅ | glk | shogun | James Clavell's Shogun | NekoFever |
-| ⬜️ | glk | sorcerer | Sorcerer | |
-| ⬜️ | glk | spellbreaker | Spellbreaker | |
+| ✅ | glk | sorcerer | Sorcerer | Tucky27 |
+| ✅ | glk | spellbreaker | Spellbreaker | Tucky27 |
 | ⬜️ | glk | starcross | Starcross | |
 | ⬜️ | glk | stationfall | Stationfall | |
 | ⬜️ | glk | suspect | Suspect | |
