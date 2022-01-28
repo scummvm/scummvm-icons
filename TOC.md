@@ -121,6 +121,8 @@
 | ✅ | agos | puzzle | NoPatience | Matt |
 | ✅ | agos | swampy | Swampy Adventures | Matt |
 | ✅ | ags | phantomfellows | The Phantom Fellows | thevolumeremote |
+| ✅ | ags | kathyrain | Kathy Rain - A Detective Is Born | GandalfTheWhite80 |
+| ✅ | ags | maniacmansiondeluxe | Maniac Mansion Deluxe | GandalfTheWhite80 |
 | ✅ | asylum | asylum | Sanitarium | JenniBee |
 | ✅ | avalanche | avalanche | Lord Avalot d'Argent | JenniBee |
 | ✅ | bbvs | bbvs | Beavis and Butt-head in Virtual Stupidity | JenniBee |
@@ -337,10 +339,10 @@
 | ⬜️ | sci | astrochicken | Astro Chicken | |
 | ⬜️ | sci | christmas1988 | Christmas Card 1988 | |
 | ✅ | sci | iceman | Codename: Iceman | rehail |
-| ⬜️ | sci | camelot | Conquests of Camelot: King Arthur, Quest for the Grail | |
+| ✅ | sci | camelot | Conquests of Camelot: King Arthur, Quest for the Grail | GandalfTheWhite80 |
 | ⬜️ | sci | funseeker | Fun Seeker's Guide | |
 | ✅ | sci | hoyle1 | Hoyle Official Book of Games: Volume 1 | Tucky27 |
-| ⬜️ | sci | hoyle2 | Hoyle Official Book of Games: Volume 2 | |
+| ✅ | sci | hoyle2 | Hoyle Official Book of Games: Volume 2 | GandalfTheWhite80 |
 | ✅ | sci | kq4sci | King's Quest IV: The Perils of Rosella | JenniBee |
 | ✅ | sci | laurabow | Laura Bow: The Colonel's Bequest | dotdc |
 | ✅ | sci | lsl2 | Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places) | rehail |
