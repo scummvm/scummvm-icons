@@ -125,6 +125,7 @@
 | ✅ | avalanche | avalanche | Lord Avalot d'Argent | JenniBee |
 | ✅ | bbvs | bbvs | Beavis and Butt-head in Virtual Stupidity | JenniBee |
 | ✅ | bladerunner | bladerunner | Blade Runner | NekoFever |
+| ✅ | bladerunner | bladerunner-final | Blade Runner | NekoFever |
 | ✅ | cge | soltys | Soltys | JenniBee |
 | ✅ | cge2 | sfinx | Sfinx | JenniBee |
 | ✅ | cine | fw | Future Wars | Thanius |
