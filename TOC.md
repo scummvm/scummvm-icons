@@ -4,11 +4,11 @@
 |---|-----------|---------|-----------|---------|
 | ✅ | example | example | Example Entry | Your Name Here
 | ✅ | scumm | atlantis | Indiana Jones and the Fate of Atlantis | JenniBee |
-| ✅ | scumm | indy3 | Indiana Jones and the Last Crusade | JenniBee |
+| ✅ | scumm | indy3 | Indiana Jones and the Last Crusade | Telev78 |
 | ✅ | scumm | loom | Loom | JenniBee |
 | ✅ | scumm | maniac | Maniac Mansion | JenniBee |
-| ✅ | scumm | monkey | The Secret of Monkey Island | JenniBee |
-| ✅ | scumm | monkey2 | Monkey Island 2: LeChuck's Revenge | JenniBee |
+| ✅ | scumm | monkey | The Secret of Monkey Island | Telev78 |
+| ✅ | scumm | monkey2 | Monkey Island 2: LeChuck's Revenge | Telev78 |
 | ✅ | scumm | pass | Passport to Adventure | JenniBee |
 | ✅ | scumm | samnmax | Sam & Max Hit the Road | JenniBee |
 | ✅ | scumm | tentacle | Day of the Tentacle | JenniBee |
