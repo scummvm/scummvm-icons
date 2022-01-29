@@ -121,6 +121,9 @@
 | ✅ | agos | puzzle | NoPatience | Matt |
 | ✅ | agos | swampy | Swampy Adventures | Matt |
 | ✅ | ags | phantomfellows | The Phantom Fellows | thevolumeremote |
+| ✅ | ags | sq2vga | Space Quest II: Vohaul's Revenge | Tucky27 |
+| ✅ | ags | sqvsb | Space Quest: Vohaul Strikes Back | Tucky27 |
+| ✅ | ags | sq2dote | Space Quest: Decision Of The Elders | Tucky27 |
 | ✅ | asylum | asylum | Sanitarium | JenniBee |
 | ✅ | avalanche | avalanche | Lord Avalot d'Argent | JenniBee |
 | ✅ | bbvs | bbvs | Beavis and Butt-head in Virtual Stupidity | JenniBee |
@@ -147,7 +150,7 @@
 | ✅ | dreamweb | dreamweb | DreamWeb | thedoc |
 | ⬜️ | glk | adrianmole1 | Adrian Mole I | |
 | ⬜️ | glk | adrianmole2 | Adrian Mole II | |
-| ⬜️ | glk | thearchers | The Archers | |
+| ✅ | glk | thearchers | The Archers | Tucky27 |
 | ⬜️ | glk | adventurequest | Adventure Quest | |
 | ✅ | glk | colossaladvjod | Colossal Adventure /JoD | JenniBee |
 | ⬜️ | glk | dungeonadv | Dungeon Adventure | |
