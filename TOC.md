@@ -40,11 +40,11 @@
 | ✅ | scumm | spyozon | SPY Fox 3: Operation Ozone | Tucky27 |
 | ✅ | scumm | airport | Let's Explore the Airport with Buzzy | Tucky27 |
 | ✅ | scumm | balloon | Putt-Putt and Pep's Balloon-O-Rama | Tucky27 |
-| ⬜️ | scumm | baseball | Backyard Baseball | |
-| ⬜️ | scumm | blues123time | Blue's 123 Time Activities | |
-| ⬜️ | scumm | bluesabctime | Blue's ABC Time Activities | |
-| ⬜️ | scumm | bluesbirthday | Blue's Birthday Adventure | |
-| ⬜️ | scumm | bluestreasurehunt | Blue's Treasure Hunt | |
+| ✅ | scumm | baseball | Backyard Baseball | Tucky27 |
+| ✅ | scumm | blues123time | Blue's 123 Time Activities | Tucky27 |
+| ✅ | scumm | bluesabctime | Blue's ABC Time Activities | Tucky27 |
+| ✅ | scumm | bluesbirthday | Blue's Birthday Adventure | Tucky27 |
+| ✅ | scumm | bluestreasurehunt | Blue's Treasure Hunt | Tucky27 |
 | ⬜️ | scumm | catalog | Humongous Interactive Catalog | |
 | ⬜️ | scumm | chase | SPY Fox in Cheese Chase | |
 | ⬜️ | scumm | dog | Putt-Putt and Pep's Dog on a Stick | |
@@ -56,12 +56,12 @@
 | ✅ | scumm | freddi4 | Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch | Retrodude |
 | ⬜️ | scumm | freddisfunshop | Freddi Fish's One-Stop Fun Shop | |
 | ⬜️ | scumm | jungle | Let's Explore the Jungle with Buzzy | |
-| ⬜️ | scumm | lost | Pajama Sam's Lost & Found | |
+| ✅ | scumm | lost | Pajama Sam's Lost & Found | Tucky27 |
 | ⬜️ | scumm | maze | Freddi Fish and Luther's Maze Madness | |
 | ⬜️ | scumm | mustard | SPY Fox in Hold the Mustard | |
-| ⬜️ | scumm | pajama | Pajama Sam 1: No Need to Hide When It's Dark Outside | |
-| ⬜️ | scumm | pajama2 | Pajama Sam 2: Thunder and Lightning Aren't so Frightening | |
-| ⬜️ | scumm | pajama3 | Pajama Sam 3: You Are What You Eat From Your Head to Your Feet | |
+| ✅ | scumm | pajama | Pajama Sam 1: No Need to Hide When It's Dark Outside | Tucky27 |
+| ✅ | scumm | pajama2 | Pajama Sam 2: Thunder and Lightning Aren't so Frightening | Tucky27 |
+| ✅ | scumm | pajama3 | Pajama Sam 3: You Are What You Eat From Your Head to Your Feet | Tucky27 |
 | ✅ | scumm | puttcircus | Putt-Putt Joins the Circus | Retrodude |
 | ✅ | scumm | puttrace | Putt-Putt Enters the Race | Retrodude |
 | ⬜️ | scumm | puttsfunshop | Putt-Putt's One-Stop Fun Shop | |
