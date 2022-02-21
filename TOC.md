@@ -126,6 +126,7 @@
 | ✅ | ags | sq2vga | Space Quest II: Vohaul's Revenge | Tucky27 |
 | ✅ | ags | sqvsb | Space Quest: Vohaul Strikes Back | Tucky27 |
 | ✅ | ags | sq2dote | Space Quest: Decision Of The Elders | Tucky27 |
+| ✅ | ags | qfg2agdi | Quest for Glory II: Trial by Fire | Tucky27 |
 | ✅ | asylum | asylum | Sanitarium | JenniBee |
 | ✅ | avalanche | avalanche | Lord Avalot d'Argent | JenniBee |
 | ✅ | bbvs | bbvs | Beavis and Butt-head in Virtual Stupidity | JenniBee |
