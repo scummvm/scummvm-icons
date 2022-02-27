@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="a">
+      <stop stop-color="#003900" offset="0"/>
+      <stop stop-color="#10f723" offset="1"/>
+    </linearGradient>
+    <linearGradient id="h" x1="211.2" x2="213.7" y1="80.44" y2="80.44" gradientTransform="translate(-183.1 -2.2)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+    <linearGradient id="g" x1="219.07" x2="233.93" y1="65.742" y2="44.44" gradientTransform="translate(-183.1 -2.2)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+    <linearGradient id="i" x1="195.96" x2="224.62" y1="33.35" y2="17.882" gradientTransform="translate(-183.1 -2.2)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+    <filter id="f" x="-.538" y="-.311" width="2.076" height="1.622" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="2.496"/>
+    </filter>
+  </defs>
+  <path d="M30.4 0c-24.8 0-27 44.8-27 44.8h52.7S55.2 0 30.4 0z" fill="url(#i)"/>
+  <path d="m30.6 82.087-2.5-.701c-17.5-4.7-25.1-6-26.3-5.3-1 .6 11.3 3.2 27.8 8.3 16.5 5.2 28.7 12.5 30.3 10.2 1.8-2.2-11.6-7.6-29.3-12.5z" fill="#088608"/>
+  <path d="M28.1 74.39v7l2.5.701V74.39z" fill="url(#h)"/>
+  <path d="M0 51.8s5.6 21.6 28.1 22.6h2.5c23.1-.6 28.1-22.6 28.1-22.6Z" fill="url(#g)"/>
+  <ellipse transform="matrix(.98874 -.22912 .21016 1.0779 -184.27 48.576)" cx="219.82" cy="19.887" rx="5.568" ry="9.634" fill="#fff" filter="url(#f)"/>
+</svg>

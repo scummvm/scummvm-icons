@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Liquid Technologies Online Tools 1.0 (https://www.liquid-technologies.com) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" x="0px" y="0px" viewBox="0 0 60.062592 95.022881" xml:space="preserve" version="1.1" id="svg42" sodipodi:docname="acorn-v3.svg" inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)" width="60.062592" height="95.022881">
+	
+  <metadata id="metadata48">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	
+  <defs id="defs46">
+		<marker style="overflow:visible" id="Arrow1Lstart" refX="0" refY="0" orient="auto" inkscape:stockid="Arrow1Lstart" inkscape:isstock="true">
+			<path transform="matrix(0.8,0,0,0.8,10,0)" style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1pt;stroke-opacity:1" d="M 0,0 5,-5 -12.5,0 5,5 Z" id="path1034" />
+		</marker>
+		<linearGradient inkscape:collect="always" id="linearGradient852">
+			<stop style="stop-color:#003900;stop-opacity:1" offset="0" id="stop848" />
+			<stop style="stop-color:#10f723;stop-opacity:1" offset="1" id="stop850" />
+		</linearGradient>
+		<linearGradient inkscape:collect="always" xlink:href="#linearGradient852" id="linearGradient854" x1="211.19922" y1="80.44043" x2="213.69922" y2="80.44043" gradientUnits="userSpaceOnUse" gradientTransform="translate(-183.09961,-2.2)" />
+		<linearGradient inkscape:collect="always" xlink:href="#linearGradient852" id="linearGradient862" x1="219.07367" y1="65.741745" x2="233.93422" y2="44.440155" gradientUnits="userSpaceOnUse" gradientTransform="translate(-183.09961,-2.2)" />
+		<linearGradient inkscape:collect="always" xlink:href="#linearGradient852" id="linearGradient870" x1="195.95755" y1="33.350445" x2="224.61592" y2="17.882484" gradientUnits="userSpaceOnUse" gradientTransform="translate(-183.09961,-2.2)" />
+		<filter inkscape:collect="always" style="color-interpolation-filters:sRGB" id="filter1646" x="-0.53783417" width="2.0756683" y="-0.31085828" height="1.6217166">
+			<feGaussianBlur inkscape:collect="always" stdDeviation="2.4957593" id="feGaussianBlur1648" />
+		</filter>
+	</defs>
+	
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="2560" inkscape:window-height="1417" id="namedview44" showgrid="false" inkscape:zoom="8" inkscape:cx="14.60149" inkscape:cy="30.946031" inkscape:window-x="2552" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="svg42" inkscape:document-rotation="0" />
+	
+  <style type="text/css" id="style2"> .st0{fill:#33CC33;} </style>
+	
+  <g id="Layer_2" transform="translate(-183.09961,-2.2)">
+  </g>
+	
+  <path class="st0" d="m 30.40039,0 c -24.8,0 -27,44.8 -27,44.8 h 52.7 c 0,0 -0.9,-44.8 -25.7,-44.8 z" id="path5" style="fill:url(#linearGradient870);fill-opacity:1" inkscape:export-xdpi="517.26489" inkscape:export-ydpi="517.26489" />
+	
+  <path id="path7" style="fill:#088608;fill-opacity:1;stroke-width:1" d="m 30.59961,82.086948 -2.5,-0.701172 c -17.50009,-4.7 -25.09882,-5.998828 -26.29883,-5.298828 -1,0.6 11.29875,3.198828 27.79883,8.298828 16.50009,5.2 28.70077,12.501172 30.30078,10.201172 1.80001,-2.2 -11.60069,-7.6 -29.30078,-12.5 z" inkscape:export-xdpi="517.26489" inkscape:export-ydpi="517.26489" />
+	
+  <path id="path845" style="fill:url(#linearGradient854);fill-opacity:1;stroke-width:1" d="m 28.09961,74.389844 v 7 l 2.5,0.701172 v -7.701172 z" inkscape:export-xdpi="517.26489" inkscape:export-ydpi="517.26489" />
+	
+  <path id="path840" style="fill:url(#linearGradient862);fill-opacity:1" d="m 0,51.8 c 0,0 5.59961,21.599609 28.09961,22.599609 h 2.5 C 53.69961,73.799609 58.70117,51.8 58.70117,51.8 Z" inkscape:export-xdpi="517.26489" inkscape:export-ydpi="517.26489" />
+	
+  <ellipse style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter1646)" id="path1024" cx="219.82182" cy="19.887379" rx="5.5684657" ry="9.6343298" transform="matrix(0.98873962,-0.22911511,0.21016309,1.0779019,-184.27359,48.575866)" inkscape:export-xdpi="517.26489" inkscape:export-ydpi="517.26489" />
+</svg>
