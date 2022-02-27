@@ -46,7 +46,7 @@
 | ✅ | scumm | bluesbirthday | Blue's Birthday Adventure | Tucky27 |
 | ✅ | scumm | bluestreasurehunt | Blue's Treasure Hunt | Tucky27 |
 | ✅ | scumm | catalog | Humongous Interactive Catalog | Tucky27 |
-| ⬜️ | scumm | chase | SPY Fox in Cheese Chase | |
+| ✅ | scumm | chase | SPY Fox in Cheese Chase | Tucky27 |
 | ⬜️ | scumm | dog | Putt-Putt and Pep's Dog on a Stick | |
 | ⬜️ | scumm | farm | Let's Explore the Farm with Buzzy | |
 | ⬜️ | scumm | football | Backyard Football | |
