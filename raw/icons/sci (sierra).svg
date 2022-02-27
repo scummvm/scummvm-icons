@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="920.00037"
+   height="853.40747"
+   viewBox="0 0 920.00036 853.40749"
+   enable-background="new 0 0 1000 774.753"
+   xml:space="preserve"
+   sodipodi:docname="sierra-v4.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   inkscape:export-filename="C:\ScummIcons\engine\pngs\sci-v3a.png"
+   inkscape:export-xdpi="53.66"
+   inkscape:export-ydpi="53.66"><metadata
+   id="metadata61"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs59"><linearGradient
+     inkscape:collect="always"
+     id="linearGradient967"><stop
+       style="stop-color:#044bbd;stop-opacity:1"
+       offset="0"
+       id="stop963" /><stop
+       style="stop-color:#0085ff;stop-opacity:1"
+       offset="1"
+       id="stop965" /></linearGradient><linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient967"
+     id="linearGradient969"
+     x1="48.233891"
+     y1="841.18152"
+     x2="684.3009"
+     y2="841.18152"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="matrix(0.84428866,0,0,0.84428861,4.0073674,0)" /></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="2560"
+   inkscape:window-height="1377"
+   id="namedview57"
+   showgrid="false"
+   inkscape:zoom="0.78347431"
+   inkscape:cx="632.90665"
+   inkscape:cy="550.41505"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g54"
+   inkscape:document-rotation="0" />
+<g
+   id="g54"
+   transform="translate(-14.670956,96.423517)">
+	<g
+   id="g38"
+   transform="matrix(1.25,0,0,1.25,-119.68325,-96.423517)"
+   style="fill:#003eaa;fill-opacity:1"
+   inkscape:export-filename="C:\ScummIcons\engine\pngs\sci-v4png.png"
+   inkscape:export-xdpi="53.43"
+   inkscape:export-ydpi="53.43">
+		<defs
+   id="defs3">
+			<path
+   id="SVGID_1_"
+   d="M 222.531,252.962 C 222.531,113.25 335.781,0 475.483,0 c 139.704,0 252.953,113.25 252.953,252.962 0,139.702 -113.249,252.942 -252.953,252.942 -139.702,0 -252.952,-113.24 -252.952,-252.942" />
+		</defs>
+		<clipPath
+   id="SVGID_2_">
+			<use
+   xlink:href="#SVGID_1_"
+   overflow="visible"
+   id="use5"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+		</clipPath>
+		<rect
+   x="318.70001"
+   y="23.079"
+   clip-path="url(#SVGID_2_)"
+   width="317.44"
+   height="27.764999"
+   id="rect8"
+   style="fill:#003eaa;fill-opacity:1" />
+		<rect
+   x="282.173"
+   y="58.460999"
+   clip-path="url(#SVGID_2_)"
+   width="388.75201"
+   height="27.764999"
+   id="rect10"
+   style="fill:#003eaa;fill-opacity:1" />
+		<polyline
+   clip-path="url(#SVGID_2_)"
+   points="249.988,93.835 433.787,93.835 428.738,116.09 457.372,98.503 471.947,114.082     583.477,114.082 545.805,93.835 702.236,93.835 702.236,121.6 249.988,121.6 249.988,93.835   "
+   id="polyline12"
+   style="fill:#003eaa;fill-opacity:1" />
+		<polyline
+   clip-path="url(#SVGID_2_)"
+   points="200.416,129.217 426.245,129.217 420.695,150.758 483.499,131.66 502.09,149.247     626.685,149.247 610.608,129.217 718.755,129.217 718.755,156.982 200.416,156.982 200.416,129.217   "
+   id="polyline14"
+   style="fill:#003eaa;fill-opacity:1" />
+		<polyline
+   clip-path="url(#SVGID_2_)"
+   points="200.416,164.6 416.212,164.6 408.636,187.434 511.137,167.341 515.155,184.919     644.78,184.919 635.732,164.6 746.593,164.6 746.593,192.365 200.416,192.365 200.416,164.6   "
+   id="polyline16"
+   style="fill:#003eaa;fill-opacity:1" />
+		<polyline
+   clip-path="url(#SVGID_2_)"
+   points="200.416,199.974 402.606,199.974 388.542,223.613 516.657,204.018 520.176,220.094     659.344,220.094 650.306,199.974 746.593,199.974 746.593,227.739 200.416,227.739 200.416,199.974   "
+   id="polyline18"
+   style="fill:#003eaa;fill-opacity:1" />
+		<polyline
+   clip-path="url(#SVGID_2_)"
+   points="200.416,235.356 379.482,235.356 355.888,257.774 526.708,236.677 538.26,255.766     676.434,255.766 667.388,235.356 746.593,235.356 746.593,263.121 200.416,263.121 200.416,235.356   "
+   id="polyline20"
+   style="fill:#003eaa;fill-opacity:1" />
+		<polyline
+   clip-path="url(#SVGID_2_)"
+   points="200.416,270.739 346.37,270.739 341.313,292.442 549.823,273.851 567.4,290.931     696.03,290.931 683.472,270.739 746.593,270.739 746.593,298.504 200.416,298.504 200.416,270.739   "
+   id="polyline22"
+   style="fill:#003eaa;fill-opacity:1" />
+		<polyline
+   clip-path="url(#SVGID_2_)"
+   points="200.416,306.112 339.829,306.112 335.283,328.114 576.447,308.527 580.464,326.106     725.161,326.106 728.689,306.112 746.593,306.112 746.593,333.877 200.416,333.877 200.416,306.112   "
+   id="polyline24"
+   style="fill:#003eaa;fill-opacity:1" />
+		<polyline
+   clip-path="url(#SVGID_2_)"
+   points="200.416,341.495 325.748,341.495 295.594,365.297 584.988,346.199 587.495,361.787     725.161,361.787 724.844,369.261 200.416,369.261 200.416,341.495   "
+   id="polyline26"
+   style="fill:#003eaa;fill-opacity:1" />
+		<polyline
+   clip-path="url(#SVGID_2_)"
+   points="248.37,402.978 588.506,380.369 592.017,396.953 698.455,396.953 698.762,404.642     244.773,404.642 248.37,402.978   "
+   id="polyline28"
+   style="fill:#003eaa;fill-opacity:1" />
+		<polyline
+   clip-path="url(#SVGID_2_)"
+   points="261.428,438.65 596.035,418.05 599.055,432.625 668.039,432.625 668.32,440.015     262.17,440.015 261.428,438.65   "
+   id="polyline30"
+   style="fill:#003eaa;fill-opacity:1" />
+		<polyline
+   clip-path="url(#SVGID_2_)"
+   points="335.781,473.328 601.073,450.71 612.617,472.82 607.442,475.4 339.572,475.4     335.781,473.328   "
+   id="polyline32"
+   style="fill:#003eaa;fill-opacity:1" />
+		<polyline
+   clip-path="url(#SVGID_2_)"
+   points="413.499,502.693 585.703,486.166 551.778,510.781 411.757,510.781 413.499,502.693       "
+   id="polyline34"
+   style="fill:#003eaa;fill-opacity:1" />
+		<rect
+   x="377.83099"
+   y="-12.295"
+   clip-path="url(#SVGID_2_)"
+   width="186.992"
+   height="27.756001"
+   id="rect36"
+   style="fill:#003eaa;fill-opacity:1" />
+	</g>
+	
+	
+	
+	
+	
+	
+	
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.1174px;line-height:1.25;font-family:'SF Movie Poster';-inkscape-font-specification:'SF Movie Poster';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient969);fill-opacity:1;stroke-width:1.15992"
+   x="5.0709343"
+   y="803.01477"
+   id="text883"
+   transform="scale(1.065405,0.9386102)"
+   inkscape:export-filename="C:\ScummIcons\engine\pngs\sci-v4png.png"
+   inkscape:export-xdpi="53.43"
+   inkscape:export-ydpi="53.43"><tspan
+     sodipodi:role="line"
+     id="tspan881"
+     x="5.0709343"
+     y="803.01477"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:222.704px;font-family:Sublima;-inkscape-font-specification:'Sublima Bold';fill:url(#linearGradient969);fill-opacity:1;stroke-width:1.15992">SIERRA</tspan></text></g>
+</svg>
