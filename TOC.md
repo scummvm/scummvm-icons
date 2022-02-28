@@ -47,9 +47,9 @@
 | ✅ | scumm | bluestreasurehunt | Blue's Treasure Hunt | Tucky27 |
 | ✅ | scumm | catalog | Humongous Interactive Catalog | Tucky27 |
 | ✅ | scumm | chase | SPY Fox in Cheese Chase | Tucky27 |
-| ⬜️ | scumm | dog | Putt-Putt and Pep's Dog on a Stick | |
+| ✅ | scumm | dog | Putt-Putt and Pep's Dog on a Stick | Tucky27 |
 | ⬜️ | scumm | farm | Let's Explore the Farm with Buzzy | |
-| ⬜️ | scumm | football | Backyard Football | |
+| ✅ | scumm | football | Backyard Football | Tucky27 |
 | ✅ | scumm | freddi | Freddi Fish 1: The Case of the Missing Kelp Seeds | Retrodude |
 | ✅ | scumm | freddi2 | Freddi Fish 2: The Case of the Haunted Schoolhouse | Retrodude |
 | ✅ | scumm | freddi3 | Freddi Fish 3: The Case of the Stolen Conch Shell | Retrodude |
