@@ -48,7 +48,7 @@
 | ✅ | scumm | catalog | Humongous Interactive Catalog | Tucky27 |
 | ✅ | scumm | chase | SPY Fox in Cheese Chase | Tucky27 |
 | ✅ | scumm | dog | Putt-Putt and Pep's Dog on a Stick | Tucky27 |
-| ⬜️ | scumm | farm | Let's Explore the Farm with Buzzy | |
+| ✅ | scumm | farm | Let's Explore the Farm with Buzzy | Tucky27 |
 | ✅ | scumm | football | Backyard Football | Tucky27 |
 | ✅ | scumm | freddi | Freddi Fish 1: The Case of the Missing Kelp Seeds | Retrodude |
 | ✅ | scumm | freddi2 | Freddi Fish 2: The Case of the Haunted Schoolhouse | Retrodude |
@@ -432,7 +432,7 @@
 | ✅ | tony | tony | Tony Tough and the Night of Roasted Moths | rehail |
 | ✅ | toon | toon | Toonstruck | JenniBee |
 | ✅ | touche | touche | Touche: The Adventures of the Fifth Musketeer |Canuma|
-| ⬜️ | trecision | nl | Nightlong: Union City Conspiracy | |
+| ✅ | trecision | nl | Nightlong: Union City Conspiracy | Tucky27 |
 | ✅ | tsage | ringworld | Ringworld: Revenge of the Patriarch | JenniBee |
 | ✅ | tsage | blueforce | Blue Force | JenniBee |
 | ⬜️ | tsage | ringworld2 | Return to Ringworld | |
