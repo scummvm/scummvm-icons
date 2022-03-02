@@ -7,8 +7,8 @@
 | ✅ | scumm | indy3 | Indiana Jones and the Last Crusade | JenniBee |
 | ✅ | scumm | loom | Loom | JenniBee |
 | ✅ | scumm | maniac | Maniac Mansion | JenniBee |
-| ✅ | scumm | monkey | The Secret of Monkey Island | JenniBee |
-| ✅ | scumm | monkey2 | Monkey Island 2: LeChuck's Revenge | JenniBee |
+| ✅ | scumm | monkey | The Secret of Monkey Island | Thanius |
+| ✅ | scumm | monkey2 | Monkey Island 2: LeChuck's Revenge | Thanius |
 | ✅ | scumm | pass | Passport to Adventure | JenniBee |
 | ✅ | scumm | samnmax | Sam & Max Hit the Road | JenniBee |
 | ✅ | scumm | tentacle | Day of the Tentacle | JenniBee |
