@@ -209,7 +209,7 @@
 | ✅ | glk | adv440 | Adventure II, 440 point Colossal Cave | JenniBee |
 | ✅ | glk | adv550 | Adventure 3, 550 point Colossal Cave | JenniBee |
 | ✅ | glk | adv551 | Adventure 6, 551 point Colossal Cave | JenniBee |
-| ⬜️ | glk | amfv | A Mind Forever Voyaging | |
+| ✅ | glk | amfv | A Mind Forever Voyaging | Tucky27 |
 | ⬜️ | glk | ballyhoo | Ballyhoo | |
 | ✅ | glk | beyondzork | Beyond Zork | JenniBee |
 | ⬜️ | glk | borderzone | Border Zone | |
