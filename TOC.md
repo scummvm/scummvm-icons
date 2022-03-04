@@ -341,7 +341,7 @@
 | ✅ | saga | ihnm | I Have No Mouth and I Must Scream | NekoFever |
 | ⬜️ | sci | sci | Sierra SCI Game | |
 | ⬜️ | sci | sci-fanmade | Fanmade SCI Game | |
-| ⬜️ | sci | astrochicken | Astro Chicken | |
+| ✅ | sci | astrochicken | Astro Chicken | thevolumeremote  |
 | ⬜️ | sci | christmas1988 | Christmas Card 1988 | |
 | ✅ | sci | iceman | Codename: Iceman | rehail |
 | ✅ | sci | camelot | Conquests of Camelot: King Arthur, Quest for the Grail | GandalfTheWhite80 |
