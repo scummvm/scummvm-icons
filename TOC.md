@@ -136,11 +136,11 @@
 | ✅ | cge2 | sfinx | Sfinx | JenniBee |
 | ✅ | cine | fw | Future Wars | Thanius |
 | ✅ | cine | os | Operation Stealth | JenniBee |
-| ⬜️ | composer | babayaga | Magic Tales: Baba Yaga and the Magic Geese | |
+| ✅ | composer | babayaga | Magic Tales: Baba Yaga and the Magic Geese |Tucky27 |
 | ⬜️ | composer | darby | Darby the Dragon | |
 | ⬜️ | composer | gregory | Gregory and the Hot Air Balloon | |
-| ⬜️ | composer | imoking | Magic Tales: Imo and the King | |
-| ⬜️ | composer | liam | Magic Tales: Liam Finds a Story | |
+| ✅ | composer | imoking | Magic Tales: Imo and the King | Tucky27 |
+| ✅ | composer | liam | Magic Tales: Liam Finds a Story | Tucky27 |
 | ⬜️ | composer | littlesamurai | Magic Tales: The Little Samurai | |
 | ⬜️ | composer | magictales | Magic Tales | |
 | ⬜️ | composer | princess | Magic Tales: The Princess and the Crab | |
