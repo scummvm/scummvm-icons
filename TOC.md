@@ -141,7 +141,7 @@
 | ⬜️ | composer | gregory | Gregory and the Hot Air Balloon | |
 | ✅ | composer | imoking | Magic Tales: Imo and the King | Tucky27 |
 | ✅ | composer | liam | Magic Tales: Liam Finds a Story | Tucky27 |
-| ⬜️ | composer | littlesamurai | Magic Tales: The Little Samurai | |
+| ✅ | composer | littlesamurai | Magic Tales: The Little Samurai | Tucky27 |
 | ⬜️ | composer | magictales | Magic Tales | |
 | ✅ | composer | princess | Magic Tales: The Princess and the Crab | Tucky27 |
 | ✅ | composer | sleepingcub | Magic Tales: Sleeping Cub's Test of Courage | Tucky27 |
