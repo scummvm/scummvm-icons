@@ -143,8 +143,8 @@
 | ✅ | composer | liam | Magic Tales: Liam Finds a Story | Tucky27 |
 | ⬜️ | composer | littlesamurai | Magic Tales: The Little Samurai | |
 | ⬜️ | composer | magictales | Magic Tales | |
-| ⬜️ | composer | princess | Magic Tales: The Princess and the Crab | |
-| ⬜️ | composer | sleepingcub | Magic Tales: Sleeping Cub's Test of Courage | |
+| ✅ | composer | princess | Magic Tales: The Princess and the Crab | Tucky27 |
+| ✅ | composer | sleepingcub | Magic Tales: Sleeping Cub's Test of Courage | Tucky27 |
 | ✅ | cruise | cruise | Cruise for a Corpse | rehail |
 | ✅ | cryomni3d | versailles | Versailles 1685 | Tucky27 |
 | ✅ | draci | draci | Draci Historie | JenniBee |
