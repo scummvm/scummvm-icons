@@ -250,7 +250,7 @@ def is_scummvmicons_repo(output_showorigin: list) -> bool:
     """ Checks if the local repo is a scummvm-icons repo"""
     for line in output_showorigin:
         # should be the correct repo
-        if ': https://github.com/scummvm/scummvm-icons' in line.decode(ENCODING):
+        if 'Fetch URL: https://github.com/scummvm/scummvm-icons' in line.decode(ENCODING):
             return True
 
     return False
@@ -347,8 +347,10 @@ def write_iconsdat(changed_files: list) -> str:
 
 
 def run_git(*args):
+    my_env = os.environ.copy()
+    env["LANG"] = "C"
     """ Executes a git command and returns the stdout (as line[])"""
-    with subprocess.Popen(args=['git'] + list(args), stdout=subprocess.PIPE) as child_proc:
+    with subprocess.Popen(args=['git'] + list(args), stdout=subprocess.PIPE, env=my_env) as child_proc:
         return child_proc.stdout.readlines()
 
 ###########
