@@ -250,7 +250,7 @@ def is_scummvmicons_repo(output_showorigin: list) -> bool:
     """ Checks if the local repo is a scummvm-icons repo"""
     for line in output_showorigin:
         # should be the correct repo
-        if 'Fetch URL: https://github.com/scummvm/scummvm-icons' in line.decode(ENCODING):
+        if ': https://github.com/scummvm/scummvm-icons' in line.decode(ENCODING):
             return True
 
     return False
