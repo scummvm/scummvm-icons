@@ -284,7 +284,7 @@
 | ✅ | gob | bambou | Playtoons Limited Edition - Bambou le sauveur de la jungle | Matt |
 | ✅ | gob | fascination | Fascination | JenniBee |
 | ✅ | gob | geisha | Geisha | JenniBee |
-| ⬜️ | griffon | griffon | The Griffon Legend | |
+| ✅ | griffon | griffon | The Griffon Legend | GandalfTheWhite80 |
 | ✅ | grim | grim | Grim Fandango | Thanius |
 | ✅ | grim | monkey4 | Escape From Monkey Island | Thanius |
 | ✅ | groovie | t7g | The 7th Guest | NekoFever |
