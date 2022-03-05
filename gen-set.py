@@ -348,7 +348,7 @@ def write_iconsdat(changed_files: list) -> str:
 
 def run_git(*args):
     my_env = os.environ.copy()
-    env["LANG"] = "C"
+    my_env["LANG"] = "C"
     """ Executes a git command and returns the stdout (as line[])"""
     with subprocess.Popen(args=['git'] + list(args), stdout=subprocess.PIPE, env=my_env) as child_proc:
         return child_proc.stdout.readlines()
