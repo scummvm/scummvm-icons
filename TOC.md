@@ -202,7 +202,7 @@
 | ⬜️ | glk | goldenvoyage | The Golden Voyage | |
 | ✅ | glk | claymorguesorcerer | Sorcerer of Claymorgue Castle | Tucky27 |
 | ⬜️ | glk | pirateisle | Return to Pirate Isle | |
-| ⬜️ | glk | buckaroobanzai | Buckaroo Banzai | |
+| ✅ | glk | buckaroobanzai | Buckaroo Banzai | Tucky27 |
 | ⬜️ | glk | scottsampler | Adventure International's Mini-Adventure Sampler | |
 | ✅ | glk | adv350 | Adventure, 350 point Colossal Cave | JenniBee |
 | ✅ | glk | adv350h | Adventure, 350 point Colossal Cave | JenniBee |
