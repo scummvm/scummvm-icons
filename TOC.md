@@ -197,10 +197,10 @@
 | ⬜️ | glk | mysteryfunhouse | Mystery Fun House | |
 | ⬜️ | glk | pyramidofdoom | Pyramid Of Doom | |
 | ⬜️ | glk | ghosttown | Ghost Town | |
-| ⬜️ | glk | savageisland1 | Savage Island, Part 1 | |
-| ⬜️ | glk | savageisland2 | Savage Island, Part 2 | |
+| ✅ | glk | savageisland1 | Savage Island, Part 1 | Tucky27 |
+| ✅ | glk | savageisland2 | Savage Island, Part 2 | Tucky27 |
 | ⬜️ | glk | goldenvoyage | The Golden Voyage | |
-| ⬜️ | glk | claymorguesorcerer | Sorcerer of Claymorgue Castle | |
+| ✅ | glk | claymorguesorcerer | Sorcerer of Claymorgue Castle | Tucky27 |
 | ⬜️ | glk | pirateisle | Return to Pirate Isle | |
 | ⬜️ | glk | buckaroobanzai | Buckaroo Banzai | |
 | ⬜️ | glk | scottsampler | Adventure International's Mini-Adventure Sampler | |
