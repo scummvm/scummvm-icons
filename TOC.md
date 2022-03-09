@@ -188,18 +188,18 @@
 | ⬜️ | glk | myth | Myth | |
 | ⬜️ | glk | pawn | the Pawn | |
 | ⬜️ | glk | wonderland | Wonderland | |
-| ⬜️ | glk | adventureland | Adventureland | |
-| ⬜️ | glk | pirateadventure | Pirate Adventure | |
-| ⬜️ | glk | missionimpossible | Mission Impossible | |
+| ✅ | glk | adventureland | Adventureland | Tucky27 |
+| ✅ | glk | pirateadventure | Pirate Adventure | Tucky27 |
+| ✅ | glk | missionimpossible | Mission Impossible | Tucky27 |
 | ⬜️ | glk | voodoocastle | Voodoo Castle | |
-| ⬜️ | glk | thecount | The Count | |
+| ✅ | glk | thecount | The Count | Tucky27 |
 | ⬜️ | glk | strangeodyssey | Strange Odyssey | |
 | ⬜️ | glk | mysteryfunhouse | Mystery Fun House | |
 | ⬜️ | glk | pyramidofdoom | Pyramid Of Doom | |
-| ⬜️ | glk | ghosttown | Ghost Town | |
+| ✅ | glk | ghosttown | Ghost Town | Tucky27 |
 | ✅ | glk | savageisland1 | Savage Island, Part 1 | Tucky27 |
 | ✅ | glk | savageisland2 | Savage Island, Part 2 | Tucky27 |
-| ⬜️ | glk | goldenvoyage | The Golden Voyage | |
+| ✅ | glk | goldenvoyage | The Golden Voyage | Tucky27 |
 | ✅ | glk | claymorguesorcerer | Sorcerer of Claymorgue Castle | Tucky27 |
 | ⬜️ | glk | pirateisle | Return to Pirate Isle | |
 | ✅ | glk | buckaroobanzai | Buckaroo Banzai | Tucky27 |
@@ -236,7 +236,7 @@
 | ⬜️ | glk | plunderedhearts | Plundered Hearts | |
 | ⬜️ | glk | questforexcalibur | Arthur: The Quest for Excalibur | |
 | ⬜️ | glk | seastalker | Seastalker | |
-| ⬜️ | glk | sherlockriddle | Sherlock: The Riddle of the Crown Jewels | |
+| ✅ | glk | sherlockriddle | Sherlock: The Riddle of the Crown Jewels | Tucky27 |
 | ✅ | glk | shogun | James Clavell's Shogun | NekoFever |
 | ✅ | glk | sorcerer | Sorcerer | Tucky27 |
 | ✅ | glk | spellbreaker | Spellbreaker | Tucky27 |
