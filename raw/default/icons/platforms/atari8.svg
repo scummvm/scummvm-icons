@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="119.55722"
+   height="119.68132"
+   id="svg2"
+   sodipodi:docname="atari-v5.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   inkscape:export-filename="C:\ScummIcons\platform\src\atari-v5.png"
+   inkscape:export-xdpi="410.93399"
+   inkscape:export-ydpi="410.93399"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="3.5244755"
+     inkscape:cx="84.977183"
+     inkscape:cy="152.93056"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:pagecheckerboard="0" />
+  <defs
+     id="defs6" />
+  <g
+     id="g925"
+     transform="matrix(1.0350283,0,0,1.0350283,0.29366875,-19.13502)">
+    <rect
+       width="5.9977822"
+       height="37.701492"
+       x="109.22955"
+       y="19.471622"
+       id="rect3"
+       style="fill:#0089df;fill-opacity:1" />
+    <path
+       d="m 14.52877,18.516865 c -1.889001,0 -3.50086,1.17072 -4.125,2.84375 v 0.0312 L -0.28373016,57.173065 H 6.1225198 l 2.46875,-9.71875 H 20.49752 l 2.59375,9.71875 h 6.5625 l -10.96875,-35.8125 h -0.03125 c -0.630517,-1.6649 -2.234297,-2.8437 -4.125,-2.8437 z m -0.0625,8.21875 4.125,15.6875 h -8.15625 z"
+       id="path5"
+       style="fill:#0089df;fill-opacity:1" />
+    <path
+       d="m 26.18502,19.329365 v 5.0625 h 9.3125 v 32.78125 h 6 v -32.78125 h 9.34375 v -5.0625 z"
+       id="path7"
+       style="fill:#0089df;fill-opacity:1" />
+    <path
+       d="m 96.742863,43.484115 c -0.174421,-0.29888 -0.280643,-0.65842 -0.280643,-1.05766 0,-0.36121 0.09217,-0.68765 0.233525,-0.96889 0.222364,-0.35017 0.620391,-0.54924 0.885328,-0.71745 3.122627,-1.89862 5.340907,-5.88999 5.340907,-10.51164 0,-6.19879 -3.90173,-11.2776 -8.740041,-11.66969 -0.602618,-0.0794 -1.963264,-0.0711 -1.963264,-0.0711 h -6.826373 0.0037 c -2.367491,0 -4.293556,2.56367 -4.293556,5.7229 l 0.0087,0.009 v 32.94886 h 5.830276 v -30.59688 h -0.0037 c 0,-0.95952 0.58402,-1.74148 1.302367,-1.74148 h 3.932728 c 0.357108,0 1.425124,0.0276 1.637156,0.0672 v 0.003 c 1.738833,0.19025 3.152383,1.84238 3.561982,4.02775 0.02231,0.0899 0.03803,0.17812 0.05043,0.26857 0,0.008 0,0.017 0,0.0199 0.02232,0.13354 0.03348,0.26082 0.04588,0.39095 0.02108,0.20294 0.02438,0.40973 0.02438,0.62039 0,2.01277 -0.831184,3.77354 -2.062874,4.68674 -0.249231,0.19742 -0.507968,0.37001 -0.780346,0.5178 -0.193433,0.11685 -0.417865,0.22499 -0.652217,0.33031 -1.573505,0.74005 -2.247627,1.1779 -2.903978,2.01995 -0.736121,1.02734 -1.201931,2.41534 -1.21433,3.95 -0.01155,1.44149 0.364547,2.75944 1.004778,3.77961 l 7.406672,11.66086 h 6.93549 l -8.482955,-13.68963"
+       id="path9"
+       style="fill:#0089df;fill-opacity:1" />
+    <path
+       d="m 63.003346,18.516915 c -1.889001,0 -3.50086,1.17072 -4.125,2.84375 v 0.0312 l -10.6875,35.78125 h 6.40625 l 2.46875,-9.71875 h 11.90625 l 2.59375,9.71875 h 6.5625 l -10.96875,-35.8125 h -0.03125 c -0.630517,-1.66495 -2.234297,-2.84375 -4.125,-2.84375 z m -0.0625,8.21875 4.125,15.6875 h -8.15625 z"
+       id="path2852"
+       style="fill:#0089df;fill-opacity:1" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:111.161px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:#0089df;fill-opacity:1;stroke-width:3.47377"
+     x="34.767384"
+     y="119.52133"
+     id="text1554"><tspan
+       sodipodi:role="line"
+       id="tspan1552"
+       x="34.767384"
+       y="119.52133"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';fill:#0089df;fill-opacity:1;stroke-width:3.47377">8</tspan></text>
+</svg>
