@@ -191,17 +191,17 @@
 | ✅ | glk | adventureland | Adventureland | Tucky27 |
 | ✅ | glk | pirateadventure | Pirate Adventure | Tucky27 |
 | ✅ | glk | missionimpossible | Mission Impossible | Tucky27 |
-| ⬜️ | glk | voodoocastle | Voodoo Castle | |
+| ✅ | glk | voodoocastle | Voodoo Castle | Tucky27 |
 | ✅ | glk | thecount | The Count | Tucky27 |
-| ⬜️ | glk | strangeodyssey | Strange Odyssey | |
-| ⬜️ | glk | mysteryfunhouse | Mystery Fun House | |
-| ⬜️ | glk | pyramidofdoom | Pyramid Of Doom | |
+| ✅ | glk | strangeodyssey | Strange Odyssey | Tucky27 |
+| ✅ | glk | mysteryfunhouse | Mystery Fun House | Tucky27 |
+| ✅ | glk | pyramidofdoom | Pyramid Of Doom | Tucky27 |
 | ✅ | glk | ghosttown | Ghost Town | Tucky27 |
 | ✅ | glk | savageisland1 | Savage Island, Part 1 | Tucky27 |
 | ✅ | glk | savageisland2 | Savage Island, Part 2 | Tucky27 |
 | ✅ | glk | goldenvoyage | The Golden Voyage | Tucky27 |
 | ✅ | glk | claymorguesorcerer | Sorcerer of Claymorgue Castle | Tucky27 |
-| ⬜️ | glk | pirateisle | Return to Pirate Isle | |
+| ✅ | glk | pirateisle | Return to Pirate Isle | Tucky27 |
 | ✅ | glk | buckaroobanzai | Buckaroo Banzai | Tucky27 |
 | ⬜️ | glk | scottsampler | Adventure International's Mini-Adventure Sampler | |
 | ✅ | glk | adv350 | Adventure, 350 point Colossal Cave | JenniBee |
