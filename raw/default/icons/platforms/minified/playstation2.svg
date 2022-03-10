@@ -1,0 +1,48 @@
+<svg data-name="Layer 1" viewBox="0 0 841.07 426.46" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="k" x1="634.51" x2="634.51" y1="125.33" y2="3.46" gradientTransform="translate(18.918)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#09b2cf" offset="0"/>
+      <stop stop-color="#304e97" offset="1"/>
+    </linearGradient>
+    <linearGradient id="l" x1="358" x2="358" y1="129.72" gradientTransform="translate(17.15)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#09b2cf" offset="0"/>
+      <stop stop-color="#178fbb" offset=".2"/>
+      <stop stop-color="#2273ab" offset=".4"/>
+      <stop stop-color="#2a5ea0" offset=".6"/>
+      <stop stop-color="#2e5299" offset=".8"/>
+      <stop stop-color="#304e97" offset="1"/>
+    </linearGradient>
+    <linearGradient id="g" x1="634.51" x2="634.51" y1="125.33" y2="3.46" gradientTransform="translate(18.918)" gradientUnits="userSpaceOnUse" xlink:href="#k"/>
+    <linearGradient id="h" x1="116.84" x2="116.84" y1="129.72" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#23bcee" offset="0"/>
+      <stop stop-color="#24b0e5" offset=".07"/>
+      <stop stop-color="#2785c3" offset=".36"/>
+      <stop stop-color="#2965aa" offset=".63"/>
+      <stop stop-color="#2b529b" offset=".85"/>
+      <stop stop-color="#2b4b96" offset="1"/>
+    </linearGradient>
+    <linearGradient id="i" x1="358" x2="358" y1="129.72" gradientTransform="translate(17.15)" gradientUnits="userSpaceOnUse" xlink:href="#l"/>
+    <filter id="j" x="-.033" y="-.175" width="1.065" height="1.35" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="10.697"/>
+    </filter>
+    <style>
+      .cls-2,.cls-3{fill-rule:evenodd}.cls-2{fill:url(#k)}.cls-3{fill:url(#l)}
+    </style>
+  </defs>
+  <rect width="841.07" height="426.46" ry="98.559" fill="#090500" stroke-width="5.737"/>
+  <g transform="translate(35.194 148.37)" fill-rule="evenodd" filter="url(#j)">
+    <path class="cls-2" d="M752.96 51.295H527.59v87h251.66v-26.29H554.73v-34.41h224.52v-86.17H527.59v26.3h225.37z" fill="url(#g)"/>
+    <path d="M216.785 17.725v35.57H-8.575v85h26.29v-60.7h224.54v-86.17H-8.575v26.3z" fill="url(#h)" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+    <path class="cls-3" d="M242.26 112v26.29h144.88V17.72h116.34v-26.3H362.02V112z" fill="url(#i)"/>
+  </g>
+  <g fill-rule="evenodd">
+    <path class="cls-2" transform="translate(35.194 148.37)" d="M752.96 51.295H527.59v87h251.66v-26.29H554.73v-34.41h224.52v-86.17H527.59v26.3h225.37z" fill="url(#g)"/>
+    <path transform="translate(35.194 148.37)" d="M216.785 17.725v35.57H-8.575v85h26.29v-60.7h224.54v-86.17H-8.575v26.3z" fill="url(#h)" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+    <path class="cls-3" transform="translate(35.194 148.37)" d="M242.26 112v26.29h144.88V17.72h116.34v-26.3H362.02V112z" fill="url(#i)"/>
+  </g>
+  <g transform="translate(35.194 148.37)" fill-rule="evenodd" filter="url(#j)">
+    <path class="cls-2" d="M752.96 51.295H527.59v87h251.66v-26.29H554.73v-34.41h224.52v-86.17H527.59v26.3h225.37z" fill="url(#g)"/>
+    <path d="M216.785 17.725v35.57H-8.575v85h26.29v-60.7h224.54v-86.17H-8.575v26.3z" fill="url(#h)" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+    <path class="cls-3" d="M242.26 112v26.29h144.88V17.72h116.34v-26.3H362.02V112z" fill="url(#i)"/>
+  </g>
+</svg>
