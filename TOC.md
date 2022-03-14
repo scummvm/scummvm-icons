@@ -303,7 +303,7 @@
 | ✅ | kyra | lol | Lands of Lore: The Throne of Chaos | dotdc |
 | ✅ | kyra | eob | Eye of the Beholder | Tucky27 |
 | ✅ | kyra | eob2 | Eye of the Beholder II: The Legend of Darkmoon | Tucky27 |
-| ⬜️ | lab | lab | Labyrinth of Time | |
+| ✅ | lab | lab | Labyrinth of Time | Tucky27 |
 | ✅ | lure | lure | Lure of the Temptress | GandalfTheWhite80 |
 | ✅ | made | manhole | The Manhole | Matt |
 | ✅ | made | rtz | Return to Zork | JenniBee |
