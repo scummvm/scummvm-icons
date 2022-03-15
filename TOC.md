@@ -54,7 +54,7 @@
 | ✅ | scumm | freddi2 | Freddi Fish 2: The Case of the Haunted Schoolhouse | Retrodude |
 | ✅ | scumm | freddi3 | Freddi Fish 3: The Case of the Stolen Conch Shell | Retrodude |
 | ✅ | scumm | freddi4 | Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch | Retrodude |
-| ⬜️ | scumm | freddisfunshop | Freddi Fish's One-Stop Fun Shop | |
+| ✅ | scumm | freddisfunshop | Freddi Fish's One-Stop Fun Shop | Tucky27 |
 | ⬜️ | scumm | jungle | Let's Explore the Jungle with Buzzy | |
 | ✅ | scumm | lost | Pajama Sam's Lost & Found | Tucky27 |
 | ⬜️ | scumm | maze | Freddi Fish and Luther's Maze Madness | |
