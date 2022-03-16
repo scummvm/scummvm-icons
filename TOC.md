@@ -232,7 +232,7 @@
 | ⬜️ | glk | minizork1 | Mini Zork I: The Great Underground Empire | |
 | ⬜️ | glk | moonmist | Moonmist | |
 | ⬜️ | glk | nordbert | Nord and Bert Couldn't Make Head or Tail of It | |
-| ⬜️ | glk | planetfall | Planetfall | |
+| ✅ | glk | planetfall | Planetfall | Tucky27 |
 | ⬜️ | glk | plunderedhearts | Plundered Hearts | |
 | ⬜️ | glk | questforexcalibur | Arthur: The Quest for Excalibur | |
 | ⬜️ | glk | seastalker | Seastalker | |
