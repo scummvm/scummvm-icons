@@ -147,6 +147,7 @@
 | ✅ | composer | sleepingcub | Magic Tales: Sleeping Cub's Test of Courage | Tucky27 |
 | ✅ | cruise | cruise | Cruise for a Corpse | rehail |
 | ✅ | cryomni3d | versailles | Versailles 1685 | Tucky27 |
+| ✅ | director | kyoto | Cosmology of Kyoto | Tucky27 |
 | ✅ | draci | draci | Draci Historie | JenniBee |
 | ✅ | dragons | dragons | Blazing Dragons | dotdc |
 | ✅ | drascula | drascula | Drascula: The Vampire Strikes Back | Thanius |
