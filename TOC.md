@@ -155,7 +155,7 @@
 | ⬜️ | glk | adrianmole1 | Adrian Mole I | |
 | ⬜️ | glk | adrianmole2 | Adrian Mole II | |
 | ✅ | glk | thearchers | The Archers | Tucky27 |
-| ⬜️ | glk | adventurequest | Adventure Quest | |
+| ✅ | glk | adventurequest | Adventure Quest | Tucky27 |
 | ✅ | glk | colossaladvjod | Colossal Adventure /JoD | JenniBee |
 | ⬜️ | glk | dungeonadv | Dungeon Adventure | |
 | ⬜️ | glk | dungeonadvjod | Dungeon Adventure /JoD | |
@@ -234,7 +234,7 @@
 | ⬜️ | glk | moonmist | Moonmist | |
 | ⬜️ | glk | nordbert | Nord and Bert Couldn't Make Head or Tail of It | |
 | ✅ | glk | planetfall | Planetfall | Tucky27 |
-| ⬜️ | glk | plunderedhearts | Plundered Hearts | |
+| ✅ | glk | plunderedhearts | Plundered Hearts | Tucky27 |
 | ✅ | glk | questforexcalibur | Arthur: The Quest for Excalibur | Tucky27 |
 | ⬜️ | glk | seastalker | Seastalker | |
 | ✅ | glk | sherlockriddle | Sherlock: The Riddle of the Crown Jewels | Tucky27 |
