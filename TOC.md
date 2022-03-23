@@ -225,7 +225,7 @@
 | ✅ | glk | elves87 | Elves '87 | JenniBee |
 | ✅ | glk | enchanter | Enchanter | Tucky27 |
 | ✅ | glk | hhgttg | The Hitchhiker's Guide to the Galaxy | Tucky27 |
-| ⬜️ | glk | hollywoodhijinx | Hollywood Hijinx | |
+| ✅ | glk | hollywoodhijinx | Hollywood Hijinx | Tucky27 |
 | ⬜️ | glk | infidel | Infidel | |
 | ⬜️ | glk | journey | Journey | |
 | ✅ | glk | lgop | Leather Goddesses of Phobos | JenniBee |
