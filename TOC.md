@@ -300,6 +300,7 @@
 | ✅ | hugo | hugo1 | Hugo 1: Hugo's House of Horrors | JenniBee |
 | ✅ | hugo | hugo2 | Hugo 2: Whodunit? | JenniBee |
 | ✅ | hugo | hugo3 | Hugo 3: Jungle of Doom | JenniBee |
+| ✅ | hypno | sinistersix | Spider-Man: The Sinister Six | Tucky27 |
 | ✅ | illusions | duckman | Duckman | Tucky27 |
 | ✅ | kyra | kyra1 | The Legend of Kyrandia | Tucky27 |
 | ✅ | kyra | kyra2 | The Legend of Kyrandia: The Hand of Fate | Tucky27 |
