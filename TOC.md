@@ -160,7 +160,7 @@
 | ✅ | glk | thearchers | The Archers | Tucky27 |
 | ✅ | glk | adventurequest | Adventure Quest | Tucky27 |
 | ✅ | glk | colossaladvjod | Colossal Adventure /JoD | JenniBee |
-| ⬜️ | glk | dungeonadv | Dungeon Adventure | |
+| ✅ | glk | dungeonadv | Dungeon Adventure | Tucky27 |
 | ⬜️ | glk | dungeonadvjod | Dungeon Adventure /JoD | |
 | ⬜️ | glk | emeraldisle | Emerald Isle | |
 | ⬜️ | glk | eriktheviking | Erik the Viking | |
