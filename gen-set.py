@@ -25,62 +25,61 @@
 
 import argparse
 import csv
-from datetime import date
-from datetime import datetime
 import io
 import os
-from pathlib import Path
 import subprocess
-from typing import Tuple
 import urllib.request
 import xml.dom.minidom
+import xml.etree.ElementTree as ElemTree
+from datetime import date
+from datetime import datetime
+from pathlib import Path
+from typing import Tuple, final, Set, AnyStr, List
 from zipfile import ZipFile
 
-import xml.etree.ElementTree as ET
-
-URLHEAD = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQamumX0p-DYQa5Umi3RxX-pHM6RZhAj1qvUP0jTmaqutN9FwzyriRSXlO9rq6kR60pGIuPvCDzZL3s/pub?output=tsv"
+URLHEAD: final = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQamumX0p-DYQa5Umi3RxX-pHM6RZhAj1qvUP0jTmaqutN9FwzyriRSXlO9rq6kR60pGIuPvCDzZL3s/pub?output=tsv"
 
 #        filename/root  gid           element name
-GUIDS = {'games'     : ('1946612063', 'game'),
-         'engines'   : ('0',          'engine'),
-         'companies' : ('226191984',  'company'),
-         'series'    : ('1095671818', 'serie')
-}
+GUIDS: final = {'games'     : ('1946612063', 'game'),
+                'engines'   : ('0',          'engine'),
+                'companies' : ('226191984',  'company'),
+                'series'    : ('1095671818', 'serie')
+                }
 
-URL_ICONS_LIST = 'https://downloads.scummvm.org/frs/icons/LIST'
+URL_ICONS_LIST: final = 'https://downloads.scummvm.org/frs/icons/LIST'
 
-ICON_DIR = 'icons'
-ENCODING = 'utf-8'
+ICON_DIR: final = 'icons'
+ENCODING: final = 'utf-8'
 
-ZIP_NAME_PREFIX = 'gui-icons-'
-ZIP_NAME_EXTENSION = '.dat'
-ZIP_DATE_FORMAT = '%Y%m%d'
+ZIP_NAME_PREFIX: final = 'gui-icons-'
+ZIP_NAME_EXTENSION: final = '.dat'
+ZIP_DATE_FORMAT: final = '%Y%m%d'
 
-LIST_NAME = 'LIST'
-LIST_DELIM = ','
+LIST_NAME: final = 'LIST'
+LIST_DELIM: final = ','
 
-DATE_FORMAT = '%Y-%m-%d'
+DATE_FORMAT: final = '%Y-%m-%d'
 
-FIRST_HASH = 'b2a20aad85714e0fea510483007e5e96d84225ca'
+FIRST_HASH: final = 'b2a20aad85714e0fea510483007e5e96d84225ca'
+
+ChangedFileSet = Set[str]
 
 
-def main(last_update: datetime, last_hash: str, listfile_entries: list):
-    """ Our main function
+def main(last_update: datetime, last_hash: str, listfile_entries: List[str]) -> None:
+    """Our main function.
 
-    Parameters
-    ----------
-    last_update : datetime
-        An optional last_update datetime. Day + 1 after the last creation of icons.zip
-        If not present please provide last_hash
-    last_hash : str
-        The (newest) last_hash value of the LIST file. It is preferred to use this param.
-    listfile_entries : list
-        When the LIST file is already read (finding last_hash) than we could reuse it.
-
+    :param last_update: datetime
+            An optional last_update datetime. Day + 1 after the last creation of icons.zip
+            If not present please provide last_hash
+    :param last_hash: str
+            The (newest) last_hash value of the LIST file. It is preferred to use this param.
+    :param listfile_entries: List[str]
+            When the LIST file is already read (finding last_hash) than we could reuse it.
+    :return: None
     """
 
     if last_update is None and last_hash is None:
-        print ('Please provider either last_update or last_hash')
+        print('Please provider either last_update or last_hash')
         quit()
 
     # ### Step 1: Generating XMLs
@@ -100,8 +99,11 @@ def main(last_update: datetime, last_hash: str, listfile_entries: list):
     print('\t' + new_listfile_name)
 
 
-def generate_xmls():
-    """ Generates the XMLs to be stored in the new zip file"""
+def generate_xmls() -> List[str]:
+    """Generates the XMLs to be stored in the new zip file.
+
+    :return: a List of generated XML files.
+    """
     print('Step 1: generate XMLs')
 
     xml_files = []
@@ -111,18 +113,18 @@ def generate_xmls():
 
         print("Processing " + guid + "... ", end="", flush=True)
 
-        root = ET.Element(guid)
+        root = ElemTree.Element(guid)
 
         with urllib.request.urlopen(url) as f:
             output = csv.DictReader(io.StringIO(f.read().decode(ENCODING)), delimiter='\t')
             for product in output:
-                product_xml = ET.SubElement(root, GUIDS[guid][1])
+                product_xml = ElemTree.SubElement(root, GUIDS[guid][1])
                 for key, value in product.items():
                     product_xml.set(key, value)
 
-        dom = xml.dom.minidom.parseString(ET.tostring(root).decode(ENCODING))
+        dom = xml.dom.minidom.parseString(ElemTree.tostring(root).decode(ENCODING))
 
-    #   on win machines there could be an error without specifying utf-8
+        #   on win machines there could be an error without specifying utf-8
         xml_file_name = guid + ".xml"
         with open(xml_file_name, "w", encoding=ENCODING) as f:
             f.write(dom.toprettyxml())
@@ -133,8 +135,13 @@ def generate_xmls():
     return xml_files
 
 
-def get_changed_icon_file_names(last_update: datetime, last_hash: str) -> set:
-    """ Returns all changed ICON file names"""
+def get_changed_icon_file_names(last_update: datetime, last_hash: str) -> ChangedFileSet:
+    """Returns all changed ICON file names.
+
+    :param last_update: last update as datetime (hash is preferred)
+    :param last_hash: the hash of the last commit (stored in last entry of the LIST file)
+    :return: a ChangedFileSet with all changed icons.
+    """
 
     if last_hash:
         print('\nStep 2: fetching changed icons using hash ' + last_hash)
@@ -145,12 +152,12 @@ def get_changed_icon_file_names(last_update: datetime, last_hash: str) -> set:
 
     check_isscummvmicons_repo()
 
-    check_isrepouptodate()
+    is_repo_uptodate()
 
     if last_hash:
         commit_hash = last_hash
     else:
-        commit_hashes = get_commithashes(last_iconsdat_date)
+        commit_hashes = get_commit_hashes(last_iconsdat_date)
 
         # no changes nothing to do
         if len(commit_hashes) == 0:
@@ -163,19 +170,26 @@ def get_changed_icon_file_names(last_update: datetime, last_hash: str) -> set:
     return collect_commit_file_names(commit_hash)
 
 
-def write_new_listfile(new_iconsdat_name: str, listfile_entries: list) -> str:
-    """ Writes a new LIST file"""
+def write_new_listfile(new_iconsdat_name: str, listfile_entries: List[str]) -> str:
+    """Writes a new LIST file.
+
+    :param new_iconsdat_name: the name of the new iconds-dat file.
+    :param listfile_entries: the entries of the LIST file (if already read) - an empty list is Ok.
+    :return: the name of the LIST file written.
+    """
     print('\nStep 4: generating a new ' + LIST_NAME + ' file')
 
     if len(listfile_entries) == 0:
-        listfile_entries = get_listfile_entries()
+        tmp_listfile_entries = get_listfile_entries()
     else:
         print(LIST_NAME + ' already read - using given values')
+        tmp_listfile_entries = listfile_entries
 
     last_commit_master = get_last_hash_from_master()
 
     new_iconsdat_size = os.path.getsize(new_iconsdat_name)
-    listfile_entries.append(new_iconsdat_name + LIST_DELIM + str(new_iconsdat_size) + LIST_DELIM + last_commit_master)
+    tmp_listfile_entries.append(
+        new_iconsdat_name + LIST_DELIM + str(new_iconsdat_size) + LIST_DELIM + last_commit_master)
 
     if os.path.exists(LIST_NAME):
         print(LIST_NAME + ' exists - file will be overwritten')
@@ -183,12 +197,17 @@ def write_new_listfile(new_iconsdat_name: str, listfile_entries: list) -> str:
     print('writing new ' + LIST_NAME + ' entries...', end='', flush=True)
 
     with open(LIST_NAME, 'w') as outfile:
-        outfile.write('\n'.join(listfile_entries))
+        outfile.write('\n'.join(tmp_listfile_entries))
 
     print('done')
     return LIST_NAME
 
+
 def get_last_hash_from_master() -> str:
+    """Reads the last hash code from the origin/master.
+
+    :return: the hash of the latest commit.
+    """
     lines = run_git('rev-parse', 'HEAD')
     if len(lines) < 1:
         print('ERROR: no commit found')
@@ -196,29 +215,36 @@ def get_last_hash_from_master() -> str:
 
     return lines[0].decode(ENCODING).rstrip()
 
-def get_listfile_lasthash() -> Tuple[str, list]:
-    """ Reads the LIST file and returns the last hash and the list of lines"""
+
+def get_listfile_lasthash() -> Tuple[str, List[str]]:
+    """Reads the LIST file and returns the last hash and the list of lines.
+
+    :return: A String with the last hash (from the LIST file) and a List containing all the lines of the LIST file.
+    """
     print('no inputDate argument - fetching last hash from ' + LIST_NAME + '... ', flush=True)
 
     listfile_entries = get_listfile_entries()
 
-    values = listfile_entries[-1].split(LIST_DELIM)
+    last_entry_values = listfile_entries[-1].split(LIST_DELIM)
 
-    if len(values) < 3:
+    if len(last_entry_values) == 1 or len(last_entry_values) == 2:
         # remove this if/else after LIST file is committed with FIRST_HASH and just use else print/quit()
         if len(listfile_entries) == 1:
             print("WARNING: Workaround - fixing first line of LIST file! Pls remove this fix after the first run")
-            values.append(FIRST_HASH)
+            last_entry_values.append(FIRST_HASH)
             listfile_entries[0] = listfile_entries[0].rstrip() + "," + FIRST_HASH
-        else:
-            print("Wrong/Old LIST entry format - please add inputDate argument yyyymmdd and run the script again")
-            quit()
+    else:
+        print("Wrong LIST entry format - please add inputDate argument yyyymmdd and run the script again")
+        quit()
 
-    return values[2], listfile_entries
+    return last_entry_values[2], listfile_entries
 
 
-def get_listfile_entries() -> list:
-    """ Reads and returns all lines / entries of the LIST file"""
+def get_listfile_entries() -> List[str]:
+    """Reads and returns all lines / entries of the LIST file.
+
+    :return: a List of strings with the content of the LIST file.
+    """
     print('reading existing ' + LIST_NAME + ' entries...', end='', flush=True)
     with urllib.request.urlopen(URL_ICONS_LIST) as f:
         output = f.read().decode(ENCODING).splitlines()
@@ -226,19 +252,22 @@ def get_listfile_entries() -> list:
         return output
 
 
-def check_isscummvmicons_repo():
-    """ Different checks for the local repo"""
+def check_isscummvmicons_repo() -> None:
+    """Different checks for the local repo - will quit() the srcipt if there is any error.
+
+    :return: None
+    """
     print('checking local directory is scummvm-icons repo ... ', end='', flush=True)
 
-    output_showorigin = run_git('remote', 'show', 'origin')
+    output_show_origin = run_git('remote', 'show', 'origin')
 
-    if not is_anygitrepo(output_showorigin):
+    if not is_any_git_repo(output_show_origin):
         print('error')
         print('not a git repository (or any of the parent directories)')
         quit()
 
     # wrong repo
-    if not is_scummvmicons_repo(output_showorigin):
+    if not is_scummvmicons_repo(output_show_origin):
         print('error')
         print('local folder is not a scummvm-icons git repo')
         quit()
@@ -246,7 +275,7 @@ def check_isscummvmicons_repo():
     print('done')
 
 
-def is_scummvmicons_repo(output_showorigin: list) -> bool:
+def is_scummvmicons_repo(output_showorigin: List[AnyStr]) -> bool:
     """ Checks if the local repo is a scummvm-icons repo"""
     for line in output_showorigin:
         # should be the correct repo
@@ -256,8 +285,12 @@ def is_scummvmicons_repo(output_showorigin: list) -> bool:
     return False
 
 
-def is_anygitrepo(output_showorigin: list) -> bool:
-    """ Checks if the local folder belongs to a git repo"""
+def is_any_git_repo(output_showorigin: List[AnyStr]) -> bool:
+    """Checks if the local folder belongs to a git repo.
+
+    :param output_showorigin: The output of 'show origin'.
+    :return: True if it is a git repo
+    """
     for line in output_showorigin:
         # outside of any local git repo
         if 'fatal: not a git repository' in line.decode(ENCODING):
@@ -266,8 +299,11 @@ def is_anygitrepo(output_showorigin: list) -> bool:
     return True
 
 
-def check_isrepouptodate():
-    """ Checks if the local repo is up to date"""
+def is_repo_uptodate() -> bool:
+    """Checks if the local repo is up to date.
+
+    :return: True if the local repo is up-to-date
+    """
 
     # ### check local repo is up to date
     print('checking local repo is up to date...', end='', flush=True)
@@ -275,18 +311,25 @@ def check_isrepouptodate():
     if len(run_git('fetch', '--dry-run')) > 0:
         print('warning')
         print('fetch with changes - make sure that your local branch is up to date')
+        return False
 
     # second variant of check
     run_git('update-index', '--refresh', '--unmerged')
     if len(run_git('diff-index', '--quiet', 'HEAD')) > 0:
         print('warning')
         print('fetch with changes - make sure that your local branch is up to date')
+        return False
 
     print('done')
+    return True
 
 
-def get_commithashes(last_icondat_date: str) -> list:
-    """ Collects all commit hashes since a given date"""
+def get_commit_hashes(last_icondat_date: str) -> List[str]:
+    """Collects all commit hashes since a given date.
+
+    :param last_icondat_date: last icon-dat generation date.
+    :return: all commits since last_icondat_date.
+    """
 
     commit_hashes = []
     # using log with reverse to fetch the commit_hashes
@@ -297,10 +340,14 @@ def get_commithashes(last_icondat_date: str) -> list:
     return commit_hashes
 
 
-def collect_commit_file_names(commit_hash: str) -> set:
-    """ Collects all filnames (icons) from a git commit"""
+def collect_commit_file_names(commit_hash: str) -> ChangedFileSet:
+    """Collects all filnames (icons) from a git commit.
 
-    changed_file_set = set()
+    :param commit_hash: the hash of the git commit.
+    :return: all changed icons (from the 'icons' directory)
+    """
+
+    changed_file_set = set()  # set, no duplicates
     print('fetching file names for commit:' + commit_hash + ' ... ', end='', flush=True)
 
     for file in run_git('diff', '--name-only', commit_hash + '..'):
@@ -325,8 +372,13 @@ def collect_commit_file_names(commit_hash: str) -> set:
     return changed_file_set
 
 
-def write_iconsdat(changed_files: list) -> str:
-    """ Creates a new file (will overwrite existing files) packing all changed_files into it"""
+def write_iconsdat(changed_files: List[str]) -> str:
+    """Creates a new file (will overwrite existing files) packing all changed_files into it.
+
+    :param changed_files: The changes files (icons) for the new icons-dat file.
+    :return: a string with the name of the created zip (icons-dat) file.
+    """
+
     print('\nStep 3: generating a new zip file...')
 
     # using today for the zip name
@@ -338,20 +390,26 @@ def write_iconsdat(changed_files: list) -> str:
 
     print('creating zip ' + zip_name + '... ', end='', flush=True)
 
-    with ZipFile(zip_name, mode='w', compresslevel=9) as newentries:
+    with ZipFile(zip_name, mode='w', compresslevel=9) as new_entries:
         for cf in changed_files:
-            newentries.write(cf)
+            new_entries.write(cf)
     print('done')
 
     return zip_name
 
 
-def run_git(*args):
-    my_env = os.environ.copy()
-    my_env["LANG"] = "C"
-    """ Executes a git command and returns the stdout (as line[])"""
-    with subprocess.Popen(args=['git'] + list(args), stdout=subprocess.PIPE, env=my_env) as child_proc:
+def run_git(*git_args) -> List[AnyStr]:
+    """Executes a git command and returns the stdout (as Line[AnyStr])
+
+    :param git_args:  A string, or a sequence of program arguments.
+    :return: The StdOut as List[AnyStr]
+    """
+
+    my_env = os.environ.copy()  # copy current environ
+    my_env["LANG"] = "C"  # add lang C
+    with subprocess.Popen(args=['git'] + list(git_args), stdout=subprocess.PIPE, env=my_env) as child_proc:
         return child_proc.stdout.readlines()
+
 
 ###########
 
