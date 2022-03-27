@@ -28,6 +28,7 @@ import csv
 import io
 import os
 import subprocess
+import sys
 import urllib.request
 import xml.dom.minidom
 import xml.etree.ElementTree as ElemTree
@@ -80,7 +81,7 @@ def main(last_update: datetime, last_hash: str, listfile_entries: List[str]) -> 
 
     if last_update is None and last_hash is None:
         print('Please provider either last_update or last_hash')
-        quit()
+        sys.exit(1)
 
     # ### Step 1: Generating XMLs
     xml_file_names = generate_xmls()
@@ -108,17 +109,17 @@ def generate_xmls() -> List[str]:
 
     xml_files = []
 
-    for guid in GUIDS:
-        url = URLHEAD + "&gid=" + GUIDS[guid][0]
+    for guid, guid_items in GUIDS.items():
+        url = URLHEAD + "&gid=" + guid_items[0]
 
         print("Processing " + guid + "... ", end="", flush=True)
 
         root = ElemTree.Element(guid)
 
-        with urllib.request.urlopen(url) as f:
-            output = csv.DictReader(io.StringIO(f.read().decode(ENCODING)), delimiter='\t')
+        with urllib.request.urlopen(url) as file:
+            output = csv.DictReader(io.StringIO(file.read().decode(ENCODING)), delimiter='\t')
             for product in output:
-                product_xml = ElemTree.SubElement(root, GUIDS[guid][1])
+                product_xml = ElemTree.SubElement(root, guid_items[1])
                 for key, value in product.items():
                     product_xml.set(key, value)
 
@@ -126,8 +127,8 @@ def generate_xmls() -> List[str]:
 
         #   on win machines there could be an error without specifying utf-8
         xml_file_name = guid + ".xml"
-        with open(xml_file_name, "w", encoding=ENCODING) as f:
-            f.write(dom.toprettyxml())
+        with open(xml_file_name, "w", encoding=ENCODING) as file:
+            file.write(dom.toprettyxml())
 
         xml_files.append(xml_file_name)
         print("done")
@@ -162,7 +163,7 @@ def get_changed_icon_file_names(last_update: datetime, last_hash: str) -> Change
         # no changes nothing to do
         if len(commit_hashes) == 0:
             print('no new /changed icons since: ' + last_iconsdat_date)
-            quit()
+            sys.exit(1)
 
         # last (sorted reverse!) commit_hash is sufficient
         commit_hash = commit_hashes[0]
@@ -196,7 +197,7 @@ def write_new_listfile(new_iconsdat_name: str, listfile_entries: List[str]) -> s
 
     print('writing new ' + LIST_NAME + ' entries...', end='', flush=True)
 
-    with open(LIST_NAME, 'w') as outfile:
+    with open(LIST_NAME, mode='w', encoding=ENCODING) as outfile:
         outfile.write('\n'.join(tmp_listfile_entries))
 
     print('done')
@@ -211,7 +212,7 @@ def get_last_hash_from_master() -> str:
     lines = run_git('rev-parse', 'HEAD')
     if len(lines) < 1:
         print('ERROR: no commit found')
-        quit()
+        sys.exit(1)
 
     return lines[0].decode(ENCODING).rstrip()
 
@@ -235,7 +236,7 @@ def get_listfile_lasthash() -> Tuple[str, List[str]]:
             listfile_entries[0] = listfile_entries[0].rstrip() + "," + FIRST_HASH
     else:
         print("Wrong LIST entry format - please add inputDate argument yyyymmdd and run the script again")
-        quit()
+        sys.exit(1)
 
     return last_entry_values[2], listfile_entries
 
@@ -246,8 +247,8 @@ def get_listfile_entries() -> List[str]:
     :return: a List of strings with the content of the LIST file.
     """
     print('reading existing ' + LIST_NAME + ' entries...', end='', flush=True)
-    with urllib.request.urlopen(URL_ICONS_LIST) as f:
-        output = f.read().decode(ENCODING).splitlines()
+    with urllib.request.urlopen(URL_ICONS_LIST) as file:
+        output = file.read().decode(ENCODING).splitlines()
         print('done')
         return output
 
@@ -264,13 +265,13 @@ def check_isscummvmicons_repo() -> None:
     if not is_any_git_repo(output_show_origin):
         print('error')
         print('not a git repository (or any of the parent directories)')
-        quit()
+        sys.exit(1)
 
     # wrong repo
     if not is_scummvmicons_repo(output_show_origin):
         print('error')
         print('local folder is not a scummvm-icons git repo')
-        quit()
+        sys.exit(1)
 
     print('done')
 
@@ -333,9 +334,9 @@ def get_commit_hashes(last_icondat_date: str) -> List[str]:
 
     commit_hashes = []
     # using log with reverse to fetch the commit_hashes
-    for cm in run_git('log', '--reverse', '--oneline', "--since='" + last_icondat_date + "'"):
+    for commit_lines in run_git('log', '--reverse', '--oneline', "--since='" + last_icondat_date + "'"):
         # split without sep - runs of consecutive whitespace are regarded as a single separator
-        commit_hashes.append(cm.decode(ENCODING).split(maxsplit=1)[0])
+        commit_hashes.append(commit_lines.decode(ENCODING).split(maxsplit=1)[0])
 
     return commit_hashes
 
@@ -391,8 +392,8 @@ def write_iconsdat(changed_files: List[str]) -> str:
     print('creating zip ' + zip_name + '... ', end='', flush=True)
 
     with ZipFile(zip_name, mode='w', compresslevel=9) as new_entries:
-        for cf in changed_files:
-            new_entries.write(cf)
+        for changed_file in changed_files:
+            new_entries.write(changed_file)
     print('done')
 
     return zip_name
