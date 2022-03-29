@@ -38,13 +38,15 @@ from pathlib import Path
 from typing import Tuple, final, Set, AnyStr, List
 from zipfile import ZipFile
 
+MIN_PYTHON: final = (3, 8)
+
 URLHEAD: final = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQamumX0p-DYQa5Umi3RxX-pHM6RZhAj1qvUP0jTmaqutN9FwzyriRSXlO9rq6kR60pGIuPvCDzZL3s/pub?output=tsv"
 
 #        filename/root  gid           element name
-GUIDS: final = {'games'     : ('1946612063', 'game'),
-                'engines'   : ('0',          'engine'),
-                'companies' : ('226191984',  'company'),
-                'series'    : ('1095671818', 'serie')
+GUIDS: final = {'games': ('1946612063', 'game'),
+                'engines': ('0', 'engine'),
+                'companies': ('226191984', 'company'),
+                'series': ('1095671818', 'serie')
                 }
 
 URL_ICONS_LIST: final = 'https://downloads.scummvm.org/frs/icons/LIST'
@@ -414,6 +416,8 @@ def run_git(*git_args) -> List[AnyStr]:
 
 ###########
 
+if sys.version_info < MIN_PYTHON:
+    sys.exit(f"Python {MIN_PYTHON[0]}.{MIN_PYTHON[1]} or later is required.\n")
 
 # check args / get date
 argParser = argparse.ArgumentParser(usage='%(prog)s [lastUpdate]')
@@ -422,14 +426,15 @@ args = argParser.parse_args()
 
 # optional param, if not present fetch last_update from the LIST file
 if 'lastUpdate' in args:
-    last_update = datetime.strptime(args.lastUpdate, '%Y%m%d')
-    listfile_entries = {}
-    last_hash = ""
-    print('using provided inputDate: ' + last_update.strftime(DATE_FORMAT) + '\n')
-else:
-    last_hash, listfile_entries = get_listfile_lasthash()
-    last_update = None
-    print('using last hash from ' + LIST_NAME + ': ' + last_hash + '\n')
+    arg_last_update = datetime.strptime(args.lastUpdate, '%Y%m%d')
+    print('using provided inputDate: ' + arg_last_update.strftime(DATE_FORMAT) + '\n')
 
-# listfile_entries as param, no need the read the LIST file twice
-main(last_update, last_hash, listfile_entries)
+    # we have to read the LIST later (if needed)
+    main(arg_last_update, "", [])
+
+else:
+    arg_last_hash, arg_listfile_entries = get_listfile_lasthash()
+    print('using last hash from ' + LIST_NAME + ': ' + arg_last_hash + '\n')
+
+    # listfile_entries as param, no need the read the LIST file twice
+    main(None, arg_last_hash, arg_listfile_entries)
