@@ -55,7 +55,7 @@
 | ✅ | scumm | freddi3 | Freddi Fish 3: The Case of the Stolen Conch Shell | Retrodude |
 | ✅ | scumm | freddi4 | Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch | Retrodude |
 | ✅ | scumm | freddisfunshop | Freddi Fish's One-Stop Fun Shop | Tucky27 |
-| ⬜️ | scumm | jungle | Let's Explore the Jungle with Buzzy | |
+| ✅ | scumm | jungle | Let's Explore the Jungle with Buzzy | Tucky27 |
 | ✅ | scumm | lost | Pajama Sam's Lost & Found | Tucky27 |
 | ⬜️ | scumm | maze | Freddi Fish and Luther's Maze Madness | |
 | ⬜️ | scumm | mustard | SPY Fox in Hold the Mustard | |
@@ -172,6 +172,7 @@
 | ⬜️ | glk | lordsoftime | Lords of Time | |
 | ⬜️ | glk | lordsoftimetmgd | Lords of Time /T&M GD | |
 | ⬜️ | glk | lordsoftimetm | Lords of Time /T&M | |
+| ✅ | glk | ootopos | Oo-Topos | Tucky27 |
 | ⬜️ | glk | priceofmagik | Price of Magik | |
 | ⬜️ | glk | priceofmagiktmgd | Price of Magik /T&M GD | |
 | ⬜️ | glk | priceofmagiktm | Price of Magik /T&M | |
@@ -236,11 +237,11 @@
 | ⬜️ | glk | milliways | Milliways | |
 | ⬜️ | glk | minizork1 | Mini Zork I: The Great Underground Empire | |
 | ⬜️ | glk | moonmist | Moonmist | |
-| ⬜️ | glk | nordbert | Nord and Bert Couldn't Make Head or Tail of It | |
+| ✅ | glk | nordbert | Nord and Bert Couldn't Make Head or Tail of It | Tucky27 |
 | ✅ | glk | planetfall | Planetfall | Tucky27 |
 | ✅ | glk | plunderedhearts | Plundered Hearts | Tucky27 |
 | ✅ | glk | questforexcalibur | Arthur: The Quest for Excalibur | Tucky27 |
-| ⬜️ | glk | seastalker | Seastalker | |
+| ✅ | glk | seastalker | Seastalker | Tucky27 |
 | ✅ | glk | sherlockriddle | Sherlock: The Riddle of the Crown Jewels | Tucky27 |
 | ✅ | glk | shogun | James Clavell's Shogun | NekoFever |
 | ✅ | glk | sorcerer | Sorcerer | Tucky27 |
