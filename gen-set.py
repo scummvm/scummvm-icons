@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# pylint: disable=docstring-first-line-empty
+# we shouldn't change this default header
+
 """
  " ScummVM - Graphic Adventure Engine
  "
@@ -23,6 +26,8 @@
  "
 """
 
+# pylint: enable=docstring-first-line-empty
+
 import argparse
 import csv
 import io
@@ -32,24 +37,32 @@ import sys
 import urllib.request
 import xml.dom.minidom
 import xml.etree.ElementTree as ElemTree
-from collections import namedtuple
+from dataclasses import dataclass
 from datetime import date, datetime
 from pathlib import Path
 from typing import Tuple, final, Set, AnyStr, List
 from zipfile import ZipFile
 
-MIN_PYTHON: final = (3, 8)
 
-URLHEAD: final = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQamumX0p-DYQa5Umi3RxX-pHM6RZhAj1qvUP0jTmaqutN9FwzyriRSXlO9rq6kR60pGIuPvCDzZL3s/pub?output=tsv"
+@dataclass(frozen=True, eq=True)  # immutable
+class GUID:
+    """GUID Data for XML generation"""
+    filename_root: str
+    gid: str
+    element_name: str
 
-GUID: final = namedtuple('Guid', ['filename_root', 'gid', 'element_name'])
 
-#               filename/root,  gid,          element name
-GUIDS: final = {GUID(filename_root='games', gid='1946612063', element_name='game'),
-                GUID(filename_root='engines', gid='0', element_name='engine'),
-                GUID(filename_root='companies', gid='226191984', element_name='company'),
-                GUID(filename_root='series', gid='1095671818', element_name='serie')
-                }
+GUIDS: final(Set[GUID]) = {GUID(filename_root='games', gid='1946612063', element_name='game'),
+                           GUID(filename_root='engines', gid='0', element_name='engine'),
+                           GUID(filename_root='companies', gid='226191984', element_name='company'),
+                           GUID(filename_root='series', gid='1095671818', element_name='serie')
+                           }
+
+MIN_PYTHON: final(Tuple[int]) = (3, 8)  # min python version is 3.8
+
+URL_HEAD: final = ("https://docs.google.com/spreadsheets/d/e/"
+                   + "2PACX-1vQamumX0p-DYQa5Umi3RxX-pHM6RZhAj1qvUP0jTmaqutN9FwzyriRSXlO9rq6kR60pGIuPvCDzZL3s"
+                   + "/pub?output=tsv")
 
 URL_ICONS_LIST: final = 'https://downloads.scummvm.org/frs/icons/LIST'
 
@@ -70,7 +83,7 @@ FIRST_HASH: final = 'b2a20aad85714e0fea510483007e5e96d84225ca'
 ChangedFileSet = Set[str]
 
 
-def main(last_update: datetime, last_hash: str, listfile_entries: List[str]) -> None:
+def main(last_update: datetime or None, last_hash: str, listfile_entries: List[str]) -> None:
     """Our main function.
 
     :param last_update: datetime
@@ -110,10 +123,10 @@ def generate_xmls() -> List[str]:
     """
     print('Step 1: generate XMLs')
 
-    xml_files = []
+    xml_files: List[str] = []
 
     for guid in GUIDS:
-        url = URLHEAD + "&gid=" + guid.gid
+        url = URL_HEAD + "&gid=" + guid.gid
 
         print("Processing " + guid.filename_root + "... ", end="", flush=True)
 
@@ -177,7 +190,7 @@ def get_changed_icon_file_names(last_update: datetime, last_hash: str) -> Change
 def write_new_listfile(new_iconsdat_name: str, listfile_entries: List[str]) -> str:
     """Writes a new LIST file.
 
-    :param new_iconsdat_name: the name of the new iconds-dat file.
+    :param new_iconsdat_name: the name of the new icons-dat file.
     :param listfile_entries: the entries of the LIST file (if already read) - an empty list is Ok.
     :return: the name of the LIST file written.
     """
@@ -257,7 +270,7 @@ def get_listfile_entries() -> List[str]:
 
 
 def check_isscummvmicons_repo() -> None:
-    """Different checks for the local repo - will quit() the srcipt if there is any error."""
+    """Different checks for the local repo - will quit() the script if there is any error."""
     print('checking local directory is scummvm-icons repo ... ', end='', flush=True)
 
     output_show_origin = run_git('remote', 'show', 'origin')
@@ -333,7 +346,7 @@ def get_commit_hashes(last_icondat_date: str) -> List[str]:
     :return: all commits since last_icondat_date.
     """
 
-    commit_hashes = []
+    commit_hashes: List[str] = []
     # using log with reverse to fetch the commit_hashes
     for commit_lines in run_git('log', '--reverse', '--oneline', "--since='" + last_icondat_date + "'"):
         # split without sep - runs of consecutive whitespace are regarded as a single separator
@@ -349,7 +362,7 @@ def collect_commit_file_names(commit_hash: str) -> ChangedFileSet:
     :return: all changed icons (from the 'icons' directory)
     """
 
-    changed_file_set = set()  # set, no duplicates
+    changed_file_set: Set[str] = set()  # set, no duplicates
     print('fetching file names for commit:' + commit_hash + ' ... ', end='', flush=True)
 
     for file in run_git('diff', '--name-only', commit_hash + '..'):
@@ -362,7 +375,7 @@ def collect_commit_file_names(commit_hash: str) -> ChangedFileSet:
             # build local path with a defined local folder / sanitize filenames
             local_path = '.' + os.path.sep + ICON_DIR + os.path.sep + Path(git_file_name).name
 
-            # file must exist / running from wrong path would result in non existing files
+            # file must exist / running from wrong path would result in non-existing files
             if os.path.exists(local_path):
                 changed_file_set.add(local_path)
             else:
