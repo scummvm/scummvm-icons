@@ -32,8 +32,8 @@ import sys
 import urllib.request
 import xml.dom.minidom
 import xml.etree.ElementTree as ElemTree
-from datetime import date
-from datetime import datetime
+from collections import namedtuple
+from datetime import date, datetime
 from pathlib import Path
 from typing import Tuple, final, Set, AnyStr, List
 from zipfile import ZipFile
@@ -42,11 +42,13 @@ MIN_PYTHON: final = (3, 8)
 
 URLHEAD: final = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQamumX0p-DYQa5Umi3RxX-pHM6RZhAj1qvUP0jTmaqutN9FwzyriRSXlO9rq6kR60pGIuPvCDzZL3s/pub?output=tsv"
 
-#        filename/root  gid           element name
-GUIDS: final = {'games': ('1946612063', 'game'),
-                'engines': ('0', 'engine'),
-                'companies': ('226191984', 'company'),
-                'series': ('1095671818', 'serie')
+GUID: final = namedtuple('Guid', ['filename_root', 'gid', 'element_name'])
+
+#               filename/root,  gid,          element name
+GUIDS: final = {GUID(filename_root='games', gid='1946612063', element_name='game'),
+                GUID(filename_root='engines', gid='0', element_name='engine'),
+                GUID(filename_root='companies', gid='226191984', element_name='company'),
+                GUID(filename_root='series', gid='1095671818', element_name='serie')
                 }
 
 URL_ICONS_LIST: final = 'https://downloads.scummvm.org/frs/icons/LIST'
@@ -78,7 +80,6 @@ def main(last_update: datetime, last_hash: str, listfile_entries: List[str]) -> 
             The (newest) last_hash value of the LIST file. It is preferred to use this param.
     :param listfile_entries: List[str]
             When the LIST file is already read (finding last_hash) than we could reuse it.
-    :return: None
     """
 
     if last_update is None and last_hash is None:
@@ -111,24 +112,24 @@ def generate_xmls() -> List[str]:
 
     xml_files = []
 
-    for guid, guid_items in GUIDS.items():
-        url = URLHEAD + "&gid=" + guid_items[0]
+    for guid in GUIDS:
+        url = URLHEAD + "&gid=" + guid.gid
 
-        print("Processing " + guid + "... ", end="", flush=True)
+        print("Processing " + guid.filename_root + "... ", end="", flush=True)
 
-        root = ElemTree.Element(guid)
+        root = ElemTree.Element(guid.filename_root)
 
         with urllib.request.urlopen(url) as file:
             output = csv.DictReader(io.StringIO(file.read().decode(ENCODING)), delimiter='\t')
             for product in output:
-                product_xml = ElemTree.SubElement(root, guid_items[1])
+                product_xml = ElemTree.SubElement(root, guid.element_name)
                 for key, value in product.items():
                     product_xml.set(key, value)
 
         dom = xml.dom.minidom.parseString(ElemTree.tostring(root).decode(ENCODING))
 
         #   on win machines there could be an error without specifying utf-8
-        xml_file_name = guid + ".xml"
+        xml_file_name = guid.filename_root + ".xml"
         with open(xml_file_name, "w", encoding=ENCODING) as file:
             file.write(dom.toprettyxml())
 
@@ -163,7 +164,7 @@ def get_changed_icon_file_names(last_update: datetime, last_hash: str) -> Change
         commit_hashes = get_commit_hashes(last_iconsdat_date)
 
         # no changes nothing to do
-        if len(commit_hashes) == 0:
+        if len(commit_hashes) < 1:
             print('no new /changed icons since: ' + last_iconsdat_date)
             sys.exit(1)
 
@@ -182,7 +183,7 @@ def write_new_listfile(new_iconsdat_name: str, listfile_entries: List[str]) -> s
     """
     print('\nStep 4: generating a new ' + LIST_NAME + ' file')
 
-    if len(listfile_entries) == 0:
+    if len(listfile_entries) < 1:
         tmp_listfile_entries = get_listfile_entries()
     else:
         print(LIST_NAME + ' already read - using given values')
@@ -256,10 +257,7 @@ def get_listfile_entries() -> List[str]:
 
 
 def check_isscummvmicons_repo() -> None:
-    """Different checks for the local repo - will quit() the srcipt if there is any error.
-
-    :return: None
-    """
+    """Different checks for the local repo - will quit() the srcipt if there is any error."""
     print('checking local directory is scummvm-icons repo ... ', end='', flush=True)
 
     output_show_origin = run_git('remote', 'show', 'origin')
@@ -280,10 +278,11 @@ def check_isscummvmicons_repo() -> None:
 
 def is_scummvmicons_repo(output_showorigin: List[AnyStr]) -> bool:
     """ Checks if the local repo is a scummvm-icons repo"""
-    for line in output_showorigin:
-        # should be the correct repo
-        if 'Fetch URL: https://github.com/scummvm/scummvm-icons' in line.decode(ENCODING):
-            return True
+
+    # should be the correct repo
+    if any('Fetch URL: https://github.com/scummvm/scummvm-icons' in line.decode(ENCODING)
+           for line in output_showorigin):
+        return True
 
     return False
 
@@ -294,10 +293,10 @@ def is_any_git_repo(output_showorigin: List[AnyStr]) -> bool:
     :param output_showorigin: The output of 'show origin'.
     :return: True if it is a git repo
     """
-    for line in output_showorigin:
-        # outside of any local git repo
-        if 'fatal: not a git repository' in line.decode(ENCODING):
-            return False
+
+    # outside of any local git repo
+    if any('fatal: not a git repository' in line.decode(ENCODING) for line in output_showorigin):
+        return False
 
     return True
 
@@ -404,7 +403,7 @@ def write_iconsdat(changed_files: List[str]) -> str:
 def run_git(*git_args) -> List[AnyStr]:
     """Executes a git command and returns the stdout (as Line[AnyStr])
 
-    :param git_args:  A string, or a sequence of program arguments.
+    :param *git_args:  A string, or a sequence of program arguments.
     :return: The StdOut as List[AnyStr]
     """
 
