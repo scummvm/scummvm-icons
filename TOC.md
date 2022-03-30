@@ -193,7 +193,7 @@
 | ⬜️ | glk | jinxter | Jinxter | |
 | ⬜️ | glk | myth | Myth | |
 | ⬜️ | glk | pawn | the Pawn | |
-| ⬜️ | glk | wonderland | Wonderland | |
+| ✅ | glk | wonderland | Wonderland | Tucky27 |
 | ✅ | glk | adventureland | Adventureland | Tucky27 |
 | ✅ | glk | pirateadventure | Pirate Adventure | Tucky27 |
 | ✅ | glk | missionimpossible | Mission Impossible | Tucky27 |
@@ -209,7 +209,7 @@
 | ✅ | glk | claymorguesorcerer | Sorcerer of Claymorgue Castle | Tucky27 |
 | ✅ | glk | pirateisle | Return to Pirate Isle | Tucky27 |
 | ✅ | glk | buckaroobanzai | Buckaroo Banzai | Tucky27 |
-| ⬜️ | glk | scottsampler | Adventure International's Mini-Adventure Sampler | |
+| ✅ | glk | scottsampler | Adventure International's Mini-Adventure Sampler | Tucky27 |
 | ✅ | glk | adv350 | Adventure, 350 point Colossal Cave | JenniBee |
 | ✅ | glk | adv350h | Adventure, 350 point Colossal Cave | JenniBee |
 | ✅ | glk | adv440 | Adventure II, 440 point Colossal Cave | JenniBee |
