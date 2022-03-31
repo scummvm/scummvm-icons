@@ -222,7 +222,7 @@
 | ⬜️ | glk | bureaucracy | Bureaucracy | |
 | ✅ | glk | ccfirstadv | Colossal Cave - The First Adventure | JenniBee |
 | ⬜️ | glk | cutthroats | Cutthroats | |
-| ⬜️ | glk | deadline | Deadline | |
+| ✅ | glk | deadline | Deadline | Tucky27 |
 | ✅ | glk | elf20 | The Elf's Christmas Adventure | JenniBee |
 | ✅ | glk | elves87 | Elves '87 | JenniBee |
 | ✅ | glk | enchanter | Enchanter | Tucky27 |
@@ -252,7 +252,7 @@
 | ⬜️ | glk | suspended | Suspended | |
 | ⬜️ | glk | trinity | Trinity | |
 | ✅ | glk | wishbringer | Wishbringer | Tucky27 |
-| ⬜️ | glk | thewitness | The Witness | |
+| ✅ | glk | thewitness | The Witness | Tucky27 |
 | ✅ | glk | zork0 | Zork Zero: The Revenge of Megaboz | JenniBee |
 | ✅ | glk | zork1 | Zork I: The Great Underground Empire | JenniBee |
 | ✅ | glk | zork2 | Zork II: The Wizard of Frobozz | JenniBee |
