@@ -85,7 +85,7 @@
 | ✅ | adl | hires6 | Hi-Res Adventure #6: The Dark Crystal | TrivialBalderdash |
 | ✅ | agi | agi | Sierra AGI game | JenniBee |
 | ⬜️ | agi | agi-fanmade | Fanmade AGI game | |
-| ✅ | agi | bc | The Black Cauldron | Tucky27 |
+| ✅ | agi | bc | The Black Cauldron | Tucky27, GandalfTheWhite80 |
 | ✅ | agi | caitlyn | Caitlyn's Destiny | Tucky27 |
 | ✅ | agi | ddp | Donald Duck's Playground | JenniBee |
 | ✅ | agi | goldrush | Gold Rush! | dotdc |
@@ -313,7 +313,7 @@
 | ✅ | lab | lab | Labyrinth of Time | Tucky27 |
 | ✅ | lure | lure | Lure of the Temptress | GandalfTheWhite80 |
 | ✅ | made | manhole | The Manhole | Matt |
-| ✅ | made | rtz | Return to Zork | JenniBee |
+| ✅ | made | rtz | Return to Zork | JenniBee, Tucky27 |
 | ✅ | made | lgop2 | Leather Goddesses of Phobos 2 | Matt |
 | ✅ | made | rodney | Rodney's Funscreen | Matt |
 | ✅ | mads | nebular | Rex Nebular and the Cosmic Gender Bender | TrivialBalderdash |
