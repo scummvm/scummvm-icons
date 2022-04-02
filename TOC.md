@@ -250,9 +250,10 @@
 | ⬜️ | glk | stationfall | Stationfall | |
 | ⬜️ | glk | suspect | Suspect | |
 | ⬜️ | glk | suspended | Suspended | |
+| ✅ | glk | talisman | Talisman: Challenging the Sands of Time | Tucky27 |
 | ⬜️ | glk | trinity | Trinity | |
-| ✅ | glk | wishbringer | Wishbringer | Tucky27 |
 | ✅ | glk | thewitness | The Witness | Tucky27 |
+| ✅ | glk | wishbringer | Wishbringer | Tucky27 |
 | ✅ | glk | zork0 | Zork Zero: The Revenge of Megaboz | JenniBee |
 | ✅ | glk | zork1 | Zork I: The Great Underground Empire | JenniBee |
 | ✅ | glk | zork2 | Zork II: The Wizard of Frobozz | JenniBee |
