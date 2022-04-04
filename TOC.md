@@ -210,11 +210,11 @@
 | ✅ | glk | pirateisle | Return to Pirate Isle | Tucky27 |
 | ✅ | glk | buckaroobanzai | Buckaroo Banzai | Tucky27 |
 | ✅ | glk | scottsampler | Adventure International's Mini-Adventure Sampler | Tucky27 |
-| ✅ | glk | adv350 | Adventure, 350 point Colossal Cave | JenniBee |
-| ✅ | glk | adv350h | Adventure, 350 point Colossal Cave | JenniBee |
-| ✅ | glk | adv440 | Adventure II, 440 point Colossal Cave | JenniBee |
-| ✅ | glk | adv550 | Adventure 3, 550 point Colossal Cave | JenniBee |
-| ✅ | glk | adv551 | Adventure 6, 551 point Colossal Cave | JenniBee |
+| ✅ | glk | adv350 | Adventure, 350 point Colossal Cave | JenniBee, Tucky27 |
+| ✅ | glk | adv350h | Adventure, 350 point Colossal Cave | JenniBee, Tucky27 |
+| ✅ | glk | adv440 | Adventure II, 440 point Colossal Cave | JenniBee, Tucky27 |
+| ✅ | glk | adv550 | Adventure 3, 550 point Colossal Cave | JenniBee, Tucky27 |
+| ✅ | glk | adv551 | Adventure 6, 551 point Colossal Cave | JenniBee, Tucky27 |
 | ✅ | glk | amfv | A Mind Forever Voyaging | Tucky27 |
 | ⬜️ | glk | ballyhoo | Ballyhoo | |
 | ✅ | glk | beyondzork | Beyond Zork | JenniBee |
