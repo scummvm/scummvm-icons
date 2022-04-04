@@ -221,6 +221,7 @@
 | ⬜️ | glk | borderzone | Border Zone | |
 | ⬜️ | glk | bureaucracy | Bureaucracy | |
 | ✅ | glk | ccfirstadv | Colossal Cave - The First Adventure | JenniBee |
+| ✅ | glk | crimsoncrown | The Crimson Crown | Tucky27 |
 | ⬜️ | glk | cutthroats | Cutthroats | |
 | ✅ | glk | deadline | Deadline | Tucky27 |
 | ✅ | glk | elf20 | The Elf's Christmas Adventure | JenniBee |
@@ -251,6 +252,7 @@
 | ⬜️ | glk | suspect | Suspect | |
 | ⬜️ | glk | suspended | Suspended | |
 | ✅ | glk | talisman | Talisman: Challenging the Sands of Time | Tucky27 |
+| ✅ | glk | transylvania | Transylvania | Tucky27 |
 | ⬜️ | glk | trinity | Trinity | |
 | ✅ | glk | thewitness | The Witness | Tucky27 |
 | ✅ | glk | wishbringer | Wishbringer | Tucky27 |
