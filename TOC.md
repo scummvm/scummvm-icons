@@ -450,6 +450,7 @@
 | ⬜️ | tsage | ringworld2 | Return to Ringworld | |
 | ✅ | tucker | tucker | Bud Tucker in Double Trouble | JenniBee |
 | ✅ | twine | lba | Little Big Adventure | Tucky27 |
+| ✅ | ultima | remorse | Crusader: No Remorse | Tucky27 |
 | ✅ | ultima | ultima4 | Ultima IV - Quest of the Avatar | Tucky27 |
 | ✅ | ultima | ultima6 | Ultima VI - The False Prophet | Tucky27 |
 | ✅ | ultima | ultima8 | Ultima VIII - Pagan | Tucky27 |
