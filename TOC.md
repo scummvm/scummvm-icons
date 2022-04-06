@@ -216,6 +216,10 @@
 | ✅ | glk | adv550 | Adventure 3, 550 point Colossal Cave | JenniBee, Tucky27 |
 | ✅ | glk | adv551 | Adventure 6, 551 point Colossal Cave | JenniBee, Tucky27 |
 | ✅ | glk | amfv | A Mind Forever Voyaging | Tucky27 |
+| ✅ | glk | blackwell1 | The Blackwell Legacy | Tucky27 |
+| ✅ | glk | blackwell2 | Blackwell Unbound | Tucky27 |
+| ✅ | glk | blackwell3 | The Blackwell Convergence | Tucky27 |
+| ✅ | glk | blackwell4 | The Blackwell Deception | Tucky27 |
 | ⬜️ | glk | ballyhoo | Ballyhoo | |
 | ✅ | glk | beyondzork | Beyond Zork | JenniBee |
 | ⬜️ | glk | borderzone | Border Zone | |
