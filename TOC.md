@@ -224,7 +224,7 @@
 | ✅ | glk | beyondzork | Beyond Zork | JenniBee |
 | ⬜️ | glk | borderzone | Border Zone | |
 | ⬜️ | glk | bureaucracy | Bureaucracy | |
-| ✅ | glk | ccfirstadv | Colossal Cave - The First Adventure | JenniBee |
+| ✅ | glk | ccfirstadv | Colossal Cave - The First Adventure | JenniBee, Tucky27 |
 | ✅ | glk | crimsoncrown | The Crimson Crown | Tucky27 |
 | ⬜️ | glk | cutthroats | Cutthroats | |
 | ✅ | glk | deadline | Deadline | Tucky27 |
