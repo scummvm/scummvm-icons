@@ -267,7 +267,7 @@
 | ✅ | glk | ztuu | Zork: The Undiscovered Underground | JenniBee |
 | ⬜️ | glk | zcode | Unknown Z-code game | |
 | ✅ | glk | softporn | Softporn Adventure | JenniBee |
-| ✅ | glk | marveladventure | Questprobe featuring The Hulk | Tucky27 |
+| ✅ | glk | marveladventure | Questprobe featuring The Hulk | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | marveladventure2 | Questprobe featuring Spider-Man | Tucky27 |
 | ✅ | gnap | gnap | Gnap | JenniBee |
 | ✅ | gob | gob1 | Gobliiins | nightm4re94 |
