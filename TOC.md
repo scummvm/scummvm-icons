@@ -254,7 +254,7 @@
 | ⬜️ | glk | starcross | Starcross | |
 | ⬜️ | glk | stationfall | Stationfall | |
 | ⬜️ | glk | suspect | Suspect | |
-| ⬜️ | glk | suspended | Suspended | |
+| ✅ | glk | suspended | Suspended | Tucky27 |
 | ✅ | glk | talisman | Talisman: Challenging the Sands of Time | Tucky27 |
 | ✅ | glk | transylvania | Transylvania | Tucky27 |
 | ⬜️ | glk | trinity | Trinity | |
