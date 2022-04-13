@@ -252,8 +252,8 @@
 | ✅ | glk | sorcerer | Sorcerer | Tucky27 |
 | ✅ | glk | spellbreaker | Spellbreaker | Tucky27 |
 | ⬜️ | glk | starcross | Starcross | |
-| ⬜️ | glk | stationfall | Stationfall | |
-| ⬜️ | glk | suspect | Suspect | |
+| ✅ | glk | stationfall | Stationfall | Tucky27 |
+| ✅ | glk | suspect | Suspect | Tucky27 |
 | ✅ | glk | suspended | Suspended | Tucky27 |
 | ✅ | glk | talisman | Talisman: Challenging the Sands of Time | Tucky27 |
 | ✅ | glk | transylvania | Transylvania | Tucky27 |
