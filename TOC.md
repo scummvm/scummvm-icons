@@ -220,9 +220,9 @@
 | ✅ | glk | adv550 | Adventure 3, 550 point Colossal Cave | JenniBee, Tucky27 |
 | ✅ | glk | adv551 | Adventure 6, 551 point Colossal Cave | JenniBee, Tucky27 |
 | ✅ | glk | amfv | A Mind Forever Voyaging | Tucky27 |
-| ⬜️ | glk | ballyhoo | Ballyhoo | |
+| ✅ | glk | ballyhoo | Ballyhoo | Tucky27 |
 | ✅ | glk | beyondzork | Beyond Zork | JenniBee |
-| ⬜️ | glk | borderzone | Border Zone | |
+| ✅ | glk | borderzone | Border Zone | Tucky27 |
 | ⬜️ | glk | bureaucracy | Bureaucracy | |
 | ✅ | glk | ccfirstadv | Colossal Cave - The First Adventure | JenniBee, Tucky27 |
 | ✅ | glk | crimsoncrown | The Crimson Crown | Tucky27 |
@@ -233,7 +233,7 @@
 | ✅ | glk | enchanter | Enchanter | Tucky27 |
 | ✅ | glk | hhgttg | The Hitchhiker's Guide to the Galaxy | Tucky27 |
 | ✅ | glk | hollywoodhijinx | Hollywood Hijinx | Tucky27 |
-| ⬜️ | glk | infidel | Infidel | |
+| ✅ | glk | infidel | Infidel | Tucky27 |
 | ⬜️ | glk | journey | Journey | |
 | ✅ | glk | lgop | Leather Goddesses of Phobos | JenniBee |
 | ⬜️ | glk | infocomsampler1 | Infocom Sampler 1 | |
