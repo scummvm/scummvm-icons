@@ -241,7 +241,7 @@
 | ⬜️ | glk | lurkinghorror | The Lurking Horror | |
 | ⬜️ | glk | milliways | Milliways | |
 | ⬜️ | glk | minizork1 | Mini Zork I: The Great Underground Empire | |
-| ⬜️ | glk | moonmist | Moonmist | |
+| ✅ | glk | moonmist | Moonmist | Tucky27 |
 | ✅ | glk | nordbert | Nord and Bert Couldn't Make Head or Tail of It | Tucky27 |
 | ✅ | glk | planetfall | Planetfall | Tucky27 |
 | ✅ | glk | plunderedhearts | Plundered Hearts | Tucky27 |
