@@ -246,6 +246,7 @@
 | ✅ | glk | planetfall | Planetfall | Tucky27 |
 | ✅ | glk | plunderedhearts | Plundered Hearts | Tucky27 |
 | ✅ | glk | questforexcalibur | Arthur: The Quest for Excalibur | Tucky27 |
+| ✅ | glk | questprobe2i5 | Questprobe featuring Spider-Man | Tucky27 |
 | ✅ | glk | seastalker | Seastalker | Tucky27 |
 | ✅ | glk | sherlockriddle | Sherlock: The Riddle of the Crown Jewels | Tucky27 |
 | ✅ | glk | shogun | James Clavell's Shogun | NekoFever |
