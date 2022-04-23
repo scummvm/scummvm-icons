@@ -226,7 +226,7 @@
 | ✅ | glk | bureaucracy | Bureaucracy | Tucky27 |
 | ✅ | glk | ccfirstadv | Colossal Cave - The First Adventure | JenniBee, Tucky27 |
 | ✅ | glk | crimsoncrown | The Crimson Crown | Tucky27 |
-| ⬜️ | glk | cutthroats | Cutthroats | |
+| ✅ | glk | cutthroats | Cutthroats | Tucky27 |
 | ✅ | glk | deadline | Deadline | Tucky27 |
 | ✅ | glk | elf20 | The Elf's Christmas Adventure | JenniBee |
 | ✅ | glk | elves87 | Elves '87 | JenniBee |
@@ -238,7 +238,7 @@
 | ✅ | glk | lgop | Leather Goddesses of Phobos | JenniBee |
 | ⬜️ | glk | infocomsampler1 | Infocom Sampler 1 | |
 | ⬜️ | glk | infocomsampler2 | Infocom Sampler 2 | |
-| ⬜️ | glk | lurkinghorror | The Lurking Horror | |
+| ✅ | glk | lurkinghorror | The Lurking Horror | Tucky27 |
 | ✅ | glk | milliways | Milliways | Tucky27 |
 | ⬜️ | glk | minizork1 | Mini Zork I: The Great Underground Empire | |
 | ✅ | glk | moonmist | Moonmist | Tucky27 |
