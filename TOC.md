@@ -223,7 +223,7 @@
 | ✅ | glk | ballyhoo | Ballyhoo | Tucky27 |
 | ✅ | glk | beyondzork | Beyond Zork | JenniBee |
 | ✅ | glk | borderzone | Border Zone | Tucky27 |
-| ⬜️ | glk | bureaucracy | Bureaucracy | |
+| ✅ | glk | bureaucracy | Bureaucracy | Tucky27 |
 | ✅ | glk | ccfirstadv | Colossal Cave - The First Adventure | JenniBee, Tucky27 |
 | ✅ | glk | crimsoncrown | The Crimson Crown | Tucky27 |
 | ⬜️ | glk | cutthroats | Cutthroats | |
@@ -239,7 +239,7 @@
 | ⬜️ | glk | infocomsampler1 | Infocom Sampler 1 | |
 | ⬜️ | glk | infocomsampler2 | Infocom Sampler 2 | |
 | ⬜️ | glk | lurkinghorror | The Lurking Horror | |
-| ⬜️ | glk | milliways | Milliways | |
+| ✅ | glk | milliways | Milliways | Tucky27 |
 | ⬜️ | glk | minizork1 | Mini Zork I: The Great Underground Empire | |
 | ✅ | glk | moonmist | Moonmist | Tucky27 |
 | ✅ | glk | nordbert | Nord and Bert Couldn't Make Head or Tail of It | Tucky27 |
