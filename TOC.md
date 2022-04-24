@@ -214,6 +214,7 @@
 | ✅ | glk | pirateisle | Return to Pirate Isle | Tucky27 |
 | ✅ | glk | buckaroobanzai | Buckaroo Banzai | Tucky27 |
 | ✅ | glk | scottsampler | Adventure International's Mini-Adventure Sampler | Tucky27 |
+| ✅ | glk | 7doctors | The seven doctors | Tucky27 |
 | ✅ | glk | adv350 | Adventure, 350 point Colossal Cave | JenniBee, Tucky27 |
 | ✅ | glk | adv350h | Adventure, 350 point Colossal Cave | JenniBee, Tucky27 |
 | ✅ | glk | adv440 | Adventure II, 440 point Colossal Cave | JenniBee, Tucky27 |
