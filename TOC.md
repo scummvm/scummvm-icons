@@ -235,13 +235,13 @@
 | ✅ | glk | hhgttg | The Hitchhiker's Guide to the Galaxy | Tucky27 |
 | ✅ | glk | hollywoodhijinx | Hollywood Hijinx | Tucky27 |
 | ✅ | glk | infidel | Infidel | Tucky27 |
-| ⬜️ | glk | journey | Journey | |
+| ✅ | glk | journey | Journey | Tucky27 |
 | ✅ | glk | lgop | Leather Goddesses of Phobos | JenniBee |
-| ⬜️ | glk | infocomsampler1 | Infocom Sampler 1 | |
-| ⬜️ | glk | infocomsampler2 | Infocom Sampler 2 | |
+| ✅ | glk | infocomsampler1 | Infocom Sampler 1 | Tucky27 |
+| ✅ | glk | infocomsampler2 | Infocom Sampler 2 | Tucky27 |
 | ✅ | glk | lurkinghorror | The Lurking Horror | Tucky27 |
 | ✅ | glk | milliways | Milliways | Tucky27 |
-| ⬜️ | glk | minizork1 | Mini Zork I: The Great Underground Empire | |
+| ✅ | glk | minizork1 | Mini Zork I: The Great Underground Empire | Tucky27 |
 | ✅ | glk | moonmist | Moonmist | Tucky27 |
 | ✅ | glk | nordbert | Nord and Bert Couldn't Make Head or Tail of It | Tucky27 |
 | ✅ | glk | planetfall | Planetfall | Tucky27 |
@@ -253,13 +253,13 @@
 | ✅ | glk | shogun | James Clavell's Shogun | NekoFever |
 | ✅ | glk | sorcerer | Sorcerer | Tucky27 |
 | ✅ | glk | spellbreaker | Spellbreaker | Tucky27 |
-| ⬜️ | glk | starcross | Starcross | |
+| ✅ | glk | starcross | Starcross | Tucky27 |
 | ✅ | glk | stationfall | Stationfall | Tucky27 |
 | ✅ | glk | suspect | Suspect | Tucky27 |
 | ✅ | glk | suspended | Suspended | Tucky27 |
 | ✅ | glk | talisman | Talisman: Challenging the Sands of Time | Tucky27 |
 | ✅ | glk | transylvania | Transylvania | Tucky27 |
-| ⬜️ | glk | trinity | Trinity | |
+| ✅ | glk | trinity | Trinity | Tucky27 |
 | ✅ | glk | thewitness | The Witness | Tucky27 |
 | ✅ | glk | wishbringer | Wishbringer | Tucky27 |
 | ✅ | glk | zork0 | Zork Zero: The Revenge of Megaboz | JenniBee |
