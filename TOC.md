@@ -462,6 +462,7 @@
 | ✅ | ultima | ultima4 | Ultima IV - Quest of the Avatar | Tucky27 |
 | ✅ | ultima | ultima6 | Ultima VI - The False Prophet | Tucky27 |
 | ✅ | ultima | ultima8 | Ultima VIII - Pagan | Tucky27 |
+| ✅ | ultima | martiandreams | Ultima - Martian Dreams | Tucky27 | 
 | ✅ | voyeur | voyeur | Voyeur | JenniBee |
 | ✅ | wintermute | chivalry | Chivalry is Not Dead | JenniBee |
 | ✅ | wintermute | corrosion | Corrosion: Cold Winter Waiting | GandalfTheWhite80 |
