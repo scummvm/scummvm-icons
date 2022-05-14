@@ -397,7 +397,7 @@
 | ✅ | sci | msastrochicken | Ms. Astro Chicken | Tucky27 |
 | ✅ | sci | pq1sci | Police Quest: In Pursuit of the Death Angel | Thanius |
 | ✅ | sci | pq3 | Police Quest III: The Kindred | JenniBee |
-| ✅ | sci | sq1sci | Space Quest I: The Sarien Encounter | JenniBee |
+| ✅ | sci | sq1sci | Space Quest I: The Sarien Encounter | JenniBee, Tucky27 |
 | ✅ | sci | sq4 | Space Quest IV: Roger Wilco and the Time Rippers | JenniBee |
 | ⬜️ | sci | christmas1992 | Christmas Card 1992 | |
 | ✅ | sci | ecoquest2 | EcoQuest II: Lost Secret of the Rainforest | thedoc |
@@ -415,7 +415,7 @@
 | ⬜️ | sci | catdate | The Dating Pool | |
 | ✅ | sci | gk1 | Gabriel Knight: Sins of the Fathers | TrivialBalderdash |
 | ⬜️ | sci | pq4 | Police Quest IV: Open Season | |
-| ✅ | sci | qfg4 | Quest for Glory IV: Shadows of Darkness | JenniBee |
+| ✅ | sci | qfg4 | Quest for Glory IV: Shadows of Darkness | JenniBee, Tucky27 |
 | ⬜️ | sci | hoyle5 | Hoyle Classic Games | |
 | ⬜️ | sci | hoyle5bridge | Hoyle Bridge | |
 | ⬜️ | sci | hoyle5children | Hoyle Children's Collection | |
