@@ -244,16 +244,6 @@ def get_listfile_lasthash() -> Tuple[str, List[str]]:
 
     last_entry_values = listfile_entries[-1].split(LIST_DELIM)
 
-    if len(last_entry_values) == 1 or len(last_entry_values) == 2:
-        # remove this if/else after LIST file is committed with FIRST_HASH and just use else print/quit()
-        if len(listfile_entries) == 1:
-            print("WARNING: Workaround - fixing first line of LIST file! Pls remove this fix after the first run")
-            last_entry_values.append(FIRST_HASH)
-            listfile_entries[0] = listfile_entries[0].rstrip() + "," + FIRST_HASH
-    else:
-        print("Wrong LIST entry format - please add inputDate argument yyyymmdd and run the script again")
-        sys.exit(1)
-
     return last_entry_values[2], listfile_entries
 
 
