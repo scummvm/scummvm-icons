@@ -374,7 +374,7 @@
 | ✅ | sci | lsl3 | Leisure Suit Larry 3: Passionate Patti in Pursuit of the Pulsating Pectorals | rehail |
 | ✅ | sci | mothergoose | Mixed-Up Mother Goose | dotdc |
 | ✅ | sci | pq2 | Police Quest II: The Vengeance | JenniBee |
-| ✅ | sci | qfg1 | Quest for Glory I: So You Want to Be a Hero | JenniBee |
+| ✅ | sci | qfg1 | Quest for Glory I: So You Want to Be a Hero | JenniBee, Tucky27 |
 | ✅ | sci | sq3 | Space Quest III: The Pirates of Pestulon | JenniBee |
 | ✅ | sci | qfg2 | Quest for Glory II: Trial by Fire | JenniBee |
 | ✅ | sci | kq1sci | King's Quest I: Quest for the Crown | dotdc |
@@ -401,7 +401,7 @@
 | ✅ | sci | sq4 | Space Quest IV: Roger Wilco and the Time Rippers | JenniBee |
 | ⬜️ | sci | christmas1992 | Christmas Card 1992 | |
 | ✅ | sci | ecoquest2 | EcoQuest II: Lost Secret of the Rainforest | thedoc |
-| ✅ | sci | freddypharkas | Freddy Pharkas: Frontier Pharmacist | dotdc |
+| ✅ | sci | freddypharkas | Freddy Pharkas: Frontier Pharmacist | dotdc, Tucky27 |
 | ⬜️ | sci | hoyle4 | Hoyle Classic Card Games | |
 | ✅ | sci | kq6 | King's Quest VI: Heir Today, Gone Tomorrow | JenniBee |
 | ✅ | sci | laurabow2 | Laura Bow 2: The Dagger of Amon Ra | dotdc |
