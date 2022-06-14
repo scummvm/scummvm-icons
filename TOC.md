@@ -58,7 +58,7 @@
 | ✅ | scumm | jungle | Let's Explore the Jungle with Buzzy | Tucky27 |
 | ✅ | scumm | lost | Pajama Sam's Lost & Found | Tucky27 |
 | ⬜️ | scumm | maze | Freddi Fish and Luther's Maze Madness | |
-| ⬜️ | scumm | mustard | SPY Fox in Hold the Mustard | |
+| ✅ | scumm | mustard | SPY Fox in Hold the Mustard | Tucky27 |
 | ✅ | scumm | pajama | Pajama Sam 1: No Need to Hide When It's Dark Outside | Tucky27 |
 | ✅ | scumm | pajama2 | Pajama Sam 2: Thunder and Lightning Aren't so Frightening | Tucky27 |
 | ✅ | scumm | pajama3 | Pajama Sam 3: You Are What You Eat From Your Head to Your Feet | Tucky27 |
@@ -70,8 +70,8 @@
 | ⬜️ | scumm | samsfunshop | Pajama Sam's One-Stop Fun Shop | |
 | ⬜️ | scumm | soccer | Backyard Soccer | |
 | ⬜️ | scumm | socks | Pajama Sam's Sock Works | |
-| ⬜️ | scumm | spyfox | SPY Fox 1: Dry Cereal | |
-| ⬜️ | scumm | spyfox2 | SPY Fox 2: Some Assembly Required | |
+| ✅ | scumm | spyfox | SPY Fox 1: Dry Cereal | Tucky27 |
+| ✅ | scumm | spyfox2 | SPY Fox 2: Some Assembly Required | Tucky27 |
 | ⬜️ | scumm | thinker1 | Big Thinkers First Grade | |
 | ⬜️ | scumm | thinkerk | Big Thinkers Kindergarten | |
 | ⬜️ | scumm | water | Freddi Fish and Luther's Water Worries | |
