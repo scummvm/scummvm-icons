@@ -57,7 +57,7 @@
 | ✅ | scumm | freddisfunshop | Freddi Fish's One-Stop Fun Shop | Tucky27 |
 | ✅ | scumm | jungle | Let's Explore the Jungle with Buzzy | Tucky27 |
 | ✅ | scumm | lost | Pajama Sam's Lost & Found | Tucky27 |
-| ⬜️ | scumm | maze | Freddi Fish and Luther's Maze Madness | |
+| ✅ | scumm | maze | Freddi Fish and Luther's Maze Madness | Tucky27 |
 | ✅ | scumm | mustard | SPY Fox in Hold the Mustard | Tucky27 |
 | ✅ | scumm | pajama | Pajama Sam 1: No Need to Hide When It's Dark Outside | Tucky27 |
 | ✅ | scumm | pajama2 | Pajama Sam 2: Thunder and Lightning Aren't so Frightening | Tucky27 |
