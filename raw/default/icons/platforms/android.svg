@@ -1,0 +1,21 @@
+<svg viewBox="-147 -70 294 345" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <rect id="a" x="-143" y="41" width="48" height="133" rx="24" fill="#a4c639" stroke="#fff" stroke-width="7.2"/>
+    <rect id="b" x="-143" y="41" width="48" height="133" rx="24" fill="#a4c639" stroke="#fff" stroke-width="7.2"/>
+  </defs>
+  <g transform="translate(.25)">
+    <rect transform="scale(-1 1)" x="-138.88" y="45" width="40.75" height="126.88" rx="20.375" fill="#a4c639"/>
+    <g transform="translate(-.688)">
+      <path d="M0-43c-50.213.004-90.933 37.55-90.992 83.9h181.99C90.938-5.452 50.215-42.999 0-43Zm90.998 83.9L91 41v-.1zm-181.99 0H-91ZM-91 48.207V180c0 12.188 9.812 22 22 22H69c12.188 0 22-9.812 22-22V48.207Z" fill="#a4c639"/>
+      <circle cx="-42" r="4" fill="#fff" stroke="#fff" stroke-width="7.2"/>
+      <circle cx="42" r="4" fill="#fff" stroke="#fff" stroke-width="7.2"/>
+      <rect transform="rotate(29.248) skewX(.113)" x="14.25" y="-85.066" width="6.779" height="78.82" ry="3.393" fill="#a4c639"/>
+      <rect transform="rotate(-29.287) skewX(.113)" x="-21.66" y="-85.629" width="6.779" height="78.82" ry="3.393" fill="#a4c639"/>
+    </g>
+    <rect transform="scale(-1 1)" x="99.5" y="45" width="40.75" height="126.88" rx="20.375" fill="#a4c639"/>
+  </g>
+  <g transform="translate(-2.384)" fill="#a4c639" stroke-opacity="0">
+    <use transform="matrix(-.86425 0 0 1.0037 7.11 -4.76)" x="85" y="97" xlink:href="#a"/>
+    <use transform="matrix(-.87301 0 0 1.0035 -62.043 -4.708)" x="85" y="97" xlink:href="#b"/>
+  </g>
+</svg>
