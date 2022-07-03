@@ -377,7 +377,7 @@
 | ✅ | sci | pq2 | Police Quest II: The Vengeance | JenniBee |
 | ✅ | sci | qfg1 | Quest for Glory I: So You Want to Be a Hero | JenniBee, Tucky27 |
 | ✅ | sci | sq3 | Space Quest III: The Pirates of Pestulon | JenniBee |
-| ✅ | sci | qfg2 | Quest for Glory II: Trial by Fire | JenniBee |
+| ✅ | sci | qfg2 | Quest for Glory II: Trial by Fire | JenniBee, Tucky27 |
 | ✅ | sci | kq1sci | King's Quest I: Quest for the Crown | dotdc |
 | ✅ | sci | castlebrain | Castle of Dr. Brain | thedoc |
 | ⬜️ | sci | christmas1990 | Christmas Card 1990: The Seasoned Professional | |
