@@ -95,7 +95,7 @@
 | ✅ | agi | kq4 | King's Quest IV: The Perils of Rosella | JenniBee |
 | ✅ | agi | lsl1 | Leisure Suit Larry in the Land of the Lounge Lizards | rehail |
 | ✅ | agi | mickey | Mickey's Space Adventure | Matt |
-| ✅ | agi | mixedup | Mixed-Up Mother Goose | dotdc |
+| ✅ | agi | mixedup | Mixed-Up Mother Goose | dotdc, Tucky27 |
 | ✅ | agi | mh1 | Manhunter 1: New York | GandalfTheWhite80 |
 | ✅ | agi | mh2 | Manhunter 2: San Francisco | GandalfTheWhite80 |
 | ✅ | agi | pq1 | Police Quest I: In Pursuit of the Death Angel | Thanius |
