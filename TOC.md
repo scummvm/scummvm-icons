@@ -373,7 +373,7 @@
 | ✅ | sci | laurabow | Laura Bow: The Colonel's Bequest | dotdc |
 | ✅ | sci | lsl2 | Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places) | rehail |
 | ✅ | sci | lsl3 | Leisure Suit Larry 3: Passionate Patti in Pursuit of the Pulsating Pectorals | rehail |
-| ✅ | sci | mothergoose | Mixed-Up Mother Goose | dotdc |
+| ✅ | sci | mothergoose | Mixed-Up Mother Goose | dotdc, Tucky27 |
 | ✅ | sci | pq2 | Police Quest II: The Vengeance | JenniBee |
 | ✅ | sci | qfg1 | Quest for Glory I: So You Want to Be a Hero | JenniBee, Tucky27 |
 | ✅ | sci | sq3 | Space Quest III: The Pirates of Pestulon | JenniBee |
@@ -394,7 +394,7 @@
 | ✅ | sci | longbow | Conquests of the Longbow: The Adventures of Robin Hood | Tucky27 |
 | ✅ | sci | lsl1sci | Leisure Suit Larry in the Land of the Lounge Lizards | rehail |
 | ✅ | sci | lsl5 | Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work | rehail |
-| ✅ | sci | mothergoose256 | Mixed-Up Mother Goose | dotdc |
+| ✅ | sci | mothergoose256 | Mixed-Up Mother Goose | dotdc, Tucky27 |
 | ✅ | sci | msastrochicken | Ms. Astro Chicken | Tucky27 |
 | ✅ | sci | pq1sci | Police Quest: In Pursuit of the Death Angel | Thanius |
 | ✅ | sci | pq3 | Police Quest III: The Kindred | JenniBee |
@@ -426,7 +426,7 @@
 | ✅ | sci | kq7 | King's Quest VII: The Princeless Bride | JenniBee |
 | ✅ | sci | kquestions | King's Questions | Tucky27 |
 | ✅ | sci | lsl6hires | Leisure Suit Larry 6: Shape Up or Slip Out! | rehail |
-| ✅ | sci | mothergoosehires | Mixed-Up Mother Goose Deluxe | dotdc |
+| ✅ | sci | mothergoosehires | Mixed-Up Mother Goose Deluxe | dotdc, Tucky27 |
 | ✅ | sci | phantasmagoria | Phantasmagoria | dotdc |
 | ✅ | sci | pqswat | Police Quest: SWAT | Tucky27 |
 | ✅ | sci | shivers | Shivers | thedoc |
