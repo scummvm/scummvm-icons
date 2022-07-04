@@ -64,7 +64,7 @@
 | ✅ | scumm | pajama3 | Pajama Sam 3: You Are What You Eat From Your Head to Your Feet | Tucky27 |
 | ✅ | scumm | puttcircus | Putt-Putt Joins the Circus | Retrodude |
 | ✅ | scumm | puttrace | Putt-Putt Enters the Race | Retrodude |
-| ⬜️ | scumm | puttsfunshop | Putt-Putt's One-Stop Fun Shop | |
+| ✅ | scumm | puttsfunshop | Putt-Putt's One-Stop Fun Shop | Tucky27 |
 | ✅ | scumm | putttime | Putt-Putt Travels Through Time | Retrodude |
 | ✅ | scumm | puttzoo | Putt-Putt Saves the Zoo | Retrodude |
 | ⬜️ | scumm | samsfunshop | Pajama Sam's One-Stop Fun Shop | |
