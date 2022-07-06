@@ -381,11 +381,11 @@
 | ✅ | sci | kq1sci | King's Quest I: Quest for the Crown | dotdc |
 | ✅ | sci | castlebrain | Castle of Dr. Brain | thedoc |
 | ⬜️ | sci | christmas1990 | Christmas Card 1990: The Seasoned Professional | |
-| ⬜️ | sci | cnick-lsl | Crazy Nick's Software Picks: Leisure Suit Larry's Casino | |
+| ✅ | sci | cnick-lsl | Crazy Nick's Software Picks: Leisure Suit Larry's Casino | Tucky27 |
 | ⬜️ | sci | cnick-kq | Crazy Nick's Software Picks: King Graham's Board Game Challenge | |
 | ⬜️ | sci | cnick-laurabow | Crazy Nick's Software Picks: Parlor Games with Laura Bow | |
 | ⬜️ | sci | cnick-longbow | Crazy Nick's Software Picks: Robin Hood's Game of Skill and Chance | |
-| ⬜️ | sci | cnick-sq | Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack | |
+| ✅ | sci | cnick-sq | Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack | Tucky27 |
 | ✅ | sci | ecoquest | EcoQuest: The Search for Cetus | thedoc |
 | ✅ | sci | fairytales | Mixed-up Fairy Tales | Tucky27 |
 | ✅ | sci | hoyle3 | Hoyle Official Book of Games: Volume 3 | Tucky27 |
