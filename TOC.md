@@ -132,7 +132,7 @@
 | ✅ | ags | sq2dote | Space Quest: Decision Of The Elders | Tucky27 |
 | ✅ | ags | sqinc | Space Quest: Incinerations | Tucky27 |
 | ✅ | ags | qfg2agdi | Quest for Glory II: Trial by Fire | Tucky27 |
-| ✅ | asylum | asylum | Sanitarium | JenniBee |
+| ✅ | asylum | sanitarium | Sanitarium | JenniBee, GandalfTheWhite80 |
 | ✅ | avalanche | avalanche | Lord Avalot d'Argent | JenniBee |
 | ✅ | bbvs | bbvs | Beavis and Butt-head in Virtual Stupidity | JenniBee |
 | ✅ | bladerunner | bladerunner | Blade Runner | NekoFever |
