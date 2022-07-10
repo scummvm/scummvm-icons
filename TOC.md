@@ -72,7 +72,7 @@
 | ⬜️ | scumm | socks | Pajama Sam's Sock Works | |
 | ✅ | scumm | spyfox | SPY Fox 1: Dry Cereal | Tucky27 |
 | ✅ | scumm | spyfox2 | SPY Fox 2: Some Assembly Required | Tucky27 |
-| ⬜️ | scumm | thinker1 | Big Thinkers First Grade | |
+| ✅ | scumm | thinker1 | Big Thinkers First Grade | Tucky27 |
 | ⬜️ | scumm | thinkerk | Big Thinkers Kindergarten | |
 | ⬜️ | scumm | water | Freddi Fish and Luther's Water Worries | |
 | ✅ | access | amazon | Amazon: Guardians of Eden | Tucky27 |
@@ -307,6 +307,7 @@
 | ✅ | grim | monkey4 | Escape From Monkey Island | Thanius |
 | ✅ | groovie | t7g | The 7th Guest | NekoFever |
 | ✅ | groovie | 11h | The 11th Hour | bobdevis |
+| ✅ | groovie | clandestiny | Clandestiny| Tucky27 |
 | ✅ | hdb | hdb | Hyperspace Delivery Boy! | SupSuper |
 | ✅ | hopkins | hopkins | Hopkins FBI | rehail |
 | ✅ | hugo | hugo1 | Hugo 1: Hugo's House of Horrors | JenniBee |
@@ -383,7 +384,7 @@
 | ⬜️ | sci | christmas1990 | Christmas Card 1990: The Seasoned Professional | |
 | ✅ | sci | cnick-lsl | Crazy Nick's Software Picks: Leisure Suit Larry's Casino | Tucky27 |
 | ⬜️ | sci | cnick-kq | Crazy Nick's Software Picks: King Graham's Board Game Challenge | |
-| ⬜️ | sci | cnick-laurabow | Crazy Nick's Software Picks: Parlor Games with Laura Bow | |
+| ✅ | sci | cnick-laurabow | Crazy Nick's Software Picks: Parlor Games with Laura Bow | Tucky27 |
 | ⬜️ | sci | cnick-longbow | Crazy Nick's Software Picks: Robin Hood's Game of Skill and Chance | |
 | ✅ | sci | cnick-sq | Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack | Tucky27 |
 | ✅ | sci | ecoquest | EcoQuest: The Search for Cetus | thedoc |
