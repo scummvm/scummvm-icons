@@ -332,22 +332,23 @@
 | ✅ | made | rodney | Rodney's Funscreen | Matt |
 | ✅ | mads | nebular | Rex Nebular and the Cosmic Gender Bender | TrivialBalderdash |
 | ✅ | mohawk | myst | Myst | TrivialBalderdash |
-| ⬜️ | mohawk | makingofmyst | The Making of Myst | |
+| ✅ | mohawk | makingofmyst | The Making of Myst | Tucky27 |
 | ✅ | mohawk | riven | Riven: The Sequel to Myst | TrivialBalderdash |
 | ⬜️ | mohawk | greeneggs | Green Eggs and Ham | |
 | ⬜️ | mohawk | seussabc | Dr Seuss's ABC | |
-| ⬜️ | mohawk | tortoise | Aesop's Fables: The Tortoise and the Hare | |
+| ✅ | mohawk | tortoise | Aesop's Fables: The Tortoise and the Hare | Tucky27 |
 | ✅ | mohawk | arthur | Arthur's Teacher Trouble | mileso |
-| ⬜️ | mohawk | grandma | Just Grandma and Me | |
+| ✅ | mohawk | grandma | Just Grandma and Me | Tucky27 |
 | ⬜️ | mohawk | ruff | Ruff's Bone | |
 | ⬜️ | mohawk | newkid | The New Kid on the Block | |
-| ⬜️ | mohawk | arthurbday | Arthur's Birthday | |
+| ✅ | mohawk | arthurbday | Arthur's Birthday | Tucky27 |
 | ⬜️ | mohawk | lilmonster | Little Monster at School | |
 | ⬜️ | mohawk | bearfight | The Berenstain Bears Get in a Fight | |
 | ⬜️ | mohawk | beardark | The Berenstain Bears In The Dark | |
-| ⬜️ | mohawk | harryhh | Harry and the Haunted House | |
+| ✅ | mohawk | harryhh | Harry and the Haunted House | Tucky27 |
 | ⬜️ | mohawk | stellaluna | Stellaluna | |
 | ⬜️ | mohawk | sheila | Sheila Rae, the Brave | |
+| ✅ | mohawk | daniel | Daniel in the Lion's Den  | Tucky27 |
 | ⬜️ | mortevielle | mortevielle | Mortville Manor | |
 | ✅ | myst3 | myst3 | Myst III Exile | JenniBee |
 | ✅ | neverhood | neverhood | The Neverhood Chronicles | JenniBee |
