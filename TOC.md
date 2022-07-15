@@ -308,8 +308,9 @@
 | ✅ | grim | monkey4 | Escape From Monkey Island | Thanius |
 | ✅ | groovie | t7g | The 7th Guest | NekoFever |
 | ✅ | groovie | 11h | The 11th Hour | bobdevis |
-| ✅ | groovie | clandestiny | Clandestiny| Tucky27 |
-| ✅ | groovie | tlc | Tender Loving Care| Tucky27 |
+| ✅ | groovie | clandestiny | Clandestiny | Tucky27 |
+| ✅ | groovie | tlc | Tender Loving Care | Tucky27 |
+| ✅ | groovie | unclehenry | Uncle Henry's Playhouse | GandalfTheWhite80 |
 | ✅ | hdb | hdb | Hyperspace Delivery Boy! | SupSuper |
 | ✅ | hopkins | hopkins | Hopkins FBI | rehail |
 | ✅ | hugo | hugo1 | Hugo 1: Hugo's House of Horrors | JenniBee |
