@@ -399,7 +399,7 @@
 | ✅ | sci | lsl5 | Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work | rehail |
 | ✅ | sci | mothergoose256 | Mixed-Up Mother Goose | dotdc, Tucky27 |
 | ✅ | sci | msastrochicken | Ms. Astro Chicken | Tucky27 |
-| ✅ | sci | pq1sci | Police Quest: In Pursuit of the Death Angel | Thanius |
+| ✅ | sci | pq1sci | Police Quest: In Pursuit of the Death Angel | Thanius, Tucky27 |
 | ✅ | sci | pq3 | Police Quest III: The Kindred | JenniBee |
 | ✅ | sci | sq1sci | Space Quest I: The Sarien Encounter | JenniBee, Tucky27 |
 | ✅ | sci | sq4 | Space Quest IV: Roger Wilco and the Time Rippers | JenniBee |
