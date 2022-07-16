@@ -420,7 +420,7 @@
 | ⬜️ | sci | slater | Slater & Charlie Go Camping | |
 | ⬜️ | sci | catdate | The Dating Pool | |
 | ✅ | sci | gk1 | Gabriel Knight: Sins of the Fathers | TrivialBalderdash |
-| ⬜️ | sci | pq4 | Police Quest IV: Open Season | |
+| ✅ | sci | pq4 | Police Quest IV: Open Season | Tucky27 |
 | ✅ | sci | qfg4 | Quest for Glory IV: Shadows of Darkness | JenniBee, Tucky27 |
 | ⬜️ | sci | hoyle5 | Hoyle Classic Games | |
 | ⬜️ | sci | hoyle5bridge | Hoyle Bridge | |
