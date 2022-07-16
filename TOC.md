@@ -69,7 +69,7 @@
 | ✅ | scumm | puttzoo | Putt-Putt Saves the Zoo | Retrodude |
 | ⬜️ | scumm | samsfunshop | Pajama Sam's One-Stop Fun Shop | |
 | ⬜️ | scumm | soccer | Backyard Soccer | |
-| ⬜️ | scumm | socks | Pajama Sam's Sock Works | |
+| ✅ | scumm | socks | Pajama Sam's Sock Works | GandalfTheWhite80 |
 | ✅ | scumm | spyfox | SPY Fox 1: Dry Cereal | Tucky27 |
 | ✅ | scumm | spyfox2 | SPY Fox 2: Some Assembly Required | Tucky27 |
 | ✅ | scumm | thinker1 | Big Thinkers First Grade | Tucky27 |
