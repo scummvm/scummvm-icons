@@ -351,7 +351,7 @@
 | ⬜️ | mohawk | stellaluna | Stellaluna | |
 | ⬜️ | mohawk | sheila | Sheila Rae, the Brave | |
 | ✅ | mohawk | daniel | Daniel in the Lion's Den  | Tucky27 |
-| ⬜️ | mortevielle | mortevielle | Mortville Manor | |
+| ✅ | mortevielle | mortevielle | Mortville Manor | WhiteRakogis |
 | ✅ | myst3 | myst3 | Myst III Exile | JenniBee |
 | ✅ | neverhood | neverhood | The Neverhood Chronicles | JenniBee |
 | ✅ | ngi | fullpipe | Full Pipe | [App Store page](https://apps.apple.com/app/full-pipe-puzzle-adventure/id900071823) |
