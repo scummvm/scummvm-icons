@@ -89,7 +89,7 @@
 | ✅ | agi | caitlyn | Caitlyn's Destiny | Tucky27 |
 | ✅ | agi | ddp | Donald Duck's Playground | JenniBee |
 | ✅ | agi | goldrush | Gold Rush! | dotdc, Tucky27 |
-| ✅ | agi | kq1 | King's Quest I: Quest for the Crown | dotdc |
+| ✅ | agi | kq1 | King's Quest I: Quest for the Crown | dotdc, Tucky27 |
 | ✅ | agi | kq2 | King's Quest II: Romancing the Throne | dotdc |
 | ✅ | agi | kq3 | King's Quest III: To Heir Is Human | dotdc |
 | ✅ | agi | kq4 | King's Quest IV: The Perils of Rosella | JenniBee |
