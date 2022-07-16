@@ -90,7 +90,7 @@
 | ✅ | agi | ddp | Donald Duck's Playground | JenniBee |
 | ✅ | agi | goldrush | Gold Rush! | dotdc, Tucky27 |
 | ✅ | agi | kq1 | King's Quest I: Quest for the Crown | dotdc, Tucky27 |
-| ✅ | agi | kq2 | King's Quest II: Romancing the Throne | dotdc |
+| ✅ | agi | kq2 | King's Quest II: Romancing the Throne | dotdc, Tucky27 |
 | ✅ | agi | kq3 | King's Quest III: To Heir Is Human | dotdc |
 | ✅ | agi | kq4 | King's Quest IV: The Perils of Rosella | JenniBee |
 | ✅ | agi | lsl1 | Leisure Suit Larry in the Land of the Lounge Lizards | rehail |
