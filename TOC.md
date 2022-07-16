@@ -73,7 +73,7 @@
 | ✅ | scumm | spyfox | SPY Fox 1: Dry Cereal | Tucky27 |
 | ✅ | scumm | spyfox2 | SPY Fox 2: Some Assembly Required | Tucky27 |
 | ✅ | scumm | thinker1 | Big Thinkers First Grade | Tucky27 |
-| ⬜️ | scumm | thinkerk | Big Thinkers Kindergarten | |
+| ✅ | scumm | thinkerk | Big Thinkers Kindergarten | Tucky27,GandalfTheWhite80 |
 | ✅ | scumm | water | Freddi Fish and Luther's Water Worries | Tucky27 |
 | ✅ | access | amazon | Amazon: Guardians of Eden | Tucky27 |
 | ✅ | adl | hires0 | Hi-Res Adventure #0: Mission Asteroid | Tucky27 |
