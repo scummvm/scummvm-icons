@@ -348,7 +348,7 @@
 | ✅ | mohawk | myst | Myst | TrivialBalderdash |
 | ✅ | mohawk | newkid | The New Kid on the Block | GandalfTheWhite80 |
 | ✅ | mohawk | riven | Riven: The Sequel to Myst | TrivialBalderdash |
-| ⬜️ | mohawk | ruff | Ruff's Bone | |
+| ✅ | mohawk | ruff | Ruff's Bone | GandalfTheWhite80 |
 | ⬜️ | mohawk | seussabc | Dr Seuss's ABC | |
 | ⬜️ | mohawk | sheila | Sheila Rae, the Brave | |
 | ⬜️ | mohawk | stellaluna | Stellaluna | |
