@@ -342,6 +342,7 @@
 | ✅ | mohawk | tortoise | Aesop's Fables: The Tortoise and the Hare | Tucky27 |
 | ✅ | mohawk | arthur | Arthur's Teacher Trouble | mileso |
 | ✅ | mohawk | grandma | Just Grandma and Me | Tucky27 |
+| ✅ | mohawk | create | The Story of Creation | GandalfTheWhite80 |
 | ⬜️ | mohawk | ruff | Ruff's Bone | |
 | ⬜️ | mohawk | newkid | The New Kid on the Block | |
 | ✅ | mohawk | arthurbday | Arthur's Birthday | Tucky27 |
