@@ -92,7 +92,7 @@
 | ✅ | agi | kq1 | King's Quest I: Quest for the Crown | dotdc, Tucky27 |
 | ✅ | agi | kq2 | King's Quest II: Romancing the Throne | dotdc, Tucky27 |
 | ✅ | agi | kq3 | King's Quest III: To Heir Is Human | dotdc, Tucky27 |
-| ✅ | agi | kq4 | King's Quest IV: The Perils of Rosella | JenniBee |
+| ✅ | agi | kq4 | King's Quest IV: The Perils of Rosella | JenniBee, Tucky27 |
 | ✅ | agi | lsl1 | Leisure Suit Larry in the Land of the Lounge Lizards | rehail |
 | ✅ | agi | mickey | Mickey's Space Adventure | Matt |
 | ✅ | agi | mixedup | Mixed-Up Mother Goose | dotdc, Tucky27 |
@@ -376,7 +376,7 @@
 | ⬜️ | sci | funseeker | Fun Seeker's Guide | |
 | ✅ | sci | hoyle1 | Hoyle Official Book of Games: Volume 1 | Tucky27 |
 | ✅ | sci | hoyle2 | Hoyle Official Book of Games: Volume 2 | GandalfTheWhite80 |
-| ✅ | sci | kq4sci | King's Quest IV: The Perils of Rosella | JenniBee |
+| ✅ | sci | kq4sci | King's Quest IV: The Perils of Rosella | JenniBee, Tucky27 |
 | ✅ | sci | laurabow | Laura Bow: The Colonel's Bequest | dotdc |
 | ✅ | sci | lsl2 | Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places) | rehail |
 | ✅ | sci | lsl3 | Leisure Suit Larry 3: Passionate Patti in Pursuit of the Pulsating Pectorals | rehail |
