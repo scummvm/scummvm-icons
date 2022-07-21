@@ -390,7 +390,7 @@
 | ✅ | sci | castlebrain | Castle of Dr. Brain | thedoc |
 | ⬜️ | sci | christmas1990 | Christmas Card 1990: The Seasoned Professional | |
 | ✅ | sci | cnick-lsl | Crazy Nick's Software Picks: Leisure Suit Larry's Casino | Tucky27 |
-| ⬜️ | sci | cnick-kq | Crazy Nick's Software Picks: King Graham's Board Game Challenge | |
+| ✅ | sci | cnick-kq | Crazy Nick's Software Picks: King Graham's Board Game Challenge | Tucky27 |
 | ⬜️ | sci | cnick-laurabow | Crazy Nick's Software Picks: Parlor Games with Laura Bow |  |
 | ✅ | sci | cnick-longbow | Crazy Nick's Software Picks: Robin Hood's Game of Skill and Chance | Tucky27 |
 | ✅ | sci | cnick-sq | Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack | Tucky27 |
@@ -429,7 +429,7 @@
 | ⬜️ | sci | hoyle5bridge | Hoyle Bridge | |
 | ⬜️ | sci | hoyle5children | Hoyle Children's Collection | |
 | ⬜️ | sci | hoyle5solitaire | Hoyle Solitaire | |
-| ⬜️ | sci | chest | Inside the Chest | |
+| ✅ | sci | chest | Inside the Chest | Tucky27 |
 | ✅ | sci | gk2 | The Beast Within: A Gabriel Knight Mystery | TrivialBalderdash |
 | ✅ | sci | kq7 | King's Quest VII: The Princeless Bride | JenniBee |
 | ✅ | sci | kquestions | King's Questions | Tucky27 |
