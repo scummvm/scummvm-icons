@@ -344,7 +344,7 @@
 | ✅ | mohawk | grandma | Just Grandma and Me | Tucky27 |
 | ⬜️ | mohawk | greeneggs | Green Eggs and Ham | |
 | ✅ | mohawk | harryhh | Harry and the Haunted House | Tucky27 |
-| ⬜️ | mohawk | lilmonster | Little Monster at School | |
+| ✅ | mohawk | lilmonster | Little Monster at School | GandalfTheWhite80 |
 | ✅ | mohawk | makingofmyst | The Making of Myst | Tucky27 |
 | ✅ | mohawk | myst | Myst | TrivialBalderdash |
 | ✅ | mohawk | newkid | The New Kid on the Block | GandalfTheWhite80 |
