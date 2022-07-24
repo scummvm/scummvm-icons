@@ -352,7 +352,7 @@
 | ✅ | mohawk | ruff | Ruff's Bone | GandalfTheWhite80 |
 | ⬜️ | mohawk | seussabc | Dr Seuss's ABC | |
 | ⬜️ | mohawk | sheila | Sheila Rae, the Brave | |
-| ⬜️ | mohawk | stellaluna | Stellaluna | |
+| ✅ | mohawk | stellaluna | Stellaluna | GandalfTheWhite80 |
 | ✅ | mohawk | tortoise | Aesop's Fables: The Tortoise and the Hare | Tucky27 |
 | ✅ | mortevielle | mortevielle | Mortville Manor | WhiteRakogis |
 | ✅ | myst3 | myst3 | Myst III Exile | JenniBee |
