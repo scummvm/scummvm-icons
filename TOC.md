@@ -127,6 +127,7 @@
 | ✅ | ags | blackwell4 | The Blackwell Deception | Tucky27 |
 | ✅ | ags | kathyrain | Kathy Rain - A Detective Is Born | GandalfTheWhite80 |
 | ✅ | ags | maniacmansiondeluxe | Maniac Mansion Deluxe | GandalfTheWhite80 |
+| ✅ | ags | primordia | Primordia | Tucky27 |
 | ✅ | ags | sq2vga | Space Quest II: Vohaul's Revenge | Tucky27 |
 | ✅ | ags | sqvsb | Space Quest: Vohaul Strikes Back | Tucky27 |
 | ✅ | ags | sq2dote | Space Quest: Decision Of The Elders | Tucky27 |
@@ -338,7 +339,7 @@
 | ✅ | mohawk | arthur | Arthur's Teacher Trouble | mileso |
 | ✅ | mohawk | arthurbday | Arthur's Birthday | Tucky27 |
 | ⬜️ | mohawk | beardark | The Berenstain Bears In The Dark | |
-| ⬜️ | mohawk | bearfight | The Berenstain Bears Get in a Fight | |
+| ✅ | mohawk | bearfight | The Berenstain Bears Get in a Fight | Tucky27 |
 | ✅ | mohawk | create | The Story of Creation | GandalfTheWhite80 |
 | ✅ | mohawk | daniel | Daniel in the Lion's Den  | Tucky27 |
 | ✅ | mohawk | grandma | Just Grandma and Me | Tucky27 |
