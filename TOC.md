@@ -379,7 +379,7 @@
 | ✅ | sci | hoyle1 | Hoyle Official Book of Games: Volume 1 | Tucky27 |
 | ✅ | sci | hoyle2 | Hoyle Official Book of Games: Volume 2 | GandalfTheWhite80 |
 | ✅ | sci | kq4sci | King's Quest IV: The Perils of Rosella | JenniBee, Tucky27 |
-| ✅ | sci | laurabow | Laura Bow: The Colonel's Bequest | dotdc |
+| ✅ | sci | laurabow | Laura Bow: The Colonel's Bequest | dotdc, Tucky27 |
 | ✅ | sci | lsl2 | Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places) | rehail |
 | ✅ | sci | lsl3 | Leisure Suit Larry 3: Passionate Patti in Pursuit of the Pulsating Pectorals | rehail |
 | ✅ | sci | mothergoose | Mixed-Up Mother Goose | dotdc, Tucky27 |
@@ -392,7 +392,7 @@
 | ⬜️ | sci | christmas1990 | Christmas Card 1990: The Seasoned Professional | |
 | ✅ | sci | cnick-lsl | Crazy Nick's Software Picks: Leisure Suit Larry's Casino | Tucky27 |
 | ✅ | sci | cnick-kq | Crazy Nick's Software Picks: King Graham's Board Game Challenge | Tucky27 |
-| ⬜️ | sci | cnick-laurabow | Crazy Nick's Software Picks: Parlor Games with Laura Bow |  |
+| ✅ | sci | cnick-laurabow | Crazy Nick's Software Picks: Parlor Games with Laura Bow | Tucky27 |
 | ✅ | sci | cnick-longbow | Crazy Nick's Software Picks: Robin Hood's Game of Skill and Chance | Tucky27 |
 | ✅ | sci | cnick-sq | Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack | Tucky27 |
 | ✅ | sci | ecoquest | EcoQuest: The Search for Cetus | thedoc |
