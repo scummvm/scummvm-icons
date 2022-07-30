@@ -338,12 +338,12 @@
 | ✅ | mads | nebular | Rex Nebular and the Cosmic Gender Bender | TrivialBalderdash |
 | ✅ | mohawk | arthur | Arthur's Teacher Trouble | mileso |
 | ✅ | mohawk | arthurbday | Arthur's Birthday | Tucky27 |
-| ⬜️ | mohawk | beardark | The Berenstain Bears In The Dark | |
+| ✅ | mohawk | beardark | The Berenstain Bears In The Dark | Tucky27 |
 | ✅ | mohawk | bearfight | The Berenstain Bears Get in a Fight | Tucky27 |
 | ✅ | mohawk | create | The Story of Creation | GandalfTheWhite80 |
 | ✅ | mohawk | daniel | Daniel in the Lion's Den  | Tucky27 |
 | ✅ | mohawk | grandma | Just Grandma and Me | Tucky27 |
-| ⬜️ | mohawk | greeneggs | Green Eggs and Ham | |
+| ✅ | mohawk | greeneggs | Green Eggs and Ham | Tucky27 |
 | ✅ | mohawk | harryhh | Harry and the Haunted House | Tucky27 |
 | ✅ | mohawk | lilmonster | Little Monster at School | GandalfTheWhite80 |
 | ✅ | mohawk | makingofmyst | The Making of Myst | Tucky27 |
@@ -351,7 +351,7 @@
 | ✅ | mohawk | newkid | The New Kid on the Block | GandalfTheWhite80 |
 | ✅ | mohawk | riven | Riven: The Sequel to Myst | TrivialBalderdash |
 | ✅ | mohawk | ruff | Ruff's Bone | GandalfTheWhite80 |
-| ⬜️ | mohawk | seussabc | Dr Seuss's ABC | |
+| ✅ | mohawk | seussabc | Dr Seuss's ABC | Tucky27 |
 | ⬜️ | mohawk | sheila | Sheila Rae, the Brave | |
 | ✅ | mohawk | stellaluna | Stellaluna | GandalfTheWhite80 |
 | ✅ | mohawk | tortoise | Aesop's Fables: The Tortoise and the Hare | Tucky27 |
@@ -399,7 +399,7 @@
 | ✅ | sci | fairytales | Mixed-up Fairy Tales | Tucky27 |
 | ✅ | sci | hoyle3 | Hoyle Official Book of Games: Volume 3 | Tucky27 |
 | ✅ | sci | jones | Jones in the Fast Lane | Tucky27 |
-| ✅ | sci | kq5 | King's Quest V: Absence Makes the Heart Go Yonder | JenniBee |
+| ✅ | sci | kq5 | King's Quest V: Absence Makes the Heart Go Yonder | JenniBee, Tucky27 |
 | ✅ | sci | longbow | Conquests of the Longbow: The Adventures of Robin Hood | Tucky27 |
 | ✅ | sci | lsl1sci | Leisure Suit Larry in the Land of the Lounge Lizards | rehail |
 | ✅ | sci | lsl5 | Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work | rehail |
@@ -413,8 +413,8 @@
 | ✅ | sci | ecoquest2 | EcoQuest II: Lost Secret of the Rainforest | thedoc |
 | ✅ | sci | freddypharkas | Freddy Pharkas: Frontier Pharmacist | dotdc, Tucky27 |
 | ⬜️ | sci | hoyle4 | Hoyle Classic Card Games | |
-| ✅ | sci | kq6 | King's Quest VI: Heir Today, Gone Tomorrow | JenniBee |
-| ✅ | sci | laurabow2 | Laura Bow 2: The Dagger of Amon Ra | dotdc |
+| ✅ | sci | kq6 | King's Quest VI: Heir Today, Gone Tomorrow | JenniBee, Tucky27 |
+| ✅ | sci | laurabow2 | Laura Bow 2: The Dagger of Amon Ra | dotdc, Tucky27 |
 | ✅ | sci | qfg1vga | Quest for Glory I: So You Want to Be a Hero | JenniBee |
 | ✅ | sci | qfg3 | Quest for Glory III: Wages of War | JenniBee |
 | ✅ | sci | sq5 | Space Quest V: The Next Mutation | JenniBee |
