@@ -352,7 +352,7 @@
 | ✅ | mohawk | riven | Riven: The Sequel to Myst | TrivialBalderdash |
 | ✅ | mohawk | ruff | Ruff's Bone | GandalfTheWhite80 |
 | ✅ | mohawk | seussabc | Dr Seuss's ABC | Tucky27 |
-| ⬜️ | mohawk | sheila | Sheila Rae, the Brave | |
+| ✅ | mohawk | sheila | Sheila Rae, the Brave | GandalfTheWhite80 |
 | ✅ | mohawk | stellaluna | Stellaluna | GandalfTheWhite80 |
 | ✅ | mohawk | tortoise | Aesop's Fables: The Tortoise and the Hare | Tucky27 |
 | ✅ | mortevielle | mortevielle | Mortville Manor | WhiteRakogis |
