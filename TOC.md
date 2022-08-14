@@ -120,15 +120,31 @@
 | ✅ | agos | jumble              | Jumble                                                                       | Matt |
 | ✅ | agos | puzzle              | NoPatience                                                                   | Matt |
 | ✅ | agos | swampy              | Swampy Adventures                                                            | Matt |
+| ✅ | ags | allthewaydown       | All The Way Down                                                             | DavidAriyan |
+| ✅ | ags | asecondface         | A Second Face - The Eye of Geltz is watching Us                              | DavidAriyan |
 | ✅ | ags | bcremake            | Black Cauldron Remake                                                        | DavidAriyan, GandalfTheWhite80 |
+| ✅ | ags | blacksect1          | Black Sect Remake                                                            | DavidAriyan |
 | ✅ | ags | blackwell1          | The Blackwell Legacy                                                         | Tucky27 |
 | ✅ | ags | blackwell2          | Blackwell Unbound                                                            | Tucky27 |
 | ✅ | ags | blackwell3          | The Blackwell Convergence                                                    | Tucky27 |
 | ✅ | ags | blackwell4          | The Blackwell Deception                                                      | Tucky27 |
+| ✅ | ags | breakage            | Breakage                                                                     | DavidAriyan |
 | ✅ | ags | detectivegallo      | Detective Gallo                                                              | DavidAriyan, GandalfTheWhite80 |
+| ✅ | ags | downfall2009        | Downfall                                                                     | DavidAriyan |
+| ✅ | ags | geminirue           | Gemini Rue                                                                   | DavidAriyan |
+| ✅ | ags | ghostcatchers       | GHOSTCATCHERS                                                                | DavidAriyan |
+| ✅ | ags | ghostdream          | Ghostdream                                                                   | DavidAriyan |
+| ✅ | ags | icestationzero      | Ice Station Zero                                                             | DavidAriyan |
+| ✅ | ags | journeyhome         | Journey Home                                                                 | DavidAriyan |
 | ✅ | ags | kathyrain           | Kathy Rain - A Detective Is Born                                             | GandalfTheWhite80 |
+| ✅ | ags | lacroixpan          | La Croix Pan                                                                 | DavidAriyan |
+| ✅ | ags | lamplightcity       | Lamplight City                                                               | DavidAriyan |
 | ✅ | ags | maniacmansiondeluxe | Maniac Mansion Deluxe                                                        | GandalfTheWhite80 |
+| ✅ | ags | metaphobia          | Metaphobia                                                                   | DavidAriyan |
 | ✅ | ags | neofeud             | Neofeud                                                                      | DavidAriyan, GandalfTheWhite80 |
+| ✅ | ags | neosaires2070       | Neos Aires 2070: Sunday Comes First                                          | DavidAriyan |
+| ✅ | ags | nightmareframes     | Nightmare Frames                                                             | DavidAriyan |
+| ✅ | ags | patchwork           | Patchwork                                                                    | DavidAriyan |
 | ✅ | ags | phantomfellows      | The Phantom Fellows                                                          | thevolumeremote |
 | ✅ | ags | primordia           | Primordia                                                                    | Tucky27 |
 | ✅ | ags | skyfall             | Skyfall                                                                      | DavidAriyan, GandalfTheWhite80 |
@@ -136,9 +152,17 @@
 | ✅ | ags | sqvsb               | Space Quest: Vohaul Strikes Back                                             | Tucky27 |
 | ✅ | ags | sq2dote             | Space Quest: Decision Of The Elders                                          | Tucky27 |
 | ✅ | ags | sqinc               | Space Quest: Incinerations                                                   | Tucky27 |
+| ✅ | ags | strangeland         | Strangeland                                                                  | DavidAriyan |
+| ✅ | ags | teafortwo           | Tea For Two: A Detective Logan Case                                          | DavidAriyan |
+| ✅ | ags | technobabylon       | Technobabylon                                                                | DavidAriyan |
+| ✅ | ags | thecatlady          | The Cat Lady                                                                 | DavidAriyan |
+| ✅ | ags | themarionette       | The Marionette                                                               | DavidAriyan |
 | ✅ | ags | tftoz1              | Tales From The Outer Zone: Cyborg Seppuku                                    | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | tftoz2              | ales From The Outer Zone: The Goat Crone                                     | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | qfg2agdi            | Quest for Glory II: Trial by Fire                                            | Tucky27 |
+| ✅ | ags | unavowed            | Unavowed                                                                     | DavidAriyan |
+| ✅ | ags | wduprodigal         | Prodigal                                                                     | DavidAriyan |
+| ✅ | ags | witchlullaby        | The Witch's Lullaby                                                          | DavidAriyan |
 | ✅ | asylum | sanitarium          | Sanitarium                                                                   | JenniBee, GandalfTheWhite80 |
 | ✅ | avalanche | avalanche           | Lord Avalot d'Argent                                                         | JenniBee |
 | ✅ | bbvs | bbvs                | Beavis and Butt-head in Virtual Stupidity                                    | JenniBee |
