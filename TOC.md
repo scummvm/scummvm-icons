@@ -106,7 +106,7 @@
 | ✅ | agi | sq2                 | Space Quest II: Vohaul's Revenge                                             | JenniBee |
 | ✅ | agi | sqx                 | Space Quest X: The Lost Chapter                                              | JenniBee |
 | ✅ | agi | tetris              | AGI Tetris                                                                   | JenniBee |
-| ✅ | agi | troll               | Troll's Tale                                                                 | JenniBee |
+| ✅ | agi | troll               | Troll's Tale                                                                 | JenniBee, GandalfTheWhite80 |
 | ✅ | agi | winnie              | Winnie the Pooh in the Hundred Acre Wood                                     | Matt |
 | ⬜️ | agi | xmascard            | Xmas Card                                                                    | |
 | ✅ | agos | pn                  | Personal Nightmare                                                           | Matt |
