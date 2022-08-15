@@ -86,7 +86,7 @@
 | ✅ | agi | agi                 | Sierra AGI game                                                              | JenniBee |
 | ⬜️ | agi | agi-fanmade         | Fanmade AGI game                                                             | |
 | ✅ | agi | bc                  | The Black Cauldron                                                           | Tucky27, GandalfTheWhite80 |
-| ✅ | agi | caitlyn             | Caitlyn's Destiny                                                            | Tucky27 |
+| ✅ | agi | caitlyn             | Caitlyn's Destiny                                                            | Tucky27, GandalfTheWhite80 |
 | ✅ | agi | ddp                 | Donald Duck's Playground                                                     | JenniBee |
 | ✅ | agi | goldrush            | Gold Rush!                                                                   | dotdc, Tucky27 |
 | ✅ | agi | kq1                 | King's Quest I: Quest for the Crown                                          | dotdc, Tucky27 |
