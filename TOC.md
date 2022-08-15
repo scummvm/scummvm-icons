@@ -112,7 +112,7 @@
 | ✅ | agos | pn                  | Personal Nightmare                                                           | Matt |
 | ✅ | agos | elvira1             | Elvira - Mistress of the Dark                                                | JenniBee |
 | ✅ | agos | elvira2             | Elvira II - The Jaws of Cerberus                                             | Matt |
-| ✅ | agos | waxworks            | Waxworks                                                                     | JenniBee |
+| ✅ | agos | waxworks            | Waxworks                                                                     | JenniBee, GandalfTheWhite80 |
 | ✅ | agos | simon1              | Simon the Sorcerer 1                                                         | GandalfTheWhite80 |
 | ✅ | agos | simon2              | Simon the Sorcerer 2                                                         | GandalfTheWhite80 |
 | ✅ | agos | feeble              | The Feeble Files                                                             |Canuma|
