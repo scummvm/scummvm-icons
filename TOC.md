@@ -191,7 +191,7 @@
 | ✅ | director | lzone               | L-Zone                                                                       | Tucky27 |
 | ✅ | director | majestic            | Majestic Part 1: Alien Encounter                                             | Tucky27 |
 | ✅ | director | warlock             | Spaceship Warlock                                                            | Tucky27 |
-| ✅ | draci | draci               | Draci Historie                                                               | JenniBee |
+| ✅ | draci | draci               | Draci Historie                                                               | JenniBee, GandalfTheWhite80 |
 | ✅ | dragons | dragons             | Blazing Dragons                                                              | dotdc |
 | ✅ | drascula | drascula            | Drascula: The Vampire Strikes Back                                           | Thanius |
 | ✅ | dreamweb | dreamweb            | DreamWeb                                                                     | thedoc |
