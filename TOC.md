@@ -135,6 +135,7 @@
 | ✅ | ags | geminirue           | Gemini Rue                                                                   | DavidAriyan |
 | ✅ | ags | ghostcatchers       | GHOSTCATCHERS                                                                | DavidAriyan |
 | ✅ | ags | ghostdream          | Ghostdream                                                                   | DavidAriyan |
+| ✅ | ags | iamjason            | I Am Jason                                                                   | DavidAriyan |
 | ✅ | ags | icestationzero      | Ice Station Zero                                                             | DavidAriyan |
 | ✅ | ags | journeyhome         | Journey Home                                                                 | DavidAriyan |
 | ✅ | ags | kathyrain           | Kathy Rain - A Detective Is Born                                             | GandalfTheWhite80 |
@@ -149,6 +150,7 @@
 | ✅ | ags | phantomfellows      | The Phantom Fellows                                                          | thevolumeremote |
 | ✅ | ags | primordia           | Primordia                                                                    | Tucky27 |
 | ✅ | ags | rabbithill          | Rabbit Hill                                                                  | DavidAriyan, GandalfTheWhite80 |
+| ✅ | ags | resonance           | Resonance                                                                    | DavidAriyan |
 | ✅ | ags | skyfall             | Skyfall                                                                      | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | sq2vga              | Space Quest II: Vohaul's Revenge                                             | Tucky27 |
 | ✅ | ags | sqvsb               | Space Quest: Vohaul Strikes Back                                             | Tucky27 |
@@ -159,8 +161,10 @@
 | ✅ | ags | technobabylon       | Technobabylon                                                                | DavidAriyan |
 | ✅ | ags | thecatlady          | The Cat Lady                                                                 | DavidAriyan |
 | ✅ | ags | themarionette       | The Marionette                                                               | DavidAriyan |
+| ✅ | ags | theterribleoldman   | The Terrible Old Man                                                         | DavidAriyan |
 | ✅ | ags | tftoz1              | Tales From The Outer Zone: Cyborg Seppuku                                    | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | tftoz2              | ales From The Outer Zone: The Goat Crone                                     | DavidAriyan, GandalfTheWhite80 |
+| ✅ | ags | untilihaveyou       | Until I have you                                                             | DavidAriyan |
 | ✅ | ags | qfg2agdi            | Quest for Glory II: Trial by Fire                                            | Tucky27 |
 | ✅ | ags | unavowed            | Unavowed                                                                     | DavidAriyan |
 | ✅ | ags | wduprodigal         | Prodigal                                                                     | DavidAriyan |
