@@ -164,7 +164,7 @@
 | ✅ | ags | theterribleoldman   | The Terrible Old Man                                                         | DavidAriyan |
 | ✅ | ags | tftoz1              | Tales From The Outer Zone: Cyborg Seppuku                                    | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | tftoz2              | ales From The Outer Zone: The Goat Crone                                     | DavidAriyan, GandalfTheWhite80 |
-| ✅ | ags | untilihaveyou       | Until I have you    d                                                         | DavidAriyan |
+| ✅ | ags | untilihaveyou       | Until I have you                                                             | DavidAriyan |
 | ✅ | ags | qfg2agdi            | Quest for Glory II: Trial by Fire                                            | Tucky27 |
 | ✅ | ags | unavowed            | Unavowed                                                                     | DavidAriyan |
 | ✅ | ags | wduprodigal         | Prodigal                                                                     | DavidAriyan |
