@@ -121,6 +121,7 @@
 | ✅ | agos | puzzle              | NoPatience                                                                   | Matt |
 | ✅ | agos | swampy              | Swampy Adventures                                                            | Matt |
 | ✅ | ags | allthewaydown       | All The Way Down                                                             | DavidAriyan |
+| ✅ | ags | almostblue          | Amost Blue                                                                   | DavidAriyan |
 | ✅ | ags | asecondface         | A Second Face - The Eye of Geltz is watching Us                              | DavidAriyan |
 | ✅ | ags | bcremake            | Black Cauldron Remake                                                        | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | blacksect1          | Black Sect Remake                                                            | DavidAriyan |
@@ -131,6 +132,7 @@
 | ✅ | ags | breakage            | Breakage                                                                     | DavidAriyan |
 | ✅ | ags | detectivegallo      | Detective Gallo                                                              | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | downfall2009        | Downfall                                                                     | DavidAriyan |
+| ✅ | ags | dustbowl            | Dustbowl                                                                     | DavidAriyan |
 | ✅ | ags | escapefromthechaoticcity | Escape From The Chaotic City                                            | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | geminirue           | Gemini Rue                                                                   | DavidAriyan |
 | ✅ | ags | ghostcatchers       | GHOSTCATCHERS                                                                | DavidAriyan |
@@ -159,6 +161,7 @@
 | ✅ | ags | strangeland         | Strangeland                                                                  | DavidAriyan |
 | ✅ | ags | teafortwo           | Tea For Two: A Detective Logan Case                                          | DavidAriyan |
 | ✅ | ags | technobabylon       | Technobabylon                                                                | DavidAriyan |
+| ✅ | ags | thecabin            | The Cabin                                                                    | DavidAriyan |
 | ✅ | ags | thecatlady          | The Cat Lady                                                                 | DavidAriyan |
 | ✅ | ags | themarionette       | The Marionette                                                               | DavidAriyan |
 | ✅ | ags | theterribleoldman   | The Terrible Old Man                                                         | DavidAriyan |
