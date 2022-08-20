@@ -146,6 +146,7 @@
 | ✅ | ags | lamplightcity       | Lamplight City                                                               | DavidAriyan |
 | ✅ | ags | maniacmansiondeluxe | Maniac Mansion Deluxe                                                        | GandalfTheWhite80 |
 | ✅ | ags | metaphobia          | Metaphobia                                                                   | DavidAriyan |
+| ✅ | ags | myburdentokeep      | My Burdon to Keep                                                            | DavidAriyan |
 | ✅ | ags | neofeud             | Neofeud                                                                      | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | neosaires2070       | Neos Aires 2070: Sunday Comes First                                          | DavidAriyan |
 | ✅ | ags | nightmareframes     | Nightmare Frames                                                             | DavidAriyan |
