@@ -79,7 +79,7 @@
 | ✅ | adl | hires0              | Hi-Res Adventure #0: Mission Asteroid                                        | Tucky27 |
 | ✅ | adl | hires1              | Hi-Res Adventure #1: Mystery House                                           | rehail |
 | ✅ | adl | hires2              | Hi-Res Adventure #2: Wizard and the Princess                                 | TrivialBalderdash |
-| ✅ | adl | hires3              | Hi-Res Adventure #3: Cranston Manor                                          | Tucky27 |
+| ✅ | adl | hires3              | Hi-Res Adventure #3: Cranston Manor                                          | Tucky27, GandalfTheWhite80|
 | ✅ | adl | hires4              | Hi-Res Adventure #4: Ulysses and the Golden Fleece                           | dotdc, Tucky27 |
 | ✅ | adl | hires5              | Hi-Res Adventure #5: Time Zone                                               | TrivialBalderdash |
 | ✅ | adl | hires6              | Hi-Res Adventure #6: The Dark Crystal                                        | TrivialBalderdash |
