@@ -163,6 +163,7 @@
 | ✅ | ags | strangeland         | Strangeland                                                                  | DavidAriyan |
 | ✅ | ags | teafortwo           | Tea For Two: A Detective Logan Case                                          | DavidAriyan |
 | ✅ | ags | technobabylon       | Technobabylon                                                                | DavidAriyan |
+| ✅ | ags | theadventuresoffatman | The Adventures of Fatman |                                                 | WhiteRakogis | 
 | ✅ | ags | thecabin            | The Cabin                                                                    | DavidAriyan |
 | ✅ | ags | thecatlady          | The Cat Lady                                                                 | DavidAriyan |
 | ✅ | ags | themarionette       | The Marionette                                                               | DavidAriyan |
