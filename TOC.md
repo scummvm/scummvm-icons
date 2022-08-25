@@ -75,7 +75,7 @@
 | ✅ | scumm | thinker1            | Big Thinkers First Grade                                                     | Tucky27 |
 | ✅ | scumm | thinkerk            | Big Thinkers Kindergarten                                                    | Tucky27,GandalfTheWhite80 |
 | ✅ | scumm | water               | Freddi Fish and Luther's Water Worries                                       | Tucky27 |
-| ✅ | access | amazon              | Amazon: Guardians of Eden                                                    | Tucky27 |
+| ✅ | access | amazon              | Amazon: Guardians of Eden                                                    | Tucky27, GandalfTheWhite80 |
 | ✅ | adl | hires0              | Hi-Res Adventure #0: Mission Asteroid                                        | Tucky27 |
 | ✅ | adl | hires1              | Hi-Res Adventure #1: Mystery House                                           | rehail |
 | ✅ | adl | hires2              | Hi-Res Adventure #2: Wizard and the Princess                                 | TrivialBalderdash |
