@@ -178,8 +178,8 @@
 | ✅ | asylum | sanitarium          | Sanitarium                                                                   | JenniBee, GandalfTheWhite80 |
 | ✅ | avalanche | avalanche           | Lord Avalot d'Argent                                                         | JenniBee |
 | ✅ | bbvs | bbvs                | Beavis and Butt-head in Virtual Stupidity                                    | JenniBee |
-| ✅ | bladerunner | bladerunner         | Blade Runner                                                                 | NekoFever |
-| ✅ | bladerunner | bladerunner-final   | Blade Runner                                                                 | NekoFever |
+| ✅ | bladerunner | bladerunner         | Blade Runner                                                                 | NekoFever, DavidAriyan |
+| ✅ | bladerunner | bladerunner-final   | Blade Runner                                                                 | NekoFever, DavidAriyan, GandalfTheWhite80 |
 | ✅ | buried | buried              | The Journeyman Project 2: Buried in Time                                     | GandalfTheWhite80 |
 | ✅ | chewy | chewy               | Chewy: Esc from F5                                                           | GandalfTheWhite80 |
 | ✅ | cge | soltys              | Soltys                                                                       | JenniBee |
