@@ -478,7 +478,7 @@
 | ✅ | sci | kquestions          | King's Questions                                                             | Tucky27 |
 | ✅ | sci | lsl6hires           | Leisure Suit Larry 6: Shape Up or Slip Out!                                  | rehail |
 | ✅ | sci | mothergoosehires    | Mixed-Up Mother Goose Deluxe                                                 | dotdc, Tucky27 |
-| ✅ | sci | phantasmagoria      | Phantasmagoria                                                               | dotdc |
+| ✅ | sci | phantasmagoria      | Phantasmagoria                                                               | dotdc, DavidAriyan, GandalfTheWhite80 |
 | ✅ | sci | pqswat              | Police Quest: SWAT                                                           | Tucky27 |
 | ✅ | sci | shivers             | Shivers                                                                      | thedoc |
 | ✅ | sci | sq6                 | Space Quest 6: The Spinal Frontier                                           | JenniBee |
