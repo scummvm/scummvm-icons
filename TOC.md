@@ -98,12 +98,12 @@
 | ✅ | agi | mixedup             | Mixed-Up Mother Goose                                                        | dotdc, Tucky27 |
 | ✅ | agi | mh1                 | Manhunter 1: New York                                                        | GandalfTheWhite80 |
 | ✅ | agi | mh2                 | Manhunter 2: San Francisco                                                   | GandalfTheWhite80 |
-| ✅ | agi | pq1                 | Police Quest I: In Pursuit of the Death Angel                                | Thanius |
+| ✅ | agi | pq1                 | Police Quest I: In Pursuit of the Death Angel                                | Thanius, GandalfTheWhite80 |
 | ⬜️ | agi | serguei1            | Serguei's Destiny 1                                                          | |
 | ⬜️ | agi | serguei2            | Serguei's Destiny 2                                                          | |
-| ✅ | agi | sq0                 | Space Quest 0: Replicated                                                    | JenniBee |
-| ✅ | agi | sq1                 | Space Quest I: The Sarien Encounter                                          | JenniBee |
-| ✅ | agi | sq2                 | Space Quest II: Vohaul's Revenge                                             | JenniBee |
+| ✅ | agi | sq0                 | Space Quest 0: Replicated                                                    | JenniBee, GandalfTheWhite80 |
+| ✅ | agi | sq1                 | Space Quest I: The Sarien Encounter                                          | JenniBee, GandalfTheWhite80 |
+| ✅ | agi | sq2                 | Space Quest II: Vohaul's Revenge                                             | JenniBee, GandalfTheWhite80 |
 | ✅ | agi | sqx                 | Space Quest X: The Lost Chapter                                              | JenniBee |
 | ✅ | agi | tetris              | AGI Tetris                                                                   | JenniBee |
 | ✅ | agi | troll               | Troll's Tale                                                                 | JenniBee, GandalfTheWhite80 |
