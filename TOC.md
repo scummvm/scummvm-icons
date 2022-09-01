@@ -6,7 +6,7 @@
 | ✅ | scumm | atlantis            | Indiana Jones and the Fate of Atlantis                                       | JenniBee |
 | ✅ | scumm | indy3               | Indiana Jones and the Last Crusade                                           | JenniBee |
 | ✅ | scumm | loom                | Loom                                                                         | JenniBee |
-| ✅ | scumm | maniac              | Maniac Mansion                                                               | JenniBee |
+| ✅ | scumm | maniac              | Maniac Mansion                                                               | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | monkey              | The Secret of Monkey Island                                                  | Thanius |
 | ✅ | scumm | monkey2             | Monkey Island 2: LeChuck's Revenge                                           | Thanius |
 | ✅ | scumm | pass                | Passport to Adventure                                                        | JenniBee |
