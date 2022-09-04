@@ -110,8 +110,8 @@
 | ✅ | agi | winnie              | Winnie the Pooh in the Hundred Acre Wood                                     | Matt, GandalfTheWhite80 |
 | ⬜️ | agi | xmascard            | Xmas Card                                                                    | |
 | ✅ | agos | pn                  | Personal Nightmare                                                           | Matt |
-| ✅ | agos | elvira1             | Elvira - Mistress of the Dark                                                | JenniBee |
-| ✅ | agos | elvira2             | Elvira II - The Jaws of Cerberus                                             | Matt |
+| ✅ | agos | elvira1             | Elvira - Mistress of the Dark                                                | JenniBee, GandalfTheWhite80 |
+| ✅ | agos | elvira2             | Elvira II - The Jaws of Cerberus                                             | Matt, GandalfTheWhite80 |
 | ✅ | agos | waxworks            | Waxworks                                                                     | JenniBee, GandalfTheWhite80 |
 | ✅ | agos | simon1              | Simon the Sorcerer 1                                                         | GandalfTheWhite80 |
 | ✅ | agos | simon2              | Simon the Sorcerer 2                                                         | GandalfTheWhite80 |
