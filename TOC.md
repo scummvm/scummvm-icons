@@ -120,11 +120,16 @@
 | ✅ | agos | jumble              | Jumble                                                                       | Matt |
 | ✅ | agos | puzzle              | NoPatience                                                                   | Matt |
 | ✅ | agos | swampy              | Swampy Adventures                                                            | Matt |
+| ✅ | ags | 5daysastranger      | 5 Days a Stranger                                                            | DavidAriyan |
+| ✅ | ags | 6daysasacrifice     | 6 Days a Sacrifice                                                           | DavidAriyan, GandalfTheWhite80 |
+| ✅ | ags | 7daysaskeptic       | 7 Days a Skeptic                                                             | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | adateinthepark      | A Date in the Park                                                           | DavidAriyan |
+| ✅ | ags | afragmentofher      | A Fragment of Her                                                            | DavidAriyan |
 | ✅ | ags | allthewaydown       | All The Way Down                                                             | DavidAriyan |
 | ✅ | ags | almostblue          | Amost Blue                                                                   | DavidAriyan |
 | ✅ | ags | asecondface         | A Second Face - The Eye of Geltz is watching Us                              | DavidAriyan |
 | ✅ | ags | bcremake            | Black Cauldron Remake                                                        | DavidAriyan, GandalfTheWhite80 |
+| ✅ | ags | bitstream           | Bitstream                                                                    | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | blacksect1          | Black Sect Remake                                                            | DavidAriyan |
 | ✅ | ags | blackwell1          | The Blackwell Legacy                                                         | Tucky27 |
 | ✅ | ags | blackwell2          | Blackwell Unbound                                                            | Tucky27 |
@@ -138,6 +143,7 @@
 | ✅ | ags | geminirue           | Gemini Rue                                                                   | DavidAriyan |
 | ✅ | ags | ghostcatchers       | GHOSTCATCHERS                                                                | DavidAriyan |
 | ✅ | ags | ghostdream          | Ghostdream                                                                   | DavidAriyan |
+| ✅ | ags | hjarta              | Hjarta                                                                       | DavidAriyan |
 | ✅ | ags | iamjason            | I Am Jason                                                                   | DavidAriyan |
 | ✅ | ags | icestationzero      | Ice Station Zero                                                             | DavidAriyan |
 | ✅ | ags | journeyhome         | Journey Home                                                                 | DavidAriyan |
@@ -155,7 +161,9 @@
 | ✅ | ags | primordia           | Primordia                                                                    | Tucky27 |
 | ✅ | ags | rabbithill          | Rabbit Hill                                                                  | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | resonance           | Resonance                                                                    | DavidAriyan |
+| ✅ | ags | samaritan           | The Samaritan Paradox                                                        | DavidAriyan |
 | ✅ | ags | skyfall             | Skyfall                                                                      | DavidAriyan, GandalfTheWhite80 |
+| ✅ | ags | spooks              | Spooks                                                                       | DavidAriyan |
 | ✅ | ags | sq2vga              | Space Quest II: Vohaul's Revenge                                             | Tucky27 |
 | ✅ | ags | sqvsb               | Space Quest: Vohaul Strikes Back                                             | Tucky27 |
 | ✅ | ags | sq2dote             | Space Quest: Decision Of The Elders                                          | Tucky27 |
@@ -172,7 +180,9 @@
 | ✅ | ags | tftoz2              | ales From The Outer Zone: The Goat Crone                                     | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | untilihaveyou       | Until I have you                                                             | DavidAriyan |
 | ✅ | ags | qfg2agdi            | Quest for Glory II: Trial by Fire                                            | Tucky27 |
+| ✅ | ags | trilbysnote         | Trilby's Notes                                                               | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | unavowed            | Unavowed                                                                     | DavidAriyan |
+| ✅ | ags | unbound             | Unbound                                                                      | DavidAriyan |
 | ✅ | ags | wduprodigal         | Prodigal                                                                     | DavidAriyan |
 | ✅ | ags | witchlullaby        | The Witch's Lullaby                                                          | DavidAriyan |
 | ✅ | asylum | sanitarium          | Sanitarium                                                                   | JenniBee, GandalfTheWhite80 |
