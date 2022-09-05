@@ -123,45 +123,85 @@
 | ✅ | ags | 5daysastranger      | 5 Days a Stranger                                                            | DavidAriyan |
 | ✅ | ags | 6daysasacrifice     | 6 Days a Sacrifice                                                           | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | 7daysaskeptic       | 7 Days a Skeptic                                                             | DavidAriyan, GandalfTheWhite80 |
+| ⬜️ | ags | 9hourstodawn         | 9 Hours to Dawn                                                             | |
+| ⬜️ | ags | 46memorylane         | 46 Memory Lane                                                              | |
+| ⬜️ | ags | achristmasnightmare  | A Christmas Nightmare                                                       | |
 | ✅ | ags | adateinthepark      | A Date in the Park                                                           | DavidAriyan |
+| ⬜️ | ags | aeronuts             | Aeronuts                                                                    | |
 | ✅ | ags | afragmentofher      | A Fragment of Her                                                            | DavidAriyan |
+| ⬜️ | ags | alandlordsdream      | A Landlord's Dream                                                          | |
 | ✅ | ags | allthewaydown       | All The Way Down                                                             | DavidAriyan |
 | ✅ | ags | almostblue          | Amost Blue                                                                   | DavidAriyan |
+| ⬜️ | ags | archeos              | Archeos                                                                     | |
 | ✅ | ags | asecondface         | A Second Face - The Eye of Geltz is watching Us                              | DavidAriyan |
 | ✅ | ags | bcremake            | Black Cauldron Remake                                                        | DavidAriyan, GandalfTheWhite80 |
+| ⬜️ | ags | beyondhorizon        | Beyond Horizon                                                              | |
 | ✅ | ags | bitstream           | Bitstream                                                                    | DavidAriyan, GandalfTheWhite80 |
+| ⬜️ | ags | blackmorph           | Black Morph                                                                 | |
 | ✅ | ags | blacksect1          | Black Sect Remake                                                            | DavidAriyan |
+| ⬜️ | ags | bloodedfields        | Blooded Fields                                                              | |
 | ✅ | ags | blackwell1          | The Blackwell Legacy                                                         | Tucky27 |
 | ✅ | ags | blackwell2          | Blackwell Unbound                                                            | Tucky27 |
 | ✅ | ags | blackwell3          | The Blackwell Convergence                                                    | Tucky27 |
 | ✅ | ags | blackwell4          | The Blackwell Deception                                                      | Tucky27 |
 | ✅ | ags | breakage            | Breakage                                                                     | DavidAriyan |
+| ⬜️ | ags | camp1                | Camp 1                                                                      | |
+| ⬜️ | ags | charnelhousetrilogy  | The Charnel House Triology                                                  | |
+| ⬜️ | ags | chronicleofinnsmouth | Chronical Of Innsmouth                                                      | |
+| ⬜️ | ags | concurrence          | Concurrence                                                                 | |
+| ⬜️ | ags | conspiracybelowzero  | Conspiracy: Below Zero                                                      | |
+| ⬜️ | ags | contact              | Contact                                                                     | |
+| ⬜️ | ags | content              | Content                                                                     | |
+| ⬜️ | ags | danewguys            | Da New Guys: Days of the Jackass                                            | |
 | ✅ | ags | detectivegallo      | Detective Gallo                                                              | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | downfall2009        | Downfall                                                                     | DavidAriyan |
 | ✅ | ags | dustbowl            | Dustbowl                                                                     | DavidAriyan |
+| ⬜️ | ags | enclosure            | Enclosure                                                                   | |
 | ✅ | ags | escapefromthechaoticcity | Escape From The Chaotic City                                            | DavidAriyan, GandalfTheWhite80 |
+| ⬜️ | ags | fall                 | Fall                                                                         | |
+| ⬜️ | ags | footballgame         | Football Game                                                                | |
+| ⬜️ | ags | fuguestate           | The Man From The Fugue State                                                 | |
 | ✅ | ags | geminirue           | Gemini Rue                                                                   | DavidAriyan |
 | ✅ | ags | ghostcatchers       | GHOSTCATCHERS                                                                | DavidAriyan |
 | ✅ | ags | ghostdream          | Ghostdream                                                                   | DavidAriyan |
+| ⬜️ | ags | heartland           | Heartland                                                                    | |
+| ⬜️ | ags | him                 | Him                                                                          | |
 | ✅ | ags | hjarta              | Hjarta                                                                       | DavidAriyan |
 | ✅ | ags | iamjason            | I Am Jason                                                                   | DavidAriyan |
+| ⬜️ | ags | icantsleep          | I Can't Sleep In Silence                                                     | |
 | ✅ | ags | icestationzero      | Ice Station Zero                                                             | DavidAriyan |
+| ⬜️ | ags | inbloom              | In Bloom                                                                    | |
+| ⬜️ | ags | ioawn4t              | If On A Winter's Night: Four Travellers                                     | |
+| ⬜️ | ags | iwantout             | I Want Out!                                                                 | |
+| ⬜️ | ags | journeyhell          | Journey to Hell                                                             | |
 | ✅ | ags | journeyhome         | Journey Home                                                                 | DavidAriyan |
+| ⬜️ | ags | knobblycrook         | The Knobbly Crook                                                           | |
 | ✅ | ags | kathyrain           | Kathy Rain - A Detective Is Born                                             | GandalfTheWhite80 |
 | ✅ | ags | lacroixpan          | La Croix Pan                                                                 | DavidAriyan |
 | ✅ | ags | lamplightcity       | Lamplight City                                                               | DavidAriyan |
+| ⬜️ | ags | lostanswers          | Lost Answers                                                                | |
+| ⬜️ | ags | lostinthenightmare   | Lost In The Nightmare                                                       | |
+| ⬜️ | ags | masked               | Masked                                                                      | |
 | ✅ | ags | maniacmansiondeluxe | Maniac Mansion Deluxe                                                        | GandalfTheWhite80 |
 | ✅ | ags | metaphobia          | Metaphobia                                                                   | DavidAriyan |
+| ⬜️ | ags | mountainsofmadness   | Chronicle Of Innsmouth: Mountains Of Madness                                | |
+| ⬜️ | ags | mudlarks             | Mudlarks                                                                    | |
 | ✅ | ags | myburdentokeep      | My Burdon to Keep                                                            | DavidAriyan |
+| ⬜️ | ags | myfatherssecret      | My Father's Secret                                                          | |
 | ✅ | ags | neofeud             | Neofeud                                                                      | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | neosaires2070       | Neos Aires 2070: Sunday Comes First                                          | DavidAriyan |
 | ✅ | ags | nightmareframes     | Nightmare Frames                                                             | DavidAriyan |
+| ⬜️ | ags | nofear               | Where No Fear Was                                                           | |
 | ✅ | ags | patchwork           | Patchwork                                                                    | DavidAriyan |
 | ✅ | ags | phantomfellows      | The Phantom Fellows                                                          | thevolumeremote |
 | ✅ | ags | primordia           | Primordia                                                                    | Tucky27 |
 | ✅ | ags | rabbithill          | Rabbit Hill                                                                  | DavidAriyan, GandalfTheWhite80 |
+| ⬜️ | ags | reactor09            | Reactor 09                                                                  | |
 | ✅ | ags | resonance           | Resonance                                                                    | DavidAriyan |
+| ⬜️ | ags | rogue                | Rogue                                                                       | |
 | ✅ | ags | samaritan           | The Samaritan Paradox                                                        | DavidAriyan |
+| ⬜️ | ags | sepulchre            | Sepulchre                                                                   | |
+| ⬜️ | ags | skumring             | Skumring                                                                    | |
 | ✅ | ags | skyfall             | Skyfall                                                                      | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | spooks              | Spooks                                                                       | DavidAriyan |
 | ✅ | ags | sq2vga              | Space Quest II: Vohaul's Revenge                                             | Tucky27 |
@@ -169,18 +209,33 @@
 | ✅ | ags | sq2dote             | Space Quest: Decision Of The Elders                                          | Tucky27 |
 | ✅ | ags | sqinc               | Space Quest: Incinerations                                                   | Tucky27 |
 | ✅ | ags | strangeland         | Strangeland                                                                  | DavidAriyan |
+| ⬜️ | ags | superego             | Superego                                                                    | |
 | ✅ | ags | teafortwo           | Tea For Two: A Detective Logan Case                                          | DavidAriyan |
 | ✅ | ags | technobabylon       | Technobabylon                                                                | DavidAriyan |
 | ✅ | ags | theadventuresoffatman | The Adventures of Fatman |                                                 | WhiteRakogis | 
 | ✅ | ags | thecabin            | The Cabin                                                                    | DavidAriyan |
 | ✅ | ags | thecatlady          | The Cat Lady                                                                 | DavidAriyan |
+| ⬜️ | ags | theexperimentp1      | The Experiment - Part 1: The Laboratory                                     | |
+| ⬜️ | ags | theexperimentp2      | The Experiment - Part 2: Menacing Darkness                                  | |
+| ⬜️ | ags | theinfinitystring    | The Infinity String                                                         | |
+| ⬜️ | ags | themanisee           | The Man That Only I Can See                                                 | |
 | ✅ | ags | themarionette       | The Marionette                                                               | DavidAriyan |
+| ⬜️ | ags | theoven              | The Oven                                                                    | |
+| ⬜️ | ags | thereaper            | The Reaper                                                                  | |
+| ⬜️ | ags | therebirth           | The Rebirth                                                                 | |
+| ⬜️ | ags | therapods            | Theropods                                                                   | |
+| ⬜️ | ags | theshaft             | The Shaft                                                                   | |
 | ✅ | ags | theterribleoldman   | The Terrible Old Man                                                         | DavidAriyan |
+| ⬜️ | ags | thevacuum            | The Vacuum                                                                  | |
 | ✅ | ags | tftoz1              | Tales From The Outer Zone: Cyborg Seppuku                                    | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | tftoz2              | ales From The Outer Zone: The Goat Crone                                     | DavidAriyan, GandalfTheWhite80 |
+| ⬜️ | ags | tftoz3               | Tales From The Outer Zone: The Construction                                 | |
+| ⬜️ | ags | ftoz4                | Tales From The Outer Zone: The Goat Crone                                   | |
+| ⬜️ | ags | theawakening         | The Awekening                                                               | |
 | ✅ | ags | untilihaveyou       | Until I have you                                                             | DavidAriyan |
 | ✅ | ags | qfg2agdi            | Quest for Glory II: Trial by Fire                                            | Tucky27 |
 | ✅ | ags | trilbysnote         | Trilby's Notes                                                               | DavidAriyan, GandalfTheWhite80 |
+| ⬜️ | ags | twelvethirteense     | Twelve Thirteen - Special Edition                                           | |
 | ✅ | ags | unavowed            | Unavowed                                                                     | DavidAriyan |
 | ✅ | ags | unbound             | Unbound                                                                      | DavidAriyan |
 | ✅ | ags | wduprodigal         | Prodigal                                                                     | DavidAriyan |
