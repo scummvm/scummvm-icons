@@ -547,7 +547,7 @@
 | ✅ | sci | pqswat              | Police Quest: SWAT                                                           | Tucky27 |
 | ✅ | sci | shivers             | Shivers                                                                      | thedoc |
 | ✅ | sci | sq6                 | Space Quest 6: The Spinal Frontier                                           | JenniBee |
-| ✅ | sci | torin               | Torin's Passage                                                              | Urgeistenergie |
+| ✅ | sci | torin               | Torin's Passage                                                              | Urgeistenergie, GandalfTheWhite80 |
 | ✅ | sci | lsl7                | Leisure Suit Larry 7: Love for Sail!                                         | rehail |
 | ✅ | sci | lighthouse          | Lighthouse: The Dark Being                                                   | thedoc |
 | ✅ | sci | phantasmagoria2     | Phantasmagoria 2: A Puzzle of Flesh                                          | dotdc |
