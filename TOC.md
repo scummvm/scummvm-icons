@@ -187,7 +187,7 @@
 | ⬜️ | ags | mountainsofmadness   | Chronicle Of Innsmouth: Mountains Of Madness                                | |
 | ⬜️ | ags | mudlarks             | Mudlarks                                                                    | |
 | ✅ | ags | myburdentokeep      | My Burdon to Keep                                                            | DavidAriyan |
-| ⬜️ | ags | myfatherssecret      | My Father's Secret                                                          | |
+| ✅ | ags | myfatherssecret      | My Father's Secret                                                          | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | neofeud             | Neofeud                                                                      | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | neosaires2070       | Neos Aires 2070: Sunday Comes First                                          | DavidAriyan |
 | ✅ | ags | nightmareframes     | Nightmare Frames                                                             | DavidAriyan |
