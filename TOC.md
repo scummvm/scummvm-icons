@@ -333,7 +333,7 @@
 | ✅ | glk | adv551              | Adventure 6, 551 point Colossal Cave                                         | JenniBee, Tucky27 |
 | ✅ | glk | amfv                | A Mind Forever Voyaging                                                      | Tucky27 |
 | ✅ | glk | ballyhoo            | Ballyhoo                                                                     | Tucky27 |
-| ✅ | glk | beyondzork          | Beyond Zork                                                                  | JenniBee |
+| ✅ | glk | beyondzork          | Beyond Zork                                                                  | JenniBee, GandalfTheWhite80 |
 | ✅ | glk | borderzone          | Border Zone                                                                  | Tucky27 |
 | ✅ | glk | bureaucracy         | Bureaucracy                                                                  | Tucky27 |
 | ✅ | glk | ccfirstadv          | Colossal Cave - The First Adventure                                          | JenniBee, Tucky27 |
