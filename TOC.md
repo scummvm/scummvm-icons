@@ -247,8 +247,8 @@
 | ✅ | bladerunner | bladerunner-final   | Blade Runner                                                                 | NekoFever, DavidAriyan, GandalfTheWhite80 |
 | ✅ | buried | buried              | The Journeyman Project 2: Buried in Time                                     | GandalfTheWhite80 |
 | ✅ | chewy | chewy               | Chewy: Esc from F5                                                           | GandalfTheWhite80 |
-| ✅ | cge | soltys              | Soltys                                                                       | JenniBee |
-| ✅ | cge2 | sfinx               | Sfinx                                                                        | JenniBee |
+| ✅ | cge | soltys              | Soltys                                                                       | JenniBee, GandalfTheWhite80 |
+| ✅ | cge2 | sfinx               | Sfinx                                                                        | JenniBee, GandalfTheWhite80 |
 | ✅ | cine | fw                  | Future Wars                                                                  | Thanius |
 | ✅ | cine | os                  | Operation Stealth                                                            | JenniBee |
 | ✅ | composer | babayaga            | Magic Tales: Baba Yaga and the Magic Geese                                   |Tucky27 |
