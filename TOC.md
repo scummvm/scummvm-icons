@@ -269,7 +269,7 @@
 | ✅ | director | warlock             | Spaceship Warlock                                                            | Tucky27 |
 | ✅ | draci | draci               | Draci Historie                                                               | JenniBee, GandalfTheWhite80 |
 | ✅ | dragons | dragons             | Blazing Dragons                                                              | dotdc |
-| ✅ | drascula | drascula            | Drascula: The Vampire Strikes Back                                           | Thanius |
+| ✅ | drascula | drascula            | Drascula: The Vampire Strikes Back                                           | Thanius, GandalfTheWhite80 |
 | ✅ | dreamweb | dreamweb            | DreamWeb                                                                     | thedoc |
 | ⬜️ | glk | adrianmole1         | Adrian Mole I                                                                | |
 | ⬜️ | glk | adrianmole2         | Adrian Mole II                                                               | |
