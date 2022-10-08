@@ -373,10 +373,10 @@
 | ✅ | glk | trinity             | Trinity                                                                      | Tucky27 |
 | ✅ | glk | thewitness          | The Witness                                                                  | Tucky27 |
 | ✅ | glk | wishbringer         | Wishbringer                                                                  | Tucky27 |
-| ✅ | glk | zork0               | Zork Zero: The Revenge of Megaboz                                            | JenniBee |
-| ✅ | glk | zork1               | Zork I: The Great Underground Empire                                         | JenniBee |
-| ✅ | glk | zork2               | Zork II: The Wizard of Frobozz                                               | JenniBee |
-| ✅ | glk | zork3               | Zork III: The Dungeon Master                                                 | JenniBee |
+| ✅ | glk | zork0               | Zork Zero: The Revenge of Megaboz                                            | JenniBee, GandalfTheWhite80 |
+| ✅ | glk | zork1               | Zork I: The Great Underground Empire                                         | JenniBee, GandalfTheWhite80 |
+| ✅ | glk | zork2               | Zork II: The Wizard of Frobozz                                               | JenniBee, GandalfTheWhite80 |
+| ✅ | glk | zork3               | Zork III: The Dungeon Master                                                 | JenniBee, GandalfTheWhite80 |
 | ✅ | glk | ztuu                | Zork: The Undiscovered Underground                                           | JenniBee |
 | ⬜️ | glk | zcode               | Unknown Z-code game                                                          | |
 | ✅ | glk | softporn            | Softporn Adventure                                                           | JenniBee |
