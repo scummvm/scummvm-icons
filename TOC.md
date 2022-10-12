@@ -234,7 +234,7 @@
 | ⬜️ | ags | theawakening         | The Awekening                                                               | |
 | ✅ | ags | untilihaveyou       | Until I have you                                                             | DavidAriyan |
 | ✅ | ags | qfg2agdi            | Quest for Glory II: Trial by Fire                                            | Tucky27 |
-| ✅ | ags | trilbysnote         | Trilby's Notes                                                               | DavidAriyan, GandalfTheWhite80 |
+| ✅ | ags | trilbysnotes        | Trilby's Notes                                                               | DavidAriyan, GandalfTheWhite80 |
 | ⬜️ | ags | twelvethirteense     | Twelve Thirteen - Special Edition                                           | |
 | ✅ | ags | unavowed            | Unavowed                                                                     | DavidAriyan |
 | ✅ | ags | unbound             | Unbound                                                                      | DavidAriyan |
