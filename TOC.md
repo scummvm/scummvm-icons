@@ -83,7 +83,6 @@
 | ✅ | adl | hires4              | Hi-Res Adventure #4: Ulysses and the Golden Fleece                           | dotdc, Tucky27 |
 | ✅ | adl | hires5              | Hi-Res Adventure #5: Time Zone                                               | TrivialBalderdash |
 | ✅ | adl | hires6              | Hi-Res Adventure #6: The Dark Crystal                                        | TrivialBalderdash |
-| ✅ | agi | agi                 | Sierra AGI game                                                              | JenniBee |
 | ⬜️ | agi | agi-fanmade         | Fanmade AGI game                                                             | |
 | ✅ | agi | bc                  | The Black Cauldron                                                           | Tucky27, GandalfTheWhite80 |
 | ✅ | agi | caitlyn             | Caitlyn's Destiny                                                            | Tucky27, GandalfTheWhite80 |
