@@ -400,7 +400,7 @@
 | ⬜️ | gob | inca2               | Inca II: Wiracocha                                                           | |
 | ✅ | gob | woodruff            | The Bizarre Adventures of Woodruff and the Schnibble                         | Matt |
 | ⬜️ | gob | dynasty             | The Last Dynasty                                                             | |
-| ✅ | gob | urban               | Urban Runner                                                                 | JenniBee |
+| ✅ | gob | urban               | Urban Runner                                                                 | JenniBee, GandalfTheWhite80 |
 | ⬜️ | gob | playtoons1          | Playtoons 1 - Uncle Archibald                                                | |
 | ⬜️ | gob | playtoons2          | Playtoons 2 - The Case of the Counterfeit Collaborator                       | |
 | ⬜️ | gob | playtoons3          | Playtoons 3 - The Secret of the Castle                                       | |
