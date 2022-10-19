@@ -346,7 +346,7 @@
 | ✅ | glk | hollywoodhijinx     | Hollywood Hijinx                                                             | Tucky27 |
 | ✅ | glk | infidel             | Infidel                                                                      | Tucky27 |
 | ✅ | glk | journey             | Journey                                                                      | Tucky27 |
-| ✅ | glk | lgop                | Leather Goddesses of Phobos                                                  | JenniBee |
+| ✅ | glk | lgop                | Leather Goddesses of Phobos                                                  | JenniBee, GandalfTheWhite80 |
 | ✅ | glk | infocomsampler1     | Infocom Sampler 1                                                            | Tucky27 |
 | ✅ | glk | infocomsampler2     | Infocom Sampler 2                                                            | Tucky27 |
 | ✅ | glk | lurkinghorror       | The Lurking Horror                                                           | Tucky27 |
