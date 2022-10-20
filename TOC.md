@@ -440,7 +440,7 @@
 | ✅ | lure | lure                | Lure of the Temptress                                                        | GandalfTheWhite80 |
 | ✅ | made | manhole             | The Manhole                                                                  | Matt |
 | ✅ | made | rtz                 | Return to Zork                                                               | JenniBee, Tucky27 |
-| ✅ | made | lgop2               | Leather Goddesses of Phobos 2                                                | Matt |
+| ✅ | made | lgop2               | Leather Goddesses of Phobos 2                                                | Matt, GandalfTheWhite80 |
 | ✅ | made | rodney              | Rodney's Funscreen                                                           | Matt |
 | ✅ | mads | nebular             | Rex Nebular and the Cosmic Gender Bender                                     | TrivialBalderdash |
 | ✅ | mohawk | arthur              | Arthur's Teacher Trouble                                                     | mileso |
