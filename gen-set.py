@@ -52,7 +52,7 @@ class GUID:
     element_name: str
 
 
-GUIDS: final(Set[GUID]) = {GUID(filename_root='games', gid='1946612063', element_name='game'),
+GUIDS: final(Set[GUID]) = {GUID(filename_root='games', gid='1775285192', element_name='game'),
                            GUID(filename_root='engines', gid='0', element_name='engine'),
                            GUID(filename_root='companies', gid='226191984', element_name='company'),
                            GUID(filename_root='series', gid='1095671818', element_name='serie')
@@ -137,6 +137,9 @@ def generate_xmls() -> List[str]:
             for product in output:
                 product_xml = ElemTree.SubElement(root, guid.element_name)
                 for key, value in product.items():
+                    # For the games sheet and its ids, only use the suffix after the colon
+                    if key == 'id' and guid.filename_root == 'games':
+                        value = value.partition(':')[2]
                     product_xml.set(key, value)
 
         dom = xml.dom.minidom.parseString(ElemTree.tostring(root).decode(ENCODING))
