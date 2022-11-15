@@ -530,7 +530,7 @@
 | ✅ | sci | islandbrain         | The Island of Dr. Brain                                                      | thedoc |
 | ✅ | sci | lsl6                | Leisure Suit Larry 6: Shape Up or Slip Out!                                  | rehail |
 | ✅ | sci | pepper              | Pepper's Adventure in Time                                                   | Tucky27 |
-| ⬜️ | sci | slater              | Slater & Charlie Go Camping                                                  | |
+| ✅ | sci | slater              | Slater & Charlie Go Camping                                                  | GandalfTheWhite80 |
 | ⬜️ | sci | catdate             | The Dating Pool                                                              | |
 | ✅ | sci | gk1                 | Gabriel Knight: Sins of the Fathers                                          | TrivialBalderdash |
 | ✅ | sci | pq4                 | Police Quest IV: Open Season                                                 | Tucky27 |
