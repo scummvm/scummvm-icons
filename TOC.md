@@ -398,7 +398,7 @@
 | ⬜️ | gob | lit2                | Lost in Time Part 2                                                          | |
 | ✅ | gob | lit                 | Lost in Time                                                                 | Matt |
 | ⬜️ | gob | inca2               | Inca II: Wiracocha                                                           | |
-| ✅ | gob | woodruff            | The Bizarre Adventures of Woodruff and the Schnibble                         | Matt |
+| ✅ | gob | woodruff            | The Bizarre Adventures of Woodruff and the Schnibble                         | Matt, GandalfTheWhite80 |
 | ⬜️ | gob | dynasty             | The Last Dynasty                                                             | |
 | ✅ | gob | urban               | Urban Runner                                                                 | JenniBee, GandalfTheWhite80 |
 | ⬜️ | gob | playtoons1          | Playtoons 1 - Uncle Archibald                                                | |
