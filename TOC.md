@@ -413,7 +413,7 @@
 | ✅ | gob | fascination         | Fascination                                                                  | JenniBee |
 | ✅ | gob | geisha              | Geisha                                                                       | JenniBee |
 | ✅ | griffon | griffon             | The Griffon Legend                                                           | GandalfTheWhite80 |
-| ✅ | grim | grim                | Grim Fandango                                                                | Thanius |
+| ✅ | grim | grim                | Grim Fandango                                                                | Thanius, GandalfTheWhite80 |
 | ✅ | grim | monkey4             | Escape From Monkey Island                                                    | Thanius |
 | ✅ | groovie | t7g                 | The 7th Guest                                                                | NekoFever |
 | ✅ | groovie | 11h                 | The 11th Hour                                                                | bobdevis |
