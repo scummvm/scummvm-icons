@@ -385,7 +385,7 @@
 | ✅ | gnap | gnap                | Gnap                                                                         | JenniBee |
 | ✅ | gob | gob1                | Gobliiins                                                                    | nightm4re94 |
 | ✅ | gob | gob2                | Gobliins 2                                                                   | nightm4re94 |
-| ✅ | gob | ween                | Ween: The Prophecy                                                           |Canuma|
+| ✅ | gob | ween                | Ween: The Prophecy                                                           |Canuma, GandalfTheWhite80 |
 | ✅ | gob | bargon              | Bargon Attack                                                                |Canuma |
 | ⬜️ | gob | babayaga            | Once Upon A Time: Baba Yaga                                                  | |
 | ⬜️ | gob | abracadabra         | Once Upon A Time: Abracadabra                                                | |
