@@ -507,7 +507,7 @@
 | ✅ | sci | ecoquest            | EcoQuest: The Search for Cetus                                               | thedoc |
 | ✅ | sci | fairytales          | Mixed-up Fairy Tales                                                         | Tucky27 |
 | ✅ | sci | hoyle3              | Hoyle Official Book of Games: Volume 3                                       | Tucky27 |
-| ✅ | sci | jones               | Jones in the Fast Lane                                                       | Tucky27 |
+| ✅ | sci | jones               | Jones in the Fast Lane                                                       | Tucky27, GandalfTheWhite80 |
 | ✅ | sci | kq5                 | King's Quest V: Absence Makes the Heart Go Yonder                            | JenniBee, Tucky27 |
 | ✅ | sci | longbow             | Conquests of the Longbow: The Adventures of Robin Hood                       | Tucky27 |
 | ✅ | sci | lsl1sci             | Leisure Suit Larry in the Land of the Lounge Lizards                         | rehail |
