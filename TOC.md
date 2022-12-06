@@ -431,7 +431,7 @@
 | ✅ | hypno | wetlands            | Wetlands                                                                     | Tucky27 |
 | ✅ | illusions | duckman             | Duckman                                                                      | Tucky27 |
 | ✅ | kyra | kyra1               | The Legend of Kyrandia                                                       | Tucky27 |
-| ✅ | kyra | kyra2               | The Legend of Kyrandia: The Hand of Fate                                     | Tucky27 |
+| ✅ | kyra | kyra2               | The Legend of Kyrandia: The Hand of Fate                                     | Tucky27, GandalfTheWhite80 |
 | ✅ | kyra | kyra3               | The Legend of Kyrandia: Malcolm's Revenge                                    | Tucky27 |
 | ✅ | kyra | lol                 | Lands of Lore: The Throne of Chaos                                           | dotdc |
 | ✅ | kyra | eob                 | Eye of the Beholder                                                          | Tucky27 |
