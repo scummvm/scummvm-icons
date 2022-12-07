@@ -472,7 +472,7 @@
 | ⬜️ | petka | petka2              | Red Comrades 2: For the Great Justice                                        | |
 | ✅ | pink | pokus                | The Pink Panther: Hokus Pokus Pink                                         | Tucky27 |
 | ⬜️ | pink | peril                | The Pink Panther: Passport to Peril                                        |  |
-| ✅ | plumbers | plumbers            | Plumbers Don't Wear Ties!                                                    | nightm4re94 |
+| ✅ | plumbers | plumbers            | Plumbers Don't Wear Ties!                                                    | nightm4re94, GandalfTheWhite80 |
 | ✅ | prince | prince              | The Prince and the Coward                                                    | JenniBee |
 | ✅ | private | private-eye         | Private Eye                                                                  | [Adventure Gamers page](https://adventuregamers.com/games/view/16575) |
 | ✅ | queen | queen               | Flight of the Amazon Queen                                                   | NekoFever |
