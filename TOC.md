@@ -241,7 +241,7 @@
 | ✅ | ags | witchlullaby        | The Witch's Lullaby                                                          | DavidAriyan |
 | ✅ | asylum | sanitarium          | Sanitarium                                                                   | JenniBee, GandalfTheWhite80 |
 | ✅ | avalanche | avalanche           | Lord Avalot d'Argent                                                         | JenniBee |
-| ✅ | bbvs | bbvs                | Beavis and Butt-head in Virtual Stupidity                                    | JenniBee |
+| ✅ | bbvs | bbvs                | Beavis and Butt-head in Virtual Stupidity                                    | JenniBee, GandalfTheWhite80 |
 | ✅ | bladerunner | bladerunner         | Blade Runner                                                                 | NekoFever, DavidAriyan |
 | ✅ | bladerunner | bladerunner-final   | Blade Runner                                                                 | NekoFever, DavidAriyan, GandalfTheWhite80 |
 | ✅ | buried | buried              | The Journeyman Project 2: Buried in Time                                     | GandalfTheWhite80 |
