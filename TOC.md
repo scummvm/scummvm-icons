@@ -382,7 +382,7 @@
 | ✅ | glk | marveladventure     | Questprobe featuring The Hulk                                                | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | marveladventure2    | Questprobe featuring Spider-Man                                              | Tucky27 |
 | ✅ | glk | marveladventurei5   | Questprobe featuring The Hulk                                                | Tucky27, GandalfTheWhite80 |
-| ✅ | gnap | gnap                | Gnap                                                                         | JenniBee |
+| ✅ | gnap | gnap                | Gnap                                                                         | JenniBee, GandalfTheWhite80 |
 | ✅ | gob | gob1                | Gobliiins                                                                    | nightm4re94 |
 | ✅ | gob | gob2                | Gobliins 2                                                                   | nightm4re94 |
 | ✅ | gob | ween                | Ween: The Prophecy                                                           |Canuma, GandalfTheWhite80 |
