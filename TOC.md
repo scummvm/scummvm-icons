@@ -248,7 +248,7 @@
 | ✅ | chewy | chewy               | Chewy: Esc from F5                                                           | GandalfTheWhite80 |
 | ✅ | cge | soltys              | Soltys                                                                       | JenniBee, GandalfTheWhite80 |
 | ✅ | cge2 | sfinx               | Sfinx                                                                        | JenniBee, GandalfTheWhite80 |
-| ✅ | cine | fw                  | Future Wars                                                                  | Thanius |
+| ✅ | cine | fw                  | Future Wars                                                                  | Thanius, GandalfTheWhite80 |
 | ✅ | cine | os                  | Operation Stealth                                                            | JenniBee |
 | ✅ | composer | babayaga            | Magic Tales: Baba Yaga and the Magic Geese                                   |Tucky27 |
 | ✅ | composer | darby               | Darby the Dragon                                                             | GandalfTheWhite80, WhiteRakogis |
