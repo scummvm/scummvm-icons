@@ -249,7 +249,7 @@
 | ✅ | cge | soltys              | Soltys                                                                       | JenniBee, GandalfTheWhite80 |
 | ✅ | cge2 | sfinx               | Sfinx                                                                        | JenniBee, GandalfTheWhite80 |
 | ✅ | cine | fw                  | Future Wars                                                                  | Thanius, GandalfTheWhite80 |
-| ✅ | cine | os                  | Operation Stealth                                                            | JenniBee |
+| ✅ | cine | os                  | Operation Stealth                                                            | JenniBee, GandalfTheWhite80 |
 | ✅ | composer | babayaga            | Magic Tales: Baba Yaga and the Magic Geese                                   |Tucky27 |
 | ✅ | composer | darby               | Darby the Dragon                                                             | GandalfTheWhite80, WhiteRakogis |
 | ✅ | composer | gregory             | Gregory and the Hot Air Balloon                                              | GandalfTheWhite80 |
