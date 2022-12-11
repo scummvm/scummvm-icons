@@ -272,7 +272,7 @@
 | ✅ | dreamweb | dreamweb            | DreamWeb                                                                     | thedoc |
 | ⬜️ | glk | adrianmole1         | Adrian Mole I                                                                | |
 | ⬜️ | glk | adrianmole2         | Adrian Mole II                                                               | |
-| ✅ | glk | thearchers          | The Archers                                                                  | Tucky27 |
+| ✅ | glk | thearchers          | The Archers                                                                  | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | adventurequest      | Adventure Quest                                                              | Tucky27 |
 | ✅ | glk | colossaladvjod      | Colossal Adventure /JoD                                                      | JenniBee |
 | ✅ | glk | dungeonadv          | Dungeon Adventure                                                            | Tucky27 |
@@ -334,7 +334,7 @@
 | ✅ | glk | ballyhoo            | Ballyhoo                                                                     | Tucky27 |
 | ✅ | glk | beyondzork          | Beyond Zork                                                                  | JenniBee, GandalfTheWhite80 |
 | ✅ | glk | borderzone          | Border Zone                                                                  | Tucky27 |
-| ✅ | glk | bureaucracy         | Bureaucracy                                                                  | Tucky27 |
+| ✅ | glk | bureaucracy         | Bureaucracy                                                                  | Tucky27 , GandalfTheWhite80|
 | ✅ | glk | ccfirstadv          | Colossal Cave - The First Adventure                                          | JenniBee, Tucky27 |
 | ✅ | glk | crimsoncrown        | The Crimson Crown                                                            | Tucky27 |
 | ✅ | glk | cutthroats          | Cutthroats                                                                   | Tucky27 |
@@ -367,7 +367,7 @@
 | ✅ | glk | stationfall         | Stationfall                                                                  | Tucky27 |
 | ✅ | glk | suspect             | Suspect                                                                      | Tucky27 |
 | ✅ | glk | suspended           | Suspended                                                                    | Tucky27 |
-| ✅ | glk | talisman            | Talisman: Challenging the Sands of Time                                      | Tucky27 |
+| ✅ | glk | talisman            | Talisman: Challenging the Sands of Time                                      | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | transylvania        | Transylvania                                                                 | Tucky27 |
 | ✅ | glk | trinity             | Trinity                                                                      | Tucky27 |
 | ✅ | glk | thewitness          | The Witness                                                                  | Tucky27 |
