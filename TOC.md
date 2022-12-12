@@ -410,7 +410,7 @@
 | ⬜️ | gob | playtnck2           | Playtoons Construction Kit 2 - Knights                                       | |
 | ⬜️ | gob | playtnck3           | Playtoons Construction Kit 3 - Far West                                      | |
 | ✅ | gob | bambou              | Playtoons Limited Edition - Bambou le sauveur de la jungle                   | Matt |
-| ✅ | gob | fascination         | Fascination                                                                  | JenniBee |
+| ✅ | gob | fascination         | Fascination                                                                  | JenniBee, GandalfTheWhite80 |
 | ✅ | gob | geisha              | Geisha                                                                       | JenniBee |
 | ✅ | griffon | griffon             | The Griffon Legend                                                           | GandalfTheWhite80 |
 | ✅ | grim | grim                | Grim Fandango                                                                | Thanius, GandalfTheWhite80 |
