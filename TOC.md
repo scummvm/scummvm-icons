@@ -342,7 +342,7 @@
 | ✅ | glk | elf20               | The Elf's Christmas Adventure                                                | JenniBee |
 | ✅ | glk | elves87             | Elves '87                                                                    | JenniBee |
 | ✅ | glk | enchanter           | Enchanter                                                                    | Tucky27 |
-| ✅ | glk | hhgttg              | The Hitchhiker's Guide to the Galaxy                                         | Tucky27 |
+| ✅ | glk | hhgttg              | The Hitchhiker's Guide to the Galaxy                                         | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | hollywoodhijinx     | Hollywood Hijinx                                                             | Tucky27 |
 | ✅ | glk | infidel             | Infidel                                                                      | Tucky27 |
 | ✅ | glk | journey             | Journey                                                                      | Tucky27 |
