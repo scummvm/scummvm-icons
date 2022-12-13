@@ -411,7 +411,7 @@
 | ⬜️ | gob | playtnck3           | Playtoons Construction Kit 3 - Far West                                      | |
 | ✅ | gob | bambou              | Playtoons Limited Edition - Bambou le sauveur de la jungle                   | Matt |
 | ✅ | gob | fascination         | Fascination                                                                  | JenniBee, GandalfTheWhite80 |
-| ✅ | gob | geisha              | Geisha                                                                       | JenniBee |
+| ✅ | gob | geisha              | Geisha                                                                       | JenniBee, GandalfTheWhite80 |
 | ✅ | griffon | griffon             | The Griffon Legend                                                           | GandalfTheWhite80 |
 | ✅ | grim | grim                | Grim Fandango                                                                | Thanius, GandalfTheWhite80 |
 | ✅ | grim | monkey4             | Escape From Monkey Island                                                    | Thanius |
