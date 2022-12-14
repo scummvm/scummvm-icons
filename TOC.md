@@ -396,7 +396,7 @@
 | ✅ | gob | crousti             | Croustibat                                                                   | JenniBee |
 | ⬜️ | gob | lit1                | Lost in Time Part 1                                                          | |
 | ⬜️ | gob | lit2                | Lost in Time Part 2                                                          | |
-| ✅ | gob | lit                 | Lost in Time                                                                 | Matt |
+| ✅ | gob | lit                 | Lost in Time                                                                 | Matt, GandalfTheWhite80 |
 | ⬜️ | gob | inca2               | Inca II: Wiracocha                                                           | |
 | ✅ | gob | woodruff            | The Bizarre Adventures of Woodruff and the Schnibble                         | Matt, GandalfTheWhite80 |
 | ⬜️ | gob | dynasty             | The Last Dynasty                                                             | |
