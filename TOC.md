@@ -497,7 +497,7 @@
 | ✅ | sci | sq3                 | Space Quest III: The Pirates of Pestulon                                     | JenniBee |
 | ✅ | sci | qfg2                | Quest for Glory II: Trial by Fire                                            | JenniBee, Tucky27 |
 | ✅ | sci | kq1sci              | King's Quest I: Quest for the Crown                                          | dotdc, Tucky27 |
-| ✅ | sci | castlebrain         | Castle of Dr. Brain                                                          | thedoc |
+| ✅ | sci | castlebrain         | Castle of Dr. Brain                                                          | thedoc, GandalfTheWhite80 |
 | ⬜️ | sci | christmas1990       | Christmas Card 1990: The Seasoned Professional                               | |
 | ✅ | sci | cnick-lsl           | Crazy Nick's Software Picks: Leisure Suit Larry's Casino                     | Tucky27 |
 | ✅ | sci | cnick-kq            | Crazy Nick's Software Picks: King Graham's Board Game Challenge              | Tucky27 |
