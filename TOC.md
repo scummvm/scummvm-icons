@@ -569,7 +569,7 @@
 | ✅ | titanic | titanic             | Starship Titanic                                                             | thedoc |
 | ✅ | toltecs | toltecs             | 3 Skulls of the Toltecs                                                      |Canuma|
 | ✅ | tony | tony                | Tony Tough and the Night of Roasted Moths                                    | rehail |
-| ✅ | toon | toon                | Toonstruck                                                                   | JenniBee |
+| ✅ | toon | toon                | Toonstruck                                                                   | JenniBee, GandalfTheWhite80 |
 | ✅ | touche | touche              | Touche: The Adventures of the Fifth Musketeer                                |Canuma|
 | ✅ | trecision | nl                  | Nightlong: Union City Conspiracy                                             | Tucky27 |
 | ✅ | tsage | ringworld           | Ringworld: Revenge of the Patriarch                                          | JenniBee |
