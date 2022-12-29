@@ -270,6 +270,7 @@
 | ✅ | dragons | dragons             | Blazing Dragons                                                              | dotdc |
 | ✅ | drascula | drascula            | Drascula: The Vampire Strikes Back                                           | Thanius, GandalfTheWhite80 |
 | ✅ | dreamweb | dreamweb            | DreamWeb                                                                     | thedoc |
+| ✅ | freescape | driller            | Driller                                                                     | GandalfTheWhite80 |
 | ⬜️ | glk | adrianmole1         | Adrian Mole I                                                                | |
 | ⬜️ | glk | adrianmole2         | Adrian Mole II                                                               | |
 | ✅ | glk | thearchers          | The Archers                                                                  | Tucky27, GandalfTheWhite80 |
