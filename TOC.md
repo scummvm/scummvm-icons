@@ -592,7 +592,7 @@
 | ✅ | wintermute | reversion2          | Reversion: The Meeting                                                       | JenniBee |
 | ⬜️ | wintermute | reversion3          | Reversion: The Return                                                        | |
 | ✅ | xeen | cloudsofxeen        | Might and Magic IV: Clouds of Xeen                                           | GandalfTheWhite80 |
-| ⬜️ | xeen | darksideofxeen      | Might and Magic V: Dark Side of Xeen                                         | |
+| ✅ | xeen | darksideofxeen      | Might and Magic V: Dark Side of Xeen                                         | GandalfTheWhite80 |
 | ⬜️ | xeen | worldofxeen         | Might and Magic: World of Xeen                                               | |
 | ⬜️ | xeen | swordsofxeen        | Might and Magic: Swords of Xeen                                              | |
 | ✅ | zvision | znemesis            | Zork Nemesis: The Forbidden Lands                                            | JenniBee |
