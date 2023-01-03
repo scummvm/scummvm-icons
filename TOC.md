@@ -470,7 +470,7 @@
 | ✅ | parallaction | nippon              | Nippon Safes Inc.                                                            | Redbar |
 | ✅ | pegasus | pegasus             | The Journeyman Project: Pegasus Prime                                        | JenniBee |
 | ⬜️ | petka | petka1              | Red Comrades 1: Save the Galaxy                                              | |
-| ⬜️ | petka | petka2              | Red Comrades 2: For the Great Justice                                        | |
+| ✅ | petka | petka2              | Red Comrades 2: For the Great Justice                                        | GandalfTheWhite80 |
 | ✅ | pink | pokus                | The Pink Panther: Hokus Pokus Pink                                         | Tucky27 |
 | ⬜️ | pink | peril                | The Pink Panther: Passport to Peril                                        |  |
 | ✅ | plumbers | plumbers            | Plumbers Don't Wear Ties!                                                    | nightm4re94, GandalfTheWhite80 |
