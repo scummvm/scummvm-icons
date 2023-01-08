@@ -464,6 +464,7 @@
 | ✅ | mohawk | stellaluna          | Stellaluna                                                                   | GandalfTheWhite80 |
 | ✅ | mohawk | tortoise            | Aesop's Fables: The Tortoise and the Hare                                    | Tucky27 |
 | ✅ | mortevielle | mortevielle         | Mortville Manor                                                              | WhiteRakogis |
+| ✅ | mtropolis | obsidian         | Obsidian                                                                     | GandalfTheWhite80 |
 | ✅ | myst3 | myst3               | Myst III Exile                                                               | JenniBee, GandalfTheWhite80 |
 | ✅ | neverhood | neverhood           | The Neverhood Chronicles                                                     | JenniBee |
 | ✅ | ngi | fullpipe            | Full Pipe                                                                    | [App Store page](https://apps.apple.com/app/full-pipe-puzzle-adventure/id900071823) |
