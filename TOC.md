@@ -588,6 +588,7 @@
 | ✅ | voyeur | voyeur              | Voyeur                                                                       | JenniBee |
 | ✅ | wintermute | chivalry            | Chivalry is Not Dead                                                         | JenniBee |
 | ✅ | wintermute | corrosion           | Corrosion: Cold Winter Waiting                                               | GandalfTheWhite80 |
+| ✅ | wintermute | helga           | Helga Deep In Trouble                                                        | GandalfTheWhite80 |
 | ✅ | wintermute | openquest           | Open Quest                                                                   | JenniBee |
 | ✅ | wintermute | reversion1          | Reversion: The Escape                                                        | JenniBee |
 | ✅ | wintermute | reversion2          | Reversion: The Meeting                                                       | JenniBee |
