@@ -558,7 +558,7 @@
 | ✅ | sci | rama                | RAMA                                                                         | thedoc |
 | ✅ | sherlock | scalpel             | The Case of the Serrated Scalpel                                             | Tucky27 |
 | ✅ | sherlock | rosetattoo          | The Case of the Rose Tattoo                                                  | Tucky27 |
-| ✅ | sky | sky                 | Beneath a Steel Sky                                                          | nightm4re94 |
+| ✅ | sky | sky                 | Beneath a Steel Sky                                                          | nightm4re94 , GandalfTheWhite80|
 | ✅ | stark | tlj                 | The Longest Journey                                                          | JenniBee |
 | ✅ | supernova | msn1                | Mission Supernova 1                                                          | Tucky27 |
 | ✅ | supernova | msn2                | Mission Supernova 2                                                          | Tucky27 |
