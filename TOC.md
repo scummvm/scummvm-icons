@@ -422,7 +422,7 @@
 | ✅ | groovie | tlc                 | Tender Loving Care                                                           | Tucky27 |
 | ✅ | groovie | unclehenry          | Uncle Henry's Playhouse                                                      | GandalfTheWhite80 |
 | ✅ | hadesch | hadesch             | Hades Challenge                                                              | GandalfTheWhite80 |
-| ✅ | hdb | hdb                 | Hyperspace Delivery Boy!                                                     | SupSuper |
+| ✅ | hdb | hdb                 | Hyperspace Delivery Boy!                                                     | SupSuper, GandalfTheWhite80 |
 | ✅ | hopkins | hopkins             | Hopkins FBI                                                                  | rehail |
 | ✅ | hugo | hugo1               | Hugo 1: Hugo's House of Horrors                                              | JenniBee |
 | ✅ | hugo | hugo2               | Hugo 2: Whodunit?                                                            | JenniBee, GandalfTheWhite80 |
