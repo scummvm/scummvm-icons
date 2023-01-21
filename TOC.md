@@ -32,7 +32,7 @@
 | ✅ | scumm | basketball          | Backyard Basketball                                                          | Tucky27 |
 | ✅ | scumm | football2002        | Backyard Football 2002                                                       | Tucky27 |
 | ✅ | scumm | freddicove          | Freddi Fish 5: The Case of the Creature of Coral Cove                        | Retrodude |
-| ✅ | scumm | moonbase            | Moonbase Commander                                                           | JenniBee |
+| ✅ | scumm | moonbase            | Moonbase Commander                                                           | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | pjgames             | Pajama Sam: Games to Play on Any Day                                         | Tucky27 |
 | ✅ | scumm | readtime            | Blue's Reading Time Activities                                               | Tucky27 |
 | ✅ | scumm | soccer2004          | Backyard Soccer 2004                                                         | Tucky27 |
