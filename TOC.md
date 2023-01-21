@@ -534,7 +534,7 @@
 | ✅ | sci | pepper              | Pepper's Adventure in Time                                                   | Tucky27 |
 | ✅ | sci | slater              | Slater & Charlie Go Camping                                                  | GandalfTheWhite80 |
 | ⬜️ | sci | catdate             | The Dating Pool                                                              | |
-| ✅ | sci | gk1                 | Gabriel Knight: Sins of the Fathers                                          | TrivialBalderdash |
+| ✅ | sci | gk1                 | Gabriel Knight: Sins of the Fathers                                          | TrivialBalderdash, GandalfTheWhite80 |
 | ✅ | sci | pq4                 | Police Quest IV: Open Season                                                 | Tucky27 |
 | ✅ | sci | qfg4                | Quest for Glory IV: Shadows of Darkness                                      | JenniBee, Tucky27 |
 | ⬜️ | sci | hoyle5              | Hoyle Classic Games                                                          | |
