@@ -575,7 +575,7 @@
 | ✅ | touche | touche              | Touche: The Adventures of the Fifth Musketeer                                |Canuma|
 | ✅ | trecision | nl                  | Nightlong: Union City Conspiracy                                             | Tucky27 |
 | ✅ | tsage | ringworld           | Ringworld: Revenge of the Patriarch                                          | JenniBee |
-| ✅ | tsage | blueforce           | Blue Force                                                                   | JenniBee |
+| ✅ | tsage | blueforce           | Blue Force                                                                   | JenniBee, GandalfTheWhite80 |
 | ⬜️ | tsage | ringworld2          | Return to Ringworld                                                          | |
 | ✅ | tucker | tucker              | Bud Tucker in Double Trouble                                                 | JenniBee |
 | ✅ | twine | lba                 | Little Big Adventure                                                         | Tucky27 |
