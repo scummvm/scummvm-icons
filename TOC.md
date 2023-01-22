@@ -302,12 +302,12 @@
 | ⬜️ | glk | worminparadise      | Worm in Paradise                                                             | |
 | ⬜️ | glk | worminparadisesd    | Worm in Paradise /SD                                                         | |
 | ⬜️ | glk | magnetic            | Magnetic Scrolls Game                                                        | |
-| ⬜️ | glk | corruption          | Corruption                                                                   | |
-| ⬜️ | glk | fish                | Fish!                                                                        | |
-| ⬜️ | glk | guild               | The Guild of Thieves                                                         | |
-| ⬜️ | glk | jinxter             | Jinxter                                                                      | |
-| ⬜️ | glk | myth                | Myth                                                                         | |
-| ⬜️ | glk | pawn                | the Pawn                                                                     | |
+| ✅ | glk | corruption          | Corruption                                                                   | tag2015 |
+| ✅ | glk | fish                | Fish!                                                                        | tag2015 |
+| ✅ | glk | guild               | The Guild of Thieves                                                         | tag2015 |
+| ✅ | glk | jinxter             | Jinxter                                                                      | tag2015 |
+| ✅ | glk | myth                | Myth                                                                         | tag2015 |
+| ✅ | glk | pawn                | the Pawn                                                                     | tag2015 |
 | ✅ | glk | wonderland          | Wonderland                                                                   | Tucky27 |
 | ✅ | glk | adventureland       | Adventureland                                                                | Tucky27 |
 | ✅ | glk | pirateadventure     | Pirate Adventure                                                             | Tucky27 |
