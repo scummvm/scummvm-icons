@@ -542,7 +542,7 @@
 | ⬜️ | sci | hoyle5children      | Hoyle Children's Collection                                                  | |
 | ⬜️ | sci | hoyle5solitaire     | Hoyle Solitaire                                                              | |
 | ✅ | sci | chest               | Inside the Chest                                                             | Tucky27 |
-| ✅ | sci | gk2                 | The Beast Within: A Gabriel Knight Mystery                                   | TrivialBalderdash |
+| ✅ | sci | gk2                 | The Beast Within: A Gabriel Knight Mystery                                   | TrivialBalderdash, GandalfTheWhite80 |
 | ✅ | sci | kq7                 | King's Quest VII: The Princeless Bride                                       | JenniBee |
 | ✅ | sci | kquestions          | King's Questions                                                             | Tucky27 |
 | ✅ | sci | lsl6hires           | Leisure Suit Larry 6: Shape Up or Slip Out!                                  | rehail |
