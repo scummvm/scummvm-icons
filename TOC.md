@@ -68,7 +68,7 @@
 | ✅ | scumm | putttime            | Putt-Putt Travels Through Time                                               | Retrodude |
 | ✅ | scumm | puttzoo             | Putt-Putt Saves the Zoo                                                      | Retrodude |
 | ⬜️ | scumm | samsfunshop         | Pajama Sam's One-Stop Fun Shop                                               | |
-| ⬜️ | scumm | soccer              | Backyard Soccer                                                              | |
+| ✅ | scumm | soccer              | Backyard Soccer                                                              | tag2015 |
 | ✅ | scumm | socks               | Pajama Sam's Sock Works                                                      | GandalfTheWhite80 |
 | ✅ | scumm | spyfox              | SPY Fox 1: Dry Cereal                                                        | Tucky27 |
 | ✅ | scumm | spyfox2             | SPY Fox 2: Some Assembly Required                                            | Tucky27 |
@@ -473,7 +473,7 @@
 | ✅ | petka | petka1              | Red Comrades 1: Save the Galaxy                                              | GandalfTheWhite80 |
 | ✅ | petka | petka2              | Red Comrades 2: For the Great Justice                                        | GandalfTheWhite80 |
 | ✅ | pink | pokus                | The Pink Panther: Hokus Pokus Pink                                         | Tucky27 |
-| ⬜️ | pink | peril                | The Pink Panther: Passport to Peril                                        |  |
+| ✅ | pink | peril                | The Pink Panther: Passport to Peril                                        | tag2015 |
 | ✅ | plumbers | plumbers            | Plumbers Don't Wear Ties!                                                    | nightm4re94, GandalfTheWhite80 |
 | ✅ | prince | prince              | The Prince and the Coward                                                    | JenniBee |
 | ✅ | private | private-eye         | Private Eye                                                                  | [Adventure Gamers page](https://adventuregamers.com/games/view/16575) |
@@ -588,11 +588,14 @@
 | ✅ | voyeur | voyeur              | Voyeur                                                                       | JenniBee |
 | ✅ | wintermute | chivalry            | Chivalry is Not Dead                                                         | JenniBee |
 | ✅ | wintermute | corrosion           | Corrosion: Cold Winter Waiting                                               | GandalfTheWhite80 |
+| ✅ | wintermute | deadcity            | Dead City                                                                    | tag2015 |
+| ✅ | wintermute | dirtysplit          | Dirty Split                                                                  | tag2015 |
 | ✅ | wintermute | helga           | Helga Deep In Trouble                                                        | GandalfTheWhite80 |
 | ✅ | wintermute | openquest           | Open Quest                                                                   | JenniBee |
 | ✅ | wintermute | reversion1          | Reversion: The Escape                                                        | JenniBee |
 | ✅ | wintermute | reversion2          | Reversion: The Meeting                                                       | JenniBee |
 | ⬜️ | wintermute | reversion3          | Reversion: The Return                                                        | |
+| ✅ | wintermute | twc                 | The White Chamber                                                            | tag2015 |
 | ✅ | xeen | cloudsofxeen        | Might and Magic IV: Clouds of Xeen                                           | GandalfTheWhite80 |
 | ✅ | xeen | darksideofxeen      | Might and Magic V: Dark Side of Xeen                                         | GandalfTheWhite80 |
 | ⬜️ | xeen | worldofxeen         | Might and Magic: World of Xeen                                               | |
