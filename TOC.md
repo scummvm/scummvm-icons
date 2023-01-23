@@ -115,7 +115,7 @@
 | ✅ | agos | simon1              | Simon the Sorcerer 1                                                         | GandalfTheWhite80 |
 | ✅ | agos | simon2              | Simon the Sorcerer 2                                                         | GandalfTheWhite80 |
 | ✅ | agos | feeble              | The Feeble Files                                                             |Canuma|
-| ✅ | agos | dimp                | Demon in my Pocket                                                           | Matt |
+| ✅ | agos | dimp                | Demon in my Pocket                                                           | Matt, GandalfTheWhite80 |
 | ✅ | agos | jumble              | Jumble                                                                       | Matt |
 | ✅ | agos | puzzle              | NoPatience                                                                   | Matt |
 | ✅ | agos | swampy              | Swampy Adventures                                                            | Matt |
