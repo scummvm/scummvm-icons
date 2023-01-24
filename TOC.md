@@ -163,6 +163,7 @@
 | ✅ | ags | geminirue           | Gemini Rue                                                                   | DavidAriyan |
 | ✅ | ags | ghostcatchers       | GHOSTCATCHERS                                                                | DavidAriyan |
 | ✅ | ags | ghostdream          | Ghostdream                                                                   | DavidAriyan |
+| ✅ | ags | goldenwake          | A Golden Wake                                                               | Official media |
 | ⬜️ | ags | heartland           | Heartland                                                                    | |
 | ⬜️ | ags | him                 | Him                                                                          | |
 | ✅ | ags | hjarta              | Hjarta                                                                       | DavidAriyan |
@@ -206,6 +207,7 @@
 | ✅ | ags | sq2vga              | Space Quest II: Vohaul's Revenge                                             | Tucky27 |
 | ✅ | ags | sqvsb               | Space Quest: Vohaul Strikes Back                                             | Tucky27 |
 | ✅ | ags | sq2dote             | Space Quest: Decision Of The Elders                                          | Tucky27 |
+| ✅ | ags | sq45                | Space Quest IV.5 - Roger Wilco and the Voyage Home                           | tag2015 |
 | ✅ | ags | sqinc               | Space Quest: Incinerations                                                   | Tucky27 |
 | ✅ | ags | strangeland         | Strangeland                                                                  | DavidAriyan |
 | ⬜️ | ags | superego             | Superego                                                                    | |
@@ -523,7 +525,7 @@
 | ⬜️ | sci | christmas1992       | Christmas Card 1992                                                          | |
 | ✅ | sci | ecoquest2           | EcoQuest II: Lost Secret of the Rainforest                                   | thedoc |
 | ✅ | sci | freddypharkas       | Freddy Pharkas: Frontier Pharmacist                                          | dotdc, Tucky27 |
-| ⬜️ | sci | hoyle4              | Hoyle Classic Card Games                                                     | |
+| ✅ | sci | hoyle4              | Hoyle Classic Card Games                                                     | tag2015 |
 | ✅ | sci | kq6                 | King's Quest VI: Heir Today, Gone Tomorrow                                   | JenniBee, Tucky27 |
 | ✅ | sci | laurabow2           | Laura Bow 2: The Dagger of Amon Ra                                           | dotdc, Tucky27 |
 | ✅ | sci | qfg1vga             | Quest for Glory I: So You Want to Be a Hero                                  | JenniBee |
@@ -537,10 +539,10 @@
 | ✅ | sci | gk1                 | Gabriel Knight: Sins of the Fathers                                          | TrivialBalderdash, GandalfTheWhite80 |
 | ✅ | sci | pq4                 | Police Quest IV: Open Season                                                 | Tucky27 |
 | ✅ | sci | qfg4                | Quest for Glory IV: Shadows of Darkness                                      | JenniBee, Tucky27 |
-| ⬜️ | sci | hoyle5              | Hoyle Classic Games                                                          | |
+| ✅ | sci | hoyle5              | Hoyle Classic Games                                                          | tag2015 |
 | ⬜️ | sci | hoyle5bridge        | Hoyle Bridge                                                                 | |
 | ⬜️ | sci | hoyle5children      | Hoyle Children's Collection                                                  | |
-| ⬜️ | sci | hoyle5solitaire     | Hoyle Solitaire                                                              | |
+| ✅ | sci | hoyle5solitaire     | Hoyle Solitaire                                                              | tag2015 |
 | ✅ | sci | chest               | Inside the Chest                                                             | Tucky27 |
 | ✅ | sci | gk2                 | The Beast Within: A Gabriel Knight Mystery                                   | TrivialBalderdash, GandalfTheWhite80 |
 | ✅ | sci | kq7                 | King's Quest VII: The Princeless Bride                                       | JenniBee |
@@ -576,7 +578,7 @@
 | ✅ | trecision | nl                  | Nightlong: Union City Conspiracy                                             | Tucky27 |
 | ✅ | tsage | ringworld           | Ringworld: Revenge of the Patriarch                                          | JenniBee |
 | ✅ | tsage | blueforce           | Blue Force                                                                   | JenniBee, GandalfTheWhite80 |
-| ⬜️ | tsage | ringworld2          | Return to Ringworld                                                          | |
+| ✅ | tsage | ringworld2          | Return to Ringworld                                                          | tag2015 |
 | ✅ | tucker | tucker              | Bud Tucker in Double Trouble                                                 | JenniBee |
 | ✅ | twine | lba                 | Little Big Adventure                                                         | Tucky27 |
 | ✅ | ultima | remorse             | Crusader: No Remorse                                                         | Tucky27 |
