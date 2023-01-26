@@ -128,11 +128,14 @@
 | ✅ | ags | adateinthepark      | A Date in the Park                                                           | DavidAriyan |
 | ⬜️ | ags | aeronuts             | Aeronuts                                                                    | |
 | ✅ | ags | afragmentofher      | A Fragment of Her                                                            | DavidAriyan |
+| ✅ | ags | alemmo              | Al Emmo And The Lost Dutchman's Mine                                         | tag2015 |
 | ⬜️ | ags | alandlordsdream      | A Landlord's Dream                                                          | |
 | ✅ | ags | allthewaydown       | All The Way Down                                                             | DavidAriyan |
 | ✅ | ags | almostblue          | Amost Blue                                                                   | DavidAriyan |
 | ⬜️ | ags | archeos              | Archeos                                                                     | |
 | ✅ | ags | asecondface         | A Second Face - The Eye of Geltz is watching Us                              | DavidAriyan |
+| ✅ | ags | ashinaredwitch       | Ashina: The Red Witch                                                       | Official media |
+| ✅ | ags | atotk               | A Tale Of Two Kingdoms                                                       | tag2015 |
 | ✅ | ags | bcremake            | Black Cauldron Remake                                                        | DavidAriyan, GandalfTheWhite80 |
 | ⬜️ | ags | beyondhorizon        | Beyond Horizon                                                              | |
 | ✅ | ags | bitstream           | Bitstream                                                                    | DavidAriyan, GandalfTheWhite80 |
@@ -143,6 +146,7 @@
 | ✅ | ags | blackwell2          | Blackwell Unbound                                                            | Tucky27 |
 | ✅ | ags | blackwell3          | The Blackwell Convergence                                                    | Tucky27 |
 | ✅ | ags | blackwell4          | The Blackwell Deception                                                      | Tucky27 |
+| ✅ | ags | blackwell5          | The Blackwell Epiphany                                                       | tag2015 |
 | ✅ | ags | breakage            | Breakage                                                                     | DavidAriyan |
 | ⬜️ | ags | camp1                | Camp 1                                                                      | |
 | ⬜️ | ags | charnelhousetrilogy  | The Charnel House Triology                                                  | |
@@ -588,15 +592,19 @@
 | ✅ | ultima | ultima8             | Ultima VIII - Pagan                                                          | Tucky27 |
 | ✅ | ultima | martiandreams       | Ultima - Martian Dreams                                                      | Tucky27 | 
 | ✅ | voyeur | voyeur              | Voyeur                                                                       | JenniBee |
+| ✅ | wintermute | bickadoodle         | Bickadoodle                                                                  | tag2015 |
 | ✅ | wintermute | chivalry            | Chivalry is Not Dead                                                         | JenniBee |
 | ✅ | wintermute | corrosion           | Corrosion: Cold Winter Waiting                                               | GandalfTheWhite80 |
 | ✅ | wintermute | deadcity            | Dead City                                                                    | tag2015 |
 | ✅ | wintermute | dirtysplit          | Dirty Split                                                                  | tag2015 |
+| ✅ | wintermute | escapemansion       | Escape from the Mansion                                                      | tag2015 |
 | ✅ | wintermute | helga           | Helga Deep In Trouble                                                        | GandalfTheWhite80 |
 | ✅ | wintermute | openquest           | Open Quest                                                                   | JenniBee |
 | ✅ | wintermute | reversion1          | Reversion: The Escape                                                        | JenniBee |
 | ✅ | wintermute | reversion2          | Reversion: The Meeting                                                       | JenniBee |
 | ⬜️ | wintermute | reversion3          | Reversion: The Return                                                        | |
+| ✅ | wintermute | ritter              | 1 1/2 Ritter: Auf der Suche nach der hinreissenden Herzelinde                | tag2015 |
+| ✅ | wintermute | rosemary            | Rosemary                                                                     | tag2015 |
 | ✅ | wintermute | twc                 | The White Chamber                                                            | tag2015 |
 | ✅ | xeen | cloudsofxeen        | Might and Magic IV: Clouds of Xeen                                           | GandalfTheWhite80 |
 | ✅ | xeen | darksideofxeen      | Might and Magic V: Dark Side of Xeen                                         | GandalfTheWhite80 |
