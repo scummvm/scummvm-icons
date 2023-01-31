@@ -161,13 +161,16 @@
 | ✅ | ags | dustbowl            | Dustbowl                                                                     | DavidAriyan |
 | ⬜️ | ags | enclosure            | Enclosure                                                                   | |
 | ✅ | ags | escapefromthechaoticcity | Escape From The Chaotic City                                            | DavidAriyan, GandalfTheWhite80 |
+| ✅ | ags | excavationhb         | The Excavation of Hob's Barrow                                              | tag2015 |
 | ⬜️ | ags | fall                 | Fall                                                                         | |
-| ⬜️ | ags | footballgame         | Football Game                                                                | |
+| ✅ | ags | feriadarles          | Feria d'Arles                                                                | Official media|
+| ✅ | ags | footballgame         | Football Game                                                                | tag2015 |
 | ⬜️ | ags | fuguestate           | The Man From The Fugue State                                                 | |
 | ✅ | ags | geminirue           | Gemini Rue                                                                   | DavidAriyan |
 | ✅ | ags | ghostcatchers       | GHOSTCATCHERS                                                                | DavidAriyan |
 | ✅ | ags | ghostdream          | Ghostdream                                                                   | DavidAriyan |
 | ✅ | ags | goldenwake          | A Golden Wake                                                               | Official media |
+| ✅ | ags | guardduty           | Guard Duty                                                                  | tag2015 |
 | ⬜️ | ags | heartland           | Heartland                                                                    | |
 | ⬜️ | ags | him                 | Him                                                                          | |
 | ✅ | ags | hjarta              | Hjarta                                                                       | DavidAriyan |
@@ -179,6 +182,7 @@
 | ⬜️ | ags | iwantout             | I Want Out!                                                                 | |
 | ⬜️ | ags | journeyhell          | Journey to Hell                                                             | |
 | ✅ | ags | journeyhome         | Journey Home                                                                 | DavidAriyan |
+| ✅ | ags | justignorethem       | Just Ignore Them                                                            | tag2015 |
 | ⬜️ | ags | knobblycrook         | The Knobbly Crook                                                           | |
 | ✅ | ags | kathyrain           | Kathy Rain - A Detective Is Born                                             | GandalfTheWhite80 |
 | ✅ | ags | lacroixpan          | La Croix Pan                                                                 | DavidAriyan |
