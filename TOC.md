@@ -149,6 +149,7 @@
 | ✅ | ags | blackwell5          | The Blackwell Epiphany                                                       | tag2015 |
 | ✅ | ags | breakage            | Breakage                                                                     | DavidAriyan |
 | ⬜️ | ags | camp1                | Camp 1                                                                      | |
+| ✅ | ags | cedricandtherevolution | Cedric and the Revolution |                                               | marus70, GandalfTheWhite80 |
 | ⬜️ | ags | charnelhousetrilogy  | The Charnel House Triology                                                  | |
 | ⬜️ | ags | chronicleofinnsmouth | Chronical Of Innsmouth                                                      | |
 | ⬜️ | ags | concurrence          | Concurrence                                                                 | |
