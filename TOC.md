@@ -186,26 +186,34 @@
 | ✅ | ags | justignorethem       | Just Ignore Them                                                            | tag2015 |
 | ⬜️ | ags | knobblycrook         | The Knobbly Crook                                                           | |
 | ✅ | ags | kathyrain           | Kathy Rain - A Detective Is Born                                             | GandalfTheWhite80 |
+| ✅ | ags | killyourself        | Kill Yourself                                                                | tag2015 |
 | ✅ | ags | lacroixpan          | La Croix Pan                                                                 | DavidAriyan |
 | ✅ | ags | lamplightcity       | Lamplight City                                                               | DavidAriyan |
 | ⬜️ | ags | lostanswers          | Lost Answers                                                                | |
 | ⬜️ | ags | lostinthenightmare   | Lost In The Nightmare                                                       | |
 | ⬜️ | ags | masked               | Masked                                                                      | |
 | ✅ | ags | maniacmansiondeluxe | Maniac Mansion Deluxe                                                        | GandalfTheWhite80 |
+| ✅ | ags | metaldead          | Metal Dead                                                                    | tag2015 |
 | ✅ | ags | metaphobia          | Metaphobia                                                                   | DavidAriyan |
 | ⬜️ | ags | mountainsofmadness   | Chronicle Of Innsmouth: Mountains Of Madness                                | |
 | ⬜️ | ags | mudlarks             | Mudlarks                                                                    | |
-| ✅ | ags | myburdentokeep      | My Burdon to Keep                                                            | DavidAriyan |
+| ✅ | ags | mybigsister         | My Big Sister                                                                | Official media |
+| ✅ | ags | myburdentokeep      | My Burden to Keep                                                            | DavidAriyan |
 | ✅ | ags | myfatherssecret      | My Father's Secret                                                          | DavidAriyan, GandalfTheWhite80 |
+| ✅ | ags | nellycootalot       | Nelly Cootalot: Spoonbeaks Ahoy!                                             | tag2015 |
 | ✅ | ags | neofeud             | Neofeud                                                                      | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | neosaires2070       | Neos Aires 2070: Sunday Comes First                                          | DavidAriyan |
 | ✅ | ags | nightmareframes     | Nightmare Frames                                                             | DavidAriyan |
 | ⬜️ | ags | nofear               | Where No Fear Was                                                           | |
+| ✅ | ags | oott                | Order of the Thorne: The King's Challenge                                    | Official media|
 | ✅ | ags | patchwork           | Patchwork                                                                    | DavidAriyan |
+| ✅ | ags | perfecttides        | Perfect Tides                                                                | tag2015 |
 | ✅ | ags | phantomfellows      | The Phantom Fellows                                                          | thevolumeremote |
 | ✅ | ags | primordia           | Primordia                                                                    | Tucky27 |
+| ✅ | ags | qfi                 | Quest for Infamy                                                             | tag2015 |
 | ✅ | ags | rabbithill          | Rabbit Hill                                                                  | DavidAriyan, GandalfTheWhite80 |
 | ⬜️ | ags | reactor09            | Reactor 09                                                                  | |
+| ✅ | ags | redbow              | Red Bow                                                                      | Official media |
 | ✅ | ags | resonance           | Resonance                                                                    | DavidAriyan |
 | ⬜️ | ags | rogue                | Rogue                                                                       | |
 | ✅ | ags | samaritan           | The Samaritan Paradox                                                        | DavidAriyan |
@@ -219,6 +227,7 @@
 | ✅ | ags | sq45                | Space Quest IV.5 - Roger Wilco and the Voyage Home                           | tag2015 |
 | ✅ | ags | sqinc               | Space Quest: Incinerations                                                   | Tucky27 |
 | ✅ | ags | strangeland         | Strangeland                                                                  | DavidAriyan |
+| ✅ | ags | sumatra             | Sumatra: Fate of Yandi                                                       | tag2015 |
 | ⬜️ | ags | superego             | Superego                                                                    | |
 | ✅ | ags | teafortwo           | Tea For Two: A Detective Logan Case                                          | DavidAriyan |
 | ✅ | ags | technobabylon       | Technobabylon                                                                | DavidAriyan |
