@@ -137,6 +137,7 @@
 | ✅ | ags | ashinaredwitch       | Ashina: The Red Witch                                                       | Official media |
 | ✅ | ags | atotk               | A Tale Of Two Kingdoms                                                       | tag2015 |
 | ✅ | ags | bcremake            | Black Cauldron Remake                                                        | DavidAriyan, GandalfTheWhite80 |
+| ✅ | ags | bentheredanthat    | Ben There, Dan That!                                                          | tag2015 |
 | ⬜️ | ags | beyondhorizon        | Beyond Horizon                                                              | |
 | ✅ | ags | bitstream           | Bitstream                                                                    | DavidAriyan, GandalfTheWhite80 |
 | ⬜️ | ags | blackmorph           | Black Morph                                                                 | |
@@ -215,9 +216,13 @@
 | ⬜️ | ags | reactor09            | Reactor 09                                                                  | |
 | ✅ | ags | redbow              | Red Bow                                                                      | Official media |
 | ✅ | ags | resonance           | Resonance                                                                    | DavidAriyan |
+| ✅ | ags | richardandalice     | Richard and Alice                                                            | tag2015 |
 | ⬜️ | ags | rogue                | Rogue                                                                       | |
 | ✅ | ags | samaritan           | The Samaritan Paradox                                                        | DavidAriyan |
 | ⬜️ | ags | sepulchre            | Sepulchre                                                                   | |
+| ✅ | ags | shardlight           | Shardlight                                                                  | tag2015 |
+| ✅ | ags | shivah               | The Shivah                                                                  | tag2015 |
+| ✅ | ags | shivahkosher         | The Shivah - Kosher Edition                                                 | tag2015 |
 | ⬜️ | ags | skumring             | Skumring                                                                    | |
 | ✅ | ags | skyfall             | Skyfall                                                                      | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | spooks              | Spooks                                                                       | DavidAriyan |
@@ -226,13 +231,16 @@
 | ✅ | ags | sq2dote             | Space Quest: Decision Of The Elders                                          | Tucky27 |
 | ✅ | ags | sq45                | Space Quest IV.5 - Roger Wilco and the Voyage Home                           | tag2015 |
 | ✅ | ags | sqinc               | Space Quest: Incinerations                                                   | Tucky27 |
+| ✅ | ags | starshipquasar      | Starship Quasar                                                              | tag2015 |
 | ✅ | ags | strangeland         | Strangeland                                                                  | DavidAriyan |
+| ✅ | ags | sulifallenharmony   | Suli: Fallen Harmony                                                         | tag2015 |
 | ✅ | ags | sumatra             | Sumatra: Fate of Yandi                                                       | tag2015 |
 | ⬜️ | ags | superego             | Superego                                                                    | |
 | ✅ | ags | teafortwo           | Tea For Two: A Detective Logan Case                                          | DavidAriyan |
 | ✅ | ags | technobabylon       | Technobabylon                                                                | DavidAriyan |
 | ✅ | ags | theadventuresoffatman | The Adventures of Fatman |                                                 | WhiteRakogis | 
 | ✅ | ags | thecabin            | The Cabin                                                                    | DavidAriyan |
+| ✅ | ags | thecastle           | The Castle                                                                   | tag2015 |
 | ✅ | ags | thecatlady          | The Cat Lady                                                                 | DavidAriyan |
 | ⬜️ | ags | theexperimentp1      | The Experiment - Part 1: The Laboratory                                     | |
 | ⬜️ | ags | theexperimentp2      | The Experiment - Part 2: Menacing Darkness                                  | |
@@ -246,6 +254,7 @@
 | ⬜️ | ags | theshaft             | The Shaft                                                                   | |
 | ✅ | ags | theterribleoldman   | The Terrible Old Man                                                         | DavidAriyan |
 | ⬜️ | ags | thevacuum            | The Vacuum                                                                  | |
+| ✅ | ags | timegentlemenplease | Time Gentlemen, Please!                                                      | tag2015 |
 | ✅ | ags | tftoz1              | Tales From The Outer Zone: Cyborg Seppuku                                    | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | tftoz2              | ales From The Outer Zone: The Goat Crone                                     | DavidAriyan, GandalfTheWhite80 |
 | ⬜️ | ags | tftoz3               | Tales From The Outer Zone: The Construction                                 | |
