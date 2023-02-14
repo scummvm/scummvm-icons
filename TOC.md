@@ -190,10 +190,12 @@
 | ✅ | ags | killyourself        | Kill Yourself                                                                | tag2015 |
 | ✅ | ags | lacroixpan          | La Croix Pan                                                                 | DavidAriyan |
 | ✅ | ags | lamplightcity       | Lamplight City                                                               | DavidAriyan |
+| ✅ | ags | larrylotter         | Larry Lotter and the Test of Time                                            | tag2015 |
 | ⬜️ | ags | lostanswers          | Lost Answers                                                                | |
 | ⬜️ | ags | lostinthenightmare   | Lost In The Nightmare                                                       | |
-| ⬜️ | ags | masked               | Masked                                                                      | |
+| ✅ | ags | mage                 | Mage's Initiation: Reign of the Elements                                    | tag2015 |
 | ✅ | ags | maniacmansiondeluxe | Maniac Mansion Deluxe                                                        | GandalfTheWhite80 |
+| ⬜️ | ags | masked               | Masked                                                                      | |
 | ✅ | ags | metaldead          | Metal Dead                                                                    | tag2015 |
 | ✅ | ags | metaphobia          | Metaphobia                                                                   | DavidAriyan |
 | ⬜️ | ags | mountainsofmadness   | Chronicle Of Innsmouth: Mountains Of Madness                                | |
@@ -268,6 +270,8 @@
 | ✅ | ags | unbound             | Unbound                                                                      | DavidAriyan |
 | ✅ | ags | wduprodigal         | Prodigal                                                                     | DavidAriyan |
 | ✅ | ags | witchlullaby        | The Witch's Lullaby                                                          | DavidAriyan |
+| ✅ | ags | zidjourney          | Zid Journey	                                                               | tag2015 |
+| ✅ | ags | zniwadventure       | Zniw Adventure	                                                           | tag2015 |
 | ✅ | asylum | sanitarium          | Sanitarium                                                                   | JenniBee, GandalfTheWhite80 |
 | ✅ | avalanche | avalanche           | Lord Avalot d'Argent                                                         | JenniBee |
 | ✅ | bbvs | bbvs                | Beavis and Butt-head in Virtual Stupidity                                    | JenniBee, GandalfTheWhite80 |
