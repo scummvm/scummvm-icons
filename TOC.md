@@ -139,6 +139,7 @@
 | ✅ | ags | bcremake            | Black Cauldron Remake                                                        | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | bentheredanthat    | Ben There, Dan That!                                                          | tag2015 |
 | ⬜️ | ags | beyondhorizon        | Beyond Horizon                                                              | |
+| ✅ | ags | beyondowlsgard      | Beyond the Edge of Owlsgard                                                  | tag2015 |
 | ✅ | ags | bitstream           | Bitstream                                                                    | DavidAriyan, GandalfTheWhite80 |
 | ⬜️ | ags | blackmorph           | Black Morph                                                                 | |
 | ✅ | ags | blacksect1          | Black Sect Remake                                                            | DavidAriyan |
@@ -151,8 +152,9 @@
 | ✅ | ags | breakage            | Breakage                                                                     | DavidAriyan |
 | ⬜️ | ags | camp1                | Camp 1                                                                      | |
 | ✅ | ags | cedricandtherevolution | Cedric and the Revolution |                                               | marus70, GandalfTheWhite80 |
-| ⬜️ | ags | charnelhousetrilogy  | The Charnel House Triology                                                  | |
+| ✅ | ags | charnelhousetrilogy  | The Charnel House Trilogy                                                   | DavidAriyan, tag2015 |
 | ⬜️ | ags | chronicleofinnsmouth | Chronical Of Innsmouth                                                      | |
+| ✅ | ags | comedyquest          | Comedy Quest                                                                | tag2015 |
 | ⬜️ | ags | concurrence          | Concurrence                                                                 | |
 | ⬜️ | ags | conspiracybelowzero  | Conspiracy: Below Zero                                                      | |
 | ⬜️ | ags | contact              | Contact                                                                     | |
@@ -174,18 +176,19 @@
 | ✅ | ags | goldenwake          | A Golden Wake                                                               | Official media |
 | ✅ | ags | guardduty           | Guard Duty                                                                  | tag2015 |
 | ⬜️ | ags | heartland           | Heartland                                                                    | |
+| ✅ | ags | heroinequest        | Heroine's Quest                                                              | tag2015 |
 | ⬜️ | ags | him                 | Him                                                                          | |
 | ✅ | ags | hjarta              | Hjarta                                                                       | DavidAriyan |
 | ✅ | ags | iamjason            | I Am Jason                                                                   | DavidAriyan |
 | ⬜️ | ags | icantsleep          | I Can't Sleep In Silence                                                     | |
 | ✅ | ags | icestationzero      | Ice Station Zero                                                             | DavidAriyan |
 | ⬜️ | ags | inbloom              | In Bloom                                                                    | |
-| ⬜️ | ags | ioawn4t              | If On A Winter's Night: Four Travellers                                     | |
+| ✅ | ags | ioawn4t              | If On A Winter's Night: Four Travellers                                     | DavidAriyan, tag2015|
 | ⬜️ | ags | iwantout             | I Want Out!                                                                 | |
 | ⬜️ | ags | journeyhell          | Journey to Hell                                                             | |
 | ✅ | ags | journeyhome         | Journey Home                                                                 | DavidAriyan |
 | ✅ | ags | justignorethem       | Just Ignore Them                                                            | tag2015 |
-| ⬜️ | ags | knobblycrook         | The Knobbly Crook                                                           | |
+| ✅ | ags | knobblycrook         | The Knobbly Crook                                                           | tag2015 |
 | ✅ | ags | kathyrain           | Kathy Rain - A Detective Is Born                                             | GandalfTheWhite80 |
 | ✅ | ags | killyourself        | Kill Yourself                                                                | tag2015 |
 | ✅ | ags | lacroixpan          | La Croix Pan                                                                 | DavidAriyan |
@@ -238,6 +241,7 @@
 | ✅ | ags | sulifallenharmony   | Suli: Fallen Harmony                                                         | tag2015 |
 | ✅ | ags | sumatra             | Sumatra: Fate of Yandi                                                       | tag2015 |
 | ⬜️ | ags | superego             | Superego                                                                    | |
+| ✅ | ags | tales               | Tales                                                                        | tag2015 |
 | ✅ | ags | teafortwo           | Tea For Two: A Detective Logan Case                                          | DavidAriyan |
 | ✅ | ags | technobabylon       | Technobabylon                                                                | DavidAriyan |
 | ✅ | ags | theadventuresoffatman | The Adventures of Fatman |                                                 | WhiteRakogis | 
@@ -258,9 +262,9 @@
 | ⬜️ | ags | thevacuum            | The Vacuum                                                                  | |
 | ✅ | ags | timegentlemenplease | Time Gentlemen, Please!                                                      | tag2015 |
 | ✅ | ags | tftoz1              | Tales From The Outer Zone: Cyborg Seppuku                                    | DavidAriyan, GandalfTheWhite80 |
-| ✅ | ags | tftoz2              | ales From The Outer Zone: The Goat Crone                                     | DavidAriyan, GandalfTheWhite80 |
-| ⬜️ | ags | tftoz3               | Tales From The Outer Zone: The Construction                                 | |
-| ⬜️ | ags | ftoz4                | Tales From The Outer Zone: The Goat Crone                                   | |
+| ✅ | ags | tftoz2              | Tales From The Outer Zone: The Goat Crone                                    | DavidAriyan, GandalfTheWhite80 |
+| ⬜️ | ags | tftoz3              | Tales From The Outer Zone: Fleshworms                                        | |
+| ⬜️ | ags | tftoz4              | Tales From The Outer Zone: The Construction                                  | |
 | ⬜️ | ags | theawakening         | The Awekening                                                               | |
 | ✅ | ags | untilihaveyou       | Until I have you                                                             | DavidAriyan |
 | ✅ | ags | qfg2agdi            | Quest for Glory II: Trial by Fire                                            | Tucky27 |
