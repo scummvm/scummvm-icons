@@ -191,6 +191,9 @@
 | ✅ | ags | knobblycrook         | The Knobbly Crook                                                           | tag2015 |
 | ✅ | ags | kathyrain           | Kathy Rain - A Detective Is Born                                             | GandalfTheWhite80 |
 | ✅ | ags | killyourself        | Kill Yourself                                                                | tag2015 |
+| ✅ | ags | kq1agdi             | King's Quest I: Quest for the Crown Remake                                   | tag2015 |
+| ✅ | ags | kq2agdi             | King's Quest II: Romancing the Stones Remake                                 | tag2015 |
+| ✅ | ags | kq3agdi             | King's Quest III Redux: To Heir is Human                                     | tag2015 |
 | ✅ | ags | lacroixpan          | La Croix Pan                                                                 | DavidAriyan |
 | ✅ | ags | lamplightcity       | Lamplight City                                                               | DavidAriyan |
 | ✅ | ags | larrylotter         | Larry Lotter and the Test of Time                                            | tag2015 |
@@ -231,6 +234,7 @@
 | ⬜️ | ags | skumring             | Skumring                                                                    | |
 | ✅ | ags | skyfall             | Skyfall                                                                      | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | spooks              | Spooks                                                                       | DavidAriyan |
+| ✅ | ags | sq2fg               | Space Quest for Glory                                                        | tag2015 |
 | ✅ | ags | sq2vga              | Space Quest II: Vohaul's Revenge                                             | Tucky27 |
 | ✅ | ags | sqvsb               | Space Quest: Vohaul Strikes Back                                             | Tucky27 |
 | ✅ | ags | sq2dote             | Space Quest: Decision Of The Elders                                          | Tucky27 |
