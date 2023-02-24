@@ -643,7 +643,7 @@
 | ✅ | wintermute | twc                 | The White Chamber                                                            | tag2015 |
 | ✅ | xeen | cloudsofxeen        | Might and Magic IV: Clouds of Xeen                                           | GandalfTheWhite80 |
 | ✅ | xeen | darksideofxeen      | Might and Magic V: Dark Side of Xeen                                         | GandalfTheWhite80 |
-| ⬜️ | xeen | worldofxeen         | Might and Magic: World of Xeen                                               | |
-| ⬜️ | xeen | swordsofxeen        | Might and Magic: Swords of Xeen                                              | |
+| ✅ | xeen | worldofxeen         | Might and Magic: World of Xeen                                               | GandalfTheWhite80 |
+| ✅ | xeen | swordsofxeen        | Might and Magic: Swords of Xeen                                              | GandalfTheWhite80 |
 | ✅ | zvision | znemesis            | Zork Nemesis: The Forbidden Lands                                            | JenniBee |
 | ✅ | zvision | zgi                 | Zork: Grand Inquisitor                                                       | JenniBee |
