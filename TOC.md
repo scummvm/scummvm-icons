@@ -627,6 +627,8 @@
 | ✅ | ultima | ultima8             | Ultima VIII - Pagan                                                          | Tucky27 |
 | ✅ | ultima | martiandreams       | Ultima - Martian Dreams                                                      | Tucky27 | 
 | ✅ | voyeur | voyeur              | Voyeur                                                                       | JenniBee |
+| ✅ | wintermute | 5ld                 | Five Lethal Demons                                                           | tag2015 |
+| ✅ | wintermute | 5ma                 | Five Magical Amulets                                                         | tag2015 |
 | ✅ | wintermute | bickadoodle         | Bickadoodle                                                                  | tag2015 |
 | ✅ | wintermute | chivalry            | Chivalry is Not Dead                                                         | JenniBee |
 | ✅ | wintermute | corrosion           | Corrosion: Cold Winter Waiting                                               | GandalfTheWhite80 |
