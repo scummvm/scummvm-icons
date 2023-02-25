@@ -112,8 +112,8 @@
 | ✅ | agos | elvira1             | Elvira - Mistress of the Dark                                                | JenniBee, GandalfTheWhite80 |
 | ✅ | agos | elvira2             | Elvira II - The Jaws of Cerberus                                             | Matt, GandalfTheWhite80 |
 | ✅ | agos | waxworks            | Waxworks                                                                     | JenniBee, GandalfTheWhite80 |
-| ✅ | agos | simon1              | Simon the Sorcerer 1                                                         | GandalfTheWhite80 |
-| ✅ | agos | simon2              | Simon the Sorcerer 2                                                         | GandalfTheWhite80 |
+| ✅ | agos | simon1              | Simon the Sorcerer 1                                                         | GandalfTheWhite80, tag2015 |
+| ✅ | agos | simon2              | Simon the Sorcerer 2                                                         | GandalfTheWhite80, tag2015 |
 | ✅ | agos | feeble              | The Feeble Files                                                             |Canuma|
 | ✅ | agos | dimp                | Demon in my Pocket                                                           | Matt, GandalfTheWhite80 |
 | ✅ | agos | jumble              | Jumble                                                                       | Matt |
