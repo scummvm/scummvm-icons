@@ -308,7 +308,7 @@
 | ✅ | director | majestic            | Majestic Part 1: Alien Encounter                                             | Tucky27 |
 | ✅ | director | warlock             | Spaceship Warlock                                                            | Tucky27 |
 | ✅ | draci | draci               | Draci Historie                                                               | JenniBee, GandalfTheWhite80 |
-| ✅ | dragons | dragons             | Blazing Dragons                                                              | dotdc |
+| ✅ | dragons | dragons             | Blazing Dragons                                                              | dotdc, GandalfTheWhite80 |
 | ✅ | drascula | drascula            | Drascula: The Vampire Strikes Back                                           | Thanius, GandalfTheWhite80 |
 | ✅ | dreamweb | dreamweb            | DreamWeb                                                                     | thedoc |
 | ✅ | freescape | driller            | Driller                                                                     | GandalfTheWhite80 |
