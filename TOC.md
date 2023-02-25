@@ -108,7 +108,7 @@
 | ✅ | agi | troll               | Troll's Tale                                                                 | JenniBee, GandalfTheWhite80 |
 | ✅ | agi | winnie              | Winnie the Pooh in the Hundred Acre Wood                                     | Matt, GandalfTheWhite80 |
 | ⬜️ | agi | xmascard            | Xmas Card                                                                    | |
-| ✅ | agos | pn                  | Personal Nightmare                                                           | Matt |
+| ✅ | agos | pn                  | Personal Nightmare                                                           | Matt, GandalfTheWhite80 |
 | ✅ | agos | elvira1             | Elvira - Mistress of the Dark                                                | JenniBee, GandalfTheWhite80 |
 | ✅ | agos | elvira2             | Elvira II - The Jaws of Cerberus                                             | Matt, GandalfTheWhite80 |
 | ✅ | agos | waxworks            | Waxworks                                                                     | JenniBee, GandalfTheWhite80 |
