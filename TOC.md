@@ -604,7 +604,7 @@
 | ✅ | stark | tlj                 | The Longest Journey                                                          | JenniBee |
 | ✅ | supernova | msn1                | Mission Supernova 1                                                          | Tucky27 |
 | ✅ | supernova | msn2                | Mission Supernova 2                                                          | Tucky27 |
-| ✅ | sword1 | sword1              | Broken Sword: The Shadow of the Templars                                     | nightm4re94 |
+| ✅ | sword1 | sword1              | Broken Sword: The Shadow of the Templars                                     | nightm4re94, beresk\_let |
 | ✅ | sword2 | sword2              | Broken Sword II: The Smoking Mirror                                          | nightm4re94 |
 | ✅ | sword25 | sword25             | Broken Sword 2.5                                                             | JenniBee |
 | ✅ | teenagent | teenagent           | Teen Agent                                                                   | robertmegone |
