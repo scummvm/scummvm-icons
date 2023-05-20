@@ -473,7 +473,7 @@
 | ✅ | hypno | wetlands            | Wetlands                                                                     | Tucky27 |
 | ✅ | icb | icb            | In Cold Blood                                                                      | GandalfTheWhite80 |
 | ✅ | illusions | duckman             | Duckman                                                                      | Tucky27 |
-| ✅ | kyra | kyra1               | The Legend of Kyrandia                                                       | Tucky27 |
+| ✅ | kyra | kyra1               | The Legend of Kyrandia                                                       | Tucky27, beresk\_let |
 | ✅ | kyra | kyra2               | The Legend of Kyrandia: The Hand of Fate                                     | Tucky27, GandalfTheWhite80 |
 | ✅ | kyra | kyra3               | The Legend of Kyrandia: Malcolm's Revenge                                    | Tucky27, GandalfTheWhite80 |
 | ✅ | kyra | lol                 | Lands of Lore: The Throne of Chaos                                           | dotdc |
@@ -553,7 +553,7 @@
 | ✅ | sci | hoyle3              | Hoyle Official Book of Games: Volume 3                                       | Tucky27 |
 | ✅ | sci | jones               | Jones in the Fast Lane                                                       | Tucky27, GandalfTheWhite80 |
 | ✅ | sci | kq5                 | King's Quest V: Absence Makes the Heart Go Yonder                            | JenniBee, Tucky27 |
-| ✅ | sci | longbow             | Conquests of the Longbow: The Adventures of Robin Hood                       | Tucky27 |
+| ✅ | sci | longbow             | Conquests of the Longbow: The Adventures of Robin Hood                       | Tucky27, beresk\_let |
 | ✅ | sci | lsl1sci             | Leisure Suit Larry in the Land of the Lounge Lizards                         | rehail |
 | ✅ | sci | lsl5                | Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work         | rehail |
 | ✅ | sci | mothergoose256      | Mixed-Up Mother Goose                                                        | dotdc, Tucky27 |
@@ -566,7 +566,7 @@
 | ✅ | sci | ecoquest2           | EcoQuest II: Lost Secret of the Rainforest                                   | thedoc |
 | ✅ | sci | freddypharkas       | Freddy Pharkas: Frontier Pharmacist                                          | dotdc, Tucky27 |
 | ✅ | sci | hoyle4              | Hoyle Classic Card Games                                                     | tag2015 |
-| ✅ | sci | kq6                 | King's Quest VI: Heir Today, Gone Tomorrow                                   | JenniBee, Tucky27 |
+| ✅ | sci | kq6                 | King's Quest VI: Heir Today, Gone Tomorrow                                   | JenniBee, Tucky27, beresk\_let |
 | ✅ | sci | laurabow2           | Laura Bow 2: The Dagger of Amon Ra                                           | dotdc, Tucky27 |
 | ✅ | sci | qfg1vga             | Quest for Glory I: So You Want to Be a Hero                                  | JenniBee |
 | ✅ | sci | qfg3                | Quest for Glory III: Wages of War                                            | JenniBee |
@@ -604,7 +604,7 @@
 | ✅ | stark | tlj                 | The Longest Journey                                                          | JenniBee |
 | ✅ | supernova | msn1                | Mission Supernova 1                                                          | Tucky27 |
 | ✅ | supernova | msn2                | Mission Supernova 2                                                          | Tucky27 |
-| ✅ | sword1 | sword1              | Broken Sword: The Shadow of the Templars                                     | nightm4re94 |
+| ✅ | sword1 | sword1              | Broken Sword: The Shadow of the Templars                                     | nightm4re94, beresk\_let |
 | ✅ | sword2 | sword2              | Broken Sword II: The Smoking Mirror                                          | nightm4re94, beresk\_let |
 | ✅ | sword25 | sword25             | Broken Sword 2.5                                                             | JenniBee |
 | ✅ | teenagent | teenagent           | Teen Agent                                                                   | robertmegone |
