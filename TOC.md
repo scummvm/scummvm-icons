@@ -608,8 +608,8 @@
 | ✅ | sword2 | sword2              | Broken Sword II: The Smoking Mirror                                          | nightm4re94, beresk\_let |
 | ✅ | sword25 | sword25             | Broken Sword 2.5                                                             | JenniBee |
 | ✅ | teenagent | teenagent           | Teen Agent                                                                   | robertmegone |
-| ✅ | tinsel | dw                  | Discworld                                                                    | rehail |
-| ✅ | tinsel | dw2                 | Discworld 2: Missing Presumed ...!?                                          | JenniBee |
+| ✅ | tinsel | dw                  | Discworld                                                                    | rehail, GandalfTheWhite80 |
+| ✅ | tinsel | dw2                 | Discworld 2: Missing Presumed ...!?                                          | JenniBee, GandalfTheWhite80 |
 | ✅ | titanic | titanic             | Starship Titanic                                                             | thedoc |
 | ✅ | toltecs | toltecs             | 3 Skulls of the Toltecs                                                      |Canuma|
 | ✅ | tony | tony                | Tony Tough and the Night of Roasted Moths                                    | rehail |
