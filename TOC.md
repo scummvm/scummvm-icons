@@ -481,7 +481,7 @@
 | ✅ | kyra | eob2                | Eye of the Beholder II: The Legend of Darkmoon                               | Tucky27 |
 | ✅ | lab | lab                 | Labyrinth of Time                                                            | Tucky27 |
 | ✅ | lure | lure                | Lure of the Temptress                                                        | GandalfTheWhite80 |
-| ✅ | made | manhole             | The Manhole                                                                  | Matt |
+| ✅ | made | manhole             | The Manhole                                                                  | Matt, GandalfTheWhite80 |
 | ✅ | made | rtz                 | Return to Zork                                                               | JenniBee, Tucky27 |
 | ✅ | made | lgop2               | Leather Goddesses of Phobos 2                                                | Matt, GandalfTheWhite80 |
 | ✅ | made | rodney              | Rodney's Funscreen                                                           | Matt |
