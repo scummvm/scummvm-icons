@@ -553,7 +553,7 @@
 | ✅ | sci | hoyle3              | Hoyle Official Book of Games: Volume 3                                       | Tucky27 |
 | ✅ | sci | jones               | Jones in the Fast Lane                                                       | Tucky27, GandalfTheWhite80 |
 | ✅ | sci | kq5                 | King's Quest V: Absence Makes the Heart Go Yonder                            | JenniBee, Tucky27 |
-| ✅ | sci | longbow             | Conquests of the Longbow: The Adventures of Robin Hood                       | Tucky27, beresk\_let |
+| ✅ | sci | longbow             | Conquests of the Longbow: The Adventures of Robin Hood                       | Tucky27, beresk\_let, GandalfTheWhite80 |
 | ✅ | sci | lsl1sci             | Leisure Suit Larry in the Land of the Lounge Lizards                         | rehail |
 | ✅ | sci | lsl5                | Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work         | rehail |
 | ✅ | sci | mothergoose256      | Mixed-Up Mother Goose                                                        | dotdc, Tucky27 |
