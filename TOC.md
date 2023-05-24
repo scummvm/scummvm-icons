@@ -568,7 +568,7 @@
 | ✅ | sci | hoyle4              | Hoyle Classic Card Games                                                     | tag2015 |
 | ✅ | sci | kq6                 | King's Quest VI: Heir Today, Gone Tomorrow                                   | JenniBee, Tucky27, beresk\_let |
 | ✅ | sci | laurabow2           | Laura Bow 2: The Dagger of Amon Ra                                           | dotdc, Tucky27 |
-| ✅ | sci | qfg1vga             | Quest for Glory I: So You Want to Be a Hero                                  | JenniBee |
+| ✅ | sci | qfg1vga             | Quest for Glory I: So You Want to Be a Hero                                  | JenniBee, GandalfTheWhite80 |
 | ✅ | sci | qfg3                | Quest for Glory III: Wages of War                                            | JenniBee |
 | ✅ | sci | sq5                 | Space Quest V: The Next Mutation                                             | JenniBee |
 | ✅ | sci | islandbrain         | The Island of Dr. Brain                                                      | thedoc |
