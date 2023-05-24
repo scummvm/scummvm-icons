@@ -521,7 +521,7 @@
 | ✅ | private | private-eye         | Private Eye                                                                  | [Adventure Gamers page](https://adventuregamers.com/games/view/16575) |
 | ✅ | queen | queen               | Flight of the Amazon Queen                                                   | NekoFever |
 | ✅ | saga | ite                 | Inherit the Earth: Quest for the Orb                                         | JenniBee, GandalfTheWhite80 |
-| ✅ | saga | ihnm                | I Have No Mouth and I Must Scream                                            | NekoFever |
+| ✅ | saga | ihnm                | I Have No Mouth and I Must Scream                                            | NekoFever, GandalfTheWhite80 |
 | ⬜️ | sci | sci                 | Sierra SCI Game                                                              | |
 | ⬜️ | sci | sci-fanmade         | Fanmade SCI Game                                                             | |
 | ✅ | sci | astrochicken        | Astro Chicken                                                                | thevolumeremote  |
