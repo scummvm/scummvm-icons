@@ -510,7 +510,7 @@
 | ✅ | myst3 | myst3               | Myst III Exile                                                               | JenniBee, GandalfTheWhite80,beresk\_let |
 | ✅ | neverhood | neverhood           | The Neverhood Chronicles                                                     | JenniBee |
 | ✅ | ngi | fullpipe            | Full Pipe                                                                    | [App Store page](https://apps.apple.com/app/full-pipe-puzzle-adventure/id900071823), GandalfTheWhite80 |
-| ✅ | parallaction | nippon              | Nippon Safes Inc.                                                            | Redbar |
+| ✅ | parallaction | nippon              | Nippon Safes Inc.                                                            | Redbar, GandalfTheWhite80 |
 | ✅ | pegasus | pegasus             | The Journeyman Project: Pegasus Prime                                        | JenniBee |
 | ✅ | petka | petka1              | Red Comrades 1: Save the Galaxy                                              | GandalfTheWhite80 |
 | ✅ | petka | petka2              | Red Comrades 2: For the Great Justice                                        | GandalfTheWhite80 |
