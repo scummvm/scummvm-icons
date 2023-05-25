@@ -353,9 +353,9 @@
 | ✅ | glk | adventureland       | Adventureland                                                                | Tucky27 |
 | ✅ | glk | pirateadventure     | Pirate Adventure                                                             | Tucky27 |
 | ✅ | glk | missionimpossible   | Mission Impossible                                                           | Tucky27 |
-| ✅ | glk | voodoocastle        | Voodoo Castle                                                                | Tucky27 |
-| ✅ | glk | thecount            | The Count                                                                    | Tucky27 |
-| ✅ | glk | strangeodyssey      | Strange Odyssey                                                              | Tucky27 |
+| ✅ | glk | voodoocastle        | Voodoo Castle                                                                | Tucky27, GandalfTheWhite80 |
+| ✅ | glk | thecount            | The Count                                                                    | Tucky27, GandalfTheWhite80 |
+| ✅ | glk | strangeodyssey      | Strange Odyssey                                                              | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | mysteryfunhouse     | Mystery Fun House                                                            | Tucky27 |
 | ✅ | glk | pyramidofdoom       | Pyramid Of Doom                                                              | Tucky27 |
 | ✅ | glk | ghosttown           | Ghost Town                                                                   | Tucky27 |
@@ -411,7 +411,7 @@
 | ✅ | glk | suspended           | Suspended                                                                    | Tucky27 |
 | ✅ | glk | talisman            | Talisman: Challenging the Sands of Time                                      | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | transylvania        | Transylvania                                                                 | Tucky27 |
-| ✅ | glk | trinity             | Trinity                                                                      | Tucky27 |
+| ✅ | glk | trinity             | Trinity                                                                      | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | thewitness          | The Witness                                                                  | Tucky27 |
 | ✅ | glk | wishbringer         | Wishbringer                                                                  | Tucky27 |
 | ✅ | glk | zork0               | Zork Zero: The Revenge of Megaboz                                            | JenniBee, GandalfTheWhite80 |
