@@ -328,7 +328,7 @@
 | ⬜️ | glk | lordsoftime         | Lords of Time                                                                | |
 | ⬜️ | glk | lordsoftimetmgd     | Lords of Time /T&M GD                                                        | |
 | ⬜️ | glk | lordsoftimetm       | Lords of Time /T&M                                                           | |
-| ✅ | glk | ootopos             | Oo-Topos                                                                     | Tucky27 |
+| ✅ | glk | ootopos             | Oo-Topos                                                                     | Tucky27, GandalfTheWhite80 |
 | ⬜️ | glk | priceofmagik        | Price of Magik                                                               | |
 | ⬜️ | glk | priceofmagiktmgd    | Price of Magik /T&M GD                                                       | |
 | ⬜️ | glk | priceofmagiktm      | Price of Magik /T&M                                                          | |
@@ -345,27 +345,27 @@
 | ⬜️ | glk | magnetic            | Magnetic Scrolls Game                                                        | |
 | ✅ | glk | corruption          | Corruption                                                                   | tag2015 |
 | ✅ | glk | fish                | Fish!                                                                        | tag2015 |
-| ✅ | glk | guild               | The Guild of Thieves                                                         | tag2015 |
+| ✅ | glk | guild               | The Guild of Thieves                                                         | tag2015, GandalfTheWhite80 |
 | ✅ | glk | jinxter             | Jinxter                                                                      | tag2015 |
 | ✅ | glk | myth                | Myth                                                                         | tag2015 |
 | ✅ | glk | pawn                | the Pawn                                                                     | tag2015 |
 | ✅ | glk | wonderland          | Wonderland                                                                   | Tucky27 |
-| ✅ | glk | adventureland       | Adventureland                                                                | Tucky27 |
-| ✅ | glk | pirateadventure     | Pirate Adventure                                                             | Tucky27 |
+| ✅ | glk | adventureland       | Adventureland                                                                | Tucky27, GandalfTheWhite80 |
+| ✅ | glk | pirateadventure     | Pirate Adventure                                                             | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | missionimpossible   | Mission Impossible                                                           | Tucky27 |
 | ✅ | glk | voodoocastle        | Voodoo Castle                                                                | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | thecount            | The Count                                                                    | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | strangeodyssey      | Strange Odyssey                                                              | Tucky27, GandalfTheWhite80 |
-| ✅ | glk | mysteryfunhouse     | Mystery Fun House                                                            | Tucky27 |
-| ✅ | glk | pyramidofdoom       | Pyramid Of Doom                                                              | Tucky27 |
-| ✅ | glk | ghosttown           | Ghost Town                                                                   | Tucky27 |
-| ✅ | glk | savageisland1       | Savage Island, Part 1                                                        | Tucky27 |
-| ✅ | glk | savageisland2       | Savage Island, Part 2                                                        | Tucky27 |
-| ✅ | glk | goldenvoyage        | The Golden Voyage                                                            | Tucky27 |
+| ✅ | glk | mysteryfunhouse     | Mystery Fun House                                                            | Tucky27, GandalfTheWhite80 |
+| ✅ | glk | pyramidofdoom       | Pyramid Of Doom                                                              | Tucky27, GandalfTheWhite80 |
+| ✅ | glk | ghosttown           | Ghost Town                                                                   | Tucky27, GandalfTheWhite80 |
+| ✅ | glk | savageisland1       | Savage Island, Part 1                                                        | Tucky27, GandalfTheWhite80 |
+| ✅ | glk | savageisland2       | Savage Island, Part 2                                                        | Tucky27, GandalfTheWhite80 |
+| ✅ | glk | goldenvoyage        | The Golden Voyage                                                            | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | claymorguesorcerer  | Sorcerer of Claymorgue Castle                                                | Tucky27 |
-| ✅ | glk | pirateisle          | Return to Pirate Isle                                                        | Tucky27 |
+| ✅ | glk | pirateisle          | Return to Pirate Isle                                                        | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | buckaroobanzai      | Buckaroo Banzai                                                              | Tucky27 |
-| ✅ | glk | scottsampler        | Adventure International's Mini-Adventure Sampler                             | Tucky27 |
+| ✅ | glk | scottsampler        | Adventure International's Mini-Adventure Sampler                             | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | 7doctors            | The seven doctors                                                            | Tucky27 |
 | ✅ | glk | adv350              | Adventure, 350 point Colossal Cave                                           | JenniBee, Tucky27 |
 | ✅ | glk | adv350h             | Adventure, 350 point Colossal Cave                                           | JenniBee, Tucky27 |
@@ -386,7 +386,7 @@
 | ✅ | glk | enchanter           | Enchanter                                                                    | Tucky27 |
 | ✅ | glk | hhgttg              | The Hitchhiker's Guide to the Galaxy                                         | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | hollywoodhijinx     | Hollywood Hijinx                                                             | Tucky27 |
-| ✅ | glk | infidel             | Infidel                                                                      | Tucky27 |
+| ✅ | glk | infidel             | Infidel                                                                      | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | journey             | Journey                                                                      | Tucky27 |
 | ✅ | glk | lgop                | Leather Goddesses of Phobos                                                  | JenniBee, GandalfTheWhite80 |
 | ✅ | glk | infocomsampler1     | Infocom Sampler 1                                                            | Tucky27 |
@@ -394,8 +394,8 @@
 | ✅ | glk | lurkinghorror       | The Lurking Horror                                                           | Tucky27 |
 | ✅ | glk | milliways           | Milliways                                                                    | Tucky27 |
 | ✅ | glk | minizork1           | Mini Zork I: The Great Underground Empire                                    | Tucky27 |
-| ✅ | glk | moonmist            | Moonmist                                                                     | Tucky27 |
-| ✅ | glk | nordbert            | Nord and Bert Couldn't Make Head or Tail of It                               | Tucky27 |
+| ✅ | glk | moonmist            | Moonmist                                                                     | Tucky27, GandalfTheWhite80 |
+| ✅ | glk | nordbert            | Nord and Bert Couldn't Make Head or Tail of It                               | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | planetfall          | Planetfall                                                                   | Tucky27 |
 | ✅ | glk | plunderedhearts     | Plundered Hearts                                                             | Tucky27 |
 | ✅ | glk | questforexcalibur   | Arthur: The Quest for Excalibur                                              | Tucky27 |
@@ -413,7 +413,7 @@
 | ✅ | glk | transylvania        | Transylvania                                                                 | Tucky27 |
 | ✅ | glk | trinity             | Trinity                                                                      | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | thewitness          | The Witness                                                                  | Tucky27 |
-| ✅ | glk | wishbringer         | Wishbringer                                                                  | Tucky27 |
+| ✅ | glk | wishbringer         | Wishbringer                                                                  | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | zork0               | Zork Zero: The Revenge of Megaboz                                            | JenniBee, GandalfTheWhite80 |
 | ✅ | glk | zork1               | Zork I: The Great Underground Empire                                         | JenniBee, GandalfTheWhite80 |
 | ✅ | glk | zork2               | Zork II: The Wizard of Frobozz                                               | JenniBee, GandalfTheWhite80 |
