@@ -406,7 +406,7 @@
 | ✅ | glk | sorcerer            | Sorcerer                                                                     | Tucky27 |
 | ✅ | glk | spellbreaker        | Spellbreaker                                                                 | Tucky27 |
 | ✅ | glk | starcross           | Starcross                                                                    | Tucky27 |
-| ✅ | glk | stationfall         | Stationfall                                                                  | Tucky27 |
+| ✅ | glk | stationfall         | Stationfall                                                                  | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | suspect             | Suspect                                                                      | Tucky27 |
 | ✅ | glk | suspended           | Suspended                                                                    | Tucky27 |
 | ✅ | glk | talisman            | Talisman: Challenging the Sands of Time                                      | Tucky27, GandalfTheWhite80 |
