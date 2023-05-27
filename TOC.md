@@ -410,7 +410,7 @@
 | ✅ | glk | suspect             | Suspect                                                                      | Tucky27 |
 | ✅ | glk | suspended           | Suspended                                                                    | Tucky27 |
 | ✅ | glk | talisman            | Talisman: Challenging the Sands of Time                                      | Tucky27, GandalfTheWhite80 |
-| ✅ | glk | transylvania        | Transylvania                                                                 | Tucky27 |
+| ✅ | glk | transylvania        | Transylvania                                                                 | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | trinity             | Trinity                                                                      | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | thewitness          | The Witness                                                                  | Tucky27 |
 | ✅ | glk | wishbringer         | Wishbringer                                                                  | Tucky27, GandalfTheWhite80 |
