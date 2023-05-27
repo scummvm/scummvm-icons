@@ -399,7 +399,7 @@
 | ✅ | glk | planetfall          | Planetfall                                                                   | Tucky27 |
 | ✅ | glk | plunderedhearts     | Plundered Hearts                                                             | Tucky27 |
 | ✅ | glk | questforexcalibur   | Arthur: The Quest for Excalibur                                              | Tucky27 |
-| ✅ | glk | questprobe2i5       | Questprobe featuring Spider-Man                                              | Tucky27 |
+| ✅ | glk | questprobe2i5       | Questprobe featuring Spider-Man                                              | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | seastalker          | Seastalker                                                                   | Tucky27 |
 | ✅ | glk | sherlockriddle      | Sherlock: The Riddle of the Crown Jewels                                     | Tucky27 |
 | ✅ | glk | shogun              | James Clavell's Shogun                                                       | NekoFever |
@@ -422,7 +422,7 @@
 | ⬜️ | glk | zcode               | Unknown Z-code game                                                          | |
 | ✅ | glk | softporn            | Softporn Adventure                                                           | JenniBee, GandalfTheWhite80 |
 | ✅ | glk | marveladventure     | Questprobe featuring The Hulk                                                | Tucky27, GandalfTheWhite80 |
-| ✅ | glk | marveladventure2    | Questprobe featuring Spider-Man                                              | Tucky27 |
+| ✅ | glk | marveladventure2    | Questprobe featuring Spider-Man                                              | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | marveladventurei5   | Questprobe featuring The Hulk                                                | Tucky27, GandalfTheWhite80 |
 | ✅ | gnap | gnap                | Gnap                                                                         | JenniBee, GandalfTheWhite80 |
 | ✅ | gob | gob1                | Gobliiins                                                                    | nightm4re94 |
