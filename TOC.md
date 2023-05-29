@@ -454,6 +454,8 @@
 | ✅ | gob | bambou              | Playtoons Limited Edition - Bambou le sauveur de la jungle                   | Matt |
 | ✅ | gob | fascination         | Fascination                                                                  | JenniBee, GandalfTheWhite80 |
 | ✅ | gob | geisha              | Geisha                                                                       | JenniBee, GandalfTheWhite80 |
+| ✅ | gob | adibou1              | ADIBOU 1                                                                       | sdelamarre, GandalfTheWhite80 |
+| ✅ | gob | adibou2              | ADIBOU 2                                                                       | sdelamarre, GandalfTheWhite80 |
 | ✅ | griffon | griffon             | The Griffon Legend                                                           | GandalfTheWhite80 |
 | ✅ | grim | grim                | Grim Fandango                                                                | Thanius, GandalfTheWhite80 |
 | ✅ | grim | monkey4             | Escape From Monkey Island                                                    | Thanius |
