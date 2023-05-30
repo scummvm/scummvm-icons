@@ -610,6 +610,8 @@
 | ✅ | sword2 | sword2              | Broken Sword II: The Smoking Mirror                                          | nightm4re94, beresk\_let |
 | ✅ | sword25 | sword25             | Broken Sword 2.5                                                             | JenniBee |
 | ✅ | teenagent | teenagent           | Teen Agent                                                                   | robertmegone |
+| ✅ | tetraedge | syberia           | Syberia                                                                     | GandalfTheWhite80 |
+| ✅ | tetraedge | syberia2           | Syberia II                                                                 | GandalfTheWhite80 |
 | ✅ | tinsel | dw                  | Discworld                                                                    | rehail, GandalfTheWhite80 |
 | ✅ | tinsel | dw2                 | Discworld 2: Missing Presumed ...!?                                          | JenniBee, GandalfTheWhite80 |
 | ✅ | titanic | titanic             | Starship Titanic                                                             | thedoc |
