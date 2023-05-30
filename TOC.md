@@ -646,6 +646,8 @@
 | ✅ | wintermute | ritter              | 1 1/2 Ritter: Auf der Suche nach der hinreissenden Herzelinde                | tag2015 |
 | ✅ | wintermute | rosemary            | Rosemary                                                                     | tag2015 |
 | ✅ | wintermute | twc                 | The White Chamber                                                            | tag2015 |
+| ✅ | vcruise  | reah                 | Reah: Face the Unknown                                                        | GandalfTheWhite80 |
+| ✅ | vcruise | schizm                 | Schizm: Mysterious Journey                                                   | GandalfTheWhite80 |
 | ✅ | xeen | cloudsofxeen        | Might and Magic IV: Clouds of Xeen                                           | GandalfTheWhite80 |
 | ✅ | xeen | darksideofxeen      | Might and Magic V: Dark Side of Xeen                                         | GandalfTheWhite80 |
 | ✅ | xeen | worldofxeen         | Might and Magic: World of Xeen                                               | GandalfTheWhite80 |
