@@ -114,9 +114,9 @@
 | ✅ | agos | waxworks            | Waxworks                                                                     | JenniBee, GandalfTheWhite80 |
 | ✅ | agos | simon1              | Simon the Sorcerer 1                                                         | GandalfTheWhite80, tag2015 |
 | ✅ | agos | simon2              | Simon the Sorcerer 2                                                         | GandalfTheWhite80, tag2015 |
-| ✅ | agos | feeble              | The Feeble Files                                                             |Canuma|
+| ✅ | agos | feeble              | The Feeble Files                                                             |Canuma, GandalfTheWhite80|
 | ✅ | agos | dimp                | Demon in my Pocket                                                           | Matt, GandalfTheWhite80 |
-| ✅ | agos | jumble              | Jumble                                                                       | Matt |
+| ✅ | agos | jumble              | Jumble                                                                       | Matt, GandalfTheWhite80 |
 | ✅ | agos | puzzle              | NoPatience                                                                   | Matt |
 | ✅ | agos | swampy              | Swampy Adventures                                                            | Matt |
 | ✅ | ags | 5daysastranger      | 5 Days a Stranger                                                            | DavidAriyan, tag2015 |
