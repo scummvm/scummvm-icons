@@ -346,7 +346,7 @@
 | ✅ | glk | corruption          | Corruption                                                                   | tag2015 |
 | ✅ | glk | fish                | Fish!                                                                        | tag2015 |
 | ✅ | glk | guild               | The Guild of Thieves                                                         | tag2015, GandalfTheWhite80 |
-| ✅ | glk | jinxter             | Jinxter                                                                      | tag2015 |
+| ✅ | glk | jinxter             | Jinxter                                                                      | tag2015, GandalfTheWhite80 |
 | ✅ | glk | myth                | Myth                                                                         | tag2015 |
 | ✅ | glk | pawn                | the Pawn                                                                     | tag2015 |
 | ✅ | glk | wonderland          | Wonderland                                                                   | Tucky27 |
@@ -396,7 +396,7 @@
 | ✅ | glk | minizork1           | Mini Zork I: The Great Underground Empire                                    | Tucky27 |
 | ✅ | glk | moonmist            | Moonmist                                                                     | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | nordbert            | Nord and Bert Couldn't Make Head or Tail of It                               | Tucky27, GandalfTheWhite80 |
-| ✅ | glk | planetfall          | Planetfall                                                                   | Tucky27 |
+| ✅ | glk | planetfall          | Planetfall                                                                   | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | plunderedhearts     | Plundered Hearts                                                             | Tucky27 |
 | ✅ | glk | questforexcalibur   | Arthur: The Quest for Excalibur                                              | Tucky27 |
 | ✅ | glk | questprobe2i5       | Questprobe featuring Spider-Man                                              | Tucky27, GandalfTheWhite80 |
