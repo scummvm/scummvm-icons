@@ -281,7 +281,7 @@
 | ✅ | ags | zidjourney          | Zid Journey	                                                               | tag2015 |
 | ✅ | ags | zniwadventure       | Zniw Adventure	                                                           | tag2015 |
 | ✅ | asylum | sanitarium          | Sanitarium                                                                   | JenniBee, GandalfTheWhite80 |
-| ✅ | avalanche | avalanche           | Lord Avalot d'Argent                                                         | JenniBee |
+| ✅ | avalanche | avalanche           | Lord Avalot d'Argent                                                         | JenniBee, GandalfTheWhite80 |
 | ✅ | bbvs | bbvs                | Beavis and Butt-head in Virtual Stupidity                                    | JenniBee, GandalfTheWhite80 |
 | ✅ | bladerunner | bladerunner         | Blade Runner                                                                 | NekoFever, DavidAriyan |
 | ✅ | bladerunner | bladerunner-final   | Blade Runner                                                                 | NekoFever, DavidAriyan, GandalfTheWhite80 |
