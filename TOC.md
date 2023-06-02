@@ -378,7 +378,7 @@
 | ✅ | glk | borderzone          | Border Zone                                                                  | Tucky27 |
 | ✅ | glk | bureaucracy         | Bureaucracy                                                                  | Tucky27 , GandalfTheWhite80|
 | ✅ | glk | ccfirstadv          | Colossal Cave - The First Adventure                                          | JenniBee, Tucky27 |
-| ✅ | glk | crimsoncrown        | The Crimson Crown                                                            | Tucky27 |
+| ✅ | glk | crimsoncrown        | The Crimson Crown                                                            | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | cutthroats          | Cutthroats                                                                   | Tucky27 |
 | ✅ | glk | deadline            | Deadline                                                                     | Tucky27 |
 | ✅ | glk | elf20               | The Elf's Christmas Adventure                                                | JenniBee |
