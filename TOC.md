@@ -118,7 +118,7 @@
 | ✅ | agos | dimp                | Demon in my Pocket                                                           | Matt, GandalfTheWhite80 |
 | ✅ | agos | jumble              | Jumble                                                                       | Matt, GandalfTheWhite80 |
 | ✅ | agos | puzzle              | NoPatience                                                                   | Matt |
-| ✅ | agos | swampy              | Swampy Adventures                                                            | Matt |
+| ✅ | agos | swampy              | Swampy Adventures                                                            | Matt, GandalfTheWhite80 |
 | ✅ | ags | 5daysastranger      | 5 Days a Stranger                                                            | DavidAriyan, tag2015 |
 | ✅ | ags | 6daysasacrifice     | 6 Days a Sacrifice                                                           | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | 7daysaskeptic       | 7 Days a Skeptic                                                             | DavidAriyan, GandalfTheWhite80 |
