@@ -301,7 +301,7 @@
 | ✅ | composer | princess            | Magic Tales: The Princess and the Crab                                       | Tucky27 |
 | ✅ | composer | sleepingcub         | Magic Tales: Sleeping Cub's Test of Courage                                  | Tucky27 |
 | ✅ | cruise | cruise              | Cruise for a Corpse                                                          | rehail |
-| ✅ | cryomni3d | versailles          | Versailles 1685                                                              | Tucky27 |
+| ✅ | cryomni3d | versailles          | Versailles 1685                                                              | Tucky27, GandalfTheWhite80 |
 | ✅ | director | chaos               | The C.H.A.O.S. Continuum                                                     | Tucky27 |
 | ✅ | director | kyoto               | Cosmology of Kyoto                                                           | Tucky27 |
 | ✅ | director | lzone               | L-Zone                                                                       | Tucky27 |
