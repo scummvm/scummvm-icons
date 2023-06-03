@@ -344,7 +344,7 @@
 | ⬜️ | glk | worminparadisesd    | Worm in Paradise /SD                                                         | |
 | ⬜️ | glk | magnetic            | Magnetic Scrolls Game                                                        | |
 | ✅ | glk | corruption          | Corruption                                                                   | tag2015 |
-| ✅ | glk | fish                | Fish!                                                                        | tag2015 |
+| ✅ | glk | fish                | Fish!                                                                        | tag2015, GandalfTheWhite80 |
 | ✅ | glk | guild               | The Guild of Thieves                                                         | tag2015, GandalfTheWhite80 |
 | ✅ | glk | jinxter             | Jinxter                                                                      | tag2015, GandalfTheWhite80 |
 | ✅ | glk | myth                | Myth                                                                         | tag2015 |
