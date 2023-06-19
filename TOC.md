@@ -479,7 +479,7 @@
 | ✅ | kyra | kyra2               | The Legend of Kyrandia: The Hand of Fate                                     | Tucky27, GandalfTheWhite80 |
 | ✅ | kyra | kyra3               | The Legend of Kyrandia: Malcolm's Revenge                                    | Tucky27, GandalfTheWhite80 |
 | ✅ | kyra | lol                 | Lands of Lore: The Throne of Chaos                                           | dotdc |
-| ✅ | kyra | eob                 | Eye of the Beholder                                                          | Tucky27 |
+| ✅ | kyra | eob                 | Eye of the Beholder                                                          | Tucky27, GandalfTheWhite80 |
 | ✅ | kyra | eob2                | Eye of the Beholder II: The Legend of Darkmoon                               | Tucky27, GandalfTheWhite80 |
 | ✅ | lab | lab                 | Labyrinth of Time                                                            | Tucky27 |
 | ✅ | lure | lure                | Lure of the Temptress                                                        | GandalfTheWhite80 |
