@@ -427,13 +427,13 @@
 | ✅ | gnap | gnap                | Gnap                                                                         | JenniBee, GandalfTheWhite80 |
 | ✅ | gob | gob1                | Gobliiins                                                                    | nightm4re94 |
 | ✅ | gob | gob2                | Gobliins 2                                                                   | nightm4re94 |
+| ✅ | gob | gob3                | Goblins Quest 3                                                              |Canuma|
 | ✅ | gob | ween                | Ween: The Prophecy                                                           |Canuma, GandalfTheWhite80 |
 | ✅ | gob | bargon              | Bargon Attack                                                                |Canuma |
 | ⬜️ | gob | babayaga            | Once Upon A Time: Baba Yaga                                                  | |
 | ⬜️ | gob | abracadabra         | Once Upon A Time: Abracadabra                                                | |
 | ✅ | gob | littlered           | Once Upon A Time: Little Red Riding Hood                                     | Matt, GandalfTheWhite80 |
 | ⬜️ | gob | onceupon            | Once Upon A Time                                                             | |
-| ✅ | gob | gob3                | Goblins Quest 3                                                              |Canuma|
 | ✅ | gob | crousti             | Croustibat                                                                   | JenniBee, GandalfTheWhite80 |
 | ⬜️ | gob | lit1                | Lost in Time Part 1                                                          | |
 | ⬜️ | gob | lit2                | Lost in Time Part 2                                                          | |
