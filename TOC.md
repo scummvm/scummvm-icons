@@ -433,7 +433,6 @@
 | ⬜️ | gob | abracadabra         | Once Upon A Time: Abracadabra                                                | |
 | ✅ | gob | littlered           | Once Upon A Time: Little Red Riding Hood                                     | Matt, GandalfTheWhite80 |
 | ⬜️ | gob | onceupon            | Once Upon A Time                                                             | |
-| ⬜️ | gob | ajworld             | A.J.'s World of Discovery                                                    | |
 | ✅ | gob | gob3                | Goblins Quest 3                                                              |Canuma|
 | ✅ | gob | crousti             | Croustibat                                                                   | JenniBee, GandalfTheWhite80 |
 | ⬜️ | gob | lit1                | Lost in Time Part 1                                                          | |
