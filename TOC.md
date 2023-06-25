@@ -427,6 +427,7 @@
 | ✅ | gnap | gnap                | Gnap                                                                         | JenniBee, GandalfTheWhite80 |
 | ✅ | gob | adibou1              | ADIBOU 1                                                                       | sdelamarre, GandalfTheWhite80 |
 | ✅ | gob | adibou2              | ADIBOU 2                                                                       | sdelamarre, GandalfTheWhite80 |
+| ⬜️ | gob | adi4                 | ADI 4                                                                       | BJNFNE, GandalfTheWhite80 |
 | ⬜️ | gob | abracadabra         | Once Upon A Time: Abracadabra                                                | |
 | ✅ | gob | bambou              | Playtoons Limited Edition - Bambou le sauveur de la jungle                   | Matt |
 | ⬜️ | gob | babayaga            | Once Upon A Time: Baba Yaga                                                  | |
