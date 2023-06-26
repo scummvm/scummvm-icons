@@ -468,7 +468,7 @@
 | ✅ | hopkins | hopkins             | Hopkins FBI                                                                  | rehail |
 | ✅ | hugo | hugo1               | Hugo 1: Hugo's House of Horrors                                              | JenniBee, GandalfTheWhite80 |
 | ✅ | hugo | hugo2               | Hugo 2: Whodunit?                                                            | JenniBee, GandalfTheWhite80 |
-| ✅ | hugo | hugo3               | Hugo 3: Jungle of Doom                                                       | JenniBee |
+| ✅ | hugo | hugo3               | Hugo 3: Jungle of Doom                                                       | JenniBee, GandalfTheWhite80 |
 | ✅ | hypno | sinistersix         | Spider-Man: The Sinister Six                                                 | Tucky27 |
 | ✅ | hypno | soldierboyz         | Soldier Boyz                                                                 | Tucky27 |
 | ✅ | hypno | wetlands            | Wetlands                                                                     | Tucky27 |
