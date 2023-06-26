@@ -153,7 +153,7 @@
 | ✅ | ags | camp1                | Camp 1                                                                      | DavidAriyan |
 | ✅ | ags | cedricandtherevolution | Cedric and the Revolution |                                               | marus70, GandalfTheWhite80 |
 | ✅ | ags | charnelhousetrilogy  | The Charnel House Trilogy                                                   | DavidAriyan, tag2015 |
-| ⬜️ | ags | chronicleofinnsmouth | Chronical Of Innsmouth                                                      | |
+| ✅ | ags | chronicleofinnsmouth | Chronical Of Innsmouth                                                      | DavidAriyan, tag2015 |
 | ✅ | ags | comedyquest          | Comedy Quest                                                                | tag2015 |
 | ✅ | ags | concurrence          | Concurrence                                                                 | DavidAriyan |
 | ✅ | ags | conspiracybelowzero  | Conspiracy: Below Zero                                                      | DavidAriyan, GandalfTheWhite80 |
@@ -177,7 +177,7 @@
 | ✅ | ags | guardduty           | Guard Duty                                                                  | tag2015 |
 | ✅ | ags | heartland           | Heartland                                                                    | DavidAriyan |
 | ✅ | ags | heroinequest        | Heroine's Quest                                                              | tag2015 |
-| ⬜️ | ags | him                 | Him                                                                          | |
+| ✅ | ags | him                 | Him                                                                          | DavidAriyan, tag2015|
 | ✅ | ags | hjarta              | Hjarta                                                                       | DavidAriyan |
 | ✅ | ags | iamjason            | I Am Jason                                                                   | DavidAriyan |
 | ✅ | ags | icantsleep          | I Can't Sleep In Silence                                                     | DavidAriyan |
@@ -185,7 +185,7 @@
 | ✅ | ags | inbloom              | In Bloom                                                                    | DavidAriyan |
 | ✅ | ags | ioawn4t              | If On A Winter's Night: Four Travellers                                     | DavidAriyan, tag2015|
 | ✅ | ags | iwantout             | I Want Out!                                                                 | DavidAriyan |
-| ⬜️ | ags | journeyhell          | Journey to Hell                                                             | |
+| ✅ | ags | journeyhell          | Journey to Hell                                                             | DavidAriyan, tag2015|
 | ✅ | ags | journeyhome         | Journey Home                                                                 | DavidAriyan |
 | ✅ | ags | justignorethem       | Just Ignore Them                                                            | tag2015 |
 | ✅ | ags | knobblycrook         | The Knobbly Crook                                                           | tag2015 |
@@ -197,14 +197,14 @@
 | ✅ | ags | lacroixpan          | La Croix Pan                                                                 | DavidAriyan |
 | ✅ | ags | lamplightcity       | Lamplight City                                                               | DavidAriyan |
 | ✅ | ags | larrylotter         | Larry Lotter and the Test of Time                                            | tag2015 |
-| ⬜️ | ags | lostanswers          | Lost Answers                                                                | |
+| ✅ | ags | lostanswers          | Lost Answers                                                                | DavidAriyan, tag2015|
 | ✅ | ags | lostinthenightmare   | Lost In The Nightmare                                                       | DavidAriyan |
 | ✅ | ags | mage                 | Mage's Initiation: Reign of the Elements                                    | tag2015 |
 | ✅ | ags | maniacmansiondeluxe | Maniac Mansion Deluxe                                                        | GandalfTheWhite80 |
-| ⬜️ | ags | masked               | Masked                                                                      | |
+| ✅ | ags | masked               | Masked                                                                      | tag2015 |
 | ✅ | ags | metaldead          | Metal Dead                                                                    | tag2015 |
 | ✅ | ags | metaphobia          | Metaphobia                                                                   | DavidAriyan |
-| ⬜️ | ags | mountainsofmadness   | Chronicle Of Innsmouth: Mountains Of Madness                                | |
+| ✅ | ags | mountainsofmadness   | Chronicle Of Innsmouth: Mountains Of Madness                                | DavidAriyan, tag2015|
 | ✅ | ags | mudlarks             | Mudlarks                                                                    | DavidAriyan |
 | ✅ | ags | mybigsister         | My Big Sister                                                                | Official media |
 | ✅ | ags | myburdentokeep      | My Burden to Keep                                                            | DavidAriyan |
@@ -248,7 +248,7 @@
 | ✅ | ags | tales               | Tales                                                                        | tag2015 |
 | ✅ | ags | teafortwo           | Tea For Two: A Detective Logan Case                                          | DavidAriyan |
 | ✅ | ags | technobabylon       | Technobabylon                                                                | DavidAriyan |
-| ✅ | ags | theadventuresoffatman | The Adventures of Fatman |                                                 | WhiteRakogis | 
+| ✅ | ags | theadventuresoffatman | The Adventures of Fatman |                                                 | WhiteRakogis |
 | ✅ | ags | theawakening         | The Awekening                                                               | DavidAriyan |
 | ✅ | ags | thecabin            | The Cabin                                                                    | DavidAriyan |
 | ✅ | ags | thecastle           | The Castle                                                                   | tag2015 |
@@ -629,7 +629,7 @@
 | ✅ | ultima | ultima4             | Ultima IV - Quest of the Avatar                                              | Tucky27 |
 | ✅ | ultima | ultima6             | Ultima VI - The False Prophet                                                | Tucky27 |
 | ✅ | ultima | ultima8             | Ultima VIII - Pagan                                                          | Tucky27 |
-| ✅ | ultima | martiandreams       | Ultima - Martian Dreams                                                      | Tucky27 | 
+| ✅ | ultima | martiandreams       | Ultima - Martian Dreams                                                      | Tucky27 |
 | ✅ | voyeur | voyeur              | Voyeur                                                                       | JenniBee |
 | ✅ | wintermute | 5ld                 | Five Lethal Demons                                                           | tag2015 |
 | ✅ | wintermute | 5ma                 | Five Magical Amulets                                                         | tag2015 |
