@@ -233,7 +233,7 @@
 | ✅ | ags | shivahkosher         | The Shivah - Kosher Edition                                                 | tag2015 |
 | ✅ | ags | skumring             | Skumring                                                                    | DavidAriyan |
 | ✅ | ags | skyfall             | Skyfall                                                                      | DavidAriyan, GandalfTheWhite80 |
-| ✅ | ags | spooks              | Spooks                                                                       | DavidAriyan |
+| ✅ | ags | spooks              | Spooks                                                                       | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | sq2fg               | Space Quest for Glory                                                        | tag2015 |
 | ✅ | ags | sq2vga              | Space Quest II: Vohaul's Revenge                                             | Tucky27 |
 | ✅ | ags | sqvsb               | Space Quest: Vohaul Strikes Back                                             | Tucky27 |
