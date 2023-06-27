@@ -87,6 +87,7 @@
 | ✅ | agi | bc                  | The Black Cauldron                                                           | Tucky27, GandalfTheWhite80 |
 | ✅ | agi | caitlyn             | Caitlyn's Destiny                                                            | Tucky27, GandalfTheWhite80 |
 | ✅ | agi | ddp                 | Donald Duck's Playground                                                     | JenniBee, GandalfTheWhite80 |
+| ⬜️ | agi | enclosure           | Enclosure                                                                    | |
 | ✅ | agi | goldrush            | Gold Rush!                                                                   | dotdc, Tucky27 |
 | ✅ | agi | kq1                 | King's Quest I: Quest for the Crown                                          | dotdc, Tucky27, GandalfTheWhite80 |
 | ✅ | agi | kq2                 | King's Quest II: Romancing the Throne                                        | dotdc, Tucky27, GandalfTheWhite80 |
@@ -138,7 +139,7 @@
 | ✅ | ags | atotk               | A Tale Of Two Kingdoms                                                       | tag2015 |
 | ✅ | ags | bcremake            | Black Cauldron Remake                                                        | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | bentheredanthat    | Ben There, Dan That!                                                          | tag2015 |
-| ⬜️ | ags | beyondhorizon        | Beyond Horizon                                                              | |
+| ✅ | ags | beyondhorizon        | Beyond Horizon                                                              | DavidAriyan, tag2015|
 | ✅ | ags | beyondowlsgard      | Beyond the Edge of Owlsgard                                                  | tag2015 |
 | ✅ | ags | bitstream           | Bitstream                                                                    | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | blackmorph           | Black Morph                                                                 | DavidAriyan |
@@ -159,11 +160,10 @@
 | ✅ | ags | conspiracybelowzero  | Conspiracy: Below Zero                                                      | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | contact              | Contact                                                                     | DavidAriyan |
 | ✅ | ags | content              | Content                                                                     | DavidAriyan |
-| ✅ | ags | danewguys            | Da New Guys: Days of the Jackass                                            | DavidAriyan |
+| ✅ | ags | danewguys            | Da New Guys                                                                 | DavidAriyan |
 | ✅ | ags | detectivegallo      | Detective Gallo                                                              | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | downfall2009        | Downfall                                                                     | DavidAriyan |
 | ✅ | ags | dustbowl            | Dustbowl                                                                     | DavidAriyan |
-| ⬜️ | ags | enclosure            | Enclosure                                                                   | |
 | ✅ | ags | escapefromthechaoticcity | Escape From The Chaotic City                                            | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | excavationhb         | The Excavation of Hob's Barrow                                              | tag2015 |
 | ✅ | ags | fall                 | Fall                                                                         | DavidAriyan |
@@ -244,7 +244,8 @@
 | ✅ | ags | strangeland         | Strangeland                                                                  | DavidAriyan |
 | ✅ | ags | sulifallenharmony   | Suli: Fallen Harmony                                                         | tag2015 |
 | ✅ | ags | sumatra             | Sumatra: Fate of Yandi                                                       | tag2015 |
-| ⬜️ | ags | superego             | Superego                                                                    | |
+| ✅ | ags | superegoch0         | Superego - Chapter 0                                                         | DavidAriyan, tag2015 |
+| ✅ | ags | superegoch12        | Superego - Chapter 1+2                                                       | tag2015 |
 | ✅ | ags | tales               | Tales                                                                        | tag2015 |
 | ✅ | ags | teafortwo           | Tea For Two: A Detective Logan Case                                          | DavidAriyan |
 | ✅ | ags | technobabylon       | Technobabylon                                                                | DavidAriyan |
