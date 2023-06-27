@@ -182,7 +182,7 @@
 | ✅ | ags | iamjason            | I Am Jason                                                                   | DavidAriyan |
 | ✅ | ags | icantsleep          | I Can't Sleep In Silence                                                     | DavidAriyan |
 | ✅ | ags | icestationzero      | Ice Station Zero                                                             | DavidAriyan |
-| ✅ | ags | inbloom              | In Bloom                                                                    | DavidAriyan |
+| ✅ | ags | inbloom              | In Bloom                                                                    | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | ioawn4t              | If On A Winter's Night: Four Travellers                                     | DavidAriyan, tag2015|
 | ✅ | ags | iwantout             | I Want Out!                                                                 | DavidAriyan |
 | ✅ | ags | journeyhell          | Journey to Hell                                                             | DavidAriyan, tag2015|
@@ -221,7 +221,7 @@
 | ✅ | ags | primordia           | Primordia                                                                    | Tucky27 |
 | ✅ | ags | qfi                 | Quest for Infamy                                                             | tag2015 |
 | ✅ | ags | rabbithill          | Rabbit Hill                                                                  | DavidAriyan, GandalfTheWhite80 |
-| ✅ | ags | reactor09            | Reactor 09                                                                  | DavidAriyan |
+| ✅ | ags | reactor09            | Reactor 09                                                                  | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | redbow              | Red Bow                                                                      | Official media |
 | ✅ | ags | resonance           | Resonance                                                                    | DavidAriyan |
 | ✅ | ags | richardandalice     | Richard and Alice                                                            | tag2015 |
