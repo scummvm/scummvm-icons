@@ -257,7 +257,7 @@
 | ✅ | ags | theexperimentp1      | The Experiment - Part 1: The Laboratory                                     | DavidAriyan |
 | ✅ | ags | theexperimentp2      | The Experiment - Part 2: Menacing Darkness                                  | DavidAriyan |
 | ✅ | ags | theinfinitystring    | The Infinity String                                                         | DavidAriyan, GandalfTheWhite80 |
-| ✅ | ags | themanisee           | The Man That Only I Can See                                                 | DavidAriyan |
+| ✅ | ags | themanisee           | The Man That Only I Can See                                                 | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | themarionette       | The Marionette                                                               | DavidAriyan |
 | ✅ | ags | theoven              | The Oven                                                                    | DavidAriyan |
 | ✅ | ags | thereaper            | The Reaper                                                                  | DavidAriyan |
