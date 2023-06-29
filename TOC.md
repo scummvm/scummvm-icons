@@ -449,7 +449,7 @@
 | ⬜️ | gob | onceupon            | Once Upon A Time                                                             | |
 | ⬜️ | gob | playtoons1          | Playtoons 1 - Uncle Archibald                                                | |
 | ⬜️ | gob | playtoons2          | Playtoons 2 - The Case of the Counterfeit Collaborator                       | |
-| ⬜️ | gob | playtoons3          | Playtoons 3 - The Secret of the Castle                                       | |
+| ✅ | gob | playtoons3          | Playtoons 3 - The Secret of the Castle                                       | GandalfTheWhite80, BJNFNE |
 | ⬜️ | gob | playtoons4          | Playtoons 4 - The Mandarine Prince                                           | |
 | ⬜️ | gob | playtoons5          | Playtoons 5 - The Stone of Wakan                                             | |
 | ⬜️ | gob | playtnck1           | Playtoons Construction Kit 1 - Monsters                                      | |
