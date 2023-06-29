@@ -447,7 +447,7 @@
 | ⬜️ | gob | lit2                | Lost in Time Part 2                                                          | |
 | ✅ | gob | littlered           | Once Upon A Time: Little Red Riding Hood                                     | Matt, GandalfTheWhite80 |
 | ⬜️ | gob | onceupon            | Once Upon A Time                                                             | |
-| ⬜️ | gob | playtoons1          | Playtoons 1 - Uncle Archibald                                                | |
+| ✅ | gob | playtoons1          | Playtoons 1 - Uncle Archibald                                                | GandalfTheWhite80, BJNFNE |
 | ⬜️ | gob | playtoons2          | Playtoons 2 - The Case of the Counterfeit Collaborator                       | |
 | ✅ | gob | playtoons3          | Playtoons 3 - The Secret of the Castle                                       | GandalfTheWhite80, BJNFNE |
 | ⬜️ | gob | playtoons4          | Playtoons 4 - The Mandarine Prince                                           | |
