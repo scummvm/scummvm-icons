@@ -442,7 +442,7 @@
 | ✅ | gob | gob1                | Gobliiins                                                                    | nightm4re94 |
 | ✅ | gob | gob2                | Gobliins 2                                                                   | nightm4re94 |
 | ✅ | gob | gob3                | Goblins Quest 3                                                              |Canuma|
-| ⬜️ | gob | inca2               | Inca II: Wiracocha                                                           | |
+| ✅ | gob | inca2               | Inca II: Wiracocha                                                           | BJNFNE, GandalfTheWhite80 |
 | ✅ | gob | lit                 | Lost in Time                                                                 | Matt, GandalfTheWhite80 |
 | ⬜️ | gob | lit1                | Lost in Time Part 1                                                          | |
 | ⬜️ | gob | lit2                | Lost in Time Part 2                                                          | |
