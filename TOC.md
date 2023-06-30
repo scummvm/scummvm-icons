@@ -174,6 +174,7 @@
 | ✅ | ags | ghostcatchers       | GHOSTCATCHERS                                                                | DavidAriyan |
 | ✅ | ags | ghostdream          | Ghostdream                                                                   | DavidAriyan |
 | ✅ | ags | goldenwake          | A Golden Wake                                                               | Official media |
+| ✅ | ags | graceward           | Graceward - Complete Edition                                                | FransisKransis (Official media) |
 | ✅ | ags | guardduty           | Guard Duty                                                                  | tag2015 |
 | ✅ | ags | heartland           | Heartland                                                                    | DavidAriyan |
 | ✅ | ags | heroinequest        | Heroine's Quest                                                              | tag2015 |
