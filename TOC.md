@@ -427,7 +427,7 @@
 | ✅ | glk | marveladventure2    | Questprobe featuring Spider-Man                                              | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | marveladventurei5   | Questprobe featuring The Hulk                                                | Tucky27, GandalfTheWhite80 |
 | ✅ | gnap | gnap                | Gnap                                                                         | JenniBee, GandalfTheWhite80 |
-| ⬜️ | gob | adi2                 | ADI 2                                                                       | BJNFNE, GandalfTheWhite80 |
+| ✅ | gob | adi2                 | ADI 2                                                                       | BJNFNE, GandalfTheWhite80 |
 | ✅ | gob | adi4                 | ADI 4                                                                       | BJNFNE, GandalfTheWhite80 |
 | ✅ | gob | adibou1              | ADIBOU 1                                                                       | sdelamarre, GandalfTheWhite80 |
 | ✅ | gob | adibou2              | ADIBOU 2                                                                       | sdelamarre, GandalfTheWhite80 |
