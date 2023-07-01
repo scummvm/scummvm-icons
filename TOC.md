@@ -449,10 +449,10 @@
 | ✅ | gob | littlered           | Once Upon A Time: Little Red Riding Hood                                     | Matt, GandalfTheWhite80 |
 | ⬜️ | gob | onceupon            | Once Upon A Time                                                             | |
 | ✅ | gob | playtoons1          | Playtoons 1 - Uncle Archibald                                                | GandalfTheWhite80, BJNFNE |
-| ⬜️ | gob | playtoons2          | Playtoons 2 - The Case of the Counterfeit Collaborator                       | |
+| ✅ | gob | playtoons2          | Playtoons 2 - The Case of the Counterfeit Collaborator                       | GandalfTheWhite80 |
 | ✅ | gob | playtoons3          | Playtoons 3 - The Secret of the Castle                                       | GandalfTheWhite80, BJNFNE |
-| ⬜️ | gob | playtoons4          | Playtoons 4 - The Mandarine Prince                                           | |
-| ⬜️ | gob | playtoons5          | Playtoons 5 - The Stone of Wakan                                             | |
+| ✅ | gob | playtoons4          | Playtoons 4 - The Mandarine Prince                                           | GandalfTheWhite80 |
+| ✅ | gob | playtoons5          | Playtoons 5 - The Stone of Wakan                                             | GandalfTheWhite80 |
 | ⬜️ | gob | playtnck1           | Playtoons Construction Kit 1 - Monsters                                      | |
 | ⬜️ | gob | playtnck2           | Playtoons Construction Kit 2 - Knights                                       | |
 | ⬜️ | gob | playtnck3           | Playtoons Construction Kit 3 - Far West                                      | |
