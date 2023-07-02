@@ -453,9 +453,9 @@
 | ✅ | gob | playtoons3          | Playtoons 3 - The Secret of the Castle                                       | GandalfTheWhite80, BJNFNE |
 | ✅ | gob | playtoons4          | Playtoons 4 - The Mandarine Prince                                           | GandalfTheWhite80 |
 | ✅ | gob | playtoons5          | Playtoons 5 - The Stone of Wakan                                             | GandalfTheWhite80 |
-| ⬜️ | gob | playtnck1           | Playtoons Construction Kit 1 - Monsters                                      | |
-| ⬜️ | gob | playtnck2           | Playtoons Construction Kit 2 - Knights                                       | |
-| ⬜️ | gob | playtnck3           | Playtoons Construction Kit 3 - Far West                                      | |
+| ✅ | gob | playtnck1           | Playtoons Construction Kit 1 - Monsters                                      | GandalfTheWhite80 |
+| ✅ | gob | playtnck2           | Playtoons Construction Kit 2 - Knights                                       | GandalfTheWhite80 |
+| ✅ | gob | playtnck3           | Playtoons Construction Kit 3 - Far West                                      | GandalfTheWhite80 |
 | ✅ | gob | urban               | Urban Runner                                                                 | JenniBee, GandalfTheWhite80 |
 | ✅ | gob | ween                | Ween: The Prophecy                                                           |Canuma, GandalfTheWhite80 |
 | ✅ | gob | woodruff            | The Bizarre Adventures of Woodruff and the Schnibble                         | Matt, GandalfTheWhite80 |
