@@ -434,7 +434,7 @@
 | ⬜️ | gob | abracadabra         | Once Upon A Time: Abracadabra                                                | |
 | ✅ | gob | bambou              | Playtoons Limited Edition - Bambou le sauveur de la jungle                   | Matt, GandalfTheWhite80 |
 | ⬜️ | gob | babayaga            | Once Upon A Time: Baba Yaga                                                  | |
-| ✅ | gob | bargon              | Bargon Attack                                                                |Canuma |
+| ✅ | gob | bargon              | Bargon Attack                                                                |Canuma, GandalfTheWhite80 |
 | ✅ | gob | crousti             | Croustibat                                                                   | JenniBee, GandalfTheWhite80 |
 | ⬜️ | gob | dynasty             | The Last Dynasty                                                             | |
 | ✅ | gob | fascination         | Fascination                                                                  | JenniBee, GandalfTheWhite80 |
