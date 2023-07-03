@@ -394,7 +394,7 @@
 | ✅ | glk | infocomsampler1     | Infocom Sampler 1                                                            | Tucky27 |
 | ✅ | glk | infocomsampler2     | Infocom Sampler 2                                                            | Tucky27 |
 | ✅ | glk | lurkinghorror       | The Lurking Horror                                                           | Tucky27 |
-| ✅ | glk | milliways           | Milliways                                                                    | Tucky27 |
+| ✅ | glk | milliways           | Milliways                                                                    | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | minizork1           | Mini Zork I: The Great Underground Empire                                    | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | moonmist            | Moonmist                                                                     | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | nordbert            | Nord and Bert Couldn't Make Head or Tail of It                               | Tucky27, GandalfTheWhite80 |
