@@ -10,7 +10,7 @@
 | ✅ | scumm | monkey              | The Secret of Monkey Island                                                  | Thanius |
 | ✅ | scumm | monkey2             | Monkey Island 2: LeChuck's Revenge                                           | Thanius |
 | ✅ | scumm | pass                | Passport to Adventure                                                        | JenniBee |
-| ✅ | scumm | samnmax             | Sam & Max Hit the Road                                                       | JenniBee |
+| ✅ | scumm | samnmax             | Sam & Max Hit the Road                                                       | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | tentacle            | Day of the Tentacle                                                          | JenniBee |
 | ✅ | scumm | zak                 | Zak McKracken and the Alien Mindbenders                                      | JenniBee |
 | ✅ | scumm | indyloom            | Indiana Jones and the Last Crusade & Loom                                    | JenniBee |
