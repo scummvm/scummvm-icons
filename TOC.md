@@ -3,7 +3,7 @@
 |   | Engine ID | Game ID             | Game Name                                                                    | Credits |
 |---|-----------|---------------------|------------------------------------------------------------------------------|---------|
 | ✅ | example | example             | Example Entry                                                                | Your Name Here
-| ✅ | scumm | atlantis            | Indiana Jones and the Fate of Atlantis                                       | JenniBee |
+| ✅ | scumm | atlantis            | Indiana Jones and the Fate of Atlantis                                       | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | indy3               | Indiana Jones and the Last Crusade                                           | JenniBee |
 | ✅ | scumm | loom                | Loom                                                                         | JenniBee |
 | ✅ | scumm | maniac              | Maniac Mansion                                                               | JenniBee, GandalfTheWhite80 |
