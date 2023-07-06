@@ -4,7 +4,7 @@
 |---|-----------|---------------------|------------------------------------------------------------------------------|---------|
 | ✅ | example | example             | Example Entry                                                                | Your Name Here
 | ✅ | scumm | atlantis            | Indiana Jones and the Fate of Atlantis                                       | JenniBee, GandalfTheWhite80 |
-| ✅ | scumm | indy3               | Indiana Jones and the Last Crusade                                           | JenniBee |
+| ✅ | scumm | indy3               | Indiana Jones and the Last Crusade                                           | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | loom                | Loom                                                                         | JenniBee |
 | ✅ | scumm | maniac              | Maniac Mansion                                                               | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | monkey              | The Secret of Monkey Island                                                  | Thanius |
