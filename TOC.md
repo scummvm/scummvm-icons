@@ -18,7 +18,7 @@
 | ✅ | scumm | zakloom             | Zak McKracken & Loom                                                         | JenniBee |
 | ✅ | scumm | ft                  | Full Throttle                                                                | JenniBee |
 | ✅ | scumm | dig                 | The Dig                                                                      | Urgeistenergie |
-| ✅ | scumm | comi                | The Curse of Monkey Island                                                   | JenniBee |
+| ✅ | scumm | comi                | The Curse of Monkey Island                                                   | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | activity            | Putt-Putt & Fatty Bear's Activity Pack                                       | Tucky27 |
 | ✅ | scumm | brstorm             | Bear Stormin'                                                                | Tucky27 |
 | ✅ | scumm | fbear               | Fatty Bear's Birthday Surprise                                               | Tucky27 |
