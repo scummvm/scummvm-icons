@@ -105,7 +105,7 @@
 | ✅ | agi | sq1                 | Space Quest I: The Sarien Encounter                                          | JenniBee, GandalfTheWhite80 |
 | ✅ | agi | sq2                 | Space Quest II: Vohaul's Revenge                                             | JenniBee, GandalfTheWhite80 |
 | ✅ | agi | sqx                 | Space Quest X: The Lost Chapter                                              | JenniBee, GandalfTheWhite80 |
-| ✅ | agi | tetris              | AGI Tetris                                                                   | JenniBee |
+| ✅ | agi | tetris              | AGI Tetris                                                                   | JenniBee, GandalfTheWhite80 |
 | ✅ | agi | troll               | Troll's Tale                                                                 | JenniBee, GandalfTheWhite80 |
 | ✅ | agi | winnie              | Winnie the Pooh in the Hundred Acre Wood                                     | Matt, GandalfTheWhite80 |
 | ⬜️ | agi | xmascard            | Xmas Card                                                                    | |
