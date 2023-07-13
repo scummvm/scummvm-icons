@@ -1,6 +1,8 @@
 <?xml version="1.0" ?>
 <series>
 	<serie id="1213" name="1213"/>
+	<serie id="adi" name="Adi 2 & 4"/>
+	<serie id="adibou" name="Adibou 1 & 2"/>
 	<serie id="agifan" name="AGI Fan"/>
 	<serie id="alemmo" name="Al Emmo"/>
 	<serie id="alimardan" name="Alimardan"/>
