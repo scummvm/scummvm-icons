@@ -571,7 +571,7 @@
 | ✅ | scumm | lost                | Pajama Sam's Lost & Found                                                    | Tucky27 |
 | ✅ | scumm | maniac              | Maniac Mansion                                                               | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | maze                | Freddi Fish and Luther's Maze Madness                                        | Tucky27 |
-| ✅ | scumm | monkey              | The Secret of Monkey Island                                                  | Thanius |
+| ✅ | scumm | monkey              | The Secret of Monkey Island                                                  | Thanius, GandalfTheWhite80 |
 | ✅ | scumm | monkey2             | Monkey Island 2: LeChuck's Revenge                                           | Thanius, GandalfTheWhite80 |
 | ✅ | scumm | moonbase            | Moonbase Commander                                                           | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | mustard             | SPY Fox in Hold the Mustard                                                  | Tucky27 |
