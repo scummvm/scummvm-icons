@@ -147,7 +147,7 @@
 | ✅ | ags | patchwork           | Patchwork                                                                    | DavidAriyan |
 | ✅ | ags | perfecttides        | Perfect Tides                                                                | tag2015 |
 | ✅ | ags | phantomfellows      | The Phantom Fellows                                                          | thevolumeremote |
-| ✅ | ags | primordia           | Primordia                                                                    | Tucky27 |
+| ✅ | ags | primordia           | Primordia                                                                    | Tucky27, GandalfTheWhite80 |
 | ✅ | ags | qfg2agdi            | Quest for Glory II: Trial by Fire                                            | Tucky27 |
 | ✅ | ags | qfi                 | Quest for Infamy                                                             | tag2015 |
 | ✅ | ags | rabbithill          | Rabbit Hill                                                                  | DavidAriyan, GandalfTheWhite80 |
