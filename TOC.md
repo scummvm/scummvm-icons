@@ -564,8 +564,8 @@
 | ✅ | scumm | ft                  | Full Throttle                                                                | JenniBee |
 | ✅ | scumm | funpack             | Putt-Putt's Fun Pack                                                         |Tucky27  |
 | ✅ | scumm | indy3               | Indiana Jones and the Last Crusade                                           | JenniBee, GandalfTheWhite80 |
-| ✅ | scumm | indyloom            | Indiana Jones and the Last Crusade & Loom                                    | JenniBee |
-| ✅ | scumm | indyzak             | Indiana Jones and the Last Crusade & Zak McKracken                           | JenniBee |
+| ✅ | scumm | indyloom            | Indiana Jones and the Last Crusade & Loom                                    | JenniBee, GandalfTheWhite80 |
+| ✅ | scumm | indyzak             | Indiana Jones and the Last Crusade & Zak McKracken                           | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | jungle              | Let's Explore the Jungle with Buzzy                                          | Tucky27 |
 | ✅ | scumm | loom                | Loom                                                                         | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | lost                | Pajama Sam's Lost & Found                                                    | Tucky27 |
@@ -602,7 +602,7 @@
 | ✅ | scumm | thinkerk            | Big Thinkers Kindergarten                                                    | Tucky27,GandalfTheWhite80 |
 | ✅ | scumm | water               | Freddi Fish and Luther's Water Worries                                       | Tucky27 |
 | ✅ | scumm | zak                 | Zak McKracken and the Alien Mindbenders                                      | JenniBee, GandalfTheWhite80 |
-| ✅ | scumm | zakloom             | Zak McKracken & Loom                                                         | JenniBee |
+| ✅ | scumm | zakloom             | Zak McKracken & Loom                                                         | JenniBee, GandalfTheWhite80|
 | ✅ | sherlock | rosetattoo          | The Case of the Rose Tattoo                                                  | Tucky27 |
 | ✅ | sherlock | scalpel             | The Case of the Serrated Scalpel                                             | Tucky27 |
 | ✅ | sky | sky                 | Beneath a Steel Sky                                                          | nightm4re94 , GandalfTheWhite80|
