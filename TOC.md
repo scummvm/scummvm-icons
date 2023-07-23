@@ -48,7 +48,7 @@
 | ✅ | agos | simon2              | Simon the Sorcerer 2                                                         | GandalfTheWhite80, tag2015 |
 | ✅ | agos | swampy              | Swampy Adventures                                                            | Matt, GandalfTheWhite80 |
 | ✅ | agos | waxworks            | Waxworks                                                                     | JenniBee, GandalfTheWhite80 |
-| ✅ | ags | 46memorylane         | 46 Memory Lane                                                              | DavidAriyan |
+| ✅ | ags | 46memorylane         | 46 Memory Lane                                                              | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | 5daysastranger      | 5 Days a Stranger                                                            | DavidAriyan, tag2015 |
 | ✅ | ags | 6daysasacrifice     | 6 Days a Sacrifice                                                           | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | 7daysaskeptic       | 7 Days a Skeptic                                                             | DavidAriyan, GandalfTheWhite80 |
