@@ -641,7 +641,7 @@
 | ✅ | wintermute | 5ld                 | Five Lethal Demons                                                           | tag2015 |
 | ✅ | wintermute | 5ma                 | Five Magical Amulets                                                         | tag2015 |
 | ✅ | wintermute | bickadoodle         | Bickadoodle                                                                  | tag2015 |
-| ✅ | wintermute | chivalry            | Chivalry is Not Dead                                                         | JenniBee |
+| ✅ | wintermute | chivalry            | Chivalry is Not Dead                                                         | JenniBee, GandalfTheWhite80 |
 | ✅ | wintermute | corrosion           | Corrosion: Cold Winter Waiting                                               | GandalfTheWhite80 |
 | ✅ | wintermute | deadcity            | Dead City                                                                    | tag2015 |
 | ✅ | wintermute | dirtysplit          | Dirty Split                                                                  | tag2015 |
