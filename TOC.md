@@ -90,7 +90,8 @@
 | ✅ | ags | content              | Content                                                                     | DavidAriyan |
 | ✅ | ags | danewguys            | Da New Guys                                                                 | DavidAriyan |
 | ✅ | ags | detectivegallo      | Detective Gallo                                                              | DavidAriyan, GandalfTheWhite80 |
-| ✅ | ags | downfall2009        | Downfall                                                                     | DavidAriyan |
+| ✅ | ags | downfall2009        | Downfall (2009)                                                              | GandalfTheWhite80 |
+| ✅ | ags | downfall2016        | Downfall (2016)                                                              | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | dustbowl            | Dustbowl                                                                     | DavidAriyan |
 | ✅ | ags | escapefromthechaoticcity | Escape From The Chaotic City                                            | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | excavationhb         | The Excavation of Hob's Barrow                                              | tag2015 |
