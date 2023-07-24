@@ -413,7 +413,7 @@
 | ✅ | kyra | kyra2               | The Legend of Kyrandia: The Hand of Fate                                     | Tucky27, GandalfTheWhite80 |
 | ✅ | kyra | kyra3               | The Legend of Kyrandia: Malcolm's Revenge                                    | Tucky27, GandalfTheWhite80 |
 | ✅ | kyra | lol                 | Lands of Lore: The Throne of Chaos                                           | dotdc |
-| ✅ | lab | lab                 | Labyrinth of Time                                                            | Tucky27 |
+| ✅ | lab | lab                 | Labyrinth of Time                                                            | Tucky27, GandalfTheWhite80 |
 | ✅ | lure | lure                | Lure of the Temptress                                                        | GandalfTheWhite80 |
 | ✅ | made | lgop2               | Leather Goddesses of Phobos 2                                                | Matt, GandalfTheWhite80 |
 | ✅ | made | manhole             | The Manhole                                                                  | Matt, GandalfTheWhite80 |
