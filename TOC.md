@@ -393,7 +393,7 @@
 | ✅ | grim | monkey4             | Escape From Monkey Island                                                    | Thanius |
 | ✅ | groovie | 11h                 | The 11th Hour                                                                | bobdevis, GandalfTheWhite80 |
 | ✅ | groovie | clandestiny         | Clandestiny                                                                  | Tucky27 |
-| ✅ | groovie | t7g                 | The 7th Guest                                                                | NekoFever |
+| ✅ | groovie | t7g                 | The 7th Guest                                                                | NekoFever, GandalfTheWhite80 |
 | ✅ | groovie | tlc                 | Tender Loving Care                                                           | Tucky27 |
 | ✅ | groovie | unclehenry          | Uncle Henry's Playhouse                                                      | GandalfTheWhite80 |
 | ✅ | hadesch | hadesch             | Hades Challenge                                                              | GandalfTheWhite80 |
@@ -442,7 +442,7 @@
 | ✅ | mortevielle | mortevielle         | Mortville Manor                                                              | WhiteRakogis |
 | ✅ | mtropolis | obsidian         | Obsidian                                                                     | GandalfTheWhite80 |
 | ✅ | myst3 | myst3               | Myst III Exile                                                               | JenniBee, GandalfTheWhite80,beresk\_let |
-| ✅ | neverhood | neverhood           | The Neverhood Chronicles                                                     | JenniBee |
+| ✅ | neverhood | neverhood           | The Neverhood Chronicles                                                     | JenniBee, GandalfTheWhite80 |
 | ✅ | ngi | fullpipe            | Full Pipe                                                                    | [App Store page](https://apps.apple.com/app/full-pipe-puzzle-adventure/id900071823), GandalfTheWhite80 |
 | ✅ | parallaction | nippon              | Nippon Safes Inc.                                                            | Redbar, GandalfTheWhite80 |
 | ✅ | pegasus | pegasus             | The Journeyman Project: Pegasus Prime                                        | JenniBee, GandalfTheWhite80 |
