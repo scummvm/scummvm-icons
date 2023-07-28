@@ -106,13 +106,13 @@
 | ✅ | ags | content              | Content                                                                     | DavidAriyan |
 | ⬜️ | ags | contrapasso          | Commissar's Contrapasso                                                     | |
 | ✅ | ags | danewguys            | Da New Guys                                                                 | DavidAriyan |
-| ⬜️ | ags | danewguys2           | Da New Guys: Day of the Jackass                                             | |
+| ✅ | ags | danewguys2           | Da New Guys: Day of the Jackass                                             | tag2015 |
 | ⬜️ | ags | detectivebhdino     | Detective Boiled-Hard - Case File: Death of the Space Dino Hunter            | |
 | ✅ | ags | detectivegallo      | Detective Gallo                                                              | DavidAriyan, GandalfTheWhite80 |
 | ⬜️ | ags | docapocalypse       | Doc Apocalypse                                                               | |
 | ✅ | ags | downfall2009        | Downfall (2009)                                                              | GandalfTheWhite80 |
 | ✅ | ags | downfall2016        | Downfall (2016)                                                              | DavidAriyan, GandalfTheWhite80 |
-| ⬜️ | ags | dreamswitchhouse    | Dreams in the Witch House                                                    | |
+| ✅ | ags | dreamswitchhouse    | Dreams in the Witch House                                                    | tag2015 |
 | ✅ | ags | dustbowl            | Dustbowl                                                                     | DavidAriyan |
 | ✅ | ags | escapefromthechaoticcity | Escape From The Chaotic City                                            | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | excavationhb         | The Excavation of Hob's Barrow                                              | tag2015 |
@@ -254,7 +254,7 @@
 | ✅ | ags | untilihaveyou       | Until I have you                                                             | DavidAriyan |
 | ⬜️ | ags | urbanwitchstory     | Urban Witch Story                                                            | |
 | ✅ | ags | wduprodigal         | Prodigal                                                                     | DavidAriyan |
-| ⬜️ | ags | whispersofamachine  | Whispers of a Machine                                                        | |
+| ✅ | ags | whispersofamachine  | Whispers of a Machine                                                        | tag2015 |
 | ✅ | ags | witchlullaby        | The Witch's Lullaby                                                          | DavidAriyan |
 | ✅ | ags | zidjourney          | Zid Journey	                                                               | tag2015 |
 | ✅ | ags | zniwadventure       | Zniw Adventure	                                                           | tag2015 |
