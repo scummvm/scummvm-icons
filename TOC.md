@@ -186,7 +186,7 @@
 | ✅ | ags | phantomfellows      | The Phantom Fellows                                                          | thevolumeremote |
 | ✅ | ags | primordia           | Primordia                                                                    | Tucky27, GandalfTheWhite80 |
 | ⬜️ | ags | puzzlebots          | Puzzle Bots                                                                  | |
-| ✅ | ags | qfg2agdi            | Quest for Glory II: Trial by Fire                                            | Tucky27 |
+| ✅ | ags | qfg2agdi            | Quest for Glory II: Trial by Fire                                            | Tucky27, tag2015 |
 | ✅ | ags | qfi                 | Quest for Infamy                                                             | tag2015 |
 | ⬜️ | ags | quantumnauts        | Quantumnauts                                                                 | |
 | ⬜️ | ags | quantumnauts2       | Quantumnauts 2                                                               | |
@@ -207,12 +207,12 @@
 | ✅ | ags | skyfall             | Skyfall                                                                      | DavidAriyan, GandalfTheWhite80 |
 | ⬜️ | ags | sphonx              | Sphonx                                                                       | |
 | ✅ | ags | spooks              | Spooks                                                                       | DavidAriyan, GandalfTheWhite80 |
-| ✅ | ags | sq2dote             | Space Quest: Decision Of The Elders                                          | Tucky27 |
+| ✅ | ags | sq2dote             | Space Quest: Decision Of The Elders                                          | Tucky27, tag2015 |
 | ✅ | ags | sq2fg               | Space Quest for Glory                                                        | tag2015 |
-| ✅ | ags | sq2vga              | Space Quest II: Vohaul's Revenge                                             | Tucky27 |
+| ✅ | ags | sq2vga              | Space Quest II: Vohaul's Revenge                                             | Tucky27, tag2015 |
 | ✅ | ags | sq45                | Space Quest IV.5 - Roger Wilco and the Voyage Home                           | tag2015 |
-| ✅ | ags | sqinc               | Space Quest: Incinerations                                                   | Tucky27 |
-| ✅ | ags | sqvsb               | Space Quest: Vohaul Strikes Back                                             | Tucky27 |
+| ✅ | ags | sqinc               | Space Quest: Incinerations                                                   | Tucky27, tag2015 |
+| ✅ | ags | sqvsb               | Space Quest: Vohaul Strikes Back                                             | Tucky27, tag2015 |
 | ✅ | ags | starshipquasar      | Starship Quasar                                                              | tag2015 |
 | ⬜️ | ags | stayingalive        | The Ancient Art of Staying Alive                                             | |
 | ⬜️ | ags | stellarmessep1      | Stellar Mess - Episode 1: The Princess Conundrum                             | |
