@@ -81,10 +81,10 @@
 | ✅ | ags | bitstream           | Bitstream                                                                    | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | blackmorph           | Black Morph                                                                 | DavidAriyan |
 | ✅ | ags | blacksect1          | Black Sect Remake                                                            | DavidAriyan |
-| ✅ | ags | blackwell1          | The Blackwell Legacy                                                         | Tucky27 |
-| ✅ | ags | blackwell2          | Blackwell Unbound                                                            | Tucky27 |
-| ✅ | ags | blackwell3          | The Blackwell Convergence                                                    | Tucky27 |
-| ✅ | ags | blackwell4          | The Blackwell Deception                                                      | Tucky27 |
+| ✅ | ags | blackwell1          | The Blackwell Legacy                                                         | Tucky27, tag2015 |
+| ✅ | ags | blackwell2          | Blackwell Unbound                                                            | Tucky27, tag2015 |
+| ✅ | ags | blackwell3          | The Blackwell Convergence                                                    | Tucky27, tag2015 |
+| ✅ | ags | blackwell4          | The Blackwell Deception                                                      | Tucky27, tag2015 |
 | ✅ | ags | blackwell5          | The Blackwell Epiphany                                                       | tag2015 |
 | ✅ | ags | bloodedfields        | Blooded Fields                                                              | DavidAriyan |
 | ✅ | ags | breakage            | Breakage                                                                     | DavidAriyan |
