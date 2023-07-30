@@ -496,7 +496,7 @@
 | ✅ | pegasus | pegasus             | The Journeyman Project: Pegasus Prime                                        | JenniBee, GandalfTheWhite80 |
 | ✅ | petka | petka1              | Red Comrades 1: Save the Galaxy                                              | GandalfTheWhite80 |
 | ✅ | petka | petka2              | Red Comrades 2: For the Great Justice                                        | GandalfTheWhite80 |
-| ✅ | pink | peril                | The Pink Panther: Passport to Peril                                        | tag2015 |
+| ✅ | pink | peril                | The Pink Panther: Passport to Peril                                        | tag2015, GandalfTheWhite80 |
 | ✅ | pink | pokus                | The Pink Panther: Hokus Pokus Pink                                         | Tucky27 |
 | ✅ | plumbers | plumbers            | Plumbers Don't Wear Ties!                                                    | nightm4re94, GandalfTheWhite80 |
 | ✅ | prince | prince              | The Prince and the Coward                                                    | JenniBee |
