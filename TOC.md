@@ -692,7 +692,7 @@
 | ✅ | wintermute | chivalry            | Chivalry is Not Dead                                                         | JenniBee, GandalfTheWhite80 |
 | ✅ | wintermute | corrosion           | Corrosion: Cold Winter Waiting                                               | GandalfTheWhite80 |
 | ✅ | wintermute | deadcity            | Dead City                                                                    | tag2015 |
-| ✅ | wintermute | dirtysplit          | Dirty Split                                                                  | tag2015 |
+| ✅ | wintermute | dirtysplit          | Dirty Split                                                                  | tag2015, GandalfTheWhite80 |
 | ✅ | wintermute | escapemansion       | Escape from the Mansion                                                      | tag2015 |
 | ✅ | wintermute | helga           | Helga Deep In Trouble                                                        | GandalfTheWhite80 |
 | ✅ | wintermute | openquest           | Open Quest                                                                   | JenniBee |
