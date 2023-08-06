@@ -661,7 +661,7 @@
 | ✅ | sword1 | sword1              | Broken Sword: The Shadow of the Templars                                     | nightm4re94, beresk\_let |
 | ✅ | sword2 | sword2              | Broken Sword II: The Smoking Mirror                                          | nightm4re94, beresk\_let |
 | ✅ | sword25 | sword25             | Broken Sword 2.5                                                             | JenniBee, GandalfTheWhite80 |
-| ✅ | teenagent | teenagent           | Teen Agent                                                                   | robertmegone |
+| ✅ | teenagent | teenagent           | Teen Agent                                                                   | robertmegone, GandalfTheWhite80 |
 | ✅ | tetraedge | syberia           | Syberia                                                                     | GandalfTheWhite80 |
 | ✅ | tetraedge | syberia2           | Syberia II                                                                 | GandalfTheWhite80 |
 | ✅ | tinsel | dw                  | Discworld                                                                    | rehail, GandalfTheWhite80 |
