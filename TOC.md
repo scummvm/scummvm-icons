@@ -416,9 +416,9 @@
 | ⬜️ | gob | dynasty             | The Last Dynasty                                                             | |
 | ✅ | gob | fascination         | Fascination                                                                  | JenniBee, GandalfTheWhite80 |
 | ✅ | gob | geisha              | Geisha                                                                       | JenniBee, GandalfTheWhite80 |
-| ✅ | gob | gob1                | Gobliiins                                                                    | nightm4re94 |
-| ✅ | gob | gob2                | Gobliins 2                                                                   | nightm4re94 |
-| ✅ | gob | gob3                | Goblins Quest 3                                                              |Canuma|
+| ✅ | gob | gob1                | Gobliiins                                                                    | nightm4re94, GandalfTheWhite80 |
+| ✅ | gob | gob2                | Gobliins 2                                                                   | nightm4re94, GandalfTheWhite80 |
+| ✅ | gob | gob3                | Goblins Quest 3                                                              |Canuma, GandalfTheWhite80|
 | ✅ | gob | inca2               | Inca II: Wiracocha                                                           | BJNFNE, GandalfTheWhite80 |
 | ✅ | gob | lit                 | Lost in Time                                                                 | Matt, GandalfTheWhite80 |
 | ⬜️ | gob | lit1                | Lost in Time Part 1                                                          | |
