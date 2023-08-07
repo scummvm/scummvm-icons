@@ -533,7 +533,7 @@
 | ⬜️ | sci | hoyle5children      | Hoyle Children's Collection                                                  | |
 | ✅ | sci | hoyle5solitaire     | Hoyle Solitaire                                                              | tag2015 |
 | ✅ | sci | iceman              | Codename: Iceman                                                             | rehail |
-| ✅ | sci | islandbrain         | The Island of Dr. Brain                                                      | thedoc |
+| ✅ | sci | islandbrain         | The Island of Dr. Brain                                                      | thedoc, GandalfTheWhite80 |
 | ✅ | sci | jones               | Jones in the Fast Lane                                                       | Tucky27, GandalfTheWhite80 |
 | ✅ | sci | kq1sci              | King's Quest I: Quest for the Crown                                          | dotdc, Tucky27 |
 | ✅ | sci | kq4sci              | King's Quest IV: The Perils of Rosella                                       | JenniBee, Tucky27, GandalfTheWhite80 |
