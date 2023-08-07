@@ -499,7 +499,7 @@
 | ✅ | pink | peril                | The Pink Panther: Passport to Peril                                        | tag2015, GandalfTheWhite80 |
 | ✅ | pink | pokus                | The Pink Panther: Hokus Pokus Pink                                         | Tucky27 |
 | ✅ | plumbers | plumbers            | Plumbers Don't Wear Ties!                                                    | nightm4re94, GandalfTheWhite80 |
-| ✅ | prince | prince              | The Prince and the Coward                                                    | JenniBee |
+| ✅ | prince | prince              | The Prince and the Coward                                                    | JenniBee, GandalfTheWhite80 |
 | ✅ | private | private-eye         | Private Eye                                                                  | [Adventure Gamers page](https://adventuregamers.com/games/view/16575) |
 | ✅ | queen | queen               | Flight of the Amazon Queen                                                   | NekoFever, GandalfTheWhite80 |
 | ✅ | saga | ihnm                | I Have No Mouth and I Must Scream                                            | NekoFever, GandalfTheWhite80 |
