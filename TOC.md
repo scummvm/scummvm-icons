@@ -572,7 +572,7 @@
 | ✅ | sci | rama                | RAMA                                                                         | thedoc |
 | ⬜️ | sci | sci                 | Sierra SCI Game                                                              | |
 | ⬜️ | sci | sci-fanmade         | Fanmade SCI Game                                                             | |
-| ✅ | sci | shivers             | Shivers                                                                      | thedoc |
+| ✅ | sci | shivers             | Shivers                                                                      | thedoc, GandalfTheWhite80 |
 | ✅ | sci | slater              | Slater & Charlie Go Camping                                                  | GandalfTheWhite80 |
 | ✅ | sci | sq1sci              | Space Quest I: The Sarien Encounter                                          | JenniBee, Tucky27 |
 | ✅ | sci | sq3                 | Space Quest III: The Pirates of Pestulon                                     | JenniBee |
