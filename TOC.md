@@ -569,7 +569,7 @@
 | ✅ | sci | qfg2                | Quest for Glory II: Trial by Fire                                            | JenniBee, Tucky27 |
 | ✅ | sci | qfg3                | Quest for Glory III: Wages of War                                            | JenniBee |
 | ✅ | sci | qfg4                | Quest for Glory IV: Shadows of Darkness                                      | JenniBee, Tucky27 |
-| ✅ | sci | rama                | RAMA                                                                         | thedoc |
+| ✅ | sci | rama                | RAMA                                                                         | thedoc, GandalfTheWhite80 |
 | ⬜️ | sci | sci                 | Sierra SCI Game                                                              | |
 | ⬜️ | sci | sci-fanmade         | Fanmade SCI Game                                                             | |
 | ✅ | sci | shivers             | Shivers                                                                      | thedoc, GandalfTheWhite80 |
