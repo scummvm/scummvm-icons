@@ -113,7 +113,7 @@
 | ✅ | ags | downfall2009        | Downfall (2009)                                                              | GandalfTheWhite80 |
 | ✅ | ags | downfall2016        | Downfall (2016)                                                              | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | dreamswitchhouse    | Dreams in the Witch House                                                    | tag2015 |
-| ✅ | ags | dustbowl            | Dustbowl                                                                     | DavidAriyan |
+| ✅ | ags | dustbowl            | Dustbowl                                                                     | DavidAriyan, tag2015 |
 | ✅ | ags | escapefromthechaoticcity | Escape From The Chaotic City                                            | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | excavationhb         | The Excavation of Hob's Barrow                                              | tag2015 |
 | ✅ | ags | fall                 | Fall                                                                         | DavidAriyan |
@@ -197,7 +197,7 @@
 | ✅ | ags | richardandalice     | Richard and Alice                                                            | tag2015 |
 | ⬜️ | ags | rnrneverdies         | Rock 'n' Roll Will Never Die!                                               | |
 | ✅ | ags | rogue                | Rogue                                                                       | DavidAriyan |
-| ⬜️ | ags | roguestate         | Rogue State                                                                   | |
+| ✅ | ags | roguestate         | Rogue State                                                                   | tag2015 |
 | ✅ | ags | samaritan           | The Samaritan Paradox                                                        | DavidAriyan |
 | ✅ | ags | sepulchre            | Sepulchre                                                                   | DavidAriyan |
 | ✅ | ags | shardlight           | Shardlight                                                                  | tag2015 |
