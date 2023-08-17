@@ -406,9 +406,13 @@
 | ⬜️ | gob | abracadabra         | Once Upon A Time: Abracadabra                                                | |
 | ✅ | gob | adi2                 | ADI 2                                                                       | BJNFNE, GandalfTheWhite80 |
 | ✅ | gob | adi4                 | ADI 4                                                                       | BJNFNE, GandalfTheWhite80 |
+| ⬜️ | gob | adi5                 | ADI 5                                                                       | |
 | ✅ | gob | adibou1              | ADIBOU 1                                                                       | sdelamarre, GandalfTheWhite80 |
 | ✅ | gob | adibou2              | ADIBOU 2                                                                       | sdelamarre, GandalfTheWhite80 |
-| ✅ | gob | adibou3              | ADIBOU 3                                                                       | sdelamarre, GandalfTheWhite80 |
+| ✅ | gob | adibou3              | ADIBOU 3                                                                       | sdelamarre, GandalfTheWhite80, BJNFNE |
+| ⬜️ | gob | adiboudessin         | Adibou presente Dessin                                                          | |
+| ⬜️ | gob | adiboudchoumer       | Adiboud'chou a la mer                                                         | |
+| ⬜️ | gob | adiboudchoubanquise  | Adiboud'chou sur la banquise                                                  | |
 | ⬜️ | gob | babayaga            | Once Upon A Time: Baba Yaga                                                  | |
 | ✅ | gob | bambou              | Playtoons Limited Edition - Bambou le sauveur de la jungle                   | Matt, GandalfTheWhite80 |
 | ✅ | gob | bargon              | Bargon Attack                                                                |Canuma, GandalfTheWhite80 |
