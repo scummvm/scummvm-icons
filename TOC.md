@@ -684,7 +684,8 @@
 | ✅ | ultima | martiandreams       | Ultima - Martian Dreams                                                      | Tucky27 |
 | ✅ | ultima | remorse             | Crusader: No Remorse                                                         | Tucky27 |
 | ✅ | ultima | thesavageempire     | Worlds of Ultima: The Savage Empire                                          | Tucky27 |
-| ✅ | ultima | ultima4             | Ultima IV - Quest of the Avatar                                              | Tucky27 |
+| ✅ | ultima | ultima4             | Ultima IV - Quest of the Avatar                                              | Tucky27, GandalfTheWhite80 |
+| ✅ | ultima | ultima4_enh         | Ultima IV - Quest of the Avatar                                              | Tucky27, GandalfTheWhite80 |
 | ✅ | ultima | ultima6             | Ultima VI - The False Prophet                                                | Tucky27 |
 | ✅ | ultima | ultima8             | Ultima VIII - Pagan                                                          | Tucky27 |
 | ✅ | vcruise  | reah                 | Reah: Face the Unknown                                                        | GandalfTheWhite80 |
