@@ -690,7 +690,7 @@
 | ✅ | ultima | ultima4_enh         | Ultima IV - Quest of the Avatar                                              | Tucky27, GandalfTheWhite80 |
 | ✅ | ultima | ultima6             | Ultima VI - The False Prophet                                                | Tucky27, GandalfTheWhite80 |
 | ✅ | ultima | ultima6_enh         | Ultima VI - The False Prophet                                                | Tucky27, GandalfTheWhite80 |
-| ✅ | ultima | ultima8             | Ultima VIII - Pagan                                                          | Tucky27 |
+| ✅ | ultima | ultima8             | Ultima VIII - Pagan                                                          | Tucky27, GandalfTheWhite80 |
 | ✅ | vcruise  | reah                 | Reah: Face the Unknown                                                        | GandalfTheWhite80 |
 | ✅ | vcruise | schizm                 | Schizm: Mysterious Journey                                                   | GandalfTheWhite80 |
 | ✅ | voyeur | voyeur              | Voyeur                                                                       | JenniBee, GandalfTheWhite80 |
