@@ -16,7 +16,7 @@
 | ✅ | agi | caitlyn             | Caitlyn's Destiny                                                            | Tucky27, GandalfTheWhite80 |
 | ✅ | agi | ddp                 | Donald Duck's Playground                                                     | JenniBee, GandalfTheWhite80 |
 | ⬜️ | agi | enclosure           | Enclosure                                                                    | |
-| ✅ | agi | goldrush            | Gold Rush!                                                                   | dotdc, Tucky27 |
+| ✅ | agi | goldrush            | Gold Rush!                                                                   | dotdc, Tucky27, GandalfTheWhite80 |
 | ✅ | agi | kq1                 | King's Quest I: Quest for the Crown                                          | dotdc, Tucky27, GandalfTheWhite80 |
 | ✅ | agi | kq2                 | King's Quest II: Romancing the Throne                                        | dotdc, Tucky27, GandalfTheWhite80 |
 | ✅ | agi | kq3                 | King's Quest III: To Heir Is Human                                           | dotdc, Tucky27, GandalfTheWhite80 |
