@@ -53,6 +53,7 @@
 | ✅ | ags | 6daysasacrifice     | 6 Days a Sacrifice                                                           | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | 7daysaskeptic       | 7 Days a Skeptic                                                             | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | 9hourstodawn         | 9 Hours to Dawn                                                             | DavidAriyan, GandalfTheWhite80 |
+| ✅ | ags | absurdistan         | Absurdistan                                                                  | tag2015, GandalfTheWhite80 |
 | ✅ | ags | achristmasnightmare  | A Christmas Nightmare                                                       | DavidAriyan |
 | ✅ | ags | adateinthepark      | A Date in the Park                                                           | DavidAriyan |
 | ✅ | ags | aeronuts             | Aeronuts                                                                    | DavidAriyan |
@@ -65,7 +66,7 @@
 | ✅ | ags | almostblue          | Amost Blue                                                                   | DavidAriyan |
 | ⬜️ | ags | alum                | Alum                                                                         | |
 | ⬜️ | ags | amongthorns         | Among Thorns                                                                 | |
-| ⬜️ | ags | apotheosis          | The Apotheosis Project                                                       | |
+| ✅ | ags | apotheosis          | The Apotheosis Project                                                       | tag2015, GandalfTheWhite80 |
 | ⬜️ | ags | apprentice           | Apprentice                                                                  | |
 | ⬜️ | ags | apprentice2          | Apprentice II: The Knight's Move                                            | |
 | ✅ | ags | archeos              | Archeos                                                                     | DavidAriyan |
@@ -77,7 +78,7 @@
 | ✅ | ags | bentheredanthat    | Ben There, Dan That!                                                          | tag2015 |
 | ✅ | ags | beyondhorizon        | Beyond Horizon                                                              | DavidAriyan, tag2015|
 | ✅ | ags | beyondowlsgard      | Beyond the Edge of Owlsgard                                                  | tag2015 |
-| ⬜️ | ags | billymasterswasright| Billy Masters Was Right                                                      | |
+| ✅ | ags | billymasterswasright| Billy Masters Was Right                                                      | tag2015, GandalfTheWhite80 |
 | ✅ | ags | bitstream           | Bitstream                                                                    | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | blackmorph           | Black Morph                                                                 | DavidAriyan |
 | ✅ | ags | blacksect1          | Black Sect Remake                                                            | DavidAriyan |
@@ -98,7 +99,9 @@
 | ⬜️ | ags | cartlife             | Cart Life                                                                   | |
 | ✅ | ags | cedricandtherevolution | Cedric and the Revolution |                                               | marus70, GandalfTheWhite80 |
 | ✅ | ags | charnelhousetrilogy  | The Charnel House Trilogy                                                   | DavidAriyan, tag2015 |
-| ✅ | ags | chronicleofinnsmouth | Chronical Of Innsmouth                                                      | DavidAriyan, tag2015 |
+| ✅ | ags | chronicleofinnsmouth | Chronicle Of Innsmouth                                                      | DavidAriyan, tag2015 |
+| ⬜️ | ags | clotildesoffritti    | Clotilde Soffritti in: Never Buy a Used Spaceship                           | |
+| ✅ | ags | clotildesoffritti2   | Clotilde Soffritti in: Never Double Park Your Spaceship                     | tag2015, GandalfTheWhite80 |
 | ✅ | ags | comedyquest          | Comedy Quest                                                                | tag2015 |
 | ✅ | ags | concurrence          | Concurrence                                                                 | DavidAriyan |
 | ✅ | ags | conspiracybelowzero  | Conspiracy: Below Zero                                                      | DavidAriyan, GandalfTheWhite80 |
@@ -135,7 +138,7 @@
 | ✅ | ags | heroinequest        | Heroine's Quest                                                              | tag2015 |
 | ✅ | ags | him                 | Him                                                                          | DavidAriyan, tag2015|
 | ✅ | ags | hjarta              | Hjarta                                                                       | DavidAriyan |
-| ✅ | ags | iamjason            | I Am Jason                                                                   | DavidAriyan |
+| ✅ | ags | iamjason            | I Am Jason                                                                   | DavidAriyan, tag2015 |
 | ✅ | ags | icantsleep          | I Can't Sleep In Silence                                                     | DavidAriyan |
 | ✅ | ags | icestationzero      | Ice Station Zero                                                             | DavidAriyan |
 | ✅ | ags | inbloom              | In Bloom                                                                    | DavidAriyan, GandalfTheWhite80 |
@@ -168,24 +171,25 @@
 | ✅ | ags | mountainsofmadness   | Chronicle Of Innsmouth: Mountains Of Madness                                | DavidAriyan, tag2015|
 | ✅ | ags | mudlarks             | Mudlarks                                                                    | DavidAriyan |
 | ✅ | ags | mybigsister         | My Big Sister                                                                | Official media |
-| ⬜️ | ags | mybigsisterrm       | My Big Sister Remastered                                                     | |
+| ✅ | ags | mybigsisterrm       | My Big Sister Remastered                                                     | tag2015, GandalfTheWhite80|
 | ✅ | ags | myburdentokeep      | My Burden to Keep                                                            | DavidAriyan |
 | ✅ | ags | myfatherssecret      | My Father's Secret                                                          | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | nellycootalot       | Nelly Cootalot: Spoonbeaks Ahoy!                                             | tag2015 |
-| ⬜️ | ags | nellycootalot-hd    | Nelly Cootalot: Spoonbeaks Ahoy! HD                                          | |
+| ✅ | ags | nellycootalot-hd    | Nelly Cootalot: Spoonbeaks Ahoy! HD                                          | tag2015, GandalfTheWhite80 |
 | ✅ | ags | neofeud             | Neofeud                                                                      | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | neosaires2070       | Neos Aires 2070: Sunday Comes First                                          | DavidAriyan |
 | ✅ | ags | nightmareframes     | Nightmare Frames                                                             | DavidAriyan |
 | ✅ | ags | nofear               | Where No Fear Was                                                           | DavidAriyan, GandalfTheWhite80 |
+| ✅ | ags | oldskies            | Old Skies                                                                    | tag2015, GandalfTheWhite80 |
 | ✅ | ags | oott                | Order of the Thorne: The King's Challenge                                    | Official media|
 | ⬜️ | ags | overtheedge         | The Journey Down: Over the Edge                                              | |
 | ✅ | ags | patchwork           | Patchwork                                                                    | DavidAriyan |
 | ✅ | ags | perfecttides        | Perfect Tides                                                                | tag2015 |
-| ⬜️ | ags | perfidiouspetrolstation | The Perfidious Petrol Station                                            | |
+| ✅ | ags | perfidiouspetrolstation | The Perfidious Petrol Station                                            | tag2015, GandalfTheWhite80 |
 | ⬜️ | ags | personalrocket      | Personal Rocket                                                              | |
 | ✅ | ags | phantomfellows      | The Phantom Fellows                                                          | thevolumeremote |
 | ✅ | ags | primordia           | Primordia                                                                    | Tucky27, GandalfTheWhite80 |
-| ⬜️ | ags | puzzlebots          | Puzzle Bots                                                                  | |
+| ✅ | ags | puzzlebots          | Puzzle Bots                                                                  | tag2015, GandalfTheWhite80 |
 | ✅ | ags | qfg2agdi            | Quest for Glory II: Trial by Fire                                            | Tucky27, tag2015 |
 | ✅ | ags | qfi                 | Quest for Infamy                                                             | tag2015 |
 | ⬜️ | ags | quantumnauts        | Quantumnauts                                                                 | |
@@ -252,7 +256,7 @@
 | ✅ | ags | unavowed            | Unavowed                                                                     | DavidAriyan |
 | ✅ | ags | unbound             | Unbound                                                                      | DavidAriyan |
 | ✅ | ags | untilihaveyou       | Until I have you                                                             | DavidAriyan |
-| ⬜️ | ags | urbanwitchstory     | Urban Witch Story                                                            | |
+| ✅ | ags | urbanwitchstory     | Urban Witch Story                                                            | tag2015, GandalfTheWhite80 |
 | ✅ | ags | wduprodigal         | Prodigal                                                                     | DavidAriyan |
 | ✅ | ags | whispersofamachine  | Whispers of a Machine                                                        | tag2015 |
 | ✅ | ags | witchlullaby        | The Witch's Lullaby                                                          | DavidAriyan |
@@ -709,6 +713,7 @@
 | ⬜️ | wintermute | reversion3          | Reversion: The Return                                                        | |
 | ✅ | wintermute | ritter              | 1 1/2 Ritter: Auf der Suche nach der hinreissenden Herzelinde                | tag2015 |
 | ✅ | wintermute | rosemary            | Rosemary                                                                     | tag2015 |
+| ✅ | wintermute | thekite             | The Kite                                                                     | tag2015, GandalfTheWhite80 |
 | ✅ | wintermute | twc                 | The White Chamber                                                            | tag2015 |
 | ✅ | xeen | cloudsofxeen        | Might and Magic IV: Clouds of Xeen                                           | GandalfTheWhite80 |
 | ✅ | xeen | darksideofxeen      | Might and Magic V: Dark Side of Xeen                                         | GandalfTheWhite80 |
