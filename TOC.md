@@ -417,6 +417,8 @@
 | ⬜️ | gob | adiboudessin         | Adibou presente Dessin                                                      | |
 | ⬜️ | gob | adiboudchoumer       | Adiboud'chou a la mer                                                       | |
 | ⬜️ | gob | adiboudchoubanquise  | Adiboud'chou sur la banquise                                                | |
+| ⬜️ | gob | adiboudchoucampagne  | Adiboud'chou a la campagne                                                  | |
+| ⬜️ | gob | adiboudchoujunglesavane | Adiboud'chou dans la jungle et la savane                                 | |
 | ⬜️ | gob | babayaga            | Once Upon A Time: Baba Yaga                                                  | |
 | ✅ | gob | bambou              | Playtoons Limited Edition - Bambou le sauveur de la jungle                   | Matt, GandalfTheWhite80 |
 | ✅ | gob | bargon              | Bargon Attack                                                                |Canuma, GandalfTheWhite80 |
