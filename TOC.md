@@ -661,7 +661,7 @@
 | ✅ | scumm | tentacle            | Day of the Tentacle                                                          | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | thinker1            | Big Thinkers First Grade                                                     | Tucky27 |
 | ✅ | scumm | thinkerk            | Big Thinkers Kindergarten                                                    | Tucky27,GandalfTheWhite80 |
-| ✅ | scumm | water               | Freddi Fish and Luther's Water Worries                                       | Tucky27 |
+| ✅ | scumm | water               | Freddi Fish and Luther's Water Worries                                       | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | zak                 | Zak McKracken and the Alien Mindbenders                                      | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | zakloom             | Zak McKracken & Loom                                                         | JenniBee, GandalfTheWhite80|
 | ✅ | sherlock | rosetattoo          | The Case of the Rose Tattoo                                                  | Tucky27 |
