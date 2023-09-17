@@ -653,7 +653,7 @@
 | ⬜️ | scumm | samsfunshop         | Pajama Sam's One-Stop Fun Shop                                               | |
 | ✅ | scumm | soccer              | Backyard Soccer                                                              | tag2015 |
 | ✅ | scumm | soccer2004          | Backyard Soccer 2004                                                         | Tucky27 |
-| ✅ | scumm | soccermls           | Backyard Soccer MLS Edition                                                  | Tucky27 |
+| ✅ | scumm | soccermls           | Backyard Soccer MLS Edition                                                  | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | socks               | Pajama Sam's Sock Works                                                      | GandalfTheWhite80 |
 | ✅ | scumm | spyfox              | SPY Fox 1: Dry Cereal                                                        | Tucky27 |
 | ✅ | scumm | spyfox2             | SPY Fox 2: Some Assembly Required                                            | Tucky27 |
