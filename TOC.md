@@ -647,7 +647,7 @@
 | ✅ | scumm | puttrace            | Putt-Putt Enters the Race                                                    | Retrodude |
 | ✅ | scumm | puttsfunshop        | Putt-Putt's One-Stop Fun Shop                                                | Tucky27 |
 | ✅ | scumm | putttime            | Putt-Putt Travels Through Time                                               | Retrodude |
-| ✅ | scumm | puttzoo             | Putt-Putt Saves the Zoo                                                      | Retrodude |
+| ✅ | scumm | puttzoo             | Putt-Putt Saves the Zoo                                                      | Retrodude, GandalfTheWhite80 |
 | ✅ | scumm | readtime            | Blue's Reading Time Activities                                               | Tucky27 |
 | ✅ | scumm | samnmax             | Sam & Max Hit the Road                                                       | JenniBee, GandalfTheWhite80 |
 | ⬜️ | scumm | samsfunshop         | Pajama Sam's One-Stop Fun Shop                                               | |
