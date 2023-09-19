@@ -642,7 +642,7 @@
 | ✅ | scumm | pass                | Passport to Adventure                                                        | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | pjgames             | Pajama Sam: Games to Play on Any Day                                         | Tucky27 |
 | ✅ | scumm | puttcircus          | Putt-Putt Joins the Circus                                                   | Retrodude |
-| ✅ | scumm | puttmoon            | Putt-Putt Goes to the Moon                                                   | Tucky27 |
+| ✅ | scumm | puttmoon            | Putt-Putt Goes to the Moon                                                   | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | puttputt            | Putt-Putt Joins the Parade                                                   | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | puttrace            | Putt-Putt Enters the Race                                                    | Retrodude |
 | ✅ | scumm | puttsfunshop        | Putt-Putt's One-Stop Fun Shop                                                | Tucky27 |
