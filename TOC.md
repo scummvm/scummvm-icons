@@ -644,7 +644,7 @@
 | ✅ | scumm | puttcircus          | Putt-Putt Joins the Circus                                                   | Retrodude |
 | ✅ | scumm | puttmoon            | Putt-Putt Goes to the Moon                                                   | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | puttputt            | Putt-Putt Joins the Parade                                                   | Tucky27, GandalfTheWhite80 |
-| ✅ | scumm | puttrace            | Putt-Putt Enters the Race                                                    | Retrodude |
+| ✅ | scumm | puttrace            | Putt-Putt Enters the Race                                                    | Retrodude, GandalfTheWhite80 |
 | ✅ | scumm | puttsfunshop        | Putt-Putt's One-Stop Fun Shop                                                | Tucky27 |
 | ✅ | scumm | putttime            | Putt-Putt Travels Through Time                                               | Retrodude |
 | ✅ | scumm | puttzoo             | Putt-Putt Saves the Zoo                                                      | Retrodude, GandalfTheWhite80 |
