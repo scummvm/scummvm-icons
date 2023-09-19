@@ -645,8 +645,8 @@
 | ✅ | scumm | puttmoon            | Putt-Putt Goes to the Moon                                                   | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | puttputt            | Putt-Putt Joins the Parade                                                   | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | puttrace            | Putt-Putt Enters the Race                                                    | Retrodude, GandalfTheWhite80 |
-| ✅ | scumm | puttsfunshop        | Putt-Putt's One-Stop Fun Shop                                                | Tucky27 |
-| ✅ | scumm | putttime            | Putt-Putt Travels Through Time                                               | Retrodude |
+| ✅ | scumm | puttsfunshop        | Putt-Putt's One-Stop Fun Shop                                                | Tucky27, GandalfTheWhite80 |
+| ✅ | scumm | putttime            | Putt-Putt Travels Through Time                                               | Retrodude, GandalfTheWhite80 |
 | ✅ | scumm | puttzoo             | Putt-Putt Saves the Zoo                                                      | Retrodude, GandalfTheWhite80 |
 | ✅ | scumm | readtime            | Blue's Reading Time Activities                                               | Tucky27 |
 | ✅ | scumm | samnmax             | Sam & Max Hit the Road                                                       | JenniBee, GandalfTheWhite80 |
