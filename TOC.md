@@ -640,7 +640,7 @@
 | ✅ | scumm | pajama2             | Pajama Sam 2: Thunder and Lightning Aren't so Frightening                    | Tucky27 |
 | ✅ | scumm | pajama3             | Pajama Sam 3: You Are What You Eat From Your Head to Your Feet               | Tucky27 |
 | ✅ | scumm | pass                | Passport to Adventure                                                        | JenniBee, GandalfTheWhite80 |
-| ✅ | scumm | pjgames             | Pajama Sam: Games to Play on Any Day                                         | Tucky27 |
+| ✅ | scumm | pjgames             | Pajama Sam: Games to Play on Any Day                                         | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | puttcircus          | Putt-Putt Joins the Circus                                                   | Retrodude, GandalfTheWhite80 |
 | ✅ | scumm | puttmoon            | Putt-Putt Goes to the Moon                                                   | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | puttputt            | Putt-Putt Joins the Parade                                                   | Tucky27, GandalfTheWhite80 |
