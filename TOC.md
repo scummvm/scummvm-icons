@@ -641,7 +641,7 @@
 | ✅ | scumm | pajama3             | Pajama Sam 3: You Are What You Eat From Your Head to Your Feet               | Tucky27 |
 | ✅ | scumm | pass                | Passport to Adventure                                                        | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | pjgames             | Pajama Sam: Games to Play on Any Day                                         | Tucky27 |
-| ✅ | scumm | puttcircus          | Putt-Putt Joins the Circus                                                   | Retrodude |
+| ✅ | scumm | puttcircus          | Putt-Putt Joins the Circus                                                   | Retrodude, GandalfTheWhite80 |
 | ✅ | scumm | puttmoon            | Putt-Putt Goes to the Moon                                                   | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | puttputt            | Putt-Putt Joins the Parade                                                   | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | puttrace            | Putt-Putt Enters the Race                                                    | Retrodude, GandalfTheWhite80 |
