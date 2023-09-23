@@ -293,6 +293,7 @@
 | ✅ | dragons | dragons             | Blazing Dragons                                                              | dotdc, GandalfTheWhite80 |
 | ✅ | drascula | drascula            | Drascula: The Vampire Strikes Back                                           | Thanius, GandalfTheWhite80 |
 | ✅ | dreamweb | dreamweb            | DreamWeb                                                                     | thedoc, GandalfTheWhite80 |
+| ✅ | freescape | darkside           | Dark Side                                                                   | GandalfTheWhite80 |
 | ✅ | freescape | driller            | Driller                                                                     | GandalfTheWhite80 |
 | ✅ | glk | 7doctors            | The seven doctors                                                            | Tucky27 |
 | ⬜️ | glk | adrianmole1         | Adrian Mole I                                                                | |
