@@ -637,7 +637,7 @@
 | ✅ | scumm | monkey2             | Monkey Island 2: LeChuck's Revenge                                           | Thanius, GandalfTheWhite80 |
 | ✅ | scumm | moonbase            | Moonbase Commander                                                           | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | mustard             | SPY Fox in Hold the Mustard                                                  | Tucky27 |
-| ✅ | scumm | pajama              | Pajama Sam 1: No Need to Hide When It's Dark Outside                         | Tucky27 |
+| ✅ | scumm | pajama              | Pajama Sam 1: No Need to Hide When It's Dark Outside                         | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | pajama2             | Pajama Sam 2: Thunder and Lightning Aren't so Frightening                    | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | pajama3             | Pajama Sam 3: You Are What You Eat From Your Head to Your Feet               | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | pass                | Passport to Adventure                                                        | JenniBee, GandalfTheWhite80 |
