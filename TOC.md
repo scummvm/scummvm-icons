@@ -607,7 +607,7 @@
 | ✅ | scumm | bluesbirthday       | Blue's Birthday Adventure                                                    | Tucky27 |
 | ✅ | scumm | bluestreasurehunt   | Blue's Treasure Hunt                                                         | Tucky27 |
 | ✅ | scumm | brstorm             | Bear Stormin'                                                                | Tucky27 |
-| ✅ | scumm | catalog             | Humongous Interactive Catalog                                                | Tucky27 |
+| ✅ | scumm | catalog             | Humongous Interactive Catalog                                                | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | chase               | SPY Fox in Cheese Chase                                                      | Tucky27 |
 | ✅ | scumm | comi                | The Curse of Monkey Island                                                   | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | dig                 | The Dig                                                                      | Urgeistenergie |
