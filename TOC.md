@@ -287,7 +287,7 @@
 | ✅ | director | chaos               | The C.H.A.O.S. Continuum                                                     | Tucky27 |
 | ✅ | director | kyoto               | Cosmology of Kyoto                                                           | Tucky27 |
 | ✅ | director | lzone               | L-Zone                                                                       | Tucky27, GandalfTheWhite80 |
-| ✅ | director | majestic            | Majestic Part 1: Alien Encounter                                             | Tucky27 |
+| ✅ | director | majestic            | Majestic Part 1: Alien Encounter                                             | Tucky27, GandalfTheWhite80 |
 | ✅ | director | warlock             | Spaceship Warlock                                                            | Tucky27 |
 | ✅ | draci | draci               | Draci Historie                                                               | JenniBee, GandalfTheWhite80 |
 | ✅ | dragons | dragons             | Blazing Dragons                                                              | dotdc, GandalfTheWhite80 |
