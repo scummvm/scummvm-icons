@@ -679,7 +679,7 @@
 | ✅ | tetraedge | syberia2           | Syberia II                                                                 | GandalfTheWhite80 |
 | ✅ | tinsel | dw                  | Discworld                                                                    | rehail, GandalfTheWhite80 |
 | ✅ | tinsel | dw2                 | Discworld 2: Missing Presumed ...!?                                          | JenniBee, GandalfTheWhite80 |
-| ✅ | titanic | titanic             | Starship Titanic                                                             | thedoc |
+| ✅ | titanic | titanic             | Starship Titanic                                                             | thedoc, GandalfTheWhite80 |
 | ✅ | toltecs | toltecs             | 3 Skulls of the Toltecs                                                      |Canuma, GandalfTheWhite80|
 | ✅ | tony | tony                | Tony Tough and the Night of Roasted Moths                                    | rehail |
 | ✅ | toon | toon                | Toonstruck                                                                   | JenniBee, GandalfTheWhite80 |
