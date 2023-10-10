@@ -712,7 +712,7 @@
 | ✅ | wintermute | helga           | Helga Deep In Trouble                                                        | GandalfTheWhite80 |
 | ✅ | wintermute | openquest           | Open Quest                                                                   | JenniBee |
 | ✅ | wintermute | reversion1          | Reversion: The Escape                                                        | JenniBee, GandalfTheWhite80 |
-| ✅ | wintermute | reversion2          | Reversion: The Meeting                                                       | JenniBee |
+| ✅ | wintermute | reversion2          | Reversion: The Meeting                                                       | JenniBee, GandalfTheWhite80 |
 | ⬜️ | wintermute | reversion3          | Reversion: The Return                                                        | |
 | ✅ | wintermute | ritter              | 1 1/2 Ritter: Auf der Suche nach der hinreissenden Herzelinde                | tag2015 |
 | ✅ | wintermute | rosemary            | Rosemary                                                                     | tag2015 |
