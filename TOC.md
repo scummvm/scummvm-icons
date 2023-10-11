@@ -385,7 +385,7 @@
 | ✅ | glk | softporn            | Softporn Adventure                                                           | JenniBee, GandalfTheWhite80 |
 | ✅ | glk | sorcerer            | Sorcerer                                                                     | Tucky27 |
 | ✅ | glk | spellbreaker        | Spellbreaker                                                                 | Tucky27 |
-| ✅ | glk | starcross           | Starcross                                                                    | Tucky27 |
+| ✅ | glk | starcross           | Starcross                                                                    | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | stationfall         | Stationfall                                                                  | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | strangeodyssey      | Strange Odyssey                                                              | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | suspect             | Suspect                                                                      | Tucky27 |
