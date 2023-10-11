@@ -630,7 +630,7 @@
 | ✅ | scumm | indyzak             | Indiana Jones and the Last Crusade & Zak McKracken                           | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | jungle              | Let's Explore the Jungle with Buzzy                                          | Tucky27 |
 | ✅ | scumm | loom                | Loom                                                                         | JenniBee, GandalfTheWhite80 |
-| ✅ | scumm | lost                | Pajama Sam's Lost & Found                                                    | Tucky27 |
+| ✅ | scumm | lost                | Pajama Sam's Lost & Found                                                    | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | maniac              | Maniac Mansion                                                               | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | maze                | Freddi Fish and Luther's Maze Madness                                        | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | monkey              | The Secret of Monkey Island                                                  | Thanius, GandalfTheWhite80 |
