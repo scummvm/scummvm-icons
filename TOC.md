@@ -628,7 +628,7 @@
 | ✅ | scumm | indy3               | Indiana Jones and the Last Crusade                                           | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | indyloom            | Indiana Jones and the Last Crusade & Loom                                    | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | indyzak             | Indiana Jones and the Last Crusade & Zak McKracken                           | JenniBee, GandalfTheWhite80 |
-| ✅ | scumm | jungle              | Let's Explore the Jungle with Buzzy                                          | Tucky27 |
+| ✅ | scumm | jungle              | Let's Explore the Jungle with Buzzy                                          | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | loom                | Loom                                                                         | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | lost                | Pajama Sam's Lost & Found                                                    | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | maniac              | Maniac Mansion                                                               | JenniBee, GandalfTheWhite80 |
