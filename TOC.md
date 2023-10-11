@@ -309,7 +309,7 @@
 | ✅ | glk | ballyhoo            | Ballyhoo                                                                     | Tucky27 |
 | ✅ | glk | beyondzork          | Beyond Zork                                                                  | JenniBee, GandalfTheWhite80 |
 | ✅ | glk | borderzone          | Border Zone                                                                  | Tucky27 |
-| ✅ | glk | buckaroobanzai      | Buckaroo Banzai                                                              | Tucky27 |
+| ✅ | glk | buckaroobanzai      | Buckaroo Banzai                                                              | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | bureaucracy         | Bureaucracy                                                                  | Tucky27 , GandalfTheWhite80|
 | ✅ | glk | ccfirstadv          | Colossal Cave - The First Adventure                                          | JenniBee, Tucky27 |
 | ✅ | glk | claymorguesorcerer  | Sorcerer of Claymorgue Castle                                                | Tucky27 |
@@ -323,7 +323,7 @@
 | ✅ | glk | elf20               | The Elf's Christmas Adventure                                                | JenniBee |
 | ✅ | glk | elves87             | Elves '87                                                                    | JenniBee |
 | ⬜️ | glk | emeraldisle         | Emerald Isle                                                                 | |
-| ✅ | glk | enchanter           | Enchanter                                                                    | Tucky27 |
+| ✅ | glk | enchanter           | Enchanter                                                                    | Tucky27, GandalfTheWhite80 |
 | ⬜️ | glk | eriktheviking       | Erik the Viking                                                              | |
 | ✅ | glk | fish                | Fish!                                                                        | tag2015, GandalfTheWhite80 |
 | ✅ | glk | ghosttown           | Ghost Town                                                                   | Tucky27, GandalfTheWhite80 |
