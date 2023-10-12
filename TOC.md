@@ -624,7 +624,7 @@
 | ✅ | scumm | freddicove          | Freddi Fish 5: The Case of the Creature of Coral Cove                        | Retrodude |
 | ✅ | scumm | freddisfunshop      | Freddi Fish's One-Stop Fun Shop                                              | Tucky27 |
 | ✅ | scumm | ft                  | Full Throttle                                                                | JenniBee |
-| ✅ | scumm | funpack             | Putt-Putt's Fun Pack                                                         |Tucky27  |
+| ✅ | scumm | funpack             | Putt-Putt's Fun Pack                                                         |Tucky27, GandalfTheWhite80  |
 | ✅ | scumm | indy3               | Indiana Jones and the Last Crusade                                           | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | indyloom            | Indiana Jones and the Last Crusade & Loom                                    | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | indyzak             | Indiana Jones and the Last Crusade & Zak McKracken                           | JenniBee, GandalfTheWhite80 |
