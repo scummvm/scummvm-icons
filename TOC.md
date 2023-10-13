@@ -621,7 +621,7 @@
 | ✅ | scumm | freddi2             | Freddi Fish 2: The Case of the Haunted Schoolhouse                           | Retrodude |
 | ✅ | scumm | freddi3             | Freddi Fish 3: The Case of the Stolen Conch Shell                            | Retrodude |
 | ✅ | scumm | freddi4             | Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch               | Retrodude |
-| ✅ | scumm | freddicove          | Freddi Fish 5: The Case of the Creature of Coral Cove                        | Retrodude |
+| ✅ | scumm | freddicove          | Freddi Fish 5: The Case of the Creature of Coral Cove                        | Retrodude, GandalfTheWhite80 |
 | ✅ | scumm | freddisfunshop      | Freddi Fish's One-Stop Fun Shop                                              | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | ft                  | Full Throttle                                                                | JenniBee |
 | ✅ | scumm | funpack             | Putt-Putt's Fun Pack                                                         |Tucky27, GandalfTheWhite80  |
