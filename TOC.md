@@ -617,9 +617,9 @@
 | ✅ | scumm | fbpack              | Fatty Bear's Fun Pack                                                        | Tucky27 |
 | ✅ | scumm | football            | Backyard Football                                                            | Tucky27 |
 | ✅ | scumm | football2002        | Backyard Football 2002                                                       | Tucky27 |
-| ✅ | scumm | freddi              | Freddi Fish 1: The Case of the Missing Kelp Seeds                            | Retrodude |
-| ✅ | scumm | freddi2             | Freddi Fish 2: The Case of the Haunted Schoolhouse                           | Retrodude |
-| ✅ | scumm | freddi3             | Freddi Fish 3: The Case of the Stolen Conch Shell                            | Retrodude |
+| ✅ | scumm | freddi              | Freddi Fish 1: The Case of the Missing Kelp Seeds                            | Retrodude, GandalfTheWhite80 |
+| ✅ | scumm | freddi2             | Freddi Fish 2: The Case of the Haunted Schoolhouse                           | Retrodude, GandalfTheWhite80 |
+| ✅ | scumm | freddi3             | Freddi Fish 3: The Case of the Stolen Conch Shell                            | Retrodude, GandalfTheWhite80 |
 | ✅ | scumm | freddi4             | Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch               | Retrodude, GandalfTheWhite80 |
 | ✅ | scumm | freddicove          | Freddi Fish 5: The Case of the Creature of Coral Cove                        | Retrodude, GandalfTheWhite80 |
 | ✅ | scumm | freddisfunshop      | Freddi Fish's One-Stop Fun Shop                                              | Tucky27, GandalfTheWhite80 |
