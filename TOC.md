@@ -615,7 +615,7 @@
 | ✅ | scumm | farm                | Let's Explore the Farm with Buzzy                                            | Tucky27 |
 | ✅ | scumm | fbear               | Fatty Bear's Birthday Surprise                                               | Tucky27 |
 | ✅ | scumm | fbpack              | Fatty Bear's Fun Pack                                                        | Tucky27 |
-| ✅ | scumm | football            | Backyard Football                                                            | Tucky27 |
+| ✅ | scumm | football            | Backyard Football                                                            | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | football2002        | Backyard Football 2002                                                       | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | freddi              | Freddi Fish 1: The Case of the Missing Kelp Seeds                            | Retrodude, GandalfTheWhite80 |
 | ✅ | scumm | freddi2             | Freddi Fish 2: The Case of the Haunted Schoolhouse                           | Retrodude, GandalfTheWhite80 |
