@@ -608,7 +608,7 @@
 | ✅ | scumm | bluestreasurehunt   | Blue's Treasure Hunt                                                         | Tucky27 |
 | ✅ | scumm | brstorm             | Bear Stormin'                                                                | Tucky27 |
 | ✅ | scumm | catalog             | Humongous Interactive Catalog                                                | Tucky27, GandalfTheWhite80 |
-| ✅ | scumm | chase               | SPY Fox in Cheese Chase                                                      | Tucky27 |
+| ✅ | scumm | chase               | SPY Fox in Cheese Chase                                                      | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | comi                | The Curse of Monkey Island                                                   | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | dig                 | The Dig                                                                      | Urgeistenergie |
 | ✅ | scumm | dog                 | Putt-Putt and Pep's Dog on a Stick                                           | Tucky27, GandalfTheWhite80 |
