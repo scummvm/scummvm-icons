@@ -605,7 +605,7 @@
 | ✅ | scumm | blues123time        | Blue's 123 Time Activities                                                   | Tucky27 |
 | ✅ | scumm | bluesabctime        | Blue's ABC Time Activities                                                   | Tucky27 |
 | ✅ | scumm | bluesbirthday       | Blue's Birthday Adventure                                                    | Tucky27 |
-| ✅ | scumm | bluestreasurehunt   | Blue's Treasure Hunt                                                         | Tucky27 |
+| ✅ | scumm | bluestreasurehunt   | Blue's Treasure Hunt                                                         | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | brstorm             | Bear Stormin'                                                                | Tucky27 |
 | ✅ | scumm | catalog             | Humongous Interactive Catalog                                                | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | chase               | SPY Fox in Cheese Chase                                                      | Tucky27, GandalfTheWhite80 |
