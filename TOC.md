@@ -295,6 +295,7 @@
 | ✅ | dreamweb | dreamweb            | DreamWeb                                                                     | thedoc, GandalfTheWhite80 |
 | ✅ | freescape | darkside           | Dark Side                                                                   | GandalfTheWhite80 |
 | ✅ | freescape | driller            | Driller                                                                     | GandalfTheWhite80 |
+| ✅ | efh | efh                      | Escape From Hell                                                             | GandalfTheWhite80 |
 | ✅ | glk | 7doctors            | The seven doctors                                                            | Tucky27 |
 | ⬜️ | glk | adrianmole1         | Adrian Mole I                                                                | |
 | ⬜️ | glk | adrianmole2         | Adrian Mole II                                                               | |
