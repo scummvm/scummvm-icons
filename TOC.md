@@ -503,7 +503,11 @@
 | ✅ | mortevielle | mortevielle         | Mortville Manor                                                              | WhiteRakogis |
 | ✅ | mtropolis | obsidian         | Obsidian                                                                     | GandalfTheWhite80 |
 | ✅ | myst3 | myst3               | Myst III Exile                                                               | JenniBee, GandalfTheWhite80,beresk\_let |
-| ⬜️ | nancy | nancy1              | Nancy Drew: Secrets Can Kill                                                 | |
+| ✅ | nancy | nancy1              | Nancy Drew: Secrets Can Kill                                                 | GandalfTheWhite80 |
+| ✅ | nancy | nancy2              | Nancy Drew: Stay Tuned for Danger                                            | GandalfTheWhite80 |
+| ✅ | nancy | nancy3              | Nancy Drew: Message in a Haunted Mansion                                     | GandalfTheWhite80 |
+| ✅ | nancy | nancy4              | Nancy Drew: Treasure in the Royal Tower                                      | GandalfTheWhite80 |
+| ✅ | nancy | nancy5              | Nancy Drew: The Final Scene                                                  | GandalfTheWhite80 |
 | ⬜️ | nancy | vampirediaries      | The Vampire Diaries                                                          | |
 | ✅ | neverhood | neverhood           | The Neverhood Chronicles                                                     | JenniBee, GandalfTheWhite80 |
 | ✅ | ngi | fullpipe            | Full Pipe                                                                    | [App Store page](https://apps.apple.com/app/full-pipe-puzzle-adventure/id900071823), GandalfTheWhite80 |
