@@ -600,7 +600,7 @@
 | ✅ | sci | sq6                 | Space Quest 6: The Spinal Frontier                                           | JenniBee |
 | ✅ | sci | torin               | Torin's Passage                                                              | Urgeistenergie, GandalfTheWhite80 |
 | ✅ | scumm | activity            | Putt-Putt & Fatty Bear's Activity Pack                                       | Tucky27; GandalfTheWhite80 |
-| ✅ | scumm | airport             | Let's Explore the Airport with Buzzy                                         | Tucky27 |
+| ✅ | scumm | airport             | Let's Explore the Airport with Buzzy                                         | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | arttime             | Blue's Art Time Activities                                                   | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | atlantis            | Indiana Jones and the Fate of Atlantis                                       | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | balloon             | Putt-Putt and Pep's Balloon-O-Rama                                           | Tucky27, GandalfTheWhite80 |
