@@ -603,7 +603,7 @@
 | ✅ | scumm | airport             | Let's Explore the Airport with Buzzy                                         | Tucky27 |
 | ✅ | scumm | arttime             | Blue's Art Time Activities                                                   | Tucky27 |
 | ✅ | scumm | atlantis            | Indiana Jones and the Fate of Atlantis                                       | JenniBee, GandalfTheWhite80 |
-| ✅ | scumm | balloon             | Putt-Putt and Pep's Balloon-O-Rama                                           | Tucky27 |
+| ✅ | scumm | balloon             | Putt-Putt and Pep's Balloon-O-Rama                                           | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | baseball            | Backyard Baseball                                                            | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | baseball2001        | Backyard Baseball 2001                                                       | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | baseball2003        | Backyard Baseball 2003                                                       | Tucky27, GandalfTheWhite80 |
