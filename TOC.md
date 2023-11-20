@@ -690,7 +690,7 @@
 | ✅ | tony | tony                | Tony Tough and the Night of Roasted Moths                                    | rehail |
 | ✅ | toon | toon                | Toonstruck                                                                   | JenniBee, GandalfTheWhite80 |
 | ✅ | touche | touche              | Touche: The Adventures of the Fifth Musketeer                                |Canuma|
-| ✅ | trecision | nl                  | Nightlong: Union City Conspiracy                                             | Tucky27 |
+| ✅ | trecision | nl                  | Nightlong: Union City Conspiracy                                             | Tucky27, GandalfTheWhite80 |
 | ✅ | tsage | blueforce           | Blue Force                                                                   | JenniBee, GandalfTheWhite80 |
 | ✅ | tsage | ringworld           | Ringworld: Revenge of the Patriarch                                          | JenniBee |
 | ✅ | tsage | ringworld2          | Return to Ringworld                                                          | tag2015 |
