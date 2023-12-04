@@ -501,6 +501,7 @@
 | ✅ | mohawk | stellaluna          | Stellaluna                                                                   | GandalfTheWhite80 |
 | ✅ | mohawk | tortoise            | Aesop's Fables: The Tortoise and the Hare                                    | Tucky27 |
 | ✅ | mortevielle | mortevielle         | Mortville Manor                                                              | WhiteRakogis |
+| ✅ | mtropolis | mti              | Muppet Treasure Island                                                       | GandalfTheWhite80 |
 | ✅ | mtropolis | obsidian         | Obsidian                                                                     | GandalfTheWhite80 |
 | ✅ | myst3 | myst3               | Myst III Exile                                                               | JenniBee, GandalfTheWhite80,beresk\_let |
 | ✅ | nancy | nancy1              | Nancy Drew: Secrets Can Kill                                                 | GandalfTheWhite80 |
