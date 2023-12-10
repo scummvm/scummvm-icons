@@ -296,6 +296,7 @@
 | ✅ | efh | efh                      | Escape From Hell                                                             | GandalfTheWhite80 |
 | ✅ | freescape | darkside           | Dark Side                                                                   | GandalfTheWhite80 |
 | ✅ | freescape | driller            | Driller                                                                     | GandalfTheWhite80 |
+| ✅ | freescape | totaleclipse       | Total Eclipse                                                               | GandalfTheWhite80 |
 | ✅ | glk | 7doctors            | The seven doctors                                                            | Tucky27 |
 | ⬜️ | glk | adrianmole1         | Adrian Mole I                                                                | |
 | ⬜️ | glk | adrianmole2         | Adrian Mole II                                                               | |
@@ -481,7 +482,7 @@
 | ✅ | made | rodney              | Rodney's Funscreen                                                           | Matt, GandalfTheWhite80 |
 | ✅ | made | rtz                 | Return to Zork                                                               | JenniBee, Tucky27 |
 | ✅ | mads | nebular             | Rex Nebular and the Cosmic Gender Bender                                     | TrivialBalderdash |
-| ✅ | mm1 | mm1                    | Might and Magic Book One: The Secret of the Inner Sanctum                    | GandalfTheWhite80 |
+| ✅ | mm1 | mm1                    | Might and Magic Book One: The Secret of the Inner Sanctum                    | GandalfTheWhite80, Tucky27 |
 | ✅ | mohawk | arthur              | Arthur's Teacher Trouble                                                     | mileso |
 | ✅ | mohawk | arthurbday          | Arthur's Birthday                                                            | Tucky27 |
 | ✅ | mohawk | beardark            | The Berenstain Bears In The Dark                                             | Tucky27 |
