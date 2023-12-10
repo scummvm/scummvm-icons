@@ -481,6 +481,7 @@
 | ✅ | made | rodney              | Rodney's Funscreen                                                           | Matt, GandalfTheWhite80 |
 | ✅ | made | rtz                 | Return to Zork                                                               | JenniBee, Tucky27 |
 | ✅ | mads | nebular             | Rex Nebular and the Cosmic Gender Bender                                     | TrivialBalderdash |
+| ✅ | mm1 | mm1                    | Might and Magic Book One: The Secret of the Inner Sanctum                    | GandalfTheWhite80 |
 | ✅ | mohawk | arthur              | Arthur's Teacher Trouble                                                     | mileso |
 | ✅ | mohawk | arthurbday          | Arthur's Birthday                                                            | Tucky27 |
 | ✅ | mohawk | beardark            | The Berenstain Bears In The Dark                                             | Tucky27 |
