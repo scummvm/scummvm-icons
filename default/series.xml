@@ -1,6 +1,8 @@
 <?xml version="1.0" ?>
 <series>
 	<serie id="1213" name="1213"/>
+	<serie id="adi" name="ADI"/>
+	<serie id="adibou" name="Adibou"/>
 	<serie id="agifan" name="AGI Fan"/>
 	<serie id="alemmo" name="Al Emmo"/>
 	<serie id="alimardan" name="Alimardan"/>
@@ -17,14 +19,15 @@
 	<serie id="chzo" name="The Chzo Mythos"/>
 	<serie id="conquests" name="Conquests"/>
 	<serie id="crusader" name="Crusader"/>
+	<serie id="danewguys" name="Da New Guys"/>
 	<serie id="darkfall" name="Dark Fall"/>
 	<serie id="deja_vu" name="Deja Vu"/>
 	<serie id="deviltrilogy" name="Devil Came Through Here Trilogy"/>
 	<serie id="disney" name="Disney AGI"/>
 	<serie id="dw" name="Discworld"/>
 	<serie id="ecoquest" name="EcoQuest"/>
-	<serie id="enchanter" name="Enchanter"/>
 	<serie id="elvira" name="Elvira"/>
+	<serie id="enchanter" name="Enchanter"/>
 	<serie id="eob" name="Eye of the Beholder"/>
 	<serie id="fatman" name="The Adventures of Fatman"/>
 	<serie id="fbear" name="Fatty Bear"/>
@@ -50,7 +53,6 @@
 	<serie id="lba" name="Little Big Adventure"/>
 	<serie id="livingbooks" name="Living Books"/>
 	<serie id="lsl" name="Leisure Suit Larry"/>
-	<serie id="lucasartsnoseries" name="LucasArts no Series"/>
 	<serie id="magictales" name="Magic Tales"/>
 	<serie id="manhunt" name="Manhunter"/>
 	<serie id="maniac" name="Maniac Mansion"/>
@@ -58,6 +60,7 @@
 	<serie id="mixedup" name="Roberta Williams' Mixed-Up"/>
 	<serie id="mm" name="Might and Magic"/>
 	<serie id="myst" name="Myst"/>
+	<serie id="nancy" name="Nancy Drew"/>
 	<serie id="nelly" name="Nelly Cootalot"/>
 	<serie id="ozorwell" name="Oz Orwell"/>
 	<serie id="pajama" name="Pajama Sam"/>
@@ -75,13 +78,13 @@
 	<serie id="roguestate" name="Rogue State"/>
 	<serie id="sherlock" name="Sherlock Holmes"/>
 	<serie id="sierrachristmas" name="Sierra Christmas Cards"/>
-	<serie id="sierranoseries" name="Sierra no Series"/>
 	<serie id="simon" name="Simon the Sorcerer"/>
 	<serie id="spyfox" name="Spy Fox"/>
 	<serie id="sq" name="Space Quest"/>
 	<serie id="startrek" name="Star Trek"/>
 	<serie id="supernova" name="Mission Supernova"/>
 	<serie id="sword" name="Broken Sword"/>
+	<serie id="syberia" name="Syberia"/>
 	<serie id="t7g" name="The 7th Guest"/>
 	<serie id="tanya" name="Tanya Grotter"/>
 	<serie id="tehran" name="Murder in Tehran"/>
