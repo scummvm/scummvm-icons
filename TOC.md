@@ -294,6 +294,7 @@
 | ✅ | drascula | drascula            | Drascula: The Vampire Strikes Back                                           | Thanius, GandalfTheWhite80 |
 | ✅ | dreamweb | dreamweb            | DreamWeb                                                                     | thedoc, GandalfTheWhite80 |
 | ✅ | efh | efh                      | Escape From Hell                                                             | GandalfTheWhite80 |
+| ✅ | freescape | castlemaster       | Castle Master                                                               | GandalfTheWhite80 |
 | ✅ | freescape | darkside           | Dark Side                                                                   | GandalfTheWhite80 |
 | ✅ | freescape | driller            | Driller                                                                     | GandalfTheWhite80 |
 | ✅ | freescape | totaleclipse       | Total Eclipse                                                               | GandalfTheWhite80 |
