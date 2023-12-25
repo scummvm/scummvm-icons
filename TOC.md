@@ -126,10 +126,10 @@
 | ✅ | ags | geminirue           | Gemini Rue                                                                   | DavidAriyan |
 | ✅ | ags | ghostcatchers       | GHOSTCATCHERS                                                                | DavidAriyan |
 | ✅ | ags | ghostdream          | Ghostdream                                                                   | DavidAriyan |
-| ⬜️ | ags | gobliiins5-1        | Gobliiins5 - part 1                                                          | |
-| ⬜️ | ags | gobliiins5-2        | Gobliiins5 - part 2                                                          | |
-| ⬜️ | ags | gobliiins5-3        | Gobliiins5 - part 3                                                          | |
-| ⬜️ | ags | gobliiins5-4        | Gobliiins5 - part 4                                                          | |
+| ✅ | ags | gobliiins5-1        | Gobliiins5 - part 1                                                          | GandalfTheWhite80 |
+| ✅ | ags | gobliiins5-2        | Gobliiins5 - part 2                                                          | GandalfTheWhite80 |
+| ✅ | ags | gobliiins5-3        | Gobliiins5 - part 3                                                          | GandalfTheWhite80 |
+| ✅ | ags | gobliiins5-4        | Gobliiins5 - part 4                                                          | GandalfTheWhite80 |
 | ✅ | ags | goldenwake          | A Golden Wake                                                               | Official media |
 | ✅ | ags | graceward           | Graceward - Complete Edition                                                | FransisKransis (Official media) |
 | ⬜️ | ags | grandmabadass       | GrandMa Badass                                                              | |
@@ -285,6 +285,7 @@
 | ✅ | cruise | cruise              | Cruise for a Corpse                                                          | rehail |
 | ✅ | cryomni3d | versailles          | Versailles 1685                                                              | Tucky27, GandalfTheWhite80 |
 | ✅ | director | chaos               | The C.H.A.O.S. Continuum                                                     | Tucky27 |
+| ✅ | director | gadget              | Gadget: Invention, Travel and Adventure                                      | GandalfTheWhite80 |
 | ✅ | director | kyoto               | Cosmology of Kyoto                                                           | Tucky27 |
 | ✅ | director | lzone               | L-Zone                                                                       | Tucky27, GandalfTheWhite80 |
 | ✅ | director | majestic            | Majestic Part 1: Alien Encounter                                             | Tucky27, GandalfTheWhite80 |
