@@ -291,6 +291,7 @@
 | ✅ | director | lzone               | L-Zone                                                                       | Tucky27, GandalfTheWhite80 |
 | ✅ | director | majestic            | Majestic Part 1: Alien Encounter                                             | Tucky27, GandalfTheWhite80 |
 | ✅ | director | warlock             | Spaceship Warlock                                                            | Tucky27, GandalfTheWhite80 |
+| ✅ | director | wrath               | Wrath of the Gods                                                            | GandalfTheWhite80 |
 | ✅ | draci | draci               | Draci Historie                                                               | JenniBee, GandalfTheWhite80 |
 | ✅ | dragons | dragons             | Blazing Dragons                                                              | dotdc, GandalfTheWhite80 |
 | ✅ | drascula | drascula            | Drascula: The Vampire Strikes Back                                           | Thanius, GandalfTheWhite80 |
