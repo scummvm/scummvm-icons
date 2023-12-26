@@ -284,6 +284,7 @@
 | ✅ | composer | sleepingcub         | Magic Tales: Sleeping Cub's Test of Courage                                  | Tucky27 |
 | ✅ | cruise | cruise              | Cruise for a Corpse                                                          | rehail |
 | ✅ | cryomni3d | versailles          | Versailles 1685                                                              | Tucky27, GandalfTheWhite80 |
+| ✅ | director | alice               | Alice: An Interactive Museum                                                 | GandalfTheWhite80 |
 | ✅ | director | chaos               | The C.H.A.O.S. Continuum                                                     | Tucky27 |
 | ✅ | director | gadget              | Gadget: Invention, Travel and Adventure                                      | GandalfTheWhite80 |
 | ✅ | director | kyoto               | Cosmology of Kyoto                                                           | Tucky27 |
