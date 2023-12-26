@@ -705,8 +705,10 @@
 | ✅ | tucker | tucker              | Bud Tucker in Double Trouble                                                 | JenniBee, GandalfTheWhite80 |
 | ✅ | twine | lba                 | Little Big Adventure                                                         | Tucky27, GandalfTheWhite80 |
 | ✅ | ultima | martiandreams       | Ultima - Martian Dreams                                                      | Tucky27, GandalfTheWhite80 |
+| ✅ | ultima | martiandreams_enh   | Ultima - Martian Dreams                                                      | Tucky27, GandalfTheWhite80 |
 | ✅ | ultima | remorse             | Crusader: No Remorse                                                         | Tucky27, GandalfTheWhite80 |
 | ✅ | ultima | thesavageempire     | Worlds of Ultima: The Savage Empire                                          | Tucky27, GandalfTheWhite80 |
+| ✅ | ultima | thesavageempire_enh | Worlds of Ultima: The Savage Empire                                          | Tucky27, GandalfTheWhite80 |
 | ✅ | ultima | ultima4             | Ultima IV - Quest of the Avatar                                              | Tucky27, GandalfTheWhite80 |
 | ✅ | ultima | ultima4_enh         | Ultima IV - Quest of the Avatar                                              | Tucky27, GandalfTheWhite80 |
 | ✅ | ultima | ultima6             | Ultima VI - The False Prophet                                                | Tucky27, GandalfTheWhite80 |
