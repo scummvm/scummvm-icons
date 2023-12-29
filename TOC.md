@@ -682,7 +682,7 @@
 | ✅ | scumm | water               | Freddi Fish and Luther's Water Worries                                       | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | zak                 | Zak McKracken and the Alien Mindbenders                                      | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | zakloom             | Zak McKracken & Loom                                                         | JenniBee, GandalfTheWhite80|
-| ✅ | sherlock | rosetattoo          | The Case of the Rose Tattoo                                                  | Tucky27 |
+| ✅ | sherlock | rosetattoo          | The Case of the Rose Tattoo                                                  | Tucky27, GandalfTheWhite80 |
 | ✅ | sherlock | scalpel             | The Case of the Serrated Scalpel                                             | Tucky27 |
 | ✅ | sky | sky                 | Beneath a Steel Sky                                                          | nightm4re94 , GandalfTheWhite80|
 | ✅ | stark | tlj                 | The Longest Journey                                                          | JenniBee |
