@@ -286,6 +286,7 @@
 | ✅ | cryomni3d | versailles          | Versailles 1685                                                              | Tucky27, GandalfTheWhite80 |
 | ✅ | director | alice               | Alice: An Interactive Museum                                                 | GandalfTheWhite80 |
 | ✅ | director | chaos               | The C.H.A.O.S. Continuum                                                     | Tucky27 |
+| ✅ | director | cutemachine         | The Cute Machine                                                             | GandalfTheWhite80 |
 | ✅ | director | darkeye             | The Dark Eye                                                                 | GandalfTheWhite80 |
 | ✅ | director | gadget              | Gadget: Invention, Travel and Adventure                                      | GandalfTheWhite80 |
 | ✅ | director | kyoto               | Cosmology of Kyoto                                                           | Tucky27 |
