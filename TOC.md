@@ -284,6 +284,7 @@
 | ✅ | composer | sleepingcub         | Magic Tales: Sleeping Cub's Test of Courage                                  | Tucky27 |
 | ✅ | cruise | cruise              | Cruise for a Corpse                                                          | rehail |
 | ✅ | cryomni3d | versailles          | Versailles 1685                                                              | Tucky27, GandalfTheWhite80 |
+| ✅ | director | apeodyssey          | Ape Odyssey 2001                                                             | GandalfTheWhite80 |
 | ✅ | director | alice               | Alice: An Interactive Museum                                                 | GandalfTheWhite80 |
 | ✅ | director | chaos               | The C.H.A.O.S. Continuum                                                     | Tucky27 |
 | ✅ | director | classicalcats         | Classical Cats                                                             | GandalfTheWhite80 |
@@ -420,7 +421,7 @@
 | ⬜️ | gob | abracadabra         | Once Upon A Time: Abracadabra                                                | |
 | ✅ | gob | adi2                 | ADI 2                                                                       | BJNFNE, GandalfTheWhite80 |
 | ✅ | gob | adi4                 | ADI 4                                                                       | BJNFNE, GandalfTheWhite80 |
-| ⬜️ | gob | adi5                 | ADI 5                                                                       | |
+| ✅ | gob | adi5                 | ADI 5                                                                       | GandalfTheWhite80 |
 | ✅ | gob | adibou1              | ADIBOU 1                                                                    | sdelamarre, GandalfTheWhite80 |
 | ✅ | gob | adibou2              | ADIBOU 2                                                                    | sdelamarre, GandalfTheWhite80 |
 | ✅ | gob | adibou3              | ADIBOU 3                                                                    | sdelamarre, GandalfTheWhite80, BJNFNE |
