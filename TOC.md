@@ -532,7 +532,7 @@
 | ✅ | prince | prince              | The Prince and the Coward                                                    | JenniBee, GandalfTheWhite80 |
 | ✅ | private | private-eye         | Private Eye                                                                  | [Adventure Gamers page](https://adventuregamers.com/games/view/16575) |
 | ✅ | queen | queen               | Flight of the Amazon Queen                                                   | NekoFever, GandalfTheWhite80 |
-| ✅ | saga | fta2                | Halls of the Dead: Faery Tale Adventure II                                   | GandalfTheWhite80 |
+| ✅ | saga2 | fta2               | Halls of the Dead: Faery Tale Adventure II                                   | GandalfTheWhite80 |
 | ✅ | saga | ihnm                | I Have No Mouth and I Must Scream                                            | NekoFever, GandalfTheWhite80 |
 | ✅ | saga | ite                 | Inherit the Earth: Quest for the Orb                                         | JenniBee, GandalfTheWhite80 |
 | ✅ | sci | astrochicken        | Astro Chicken                                                                | thevolumeremote  |
