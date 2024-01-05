@@ -288,12 +288,15 @@
 | ✅ | director | alice               | Alice: An Interactive Museum                                                 | GandalfTheWhite80 |
 | ✅ | director | chaos               | The C.H.A.O.S. Continuum                                                     | Tucky27 |
 | ✅ | director | classicalcats         | Classical Cats                                                             | GandalfTheWhite80 |
+| ✅ | director | chopsuey            | Chop Suey                                                                    | GandalfTheWhite80 |
 | ✅ | director | cutemachine         | The Cute Machine                                                             | GandalfTheWhite80 |
 | ✅ | director | darkeye             | The Dark Eye                                                                 | GandalfTheWhite80 |
+| ✅ | director | easternmind         | Eastern Mind                                                                 | GandalfTheWhite80 |
 | ✅ | director | gadget              | Gadget: Invention, Travel and Adventure                                      | GandalfTheWhite80 |
 | ✅ | director | kyoto               | Cosmology of Kyoto                                                           | Tucky27 |
 | ✅ | director | lzone               | L-Zone                                                                       | Tucky27, GandalfTheWhite80 |
 | ✅ | director | majestic            | Majestic Part 1: Alien Encounter                                             | Tucky27, GandalfTheWhite80 |
+| ✅ | director | timegal             | Time Gal                                                                     | GandalfTheWhite80 |
 | ✅ | director | warlock             | Spaceship Warlock                                                            | Tucky27, GandalfTheWhite80 |
 | ✅ | director | wrath               | Wrath of the Gods                                                            | GandalfTheWhite80 |
 | ✅ | draci | draci               | Draci Historie                                                               | JenniBee, GandalfTheWhite80 |
