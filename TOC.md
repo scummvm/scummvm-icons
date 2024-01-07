@@ -72,7 +72,7 @@
 | ✅ | ags | archeos              | Archeos                                                                     | DavidAriyan |
 | ⬜️ | ags | artofdying           | The Art of Dying                                                            | |
 | ✅ | ags | asecondface         | A Second Face - The Eye of Geltz is watching Us                              | DavidAriyan |
-| ✅ | ags | ashinaredwitch       | Ashina: The Red Witch                                                       | Official media |
+| ✅ | ags | ashinaredwitch       | Ashina: The Red Witch                                                       | Official media, GandalfTheWhite80 |
 | ✅ | ags | atotk               | A Tale Of Two Kingdoms                                                       | tag2015 |
 | ✅ | ags | bcremake            | Black Cauldron Remake                                                        | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | bentheredanthat    | Ben There, Dan That!                                                          | tag2015 |
@@ -102,7 +102,7 @@
 | ✅ | ags | chronicleofinnsmouth | Chronicle Of Innsmouth                                                      | DavidAriyan, tag2015 |
 | ⬜️ | ags | clotildesoffritti    | Clotilde Soffritti in: Never Buy a Used Spaceship                           | |
 | ✅ | ags | clotildesoffritti2   | Clotilde Soffritti in: Never Double Park Your Spaceship                     | tag2015, GandalfTheWhite80 |
-| ✅ | ags | comedyquest          | Comedy Quest                                                                | tag2015 |
+| ✅ | ags | comedyquest          | Comedy Quest                                                                | tag2015, GandalfTheWhite80 |
 | ✅ | ags | concurrence          | Concurrence                                                                 | DavidAriyan |
 | ✅ | ags | conspiracybelowzero  | Conspiracy: Below Zero                                                      | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | contact              | Contact                                                                     | DavidAriyan |
