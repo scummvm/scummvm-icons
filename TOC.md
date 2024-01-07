@@ -177,7 +177,7 @@
 | ✅ | ags | nellycootalot       | Nelly Cootalot: Spoonbeaks Ahoy!                                             | tag2015 |
 | ✅ | ags | nellycootalot-hd    | Nelly Cootalot: Spoonbeaks Ahoy! HD                                          | tag2015, GandalfTheWhite80 |
 | ✅ | ags | neofeud             | Neofeud                                                                      | DavidAriyan, GandalfTheWhite80 |
-| ✅ | ags | neosaires2070       | Neos Aires 2070: Sunday Comes First                                          | DavidAriyan |
+| ✅ | ags | neosaires2070       | Neos Aires 2070: Sunday Comes First                                          | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | nightmareframes     | Nightmare Frames                                                             | DavidAriyan |
 | ✅ | ags | nofear               | Where No Fear Was                                                           | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | oldskies            | Old Skies                                                                    | tag2015, GandalfTheWhite80 |
