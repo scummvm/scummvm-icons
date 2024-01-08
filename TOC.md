@@ -327,7 +327,7 @@
 | ✅ | glk | ccfirstadv          | Colossal Cave - The First Adventure                                          | JenniBee, Tucky27 |
 | ✅ | glk | claymorguesorcerer  | Sorcerer of Claymorgue Castle                                                | Tucky27 |
 | ✅ | glk | colossaladvjod      | Colossal Adventure /JoD                                                      | JenniBee |
-| ✅ | glk | corruption          | Corruption                                                                   | tag2015 |
+| ✅ | glk | corruption          | Corruption                                                                   | tag2015, GandalfTheWhite80 |
 | ✅ | glk | crimsoncrown        | The Crimson Crown                                                            | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | cutthroats          | Cutthroats                                                                   | Tucky27 |
 | ✅ | glk | deadline            | Deadline                                                                     | Tucky27 |
