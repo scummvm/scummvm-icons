@@ -88,7 +88,7 @@
 | ✅ | ags | blackwell4          | The Blackwell Deception                                                      | Tucky27, tag2015 |
 | ✅ | ags | blackwell5          | The Blackwell Epiphany                                                       | tag2015 |
 | ✅ | ags | bloodedfields        | Blooded Fields                                                              | DavidAriyan |
-| ✅ | ags | breakage            | Breakage                                                                     | DavidAriyan |
+| ✅ | ags | breakage            | Breakage                                                                     | DavidAriyan, GandalfTheWhite80 |
 | ⬜️ | ags | breakfastont1        | Breakfast on Trappist-1                                                     | |
 | ⬜️ | ags | brokenwindows1        | Broken Windows - Chapter 1                                                 | |
 | ⬜️ | ags | brokenwindows2        | Broken Windows - Chapter 2                                                 | |
