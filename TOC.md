@@ -370,7 +370,7 @@
 | ✅ | glk | myth                | Myth                                                                         | tag2015 |
 | ✅ | glk | nordbert            | Nord and Bert Couldn't Make Head or Tail of It                               | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | ootopos             | Oo-Topos                                                                     | Tucky27, GandalfTheWhite80 |
-| ✅ | glk | pawn                | the Pawn                                                                     | tag2015 |
+| ✅ | glk | pawn                | the Pawn                                                                     | tag2015, GandalfTheWhite80 |
 | ✅ | glk | pirateadventure     | Pirate Adventure                                                             | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | pirateisle          | Return to Pirate Isle                                                        | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | planetfall          | Planetfall                                                                   | Tucky27, GandalfTheWhite80 |
