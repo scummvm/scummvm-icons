@@ -25,7 +25,7 @@
 | ✅ | agi | mh1                 | Manhunter 1: New York                                                        | GandalfTheWhite80 |
 | ✅ | agi | mh2                 | Manhunter 2: San Francisco                                                   | GandalfTheWhite80 |
 | ✅ | agi | mickey              | Mickey's Space Adventure                                                     | Matt, GandalfTheWhite80 |
-| ✅ | agi | mixedup             | Mixed-Up Mother Goose                                                        | dotdc, Tucky27 |
+| ✅ | agi | mixedup             | Mixed-Up Mother Goose                                                        | dotdc, Tucky27, GandalfTheWhite80 |
 | ✅ | agi | pq1                 | Police Quest I: In Pursuit of the Death Angel                                | Thanius, GandalfTheWhite80 |
 | ⬜️ | agi | serguei1            | Serguei's Destiny 1                                                          | |
 | ⬜️ | agi | serguei2            | Serguei's Destiny 2                                                          | |
@@ -260,7 +260,7 @@
 | ✅ | ags | wduprodigal         | Prodigal                                                                     | DavidAriyan |
 | ✅ | ags | whispersofamachine  | Whispers of a Machine                                                        | tag2015 |
 | ✅ | ags | witchlullaby        | The Witch's Lullaby                                                          | DavidAriyan |
-| ✅ | ags | zidjourney          | Zid Journey	                                                               | tag2015 |
+| ✅ | ags | zidjourney          | Zid Journey	                                                               | tag2015, GandalfTheWhite80 |
 | ✅ | ags | zniwadventure       | Zniw Adventure	                                                           | tag2015, GandalfTheWhite80 |
 | ✅ | asylum | sanitarium          | Sanitarium                                                                   | JenniBee, GandalfTheWhite80 |
 | ✅ | avalanche | avalanche           | Lord Avalot d'Argent                                                         | JenniBee, GandalfTheWhite80 |
