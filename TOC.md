@@ -63,7 +63,7 @@
 | ✅ | ags | alandlordsdream      | A Landlord's Dream                                                          | DavidAriyan |
 | ✅ | ags | alemmo              | Al Emmo And The Lost Dutchman's Mine                                         | tag2015 |
 | ✅ | ags | allthewaydown       | All The Way Down                                                             | DavidAriyan |
-| ✅ | ags | almostblue          | Amost Blue                                                                   | DavidAriyan |
+| ✅ | ags | almostblue          | Amost Blue                                                                   | DavidAriyan, GandalfTheWhite80 |
 | ⬜️ | ags | alum                | Alum                                                                         | |
 | ⬜️ | ags | amongthorns         | Among Thorns                                                                 | |
 | ✅ | ags | apotheosis          | The Apotheosis Project                                                       | tag2015, GandalfTheWhite80 |
