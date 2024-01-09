@@ -392,7 +392,7 @@
 | ✅ | glk | scottsampler        | Adventure International's Mini-Adventure Sampler                             | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | seastalker          | Seastalker                                                                   | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | sherlockriddle      | Sherlock: The Riddle of the Crown Jewels                                     | Tucky27 |
-| ✅ | glk | shogun              | James Clavell's Shogun                                                       | NekoFever |
+| ✅ | glk | shogun              | James Clavell's Shogun                                                       | NekoFever, GandalfTheWhite80 |
 | ⬜️ | glk | snowball            | Snowball                                                                     | |
 | ⬜️ | glk | snowballsd          | Snowball /SD                                                                 | |
 | ✅ | glk | softporn            | Softporn Adventure                                                           | JenniBee, GandalfTheWhite80 |
