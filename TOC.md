@@ -391,13 +391,13 @@
 | ⬜️ | glk | scapeghost          | Scapeghost                                                                   | |
 | ✅ | glk | scottsampler        | Adventure International's Mini-Adventure Sampler                             | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | seastalker          | Seastalker                                                                   | Tucky27, GandalfTheWhite80 |
-| ✅ | glk | sherlockriddle      | Sherlock: The Riddle of the Crown Jewels                                     | Tucky27 |
+| ✅ | glk | sherlockriddle      | Sherlock: The Riddle of the Crown Jewels                                     | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | shogun              | James Clavell's Shogun                                                       | NekoFever, GandalfTheWhite80 |
 | ⬜️ | glk | snowball            | Snowball                                                                     | |
 | ⬜️ | glk | snowballsd          | Snowball /SD                                                                 | |
 | ✅ | glk | softporn            | Softporn Adventure                                                           | JenniBee, GandalfTheWhite80 |
-| ✅ | glk | sorcerer            | Sorcerer                                                                     | Tucky27 |
-| ✅ | glk | spellbreaker        | Spellbreaker                                                                 | Tucky27 |
+| ✅ | glk | sorcerer            | Sorcerer                                                                     | Tucky27, GandalfTheWhite80 |
+| ✅ | glk | spellbreaker        | Spellbreaker                                                                 | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | starcross           | Starcross                                                                    | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | stationfall         | Stationfall                                                                  | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | strangeodyssey      | Strange Odyssey                                                              | Tucky27, GandalfTheWhite80 |
