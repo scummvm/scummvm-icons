@@ -350,7 +350,7 @@
 | ✅ | glk | infocomsampler2     | Infocom Sampler 2                                                            | Tucky27, GandalfTheWhite80 |
 | ⬜️ | glk | ingridsback         | Ingrid's Back                                                                | |
 | ✅ | glk | jinxter             | Jinxter                                                                      | tag2015, GandalfTheWhite80 |
-| ✅ | glk | journey             | Journey                                                                      | Tucky27 |
+| ✅ | glk | journey             | Journey                                                                      | Tucky27, GandalfTheWhite80 |
 | ⬜️ | glk | knightorc           | Knight Orc                                                                   | |
 | ⬜️ | glk | lancelot            | Lancelot                                                                     | |
 | ✅ | glk | lgop                | Leather Goddesses of Phobos                                                  | JenniBee, GandalfTheWhite80 |
