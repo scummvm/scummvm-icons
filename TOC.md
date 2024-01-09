@@ -390,7 +390,7 @@
 | ✅ | glk | savageisland2       | Savage Island, Part 2                                                        | Tucky27, GandalfTheWhite80 |
 | ⬜️ | glk | scapeghost          | Scapeghost                                                                   | |
 | ✅ | glk | scottsampler        | Adventure International's Mini-Adventure Sampler                             | Tucky27, GandalfTheWhite80 |
-| ✅ | glk | seastalker          | Seastalker                                                                   | Tucky27 |
+| ✅ | glk | seastalker          | Seastalker                                                                   | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | sherlockriddle      | Sherlock: The Riddle of the Crown Jewels                                     | Tucky27 |
 | ✅ | glk | shogun              | James Clavell's Shogun                                                       | NekoFever |
 | ⬜️ | glk | snowball            | Snowball                                                                     | |
