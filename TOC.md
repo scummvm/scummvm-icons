@@ -329,7 +329,7 @@
 | ✅ | glk | colossaladvjod      | Colossal Adventure /JoD                                                      | JenniBee |
 | ✅ | glk | corruption          | Corruption                                                                   | tag2015, GandalfTheWhite80 |
 | ✅ | glk | crimsoncrown        | The Crimson Crown                                                            | Tucky27, GandalfTheWhite80 |
-| ✅ | glk | cutthroats          | Cutthroats                                                                   | Tucky27 |
+| ✅ | glk | cutthroats          | Cutthroats                                                                   | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | deadline            | Deadline                                                                     | Tucky27 |
 | ✅ | glk | dungeonadv          | Dungeon Adventure                                                            | Tucky27 |
 | ⬜️ | glk | dungeonadvjod       | Dungeon Adventure /JoD                                                       | |
