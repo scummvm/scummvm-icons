@@ -374,7 +374,7 @@
 | ✅ | glk | pirateadventure     | Pirate Adventure                                                             | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | pirateisle          | Return to Pirate Isle                                                        | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | planetfall          | Planetfall                                                                   | Tucky27, GandalfTheWhite80 |
-| ✅ | glk | plunderedhearts     | Plundered Hearts                                                             | Tucky27 |
+| ✅ | glk | plunderedhearts     | Plundered Hearts                                                             | Tucky27, GandalfTheWhite80 |
 | ⬜️ | glk | priceofmagik        | Price of Magik                                                               | |
 | ⬜️ | glk | priceofmagiktm      | Price of Magik /T&M                                                          | |
 | ⬜️ | glk | priceofmagiktmgd    | Price of Magik /T&M GD                                                       | |
