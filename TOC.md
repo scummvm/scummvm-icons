@@ -318,7 +318,7 @@
 | ✅ | glk | adv551              | Adventure 6, 551 point Colossal Cave                                         | JenniBee, Tucky27 |
 | ✅ | glk | adventureland       | Adventureland                                                                | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | adventurequest      | Adventure Quest                                                              | Tucky27 |
-| ✅ | glk | amfv                | A Mind Forever Voyaging                                                      | Tucky27 |
+| ✅ | glk | amfv                | A Mind Forever Voyaging                                                      | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | ballyhoo            | Ballyhoo                                                                     | Tucky27 |
 | ✅ | glk | beyondzork          | Beyond Zork                                                                  | JenniBee, GandalfTheWhite80 |
 | ✅ | glk | borderzone          | Border Zone                                                                  | Tucky27 |
@@ -330,7 +330,7 @@
 | ✅ | glk | corruption          | Corruption                                                                   | tag2015, GandalfTheWhite80 |
 | ✅ | glk | crimsoncrown        | The Crimson Crown                                                            | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | cutthroats          | Cutthroats                                                                   | Tucky27, GandalfTheWhite80 |
-| ✅ | glk | deadline            | Deadline                                                                     | Tucky27 |
+| ✅ | glk | deadline            | Deadline                                                                     | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | dungeonadv          | Dungeon Adventure                                                            | Tucky27 |
 | ⬜️ | glk | dungeonadvjod       | Dungeon Adventure /JoD                                                       | |
 | ✅ | glk | elf20               | The Elf's Christmas Adventure                                                | JenniBee |
@@ -533,7 +533,7 @@
 | ✅ | pink | pokus                | The Pink Panther: Hokus Pokus Pink                                         | Tucky27 |
 | ✅ | plumbers | plumbers            | Plumbers Don't Wear Ties!                                                    | nightm4re94, GandalfTheWhite80 |
 | ✅ | prince | prince              | The Prince and the Coward                                                    | JenniBee, GandalfTheWhite80 |
-| ✅ | private | private-eye         | Private Eye                                                                  | [Adventure Gamers page](https://adventuregamers.com/games/view/16575) |
+| ✅ | private | private-eye         | Private Eye                                                                  | [Adventure Gamers page](https://adventuregamers.com/games/view/16575), GandalfTheWhite80 |
 | ✅ | queen | queen               | Flight of the Amazon Queen                                                   | NekoFever, GandalfTheWhite80 |
 | ✅ | saga2 | fta2               | Halls of the Dead: Faery Tale Adventure II                                   | GandalfTheWhite80 |
 | ✅ | saga | ihnm                | I Have No Mouth and I Must Scream                                            | NekoFever, GandalfTheWhite80 |
