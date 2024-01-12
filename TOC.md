@@ -333,8 +333,8 @@
 | ✅ | glk | deadline            | Deadline                                                                     | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | dungeonadv          | Dungeon Adventure                                                            | Tucky27 |
 | ⬜️ | glk | dungeonadvjod       | Dungeon Adventure /JoD                                                       | |
-| ✅ | glk | elf20               | The Elf's Christmas Adventure                                                | JenniBee |
-| ✅ | glk | elves87             | Elves '87                                                                    | JenniBee |
+| ✅ | glk | elf20               | The Elf's Christmas Adventure                                                | JenniBee, GandalfTheWhite80 |
+| ✅ | glk | elves87             | Elves '87                                                                    | JenniBee, GandalfTheWhite80 |
 | ⬜️ | glk | emeraldisle         | Emerald Isle                                                                 | |
 | ✅ | glk | enchanter           | Enchanter                                                                    | Tucky27, GandalfTheWhite80 |
 | ⬜️ | glk | eriktheviking       | Erik the Viking                                                              | |
