@@ -402,7 +402,7 @@
 | ✅ | glk | stationfall         | Stationfall                                                                  | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | strangeodyssey      | Strange Odyssey                                                              | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | suspect             | Suspect                                                                      | Tucky27 |
-| ✅ | glk | suspended           | Suspended                                                                    | Tucky27 |
+| ✅ | glk | suspended           | Suspended                                                                    | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | talisman            | Talisman: Challenging the Sands of Time                                      | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | thearchers          | The Archers                                                                  | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | thecount            | The Count                                                                    | Tucky27, GandalfTheWhite80 |
