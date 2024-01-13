@@ -573,7 +573,7 @@
 | ✅ | sci | kq4sci              | King's Quest IV: The Perils of Rosella                                       | JenniBee, Tucky27, GandalfTheWhite80 |
 | ✅ | sci | kq5                 | King's Quest V: Absence Makes the Heart Go Yonder                            | JenniBee, Tucky27 |
 | ✅ | sci | kq6                 | King's Quest VI: Heir Today, Gone Tomorrow                                   | JenniBee, Tucky27, beresk\_let |
-| ✅ | sci | kq7                 | King's Quest VII: The Princeless Bride                                       | JenniBee |
+| ✅ | sci | kq7                 | King's Quest VII: The Princeless Bride                                       | JenniBee, GandalfTheWhite80 |
 | ✅ | sci | kquestions          | King's Questions                                                             | Tucky27 |
 | ✅ | sci | laurabow            | Laura Bow: The Colonel's Bequest                                             | dotdc, Tucky27 |
 | ✅ | sci | laurabow2           | Laura Bow 2: The Dagger of Amon Ra                                           | dotdc, Tucky27 |
