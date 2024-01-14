@@ -575,7 +575,7 @@
 | ✅ | sci | kq6                 | King's Quest VI: Heir Today, Gone Tomorrow                                   | JenniBee, Tucky27, beresk\_let |
 | ✅ | sci | kq7                 | King's Quest VII: The Princeless Bride                                       | JenniBee, GandalfTheWhite80 |
 | ✅ | sci | kquestions          | King's Questions                                                             | Tucky27, GandalfTheWhite80 |
-| ✅ | sci | laurabow            | Laura Bow: The Colonel's Bequest                                             | dotdc, Tucky27 |
+| ✅ | sci | laurabow            | Laura Bow: The Colonel's Bequest                                             | dotdc, Tucky27, GandalfTheWhite80 |
 | ✅ | sci | laurabow2           | Laura Bow 2: The Dagger of Amon Ra                                           | dotdc, Tucky27 |
 | ✅ | sci | lighthouse          | Lighthouse: The Dark Being                                                   | thedoc |
 | ✅ | sci | longbow             | Conquests of the Longbow: The Adventures of Robin Hood                       | Tucky27, beresk\_let, GandalfTheWhite80 |
