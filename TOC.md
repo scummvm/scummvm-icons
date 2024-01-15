@@ -576,7 +576,7 @@
 | ✅ | sci | kq7                 | King's Quest VII: The Princeless Bride                                       | JenniBee, GandalfTheWhite80 |
 | ✅ | sci | kquestions          | King's Questions                                                             | Tucky27, GandalfTheWhite80 |
 | ✅ | sci | laurabow            | Laura Bow: The Colonel's Bequest                                             | dotdc, Tucky27, GandalfTheWhite80 |
-| ✅ | sci | laurabow2           | Laura Bow 2: The Dagger of Amon Ra                                           | dotdc, Tucky27 |
+| ✅ | sci | laurabow2           | Laura Bow 2: The Dagger of Amon Ra                                           | dotdc, Tucky27, GandalfTheWhite80 |
 | ✅ | sci | lighthouse          | Lighthouse: The Dark Being                                                   | thedoc |
 | ✅ | sci | longbow             | Conquests of the Longbow: The Adventures of Robin Hood                       | Tucky27, beresk\_let, GandalfTheWhite80 |
 | ✅ | sci | lsl1sci             | Leisure Suit Larry in the Land of the Lounge Lizards                         | rehail |
