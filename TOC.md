@@ -411,7 +411,7 @@
 | ✅ | glk | trinity             | Trinity                                                                      | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | voodoocastle        | Voodoo Castle                                                                | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | wishbringer         | Wishbringer                                                                  | Tucky27, GandalfTheWhite80 |
-| ✅ | glk | wonderland          | Wonderland                                                                   | Tucky27 |
+| ✅ | glk | wonderland          | Wonderland                                                                   | Tucky27, GandalfTheWhite80 |
 | ⬜️ | glk | worminparadise      | Worm in Paradise                                                             | |
 | ⬜️ | glk | worminparadisesd    | Worm in Paradise /SD                                                         | |
 | ⬜️ | glk | zcode               | Unknown Z-code game                                                          | |
