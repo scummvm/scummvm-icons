@@ -488,6 +488,7 @@
 | ✅ | kyra | lol                 | Lands of Lore: The Throne of Chaos                                           | dotdc |
 | ✅ | lab | lab                 | Labyrinth of Time                                                            | Tucky27, GandalfTheWhite80 |
 | ✅ | lure | lure                | Lure of the Temptress                                                        | GandalfTheWhite80 |
+| ✅ | m4   | burger              | Orion Burger                                                                 | GandalfTheWhite80 |
 | ✅ | made | lgop2               | Leather Goddesses of Phobos 2                                                | Matt, GandalfTheWhite80 |
 | ✅ | made | manhole             | The Manhole                                                                  | Matt, GandalfTheWhite80 |
 | ✅ | made | rodney              | Rodney's Funscreen                                                           | Matt, GandalfTheWhite80 |
