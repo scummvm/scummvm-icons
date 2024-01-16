@@ -578,7 +578,7 @@
 | ✅ | sci | kquestions          | King's Questions                                                             | Tucky27, GandalfTheWhite80 |
 | ✅ | sci | laurabow            | Laura Bow: The Colonel's Bequest                                             | dotdc, Tucky27, GandalfTheWhite80 |
 | ✅ | sci | laurabow2           | Laura Bow 2: The Dagger of Amon Ra                                           | dotdc, Tucky27, GandalfTheWhite80 |
-| ✅ | sci | lighthouse          | Lighthouse: The Dark Being                                                   | thedoc |
+| ✅ | sci | lighthouse          | Lighthouse: The Dark Being                                                   | thedoc, GandalfTheWhite80 |
 | ✅ | sci | longbow             | Conquests of the Longbow: The Adventures of Robin Hood                       | Tucky27, beresk\_let, GandalfTheWhite80 |
 | ✅ | sci | lsl1sci             | Leisure Suit Larry in the Land of the Lounge Lizards                         | rehail |
 | ✅ | sci | lsl2                | Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places)        | rehail |
