@@ -551,7 +551,7 @@
 | ✅ | sci | cnick-laurabow      | Crazy Nick's Software Picks: Parlor Games with Laura Bow                     | Tucky27 |
 | ✅ | sci | cnick-longbow       | Crazy Nick's Software Picks: Robin Hood's Game of Skill and Chance           | Tucky27 |
 | ✅ | sci | cnick-lsl           | Crazy Nick's Software Picks: Leisure Suit Larry's Casino                     | Tucky27, GandalfTheWhite80 |
-| ✅ | sci | cnick-sq            | Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack              | Tucky27 |
+| ✅ | sci | cnick-sq            | Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack              | Tucky27, GandalfTheWhite80 |
 | ✅ | sci | ecoquest            | EcoQuest: The Search for Cetus                                               | thedoc, GandalfTheWhite80 |
 | ✅ | sci | ecoquest2           | EcoQuest II: Lost Secret of the Rainforest                                   | thedoc, GandalfTheWhite80 |
 | ✅ | sci | fairytales          | Mixed-up Fairy Tales                                                         | Tucky27, GandalfTheWhite80 |
