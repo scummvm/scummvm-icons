@@ -492,7 +492,7 @@
 | ✅ | made | lgop2               | Leather Goddesses of Phobos 2                                                | Matt, GandalfTheWhite80 |
 | ✅ | made | manhole             | The Manhole                                                                  | Matt, GandalfTheWhite80 |
 | ✅ | made | rodney              | Rodney's Funscreen                                                           | Matt, GandalfTheWhite80 |
-| ✅ | made | rtz                 | Return to Zork                                                               | JenniBee, Tucky27 |
+| ✅ | made | rtz                 | Return to Zork                                                               | JenniBee, Tucky27, GandalfTheWhite80 |
 | ✅ | mads | nebular             | Rex Nebular and the Cosmic Gender Bender                                     | TrivialBalderdash |
 | ✅ | mm1 | mm1                    | Might and Magic Book One: The Secret of the Inner Sanctum                    | GandalfTheWhite80, Tucky27 |
 | ✅ | mohawk | arthur              | Arthur's Teacher Trouble                                                     | mileso |
