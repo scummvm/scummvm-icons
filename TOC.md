@@ -547,7 +547,7 @@
 | ⬜️ | sci | christmas1988       | Christmas Card 1988                                                          | |
 | ⬜️ | sci | christmas1990       | Christmas Card 1990: The Seasoned Professional                               | |
 | ⬜️ | sci | christmas1992       | Christmas Card 1992                                                          | |
-| ✅ | sci | cnick-kq            | Crazy Nick's Software Picks: King Graham's Board Game Challenge              | Tucky27 |
+| ✅ | sci | cnick-kq            | Crazy Nick's Software Picks: King Graham's Board Game Challenge              | Tucky27, GandalfTheWhite80 |
 | ✅ | sci | cnick-laurabow      | Crazy Nick's Software Picks: Parlor Games with Laura Bow                     | Tucky27 |
 | ✅ | sci | cnick-longbow       | Crazy Nick's Software Picks: Robin Hood's Game of Skill and Chance           | Tucky27 |
 | ✅ | sci | cnick-lsl           | Crazy Nick's Software Picks: Leisure Suit Larry's Casino                     | Tucky27 |
