@@ -555,7 +555,7 @@
 | ✅ | sci | ecoquest            | EcoQuest: The Search for Cetus                                               | thedoc, GandalfTheWhite80 |
 | ✅ | sci | ecoquest2           | EcoQuest II: Lost Secret of the Rainforest                                   | thedoc, GandalfTheWhite80 |
 | ✅ | sci | fairytales          | Mixed-up Fairy Tales                                                         | Tucky27, GandalfTheWhite80 |
-| ✅ | sci | freddypharkas       | Freddy Pharkas: Frontier Pharmacist                                          | dotdc, Tucky27 |
+| ✅ | sci | freddypharkas       | Freddy Pharkas: Frontier Pharmacist                                          | dotdc, Tucky27, GandalfTheWhite80 |
 | ⬜️ | sci | funseeker           | Fun Seeker's Guide                                                           | |
 | ✅ | sci | gk1                 | Gabriel Knight: Sins of the Fathers                                          | TrivialBalderdash, GandalfTheWhite80 |
 | ✅ | sci | gk2                 | The Beast Within: A Gabriel Knight Mystery                                   | TrivialBalderdash, GandalfTheWhite80 |
