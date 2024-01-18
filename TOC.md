@@ -495,7 +495,7 @@
 | ✅ | made | rtz                 | Return to Zork                                                               | JenniBee, Tucky27, GandalfTheWhite80 |
 | ✅ | mads | nebular             | Rex Nebular and the Cosmic Gender Bender                                     | TrivialBalderdash |
 | ✅ | mm | mm1                 | Might and Magic Book One: The Secret of the Inner Sanctum                    | GandalfTheWhite80, Tucky27 |
-| ⬜️ | mm | mm1_enh             | Might and Magic Book One: The Secret of the Inner Sanctum Enhanced           | GandalfTheWhite80, Tucky27 |
+| ⬜️ | mm | mm1_enh             | Might and Magic Book One: The Secret of the Inner Sanctum Enhanced           | |
 | ✅ | mm | cloudsofxeen        | Might and Magic IV: Clouds of Xeen                                           | GandalfTheWhite80 |
 | ✅ | mm | darksideofxeen      | Might and Magic V: Dark Side of Xeen                                         | GandalfTheWhite80 |
 | ✅ | mm | swordsofxeen        | Might and Magic: Swords of Xeen                                              | GandalfTheWhite80 |
