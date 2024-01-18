@@ -494,7 +494,12 @@
 | ✅ | made | rodney              | Rodney's Funscreen                                                           | Matt, GandalfTheWhite80 |
 | ✅ | made | rtz                 | Return to Zork                                                               | JenniBee, Tucky27, GandalfTheWhite80 |
 | ✅ | mads | nebular             | Rex Nebular and the Cosmic Gender Bender                                     | TrivialBalderdash |
-| ✅ | mm1 | mm1                    | Might and Magic Book One: The Secret of the Inner Sanctum                    | GandalfTheWhite80, Tucky27 |
+| ✅ | mm | mm1                 | Might and Magic Book One: The Secret of the Inner Sanctum                    | GandalfTheWhite80, Tucky27 |
+| ⬜️ | mm | mm1_enh             | Might and Magic Book One: The Secret of the Inner Sanctum Enhanced           | GandalfTheWhite80, Tucky27 |
+| ✅ | mm | cloudsofxeen        | Might and Magic IV: Clouds of Xeen                                           | GandalfTheWhite80 |
+| ✅ | mm | darksideofxeen      | Might and Magic V: Dark Side of Xeen                                         | GandalfTheWhite80 |
+| ✅ | mm | swordsofxeen        | Might and Magic: Swords of Xeen                                              | GandalfTheWhite80 |
+| ✅ | mm | worldofxeen         | Might and Magic: World of Xeen                                               | GandalfTheWhite80 |
 | ✅ | mohawk | arthur              | Arthur's Teacher Trouble                                                     | mileso |
 | ✅ | mohawk | arthurbday          | Arthur's Birthday                                                            | Tucky27 |
 | ✅ | mohawk | beardark            | The Berenstain Bears In The Dark                                             | Tucky27 |
@@ -742,9 +747,5 @@
 | ✅ | wintermute | rosemary            | Rosemary                                                                     | tag2015 |
 | ✅ | wintermute | thekite             | The Kite                                                                     | tag2015, GandalfTheWhite80 |
 | ✅ | wintermute | twc                 | The White Chamber                                                            | tag2015 |
-| ✅ | xeen | cloudsofxeen        | Might and Magic IV: Clouds of Xeen                                           | GandalfTheWhite80 |
-| ✅ | xeen | darksideofxeen      | Might and Magic V: Dark Side of Xeen                                         | GandalfTheWhite80 |
-| ✅ | xeen | swordsofxeen        | Might and Magic: Swords of Xeen                                              | GandalfTheWhite80 |
-| ✅ | xeen | worldofxeen         | Might and Magic: World of Xeen                                               | GandalfTheWhite80 |
 | ✅ | zvision | zgi                 | Zork: Grand Inquisitor                                                       | JenniBee, GandalfTheWhite80 |
 | ✅ | zvision | znemesis            | Zork Nemesis: The Forbidden Lands                                            | JenniBee, GandalfTheWhite80 |
