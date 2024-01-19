@@ -566,7 +566,7 @@
 | ✅ | sci | gk2                 | The Beast Within: A Gabriel Knight Mystery                                   | TrivialBalderdash, GandalfTheWhite80 |
 | ✅ | sci | hoyle1              | Hoyle Official Book of Games: Volume 1                                       | Tucky27, GandalfTheWhite80 |
 | ✅ | sci | hoyle2              | Hoyle Official Book of Games: Volume 2                                       | GandalfTheWhite80 |
-| ✅ | sci | hoyle3              | Hoyle Official Book of Games: Volume 3                                       | Tucky27 |
+| ✅ | sci | hoyle3              | Hoyle Official Book of Games: Volume 3                                       | Tucky27, GandalfTheWhite80 |
 | ✅ | sci | hoyle4              | Hoyle Classic Card Games                                                     | tag2015 |
 | ✅ | sci | hoyle5              | Hoyle Classic Games                                                          | tag2015 |
 | ⬜️ | sci | hoyle5bridge        | Hoyle Bridge                                                                 | |
