@@ -592,8 +592,8 @@
 | ✅ | sci | lsl6                | Leisure Suit Larry 6: Shape Up or Slip Out!                                  | rehail |
 | ✅ | sci | lsl6hires           | Leisure Suit Larry 6: Shape Up or Slip Out!                                  | rehail |
 | ✅ | sci | lsl7                | Leisure Suit Larry 7: Love for Sail!                                         | rehail |
-| ✅ | sci | mothergoose         | Mixed-Up Mother Goose                                                        | dotdc, Tucky27 |
-| ✅ | sci | mothergoose256      | Mixed-Up Mother Goose                                                        | dotdc, Tucky27 |
+| ✅ | sci | mothergoose         | Mixed-Up Mother Goose                                                        | dotdc, Tucky27, GandalfTheWhite80 |
+| ✅ | sci | mothergoose256      | Mixed-Up Mother Goose                                                        | dotdc, Tucky27, GandalfTheWhite80 |
 | ✅ | sci | mothergoosehires    | Mixed-Up Mother Goose Deluxe                                                 | dotdc, Tucky27 |
 | ✅ | sci | msastrochicken      | Ms. Astro Chicken                                                            | Tucky27 |
 | ✅ | sci | pepper              | Pepper's Adventure in Time                                                   | Tucky27, GandalfTheWhite80 |
