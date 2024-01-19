@@ -564,7 +564,7 @@
 | ⬜️ | sci | funseeker           | Fun Seeker's Guide                                                           | |
 | ✅ | sci | gk1                 | Gabriel Knight: Sins of the Fathers                                          | TrivialBalderdash, GandalfTheWhite80 |
 | ✅ | sci | gk2                 | The Beast Within: A Gabriel Knight Mystery                                   | TrivialBalderdash, GandalfTheWhite80 |
-| ✅ | sci | hoyle1              | Hoyle Official Book of Games: Volume 1                                       | Tucky27 |
+| ✅ | sci | hoyle1              | Hoyle Official Book of Games: Volume 1                                       | Tucky27, GandalfTheWhite80 |
 | ✅ | sci | hoyle2              | Hoyle Official Book of Games: Volume 2                                       | GandalfTheWhite80 |
 | ✅ | sci | hoyle3              | Hoyle Official Book of Games: Volume 3                                       | Tucky27 |
 | ✅ | sci | hoyle4              | Hoyle Classic Card Games                                                     | tag2015 |
