@@ -567,11 +567,11 @@
 | ✅ | sci | hoyle1              | Hoyle Official Book of Games: Volume 1                                       | Tucky27, GandalfTheWhite80 |
 | ✅ | sci | hoyle2              | Hoyle Official Book of Games: Volume 2                                       | GandalfTheWhite80 |
 | ✅ | sci | hoyle3              | Hoyle Official Book of Games: Volume 3                                       | Tucky27, GandalfTheWhite80 |
-| ✅ | sci | hoyle4              | Hoyle Classic Card Games                                                     | tag2015 |
-| ✅ | sci | hoyle5              | Hoyle Classic Games                                                          | tag2015 |
+| ✅ | sci | hoyle4              | Hoyle Classic Card Games                                                     | tag2015, GandalfTheWhite80 |
+| ✅ | sci | hoyle5              | Hoyle Classic Games                                                          | Thunderforge, GandalfTheWhite80 |
 | ⬜️ | sci | hoyle5bridge        | Hoyle Bridge                                                                 | |
 | ⬜️ | sci | hoyle5children      | Hoyle Children's Collection                                                  | |
-| ✅ | sci | hoyle5solitaire     | Hoyle Solitaire                                                              | tag2015 |
+| ✅ | sci | hoyle5solitaire     | Hoyle Solitaire                                                              | tag2015, GandalfTheWhite80 |
 | ✅ | sci | iceman              | Codename: Iceman                                                             | rehail |
 | ✅ | sci | islandbrain         | The Island of Dr. Brain                                                      | thedoc, GandalfTheWhite80 |
 | ✅ | sci | jones               | Jones in the Fast Lane                                                       | Tucky27, GandalfTheWhite80 |
