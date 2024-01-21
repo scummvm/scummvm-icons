@@ -319,7 +319,7 @@
 | ✅ | glk | adventureland       | Adventureland                                                                | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | adventurequest      | Adventure Quest                                                              | Tucky27 |
 | ✅ | glk | amfv                | A Mind Forever Voyaging                                                      | Tucky27, GandalfTheWhite80 |
-| ✅ | glk | ballyhoo            | Ballyhoo                                                                     | Tucky27 |
+| ✅ | glk | ballyhoo            | Ballyhoo                                                                     | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | beyondzork          | Beyond Zork                                                                  | JenniBee, GandalfTheWhite80 |
 | ✅ | glk | borderzone          | Border Zone                                                                  | Tucky27 |
 | ✅ | glk | buckaroobanzai      | Buckaroo Banzai                                                              | Tucky27, GandalfTheWhite80 |
