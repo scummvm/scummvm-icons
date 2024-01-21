@@ -478,7 +478,7 @@
 | ✅ | hypno | soldierboyz         | Soldier Boyz                                                                 | Tucky27 |
 | ✅ | hypno | wetlands            | Wetlands                                                                     | Tucky27 |
 | ✅ | icb | icb            | In Cold Blood                                                                      | GandalfTheWhite80 |
-| ✅ | illusions | duckman             | Duckman                                                                      | Tucky27 |
+| ✅ | illusions | duckman             | Duckman                                                                      | Tucky27, GandalfTheWhite80 |
 | ✅ | kingdom | kingdom          | Kingdom: The Far Reaches                                                     | GandalfTheWhite80 |
 | ✅ | kyra | eob                 | Eye of the Beholder                                                          | Tucky27, GandalfTheWhite80 |
 | ✅ | kyra | eob2                | Eye of the Beholder II: The Legend of Darkmoon                               | Tucky27, GandalfTheWhite80 |
