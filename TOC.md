@@ -184,7 +184,7 @@
 | ✅ | ags | oott                | Order of the Thorne: The King's Challenge                                    | Official media|
 | ⬜️ | ags | overtheedge         | The Journey Down: Over the Edge                                              | |
 | ✅ | ags | patchwork           | Patchwork                                                                    | DavidAriyan |
-| ✅ | ags | perfecttides        | Perfect Tides                                                                | tag2015 |
+| ✅ | ags | perfecttides        | Perfect Tides                                                                | tag2015, GandalfTheWhite80 |
 | ✅ | ags | perfidiouspetrolstation | The Perfidious Petrol Station                                            | tag2015, GandalfTheWhite80 |
 | ⬜️ | ags | personalrocket      | Personal Rocket                                                              | |
 | ✅ | ags | phantomfellows      | The Phantom Fellows                                                          | thevolumeremote |
