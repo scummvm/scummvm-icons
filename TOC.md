@@ -357,7 +357,7 @@
 | ⬜️ | glk | lordsoftime         | Lords of Time                                                                | |
 | ⬜️ | glk | lordsoftimetm       | Lords of Time /T&M                                                           | |
 | ⬜️ | glk | lordsoftimetmgd     | Lords of Time /T&M GD                                                        | |
-| ✅ | glk | lurkinghorror       | The Lurking Horror                                                           | Tucky27 |
+| ✅ | glk | lurkinghorror       | The Lurking Horror                                                           | Tucky27, GandalfTheWhite80 |
 | ⬜️ | glk | magnetic            | Magnetic Scrolls Game                                                        | |
 | ✅ | glk | marveladventure     | Questprobe featuring The Hulk                                                | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | marveladventure2    | Questprobe featuring Spider-Man                                              | Tucky27, GandalfTheWhite80 |
