@@ -21,7 +21,7 @@
 | ✅ | agi | kq2                 | King's Quest II: Romancing the Throne                                        | dotdc, Tucky27, GandalfTheWhite80 |
 | ✅ | agi | kq3                 | King's Quest III: To Heir Is Human                                           | dotdc, Tucky27, GandalfTheWhite80 |
 | ✅ | agi | kq4                 | King's Quest IV: The Perils of Rosella                                       | JenniBee, Tucky27, GandalfTheWhite80 |
-| ✅ | agi | lsl1                | Leisure Suit Larry in the Land of the Lounge Lizards                         | rehail |
+| ✅ | agi | lsl1                | Leisure Suit Larry in the Land of the Lounge Lizards                         | rehail, GandalfTheWhite80 |
 | ✅ | agi | mh1                 | Manhunter 1: New York                                                        | GandalfTheWhite80 |
 | ✅ | agi | mh2                 | Manhunter 2: San Francisco                                                   | GandalfTheWhite80 |
 | ✅ | agi | mickey              | Mickey's Space Adventure                                                     | Matt, GandalfTheWhite80 |
