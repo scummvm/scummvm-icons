@@ -344,7 +344,7 @@
 | ✅ | glk | goldenvoyage        | The Golden Voyage                                                            | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | guild               | The Guild of Thieves                                                         | tag2015, GandalfTheWhite80 |
 | ✅ | glk | hhgttg              | The Hitchhiker's Guide to the Galaxy                                         | Tucky27, GandalfTheWhite80 |
-| ✅ | glk | hollywoodhijinx     | Hollywood Hijinx                                                             | Tucky27 |
+| ✅ | glk | hollywoodhijinx     | Hollywood Hijinx                                                             | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | infidel             | Infidel                                                                      | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | infocomsampler1     | Infocom Sampler 1                                                            | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | infocomsampler2     | Infocom Sampler 2                                                            | Tucky27, GandalfTheWhite80 |
