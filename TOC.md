@@ -464,7 +464,7 @@
 | ✅ | grim | grim                | Grim Fandango                                                                | Thanius, GandalfTheWhite80 |
 | ✅ | grim | monkey4             | Escape From Monkey Island                                                    | Thanius |
 | ✅ | groovie | 11h                 | The 11th Hour                                                                | bobdevis, GandalfTheWhite80 |
-| ✅ | groovie | clandestiny         | Clandestiny                                                                  | Tucky27 |
+| ✅ | groovie | clandestiny         | Clandestiny                                                                  | Tucky27, GandalfTheWhite80 |
 | ✅ | groovie | t7g                 | The 7th Guest                                                                | NekoFever, GandalfTheWhite80 |
 | ✅ | groovie | tlc                 | Tender Loving Care                                                           | Tucky27 |
 | ✅ | groovie | unclehenry          | Uncle Henry's Playhouse                                                      | GandalfTheWhite80 |
