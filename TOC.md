@@ -406,7 +406,7 @@
 | ✅ | glk | talisman            | Talisman: Challenging the Sands of Time                                      | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | thearchers          | The Archers                                                                  | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | thecount            | The Count                                                                    | Tucky27, GandalfTheWhite80 |
-| ✅ | glk | thewitness          | The Witness                                                                  | Tucky27 |
+| ✅ | glk | thewitness          | The Witness                                                                  | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | transylvania        | Transylvania                                                                 | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | trinity             | Trinity                                                                      | Tucky27, GandalfTheWhite80 |
 | ✅ | glk | voodoocastle        | Voodoo Castle                                                                | Tucky27, GandalfTheWhite80 |
