@@ -470,7 +470,7 @@
 | ✅ | groovie | unclehenry          | Uncle Henry's Playhouse                                                      | GandalfTheWhite80 |
 | ✅ | hadesch | hadesch             | Hades Challenge                                                              | GandalfTheWhite80 |
 | ✅ | hdb | hdb                 | Hyperspace Delivery Boy!                                                     | SupSuper, GandalfTheWhite80 |
-| ✅ | hopkins | hopkins             | Hopkins FBI                                                                  | rehail |
+| ✅ | hopkins | hopkins             | Hopkins FBI                                                                  | rehail, GandalfTheWhite80 |
 | ✅ | hugo | hugo1               | Hugo 1: Hugo's House of Horrors                                              | JenniBee, GandalfTheWhite80 |
 | ✅ | hugo | hugo2               | Hugo 2: Whodunit?                                                            | JenniBee, GandalfTheWhite80 |
 | ✅ | hugo | hugo3               | Hugo 3: Jungle of Doom                                                       | JenniBee, GandalfTheWhite80 |
