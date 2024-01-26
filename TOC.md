@@ -419,7 +419,7 @@
 | ✅ | glk | zork1               | Zork I: The Great Underground Empire                                         | JenniBee, GandalfTheWhite80 |
 | ✅ | glk | zork2               | Zork II: The Wizard of Frobozz                                               | JenniBee, GandalfTheWhite80 |
 | ✅ | glk | zork3               | Zork III: The Dungeon Master                                                 | JenniBee, GandalfTheWhite80 |
-| ✅ | glk | ztuu                | Zork: The Undiscovered Underground                                           | JenniBee |
+| ✅ | glk | ztuu                | Zork: The Undiscovered Underground                                           | JenniBee, GandalfTheWhite80 |
 | ✅ | gnap | gnap                | Gnap                                                                         | JenniBee, GandalfTheWhite80 |
 | ⬜️ | gob | abracadabra         | Once Upon A Time: Abracadabra                                                | |
 | ✅ | gob | adi2                 | ADI 2                                                                       | BJNFNE, GandalfTheWhite80 |
