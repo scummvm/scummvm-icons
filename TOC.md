@@ -420,7 +420,7 @@
 | ✅ | glk | zork2               | Zork II: The Wizard of Frobozz                                               | JenniBee, GandalfTheWhite80 |
 | ✅ | glk | zork3               | Zork III: The Dungeon Master                                                 | JenniBee, GandalfTheWhite80 |
 | ✅ | glk | ztuu                | Zork: The Undiscovered Underground                                           | JenniBee, GandalfTheWhite80 |
-| ✅ | gnap | gnap                | Gnap                                                                         | JenniBee, GandalfTheWhite80 |
+| ✅ | gnap | gnap               | Gnap                                                                         | JenniBee, GandalfTheWhite80 |
 | ⬜️ | gob | abracadabra         | Once Upon A Time: Abracadabra                                                | |
 | ✅ | gob | adi2                 | ADI 2                                                                       | BJNFNE, GandalfTheWhite80 |
 | ✅ | gob | adi4                 | ADI 4                                                                       | BJNFNE, GandalfTheWhite80 |
@@ -428,21 +428,23 @@
 | ✅ | gob | adibou1              | ADIBOU 1                                                                    | sdelamarre, GandalfTheWhite80 |
 | ✅ | gob | adibou2              | ADIBOU 2                                                                    | sdelamarre, GandalfTheWhite80 |
 | ✅ | gob | adibou3              | ADIBOU 3                                                                    | sdelamarre, GandalfTheWhite80, BJNFNE |
-| ⬜️ | gob | adiboudessin         | Adibou presente Dessin                                                      | |
+| ⬜️ | gob | adiboucuisine        | Adibou présente Cuisine                                                     | |
+| ⬜️ | gob | adiboudessin         | Adibou présente Dessin                                                      | |
 | ⬜️ | gob | adiboudchoumer       | Adiboud'chou a la mer                                                       | |
 | ⬜️ | gob | adiboudchoubanquise  | Adiboud'chou sur la banquise                                                | |
 | ⬜️ | gob | adiboudchoucampagne  | Adiboud'chou a la campagne                                                  | |
 | ⬜️ | gob | adiboudchoujunglesavane | Adiboud'chou dans la jungle et la savane                                 | |
 | ⬜️ | gob | babayaga            | Once Upon A Time: Baba Yaga                                                  | |
 | ✅ | gob | bambou              | Playtoons Limited Edition - Bambou le sauveur de la jungle                   | Matt, GandalfTheWhite80 |
-| ✅ | gob | bargon              | Bargon Attack                                                                |Canuma, GandalfTheWhite80 |
+| ✅ | gob | bargon              | Bargon Attack                                                                | Canuma, GandalfTheWhite80 |
 | ✅ | gob | crousti             | Croustibat                                                                   | JenniBee, GandalfTheWhite80 |
+| ⬜️ | gob | dynastywood         | The Last Dynasty & The Bizarre Adventures of Woodruff and the Schnibble      | |
 | ⬜️ | gob | dynasty             | The Last Dynasty                                                             | |
 | ✅ | gob | fascination         | Fascination                                                                  | JenniBee, GandalfTheWhite80 |
 | ✅ | gob | geisha              | Geisha                                                                       | JenniBee, GandalfTheWhite80 |
 | ✅ | gob | gob1                | Gobliiins                                                                    | nightm4re94, GandalfTheWhite80 |
 | ✅ | gob | gob2                | Gobliins 2                                                                   | nightm4re94, GandalfTheWhite80 |
-| ✅ | gob | gob3                | Goblins Quest 3                                                              |Canuma, GandalfTheWhite80|
+| ✅ | gob | gob3                | Goblins Quest 3                                                              | Canuma, GandalfTheWhite80 |
 | ✅ | gob | inca2               | Inca II: Wiracocha                                                           | BJNFNE, GandalfTheWhite80 |
 | ✅ | gob | lit                 | Lost in Time                                                                 | Matt, GandalfTheWhite80 |
 | ⬜️ | gob | lit1                | Lost in Time Part 1                                                          | |
@@ -457,8 +459,9 @@
 | ✅ | gob | playtoons3          | Playtoons 3 - The Secret of the Castle                                       | GandalfTheWhite80, BJNFNE |
 | ✅ | gob | playtoons4          | Playtoons 4 - The Mandarine Prince                                           | GandalfTheWhite80 |
 | ✅ | gob | playtoons5          | Playtoons 5 - The Stone of Wakan                                             | GandalfTheWhite80 |
+| ⬜️ | gob | playtoonsdemo       | Playtoons Demo                                                               |  |
 | ✅ | gob | urban               | Urban Runner                                                                 | JenniBee, GandalfTheWhite80 |
-| ✅ | gob | ween                | Ween: The Prophecy                                                           |Canuma, GandalfTheWhite80 |
+| ✅ | gob | ween                | Ween: The Prophecy                                                           | Canuma, GandalfTheWhite80 |
 | ✅ | gob | woodruff            | The Bizarre Adventures of Woodruff and the Schnibble                         | Matt, GandalfTheWhite80 |
 | ✅ | griffon | griffon             | The Griffon Legend                                                           | GandalfTheWhite80 |
 | ✅ | grim | grim                | Grim Fandango                                                                | Thanius, GandalfTheWhite80 |
