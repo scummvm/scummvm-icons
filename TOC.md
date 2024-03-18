@@ -465,7 +465,7 @@
 | ✅ | gob | woodruff            | The Bizarre Adventures of Woodruff and the Schnibble                         | Matt, GandalfTheWhite80 |
 | ✅ | griffon | griffon             | The Griffon Legend                                                           | GandalfTheWhite80 |
 | ✅ | grim | grim                | Grim Fandango                                                                | Thanius, GandalfTheWhite80 |
-| ✅ | grim | monkey4             | Escape From Monkey Island                                                    | Thanius |
+| ✅ | grim | monkey4             | Escape From Monkey Island                                                    | Thanius, GandalfTheWhite80 |
 | ✅ | groovie | 11h                 | The 11th Hour                                                                | bobdevis, GandalfTheWhite80 |
 | ✅ | groovie | clandestiny         | Clandestiny                                                                  | Tucky27, GandalfTheWhite80 |
 | ✅ | groovie | t7g                 | The 7th Guest                                                                | NekoFever, GandalfTheWhite80 |
