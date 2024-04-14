@@ -53,6 +53,7 @@
 | ✅ | ags | 6daysasacrifice     | 6 Days a Sacrifice                                                           | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | 7daysaskeptic       | 7 Days a Skeptic                                                             | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | 9hourstodawn         | 9 Hours to Dawn                                                             | DavidAriyan, GandalfTheWhite80 |
+| ✅ | ags | abscission         | Abscission                                                                    | tag2015 |
 | ✅ | ags | absurdistan         | Absurdistan                                                                  | tag2015, GandalfTheWhite80 |
 | ✅ | ags | achristmasnightmare  | A Christmas Nightmare                                                       | DavidAriyan |
 | ✅ | ags | adateinthepark      | A Date in the Park                                                           | DavidAriyan |
@@ -95,7 +96,7 @@
 | ⬜️ | ags | brokenwindows3        | Broken Windows - Chapter 3                                                 | |
 | ⬜️ | ags | brokenwindows4        | Broken Windows - Chapter 4                                                 | |
 | ✅ | ags | camp1                | Camp 1                                                                      | DavidAriyan |
-| ⬜️ | ags | captaindisaster      | Captain Disaster in: Death Has A Million Stomping Boots                     | |
+| ✅ | ags | captaindisaster      | Captain Disaster in: Death Has A Million Stomping Boots                     | tag2015 |
 | ⬜️ | ags | cartlife             | Cart Life                                                                   | |
 | ✅ | ags | cedricandtherevolution | Cedric and the Revolution |                                               | marus70, GandalfTheWhite80 |
 | ✅ | ags | charnelhousetrilogy  | The Charnel House Trilogy                                                   | DavidAriyan, tag2015 |
@@ -120,6 +121,7 @@
 | ✅ | ags | escapefromthechaoticcity | Escape From The Chaotic City                                            | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | excavationhb         | The Excavation of Hob's Barrow                                              | tag2015 |
 | ✅ | ags | fall                 | Fall                                                                         | DavidAriyan |
+| ✅ | ags | falconcity           | Falcon City                                                                 | tag2015 |
 | ✅ | ags | feriadarles          | Feria d'Arles                                                                | Official media|
 | ✅ | ags | footballgame         | Football Game                                                                | tag2015 |
 | ✅ | ags | fuguestate           | The Man From The Fugue State                                                 | DavidAriyan |
@@ -160,7 +162,7 @@
 | ⬜️ | ags | lancelothangover    | Lancelot's Hangover                                                          | |
 | ✅ | ags | larrylotter         | Larry Lotter and the Test of Time                                            | tag2015 |
 | ⬜️ | ags | leewardep1          | Leeward - Episode 1                                                          | |
-| ⬜️ | ags | legendofhand         | Legend of Hand                                                              | |
+| ✅ | ags | legendofhand         | Legend of Hand                                                              | tag2015 |
 | ✅ | ags | lostanswers          | Lost Answers                                                                | DavidAriyan, tag2015|
 | ✅ | ags | lostinthenightmare   | Lost In The Nightmare                                                       | DavidAriyan |
 | ✅ | ags | mage                 | Mage's Initiation: Reign of the Elements                                    | tag2015 |
@@ -199,12 +201,13 @@
 | ✅ | ags | redbow              | Red Bow                                                                      | Official media |
 | ✅ | ags | resonance           | Resonance                                                                    | DavidAriyan |
 | ✅ | ags | richardandalice     | Richard and Alice                                                            | tag2015 |
-| ⬜️ | ags | rnrneverdies         | Rock 'n' Roll Will Never Die!                                               | |
+| ✅ | ags | rnrneverdies         | Rock 'n' Roll Will Never Die!                                               | tag2015 |
 | ✅ | ags | rogue                | Rogue                                                                       | DavidAriyan |
 | ✅ | ags | roguestate         | Rogue State                                                                   | tag2015 |
 | ✅ | ags | samaritan           | The Samaritan Paradox                                                        | DavidAriyan |
 | ✅ | ags | sepulchre            | Sepulchre                                                                   | DavidAriyan |
 | ✅ | ags | shardlight           | Shardlight                                                                  | tag2015 |
+| ✅ | ags | shardsofgod          | Shards of God                                                               | tag2015 |
 | ✅ | ags | shivah               | The Shivah                                                                  | tag2015 |
 | ✅ | ags | shivahkosher         | The Shivah - Kosher Edition                                                 | tag2015 |
 | ✅ | ags | skumring             | Skumring                                                                    | DavidAriyan |
