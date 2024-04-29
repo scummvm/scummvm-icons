@@ -434,6 +434,7 @@
 | ✅ | gob | adibou3              | ADIBOU 3                                                                    | sdelamarre, GandalfTheWhite80, BJNFNE |
 | ⬜️ | gob | adiboucuisine        | Adibou présente Cuisine                                                     | |
 | ⬜️ | gob | adiboudessin         | Adibou présente Dessin                                                      | |
+| ⬜️ | gob | adiboumagie          | Adibou présente Magie                                                       | |
 | ⬜️ | gob | adiboudchoumer       | Adiboud'chou a la mer                                                       | |
 | ⬜️ | gob | adiboudchoubanquise  | Adiboud'chou sur la banquise                                                | |
 | ⬜️ | gob | adiboudchoucampagne  | Adiboud'chou a la campagne                                                  | |
@@ -455,6 +456,7 @@
 | ⬜️ | gob | lit2                | Lost in Time Part 2                                                          | |
 | ✅ | gob | littlered           | Once Upon A Time: Little Red Riding Hood                                     | Matt, GandalfTheWhite80 |
 | ⬜️ | gob | onceupon            | Once Upon A Time                                                             | |
+| ⬜️ | gob | pierresmagiques     | Le pays des Pierres Magiques                                                 | |
 | ✅ | gob | playtnck1           | Playtoons Construction Kit 1 - Monsters                                      | GandalfTheWhite80 |
 | ✅ | gob | playtnck2           | Playtoons Construction Kit 2 - Knights                                       | GandalfTheWhite80 |
 | ✅ | gob | playtnck3           | Playtoons Construction Kit 3 - Far West                                      | GandalfTheWhite80 |
