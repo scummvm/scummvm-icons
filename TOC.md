@@ -237,6 +237,7 @@
 | ✅ | ags | tftoz3              | Tales From The Outer Zone: Fleshworms                                        | DavidAriyan |
 | ✅ | ags | tftoz4              | Tales From The Outer Zone: The Construction                                  | DavidAriyan |
 | ✅ | ags | theadventuresoffatman | The Adventures of Fatman |                                                 | WhiteRakogis |
+| ✅ | ags | theadventuresoftheblackhawk | The Adventures of the Black Hawk                                     | tag2015, GandalfTheWhite80 |
 | ✅ | ags | theawakening         | The Awekening                                                               | DavidAriyan |
 | ✅ | ags | thecabin            | The Cabin                                                                    | DavidAriyan |
 | ✅ | ags | thecastle           | The Castle                                                                   | tag2015 |
