@@ -193,7 +193,7 @@
 | ✅ | ags | primordia           | Primordia                                                                    | Tucky27, GandalfTheWhite80 |
 | ✅ | ags | puzzlebots          | Puzzle Bots                                                                  | tag2015, GandalfTheWhite80 |
 | ✅ | ags | qfg2agdi            | Quest for Glory II: Trial by Fire                                            | Tucky27, tag2015 |
-| ✅ | ags | qfi                 | Quest for Infamy                                                             | tag2015 |
+| ✅ | ags | qfi                 | Quest for Infamy                                                             | tag2015, Copy Cat, GandalfTheWhite80 |
 | ⬜️ | ags | quantumnauts        | Quantumnauts                                                                 | |
 | ⬜️ | ags | quantumnauts2       | Quantumnauts 2                                                               | |
 | ✅ | ags | rabbithill          | Rabbit Hill                                                                  | DavidAriyan, GandalfTheWhite80 |
