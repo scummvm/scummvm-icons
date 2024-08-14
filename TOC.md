@@ -426,6 +426,7 @@
 | ✅ | glk | ztuu                | Zork: The Undiscovered Underground                                           | JenniBee, GandalfTheWhite80 |
 | ✅ | gnap | gnap               | Gnap                                                                         | JenniBee, GandalfTheWhite80 |
 | ⬜️ | gob | abracadabra         | Once Upon A Time: Abracadabra                                                | |
+| ⬜️ | gob | adi1                 | ADI 1                                                                       | |
 | ✅ | gob | adi2                 | ADI 2                                                                       | BJNFNE, GandalfTheWhite80 |
 | ✅ | gob | adi4                 | ADI 4                                                                       | BJNFNE, GandalfTheWhite80 |
 | ✅ | gob | adi5                 | ADI 5                                                                       | GandalfTheWhite80 |
