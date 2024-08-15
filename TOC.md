@@ -426,6 +426,7 @@
 | ✅ | glk | ztuu                | Zork: The Undiscovered Underground                                           | JenniBee, GandalfTheWhite80 |
 | ✅ | gnap | gnap               | Gnap                                                                         | JenniBee, GandalfTheWhite80 |
 | ⬜️ | gob | abracadabra         | Once Upon A Time: Abracadabra                                                | |
+| ⬜️ | gob | adi1                 | ADI 1                                                                       | |
 | ✅ | gob | adi2                 | ADI 2                                                                       | BJNFNE, GandalfTheWhite80 |
 | ✅ | gob | adi4                 | ADI 4                                                                       | BJNFNE, GandalfTheWhite80 |
 | ✅ | gob | adi5                 | ADI 5                                                                       | GandalfTheWhite80 |
@@ -454,6 +455,7 @@
 | ✅ | gob | lit                 | Lost in Time                                                                 | Matt, GandalfTheWhite80 |
 | ⬜️ | gob | lit1                | Lost in Time Part 1                                                          | |
 | ⬜️ | gob | lit2                | Lost in Time Part 2                                                          | |
+| ⬜️ | gob | nathanvacances      | Nathan Vacances                                                              | |
 | ✅ | gob | littlered           | Once Upon A Time: Little Red Riding Hood                                     | Matt, GandalfTheWhite80 |
 | ⬜️ | gob | onceupon            | Once Upon A Time                                                             | |
 | ⬜️ | gob | pierresmagiques     | Le pays des Pierres Magiques                                                 | |
