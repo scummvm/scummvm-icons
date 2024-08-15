@@ -432,7 +432,7 @@
 | ✅ | gob | adi5                 | ADI 5                                                                       | GandalfTheWhite80 |
 | ✅ | gob | adibou1              | ADIBOU 1                                                                    | sdelamarre, GandalfTheWhite80 |
 | ✅ | gob | adibou2              | ADIBOU 2                                                                    | sdelamarre, GandalfTheWhite80 |
-| ✅ | gob | adibou3              | Adibou 3                                                                    | sdelamarre, GandalfTheWhite80, BJNFNE |
+| ✅ | gob | adibou3              | ADIBOU 3                                                                    | sdelamarre, GandalfTheWhite80, BJNFNE |
 | ⬜️ | gob | adiboucuisine        | Adibou présente Cuisine                                                     | |
 | ⬜️ | gob | adiboudessin         | Adibou présente Dessin                                                      | |
 | ⬜️ | gob | adiboumagie          | Adibou présente Magie                                                       | |
