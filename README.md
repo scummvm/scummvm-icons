@@ -1,6 +1,6 @@
 # ScummVM Game Icons
 
-This repository contains high-resolution icons of [ScummVM-compatible games](https://www.scummvm.org/compatibility/) that can be used with [integrations](https://wiki.scummvm.org/index.php?title=User_Manual/Appendix:_Integrations) like Discord or plain old desktop shortcuts.
+This repository contains high-resolution icons of [ScummVM-compatible games](https://www.scummvm.org/compatibility/) that can be used in the [ScummVM launcher](https://docs.scummvm.org/en/latest/use_scummvm/the_launcher.html#the-launcher), with the [taskbar integrations](https://docs.scummvm.org/en/latest/use_scummvm/taskbar_integration.html), for the [Discord integration](https://docs.scummvm.org/en/latest/settings/misc.html#discord), or plain old desktop shortcuts. See [the ScummVM documentation](https://docs.scummvm.org/en/latest/settings/gui.html#updateicons) for instructions on how to use those icons in ScummVM.
 
 ## Contributing
 
