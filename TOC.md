@@ -446,6 +446,7 @@
 | ✅ | gob | crousti             | Croustibat                                                                   | JenniBee, GandalfTheWhite80 |
 | ⬜️ | gob | dynastywood         | The Last Dynasty & The Bizarre Adventures of Woodruff and the Schnibble      | |
 | ⬜️ | gob | dynasty             | The Last Dynasty                                                             | |
+| ⬜️ | gob | englishfever        | English Fever                                                                | |
 | ✅ | gob | fascination         | Fascination                                                                  | JenniBee, GandalfTheWhite80 |
 | ✅ | gob | geisha              | Geisha                                                                       | JenniBee, GandalfTheWhite80 |
 | ✅ | gob | gob1                | Gobliiins                                                                    | nightm4re94, GandalfTheWhite80 |
