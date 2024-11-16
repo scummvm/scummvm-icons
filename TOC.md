@@ -268,6 +268,7 @@
 | ✅ | ags | zniwadventure       | Zniw Adventure	                                                           | tag2015, GandalfTheWhite80 |
 | ✅ | asylum | sanitarium          | Sanitarium                                                                   | JenniBee, GandalfTheWhite80 |
 | ✅ | avalanche | avalanche           | Lord Avalot d'Argent                                                         | JenniBee, GandalfTheWhite80 |
+| ✅ | bagel | spacebar           | Spacebar                                                                     | GandalfTheWhite80 |
 | ✅ | bbvs | bbvs                | Beavis and Butt-head in Virtual Stupidity                                    | JenniBee, GandalfTheWhite80 |
 | ✅ | bladerunner | bladerunner         | Blade Runner                                                                 | NekoFever, DavidAriyan |
 | ✅ | bladerunner | bladerunner-final   | Blade Runner                                                                 | NekoFever, DavidAriyan, GandalfTheWhite80 |
@@ -288,6 +289,7 @@
 | ✅ | composer | sleepingcub         | Magic Tales: Sleeping Cub's Test of Courage                                  | Tucky27 |
 | ✅ | cruise | cruise              | Cruise for a Corpse                                                          | rehail |
 | ✅ | cryomni3d | versailles          | Versailles 1685                                                              | Tucky27, GandalfTheWhite80 |
+| ✅ | dgds     | rise                | Rise of the Dragon                                                           | GandalfTheWhite80 |
 | ✅ | director | apeodyssey          | Ape Odyssey 2001                                                             | GandalfTheWhite80 |
 | ✅ | director | alice               | Alice: An Interactive Museum                                                 | GandalfTheWhite80 |
 | ✅ | director | chaos               | The C.H.A.O.S. Continuum                                                     | Tucky27 |
