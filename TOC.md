@@ -287,6 +287,7 @@
 | ⬜️ | composer | magictales          | Magic Tales                                                                  | |
 | ✅ | composer | princess            | Magic Tales: The Princess and the Crab                                       | Tucky27 |
 | ✅ | composer | sleepingcub         | Magic Tales: Sleeping Cub's Test of Courage                                  | Tucky27 |
+| ✅ | creab    | unrest              | Unrest                                                                       | GandalfTheWhite80 |
 | ✅ | cruise | cruise              | Cruise for a Corpse                                                          | rehail |
 | ✅ | cryomni3d | versailles          | Versailles 1685                                                              | Tucky27, GandalfTheWhite80 |
 | ✅ | dgds     | rise                | Rise of the Dragon                                                           | GandalfTheWhite80 |
