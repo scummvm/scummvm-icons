@@ -315,6 +315,7 @@
 | ✅ | freescape | darkside           | Dark Side                                                                   | GandalfTheWhite80 |
 | ✅ | freescape | driller            | Driller                                                                     | GandalfTheWhite80 |
 | ✅ | freescape | totaleclipse       | Total Eclipse                                                               | GandalfTheWhite80 |
+| ✅ | freescape | totaleclipse2      | Total Eclipse II                                                            | GandalfTheWhite80 |
 | ✅ | glk | 7doctors            | The seven doctors                                                            | Tucky27 |
 | ⬜️ | glk | adrianmole1         | Adrian Mole I                                                                | |
 | ⬜️ | glk | adrianmole2         | Adrian Mole II                                                               | |
