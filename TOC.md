@@ -556,6 +556,7 @@
 | ✅ | plumbers | plumbers            | Plumbers Don't Wear Ties!                                                    | nightm4re94, GandalfTheWhite80 |
 | ✅ | prince | prince              | The Prince and the Coward                                                    | JenniBee, GandalfTheWhite80 |
 | ✅ | private | private-eye         | Private Eye                                                                  | [Adventure Gamers page](https://adventuregamers.com/games/view/16575), GandalfTheWhite80 |
+| ✅ | qdengine | nupogodi3        | Wait for it! Issue 3. Song for a hare                                        | GandalfTheWhite80 |
 | ✅ | queen | queen               | Flight of the Amazon Queen                                                   | NekoFever, GandalfTheWhite80 |
 | ✅ | saga2 | fta2               | Halls of the Dead: Faery Tale Adventure II                                   | GandalfTheWhite80 |
 | ✅ | saga | ihnm                | I Have No Mouth and I Must Scream                                            | NekoFever, GandalfTheWhite80 |
