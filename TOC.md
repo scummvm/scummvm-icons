@@ -557,6 +557,8 @@
 | ✅ | prince | prince              | The Prince and the Coward                                                    | JenniBee, GandalfTheWhite80 |
 | ✅ | private | private-eye         | Private Eye                                                                  | [Adventure Gamers page](https://adventuregamers.com/games/view/16575), GandalfTheWhite80 |
 | ✅ | qdengine | maski            | Mask Show                                                                    | GandalfTheWhite80 |
+| ✅ | qdengine | 3mice1           | Marvellous Mice Adventures: Meeting Sea Rat                                  | GandalfTheWhite80 |
+| ✅ | qdengine | 3mice2           | Marvellous Mice Adventures: Sea Rat's Birthday                               | GandalfTheWhite80 |
 | ✅ | qdengine | nupogodi3        | Wait for it! Issue 3. Song for a hare                                        | GandalfTheWhite80 |
 | ✅ | qdengine | shveik           | The Adventures of the Good Soldier Schweik                                   | GandalfTheWhite80 |
 | ✅ | queen | queen               | Flight of the Amazon Queen                                                   | NekoFever, GandalfTheWhite80 |
