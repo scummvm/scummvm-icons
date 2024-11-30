@@ -162,7 +162,7 @@
 | ✅ | ags | lacroixpan          | La Croix Pan                                                                 | DavidAriyan |
 | ✅ | ags | lamplightcity       | Lamplight City                                                               | DavidAriyan |
 | ⬜️ | ags | lancelothangover    | Lancelot's Hangover                                                          | |
-| ✅ | ags | larrylotter         | Larry Lotter and the Test of Time                                            | tag2015 |
+| ✅ | ags | larrylotter         | Larry Lotter and the Test of Time                                            | tag2015, GandalfTheWhite80 |
 | ⬜️ | ags | leewardep1          | Leeward - Episode 1                                                          | |
 | ✅ | ags | legendofhand         | Legend of Hand                                                              | tag2015 |
 | ✅ | ags | lostanswers          | Lost Answers                                                                | DavidAriyan, tag2015|
