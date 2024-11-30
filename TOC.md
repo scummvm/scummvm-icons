@@ -97,7 +97,7 @@
 | ⬜️ | ags | brokenwindows4        | Broken Windows - Chapter 4                                                 | |
 | ✅ | ags | camp1                | Camp 1                                                                      | DavidAriyan |
 | ✅ | ags | captaindisaster      | Captain Disaster in: Death Has A Million Stomping Boots                     | tag2015 |
-| ⬜️ | ags | cartlife             | Cart Life                                                                   | |
+| ✅ | ags | cartlife             | Cart Life                                                                   | tag2015 |
 | ✅ | ags | cedricandtherevolution | Cedric and the Revolution |                                               | marus70, GandalfTheWhite80 |
 | ✅ | ags | charnelhousetrilogy  | The Charnel House Trilogy                                                   | DavidAriyan, tag2015 |
 | ✅ | ags | chronicleofinnsmouth | Chronicle Of Innsmouth                                                      | DavidAriyan, tag2015 |
@@ -108,7 +108,8 @@
 | ✅ | ags | conspiracybelowzero  | Conspiracy: Below Zero                                                      | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | contact              | Contact                                                                     | DavidAriyan |
 | ✅ | ags | content              | Content                                                                     | DavidAriyan |
-| ⬜️ | ags | contrapasso          | Commissar's Contrapasso                                                     | |
+| ✅ | ags | contrapasso          | Commissar's Contrapasso                                                     | tag2015 |
+| ✅ | ags | crimsondiamond       | The Crimson Diamond                                                         | tag2015 |
 | ✅ | ags | danewguys            | Da New Guys                                                                 | DavidAriyan |
 | ✅ | ags | danewguys2           | Da New Guys: Day of the Jackass                                             | tag2015 |
 | ⬜️ | ags | detectivebhdino     | Detective Boiled-Hard - Case File: Death of the Space Dino Hunter            | |
@@ -118,6 +119,7 @@
 | ✅ | ags | downfall2016        | Downfall (2016)                                                              | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | dreamswitchhouse    | Dreams in the Witch House                                                    | tag2015 |
 | ✅ | ags | dustbowl            | Dustbowl                                                                     | DavidAriyan, tag2015 |
+| ✅ | ags | englishhaunting     | An English Hunting                                                           | tag2015 |
 | ✅ | ags | escapefromthechaoticcity | Escape From The Chaotic City                                            | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | excavationhb         | The Excavation of Hob's Barrow                                              | tag2015 |
 | ✅ | ags | fall                 | Fall                                                                         | DavidAriyan |
@@ -149,7 +151,7 @@
 | ✅ | ags | journeyhell          | Journey to Hell                                                             | DavidAriyan, tag2015|
 | ✅ | ags | journeyhome         | Journey Home                                                                 | DavidAriyan |
 | ✅ | ags | justignorethem       | Just Ignore Them                                                            | tag2015 |
-| ⬜️ | ags | justignorethembrea1  | Just Ignore Them: Brea's Story Tape 1                                       | |
+| ✅ | ags | justignorethembrea1  | Just Ignore Them: Brea's Story Tape 1                                       | tag2015 |
 | ✅ | ags | kathyrain           | Kathy Rain - A Detective Is Born                                             | GandalfTheWhite80 |
 | ✅ | ags | killyourself        | Kill Yourself                                                                | tag2015 |
 | ✅ | ags | knobblycrook         | The Knobbly Crook                                                           | tag2015 |
