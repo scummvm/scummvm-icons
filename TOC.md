@@ -153,7 +153,7 @@
 | ✅ | ags | justignorethem       | Just Ignore Them                                                            | tag2015 |
 | ✅ | ags | justignorethembrea1  | Just Ignore Them: Brea's Story Tape 1                                       | tag2015 |
 | ✅ | ags | kathyrain           | Kathy Rain - A Detective Is Born                                             | GandalfTheWhite80 |
-| ✅ | ags | killyourself        | Kill Yourself                                                                | tag2015 |
+| ✅ | ags | killyourself        | Kill Yourself                                                                | tag2015, GandalfTheWhite80 |
 | ✅ | ags | knobblycrook         | The Knobbly Crook                                                           | tag2015 |
 | ✅ | ags | kq1agdi             | King's Quest I: Quest for the Crown Remake                                   | tag2015 |
 | ✅ | ags | kq2agdi             | King's Quest II: Romancing the Stones Remake                                 | tag2015 |
