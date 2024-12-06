@@ -624,7 +624,7 @@
 | ✅ | sci | phantasmagoria2     | Phantasmagoria 2: A Puzzle of Flesh                                          | dotdc |
 | ✅ | sci | pq1sci              | Police Quest: In Pursuit of the Death Angel                                  | Thanius, Tucky27, GandalfTheWhite80 |
 | ✅ | sci | pq2                 | Police Quest II: The Vengeance                                               | JenniBee, GandalfTheWhite80 |
-| ✅ | sci | pq3                 | Police Quest III: The Kindred                                                | JenniBee |
+| ✅ | sci | pq3                 | Police Quest III: The Kindred                                                | JenniBee, GandalfTheWhite80 |
 | ✅ | sci | pq4                 | Police Quest IV: Open Season                                                 | Tucky27 |
 | ✅ | sci | pqswat              | Police Quest: SWAT                                                           | Tucky27 |
 | ✅ | sci | qfg1                | Quest for Glory I: So You Want to Be a Hero                                  | JenniBee, Tucky27 |
