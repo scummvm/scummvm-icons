@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="196.5" height="173" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <title>CPC</title>
+ <g transform="translate(-499.16 -268.57)">
+  <rect x="499.16" y="268.57" width="196.5" height="173" rx="0" ry="17.246" style="fill:#333333"/>
+  <rect x="505.41" y="369.07" width="184" height="62" rx="4.989" ry="4.989" style="fill:#ffffff"/>
+  <g transform="matrix(1.0408 0 0 1.0588 119.75 277.36)" style="fill:#000080">
+   <rect x="488" y="97" width="48.999" height="17" rx="2.8718" ry="2.882" style="fill:#000080"/>
+  </g>
+  <g transform="matrix(1.0408 0 0 -1.0588 119.75 522.77)" style="fill:#000080">
+   <rect x="488" y="97" width="48.999" height="17" rx="3.0519" ry="3.0591" style="fill:#000080"/>
+  </g>
+  <g transform="matrix(-1.0408 0 0 -1.0588 1075.6 522.77)" style="fill:#800000">
+   <rect x="488" y="97" width="48.999" height="17" rx="3.0524" ry="2.8754" style="fill:#800000"/>
+  </g>
+  <g transform="matrix(-1.0408 0 0 1.0588 1075.6 277.36)" style="fill:#800000">
+   <rect x="488" y="97" width="48.999" height="17" rx="2.8614" ry="2.7639" style="fill:#800000"/>
+  </g>
+  <g transform="matrix(-1.04 0 0 1.0588 1130.2 277.36)" style="fill:#008000">
+   <rect x="487" y="97" width="49.999" height="17" rx="0" ry="2.882" style="fill:#008000"/>
+   <rect x="488" y="97" width="5.5463" height="5.5216" rx="4.0158" ry="0" style="fill:#008000"/>
+   <rect x="488" y="108.48" width="5.5463" height="5.5216" rx="4.0158" ry="0" style="fill:#008000"/>
+  </g>
+  <rect transform="scale(-1,1)" x="-623.66" y="402.07" width="52" height="18" rx="0" ry="3.0445" style="fill:#008000"/>
+  <g transform="matrix(1.1479 0 0 1.1479 -88.082 -58.545)">
+   <path d="m561.7 298.07v12h7v-19h-30s-8 0-8 8v55s-1 8 8 8h30v-19h-7v12h-22s-2 0-2-2v-2-51s0-2 2-2h22z" style="fill:#ffffff"/>
+   <path d="m575.66 291.07v7h5v57h-5v7h17v-7h-5v-26h23c8 0 8-8 8-8v-22c0-8-8-8-8-8zm12 7h22s2 0 2 2v20s0 2-2 2h-22z" style="fill:#ffffff"/>
+   <path d="m656.7 298.07v12h7v-19h-30s-8 0-8 8v55s-1 8 8 8h30v-19h-7v12h-22s-2 0-2-2v-2-51s0-2 2-2h22z" style="fill:#ffffff"/>
+  </g>
+ </g>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:title>CPC</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+</svg>
