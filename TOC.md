@@ -626,7 +626,7 @@
 | ✅ | sci | pq2                 | Police Quest II: The Vengeance                                               | JenniBee, GandalfTheWhite80 |
 | ✅ | sci | pq3                 | Police Quest III: The Kindred                                                | JenniBee, GandalfTheWhite80 |
 | ✅ | sci | pq4                 | Police Quest IV: Open Season                                                 | Tucky27 |
-| ✅ | sci | pqswat              | Police Quest: SWAT                                                           | Tucky27 |
+| ✅ | sci | pqswat              | Police Quest: SWAT                                                           | Tucky27, GandalfTheWhite80 |
 | ✅ | sci | qfg1                | Quest for Glory I: So You Want to Be a Hero                                  | JenniBee, Tucky27 |
 | ✅ | sci | qfg1vga             | Quest for Glory I: So You Want to Be a Hero                                  | JenniBee, GandalfTheWhite80 |
 | ✅ | sci | qfg2                | Quest for Glory II: Trial by Fire                                            | JenniBee, Tucky27 |
