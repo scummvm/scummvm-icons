@@ -660,7 +660,7 @@
 | ✅ | scumm | catalog             | Humongous Interactive Catalog                                                | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | chase               | SPY Fox in Cheese Chase                                                      | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | comi                | The Curse of Monkey Island                                                   | JenniBee, GandalfTheWhite80 |
-| ✅ | scumm | dig                 | The Dig                                                                      | Urgeistenergie |
+| ✅ | scumm | dig                 | The Dig                                                                      | Urgeistenergie, tag2015 |
 | ✅ | scumm | dog                 | Putt-Putt and Pep's Dog on a Stick                                           | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | farm                | Let's Explore the Farm with Buzzy                                            | Tucky27, GandalfTheWhite80 |
 | ✅ | scumm | fbear               | Fatty Bear's Birthday Surprise                                               | Tucky27, GandalfTheWhite80 |
