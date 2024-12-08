@@ -302,7 +302,7 @@
 | ✅ | director | darkeye             | The Dark Eye                                                                 | GandalfTheWhite80 |
 | ✅ | director | easternmind         | Eastern Mind                                                                 | GandalfTheWhite80 |
 | ✅ | director | gadget              | Gadget: Invention, Travel and Adventure                                      | GandalfTheWhite80 |
-| ✅ | director | kyoto               | Cosmology of Kyoto                                                           | Tucky27 |
+| ✅ | director | kyoto               | Cosmology of Kyoto                                                           | Tucky27, GandalfTheWhite80 |
 | ✅ | director | lzone               | L-Zone                                                                       | Tucky27, GandalfTheWhite80 |
 | ✅ | director | majestic            | Majestic Part 1: Alien Encounter                                             | Tucky27, GandalfTheWhite80 |
 | ✅ | director | timegal             | Time Gal                                                                     | GandalfTheWhite80 |
