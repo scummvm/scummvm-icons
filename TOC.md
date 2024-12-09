@@ -503,7 +503,7 @@
 | ✅ | kyra | kyra1               | The Legend of Kyrandia                                                       | Tucky27, beresk\_let |
 | ✅ | kyra | kyra2               | The Legend of Kyrandia: The Hand of Fate                                     | Tucky27, GandalfTheWhite80 |
 | ✅ | kyra | kyra3               | The Legend of Kyrandia: Malcolm's Revenge                                    | Tucky27, GandalfTheWhite80 |
-| ✅ | kyra | lol                 | Lands of Lore: The Throne of Chaos                                           | dotdc |
+| ✅ | kyra | lol                 | Lands of Lore: The Throne of Chaos                                           | dotdc, GandalfTheWhite80 |
 | ✅ | lab | lab                 | Labyrinth of Time                                                            | Tucky27, GandalfTheWhite80 |
 | ✅ | lure | lure                | Lure of the Temptress                                                        | GandalfTheWhite80 |
 | ✅ | m4   | burger              | Orion Burger                                                                 | GandalfTheWhite80 |
