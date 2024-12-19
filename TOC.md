@@ -462,10 +462,10 @@
 | ✅ | gob | lit                 | Lost in Time                                                                 | Matt, GandalfTheWhite80 |
 | ⬜️ | gob | lit1                | Lost in Time Part 1                                                          | |
 | ⬜️ | gob | lit2                | Lost in Time Part 2                                                          | |
+| ⬜️ | gob | magicstones         | The Land of the Magic Stones                                                 | |
 | ⬜️ | gob | nathanvacances      | Nathan Vacances                                                              | |
 | ✅ | gob | littlered           | Once Upon A Time: Little Red Riding Hood                                     | Matt, GandalfTheWhite80 |
 | ⬜️ | gob | onceupon            | Once Upon A Time                                                             | |
-| ⬜️ | gob | pierresmagiques     | Le pays des Pierres Magiques                                                 | |
 | ✅ | gob | playtnck1           | Playtoons Construction Kit 1 - Monsters                                      | GandalfTheWhite80 |
 | ✅ | gob | playtnck2           | Playtoons Construction Kit 2 - Knights                                       | GandalfTheWhite80 |
 | ✅ | gob | playtnck3           | Playtoons Construction Kit 3 - Far West                                      | GandalfTheWhite80 |
