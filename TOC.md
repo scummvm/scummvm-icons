@@ -191,7 +191,7 @@
 | ✅ | ags | perfecttides        | Perfect Tides                                                                | tag2015, GandalfTheWhite80 |
 | ✅ | ags | perfidiouspetrolstation | The Perfidious Petrol Station                                            | tag2015, GandalfTheWhite80 |
 | ⬜️ | ags | personalrocket      | Personal Rocket                                                              | |
-| ✅ | ags | phantomfellows      | The Phantom Fellows                                                          | thevolumeremote |
+| ✅ | ags | phantomfellows      | The Phantom Fellows                                                          | Paul Korman |
 | ✅ | ags | primordia           | Primordia                                                                    | Tucky27, GandalfTheWhite80 |
 | ✅ | ags | puzzlebots          | Puzzle Bots                                                                  | tag2015, GandalfTheWhite80 |
 | ✅ | ags | qfg2agdi            | Quest for Glory II: Trial by Fire                                            | Tucky27, tag2015 |
