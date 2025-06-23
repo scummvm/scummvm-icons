@@ -159,6 +159,7 @@
 | ✅ | ags | kq2agdi             | King's Quest II: Romancing the Stones Remake                                 | tag2015 |
 | ✅ | ags | kq3agdi             | King's Quest III Redux: To Heir is Human                                     | tag2015 |
 | ⬜️ | ags | kq3vga              | King's Quest III: To Heir is Human VGA Remake                                | |
+| ⬜️ | ags | kq4retold           | King's Quest IV: The Perils of Rosella Retold                                | |
 | ✅ | ags | lacroixpan          | La Croix Pan                                                                 | DavidAriyan |
 | ✅ | ags | lamplightcity       | Lamplight City                                                               | DavidAriyan |
 | ⬜️ | ags | lancelothangover    | Lancelot's Hangover                                                          | |
@@ -206,6 +207,7 @@
 | ✅ | ags | rnrneverdies         | Rock 'n' Roll Will Never Die!                                               | tag2015 |
 | ✅ | ags | rogue                | Rogue                                                                       | DavidAriyan |
 | ✅ | ags | roguestate         | Rogue State                                                                   | tag2015 |
+| ⬜️ | ags | rosewater           | Rosewater                                                                    | |
 | ✅ | ags | samaritan           | The Samaritan Paradox                                                        | DavidAriyan |
 | ✅ | ags | sepulchre            | Sepulchre                                                                   | DavidAriyan |
 | ✅ | ags | shardlight           | Shardlight                                                                  | tag2015 |
@@ -270,6 +272,7 @@
 | ✅ | ags | zniwadventure       | Zniw Adventure	                                                           | tag2015, GandalfTheWhite80 |
 | ✅ | asylum | sanitarium          | Sanitarium                                                                   | JenniBee, GandalfTheWhite80 |
 | ✅ | avalanche | avalanche           | Lord Avalot d'Argent                                                         | JenniBee, GandalfTheWhite80 |
+| ⬜️ | awe | anotherworld        | Another World/Out of This World                                              | |
 | ✅ | bagel | spacebar           | Spacebar                                                                     | GandalfTheWhite80 |
 | ✅ | bbvs | bbvs                | Beavis and Butt-head in Virtual Stupidity                                    | JenniBee, GandalfTheWhite80 |
 | ✅ | bladerunner | bladerunner         | Blade Runner                                                                 | NekoFever, DavidAriyan |
@@ -292,6 +295,9 @@
 | ✅ | creab    | unrest              | Unrest                                                                       | GandalfTheWhite80 |
 | ✅ | cruise | cruise              | Cruise for a Corpse                                                          | rehail |
 | ✅ | cryomni3d | versailles          | Versailles 1685                                                              | Tucky27, GandalfTheWhite80 |
+| ⬜️ | darkseed  | darkseed           | Dark Seed                                                                | |
+| ⬜️ | dgds     | beamish             | Willy Beamish                                                                | |
+| ⬜️ | dgds     | china               | Heart of China                                                               | |
 | ✅ | dgds     | rise                | Rise of the Dragon                                                           | GandalfTheWhite80 |
 | ✅ | director | apeodyssey          | Ape Odyssey 2001                                                             | GandalfTheWhite80 |
 | ✅ | director | alice               | Alice: An Interactive Museum                                                 | GandalfTheWhite80 |
@@ -478,6 +484,7 @@
 | ✅ | gob | urban               | Urban Runner                                                                 | JenniBee, GandalfTheWhite80 |
 | ✅ | gob | ween                | Ween: The Prophecy                                                           | Canuma, GandalfTheWhite80 |
 | ✅ | gob | woodruff            | The Bizarre Adventures of Woodruff and the Schnibble                         | Matt, GandalfTheWhite80 |
+| ⬜️ | got | got                | God of Thunder                                                               | |
 | ✅ | griffon | griffon             | The Griffon Legend                                                           | GandalfTheWhite80 |
 | ✅ | grim | grim                | Grim Fandango                                                                | Thanius, GandalfTheWhite80 |
 | ✅ | grim | monkey4             | Escape From Monkey Island                                                    | Thanius, GandalfTheWhite80 |
@@ -505,8 +512,10 @@
 | ✅ | kyra | kyra3               | The Legend of Kyrandia: Malcolm's Revenge                                    | Tucky27, GandalfTheWhite80 |
 | ✅ | kyra | lol                 | Lands of Lore: The Throne of Chaos                                           | dotdc, GandalfTheWhite80 |
 | ✅ | lab | lab                 | Labyrinth of Time                                                            | Tucky27, GandalfTheWhite80 |
+| ⬜️ | lastexpress | lastexpress  | The Last Express                                                            | |
 | ✅ | lure | lure                | Lure of the Temptress                                                        | GandalfTheWhite80 |
 | ✅ | m4   | burger              | Orion Burger                                                                 | GandalfTheWhite80 |
+| ⬜️ | m4 | riddle                | Ripley's Believe It or Not!: The Riddle of Master Lu                         | |
 | ✅ | made | lgop2               | Leather Goddesses of Phobos 2                                                | Matt, GandalfTheWhite80 |
 | ✅ | made | manhole             | The Manhole                                                                  | Matt, GandalfTheWhite80 |
 | ✅ | made | rodney              | Rodney's Funscreen                                                           | Matt, GandalfTheWhite80 |
@@ -546,6 +555,8 @@
 | ✅ | nancy | nancy3              | Nancy Drew: Message in a Haunted Mansion                                     | GandalfTheWhite80 |
 | ✅ | nancy | nancy4              | Nancy Drew: Treasure in the Royal Tower                                      | GandalfTheWhite80 |
 | ✅ | nancy | nancy5              | Nancy Drew: The Final Scene                                                  | GandalfTheWhite80 |
+| ⬜️ | nancy | nancy6              | Nancy Drew: Secret of the Scarlet Hand                                       | |
+| ⬜️ | nancy | nancy7              | Nancy Drew: Ghost Dogs of Moon Lake                                          | |
 | ✅ | nancy | vampirediaries      | The Vampire Diaries                                                          | GandalfTheWhite80 |
 | ✅ | neverhood | neverhood           | The Neverhood Chronicles                                                     | JenniBee, GandalfTheWhite80 |
 | ✅ | ngi | fullpipe            | Full Pipe                                                                    | [App Store page](https://apps.apple.com/app/full-pipe-puzzle-adventure/id900071823), GandalfTheWhite80 |
@@ -563,6 +574,14 @@
 | ✅ | qdengine | 3mice2           | Marvellous Mice Adventures: Sea Rat's Birthday                               | GandalfTheWhite80 |
 | ✅ | qdengine | nupogodi3        | Wait for it! Issue 3. Song for a hare                                        | GandalfTheWhite80 |
 | ✅ | qdengine | shveik           | The Adventures of the Good Soldier Schweik                                   | GandalfTheWhite80 |
+| ⬜️ | qdengine | karliknos        | Little Longnose                                                              | |
+| ⬜️ | qdengine | pilots3          | Pilot Brothers 3: Back Side of the Earth                                    | |
+| ⬜️ | qdengine | pilots3d         | Pilot Brothers 3D. The Case of Garden Pests                                 | |
+| ⬜️ | qdengine | pilots3d-2       | Pilot Brothers 3D-2. Kennel Club Secrets                                    | |
+| ⬜️ | qdengine | mng              | Mom don't Worry                                                             | |
+| ⬜️ | qdengine | rybalka          | Features of National Fishing                                                | |
+| ⬜️ | qdengine | dogncat          | Dog-n-cat: In the Footsteps of Unprecedented Beasts                         | |
+| ⬜️ | qdengine | dogncat2         | Dog-n-cat: Island of Dr Ratiarty                                            | |
 | ✅ | queen | queen               | Flight of the Amazon Queen                                                   | NekoFever, GandalfTheWhite80 |
 | ✅ | saga2 | fta2               | Halls of the Dead: Faery Tale Adventure II                                   | GandalfTheWhite80 |
 | ✅ | saga | ihnm                | I Have No Mouth and I Must Scream                                            | NekoFever, GandalfTheWhite80 |
