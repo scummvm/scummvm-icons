@@ -569,19 +569,19 @@
 | ✅ | plumbers | plumbers            | Plumbers Don't Wear Ties!                                                    | nightm4re94, GandalfTheWhite80 |
 | ✅ | prince | prince              | The Prince and the Coward                                                    | JenniBee, GandalfTheWhite80 |
 | ✅ | private | private-eye         | Private Eye                                                                  | [Adventure Gamers page](https://adventuregamers.com/games/view/16575), GandalfTheWhite80 |
-| ✅ | qdengine | maski            | Mask Show                                                                    | GandalfTheWhite80 |
 | ✅ | qdengine | 3mice1           | Marvellous Mice Adventures: Meeting Sea Rat                                  | GandalfTheWhite80 |
 | ✅ | qdengine | 3mice2           | Marvellous Mice Adventures: Sea Rat's Birthday                               | GandalfTheWhite80 |
+| ✅ | qdengine | dogncat          | Dog-n-cat: In the Footsteps of Unprecedented Beasts                          | GandalfTheWhite80 |
+| ✅ | qdengine | dogncat2         | Dog-n-cat: Island of Dr Ratiarty                                             | GandalfTheWhite80 |
+| ✅ | qdengine | karliknos        | Little Longnose                                                              | GandalfTheWhite80 |
+| ✅ | qdengine | maski            | Mask Show                                                                    | GandalfTheWhite80 |
+| ✅ | qdengine | mng              | Mom don't Worry                                                              | GandalfTheWhite80 |
 | ✅ | qdengine | nupogodi3        | Wait for it! Issue 3. Song for a hare                                        | GandalfTheWhite80 |
+| ✅ | qdengine | pilots3          | Pilot Brothers 3: Back Side of the Earth                                     | GandalfTheWhite80 |
+| ✅ | qdengine | pilots3d         | Pilot Brothers 3D. The Case of Garden Pests                                  | GandalfTheWhite80 |
+| ✅ | qdengine | pilots3d-2       | Pilot Brothers 3D-2. Kennel Club Secrets                                     | GandalfTheWhite80 |
+| ✅ | qdengine | rybalka          | Features of National Fishing                                                 | GandalfTheWhite80 |
 | ✅ | qdengine | shveik           | The Adventures of the Good Soldier Schweik                                   | GandalfTheWhite80 |
-| ⬜️ | qdengine | karliknos        | Little Longnose                                                              | |
-| ⬜️ | qdengine | pilots3          | Pilot Brothers 3: Back Side of the Earth                                    | |
-| ⬜️ | qdengine | pilots3d         | Pilot Brothers 3D. The Case of Garden Pests                                 | |
-| ⬜️ | qdengine | pilots3d-2       | Pilot Brothers 3D-2. Kennel Club Secrets                                    | |
-| ⬜️ | qdengine | mng              | Mom don't Worry                                                             | |
-| ⬜️ | qdengine | rybalka          | Features of National Fishing                                                | |
-| ⬜️ | qdengine | dogncat          | Dog-n-cat: In the Footsteps of Unprecedented Beasts                         | |
-| ⬜️ | qdengine | dogncat2         | Dog-n-cat: Island of Dr Ratiarty                                            | |
 | ✅ | queen | queen               | Flight of the Amazon Queen                                                   | NekoFever, GandalfTheWhite80 |
 | ✅ | saga2 | fta2               | Halls of the Dead: Faery Tale Adventure II                                   | GandalfTheWhite80 |
 | ✅ | saga | ihnm                | I Have No Mouth and I Must Scream                                            | NekoFever, GandalfTheWhite80 |
