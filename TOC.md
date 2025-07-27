@@ -773,6 +773,7 @@
 | ✅ | vcruise  | reah                 | Reah: Face the Unknown                                                        | GandalfTheWhite80 |
 | ✅ | vcruise | schizm                 | Schizm: Mysterious Journey                                                   | GandalfTheWhite80 |
 | ✅ | voyeur | voyeur              | Voyeur                                                                       | JenniBee, GandalfTheWhite80 |
+| ✅ | wage | scepters                  | Enchanted Scepters                                                           | GandalfTheWhite80 |
 | ✅ | wintermute | 5ld                 | Five Lethal Demons                                                           | tag2015 |
 | ✅ | wintermute | 5ma                 | Five Magical Amulets                                                         | tag2015 |
 | ✅ | wintermute | bickadoodle         | Bickadoodle                                                                  | tag2015 |
