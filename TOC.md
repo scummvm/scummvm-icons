@@ -272,7 +272,7 @@
 | ✅ | ags | zniwadventure       | Zniw Adventure	                                                           | tag2015, GandalfTheWhite80 |
 | ✅ | asylum | sanitarium          | Sanitarium                                                                   | JenniBee, GandalfTheWhite80 |
 | ✅ | avalanche | avalanche           | Lord Avalot d'Argent                                                         | JenniBee, GandalfTheWhite80 |
-| ⬜️ | awe | anotherworld        | Another World/Out of This World                                              | |
+| ✅ | awe | anotherworld        | Another World/Out of This World                                               | GandalfTheWhite80 |
 | ✅ | bagel | spacebar           | Spacebar                                                                     | GandalfTheWhite80 |
 | ✅ | bbvs | bbvs                | Beavis and Butt-head in Virtual Stupidity                                    | JenniBee, GandalfTheWhite80 |
 | ✅ | bladerunner | bladerunner         | Blade Runner                                                                 | NekoFever, DavidAriyan |
