@@ -496,6 +496,7 @@
 | ✅ | hadesch | hadesch             | Hades Challenge                                                              | GandalfTheWhite80 |
 | ✅ | hdb | hdb                 | Hyperspace Delivery Boy!                                                     | SupSuper, GandalfTheWhite80 |
 | ✅ | hopkins | hopkins             | Hopkins FBI                                                                  | rehail, GandalfTheWhite80 |
+| ⬜️ | hpl1 | penumbraoverture    | Penumbra: Overture                                                           | |
 | ✅ | hugo | hugo1               | Hugo 1: Hugo's House of Horrors                                              | JenniBee, GandalfTheWhite80 |
 | ✅ | hugo | hugo2               | Hugo 2: Whodunit?                                                            | JenniBee, GandalfTheWhite80 |
 | ✅ | hugo | hugo3               | Hugo 3: Jungle of Doom                                                       | JenniBee, GandalfTheWhite80 |
@@ -776,19 +777,30 @@
 | ✅ | wage | scepters                  | Enchanted Scepters                                                           | GandalfTheWhite80 |
 | ✅ | wintermute | 5ld                 | Five Lethal Demons                                                           | tag2015 |
 | ✅ | wintermute | 5ma                 | Five Magical Amulets                                                         | tag2015 |
+| ⬜️ | wintermute | alphapolaris        | Alpha Polaris                                                                | |
+| ⬜️ | wintermute | artofmurder1        | Art of Murder 1: FBI Confidential                                            | |
 | ✅ | wintermute | bickadoodle         | Bickadoodle                                                                  | tag2015 |
+| ⬜️ | wintermute | carolreed*          | Carol Reed 4-16                                                              | |
 | ✅ | wintermute | chivalry            | Chivalry is Not Dead                                                         | JenniBee, GandalfTheWhite80 |
 | ✅ | wintermute | corrosion           | Corrosion: Cold Winter Waiting                                               | GandalfTheWhite80 |
 | ✅ | wintermute | deadcity            | Dead City                                                                    | tag2015 |
 | ✅ | wintermute | dirtysplit          | Dirty Split                                                                  | tag2015, GandalfTheWhite80 |
 | ✅ | wintermute | escapemansion       | Escape from the Mansion                                                      | tag2015 |
-| ✅ | wintermute | helga           | Helga Deep In Trouble                                                        | GandalfTheWhite80 |
+| ⬜️ | wintermute | facenoir            | Face Noir                                                                    | |
+| ⬜️ | wintermute | ghostsheet          | Ghost in the Sheet                                                           | |
+| ⬜️ | wintermute | hamlet              | Hamlet                                                                       | |
+| ✅ | wintermute | helga               | Helga Deep In Trouble                                                        | GandalfTheWhite80 |
+| ⬜️ | wintermute | idiotstale          | The Idiot's Tale                                                             | |
+| ⬜️ | wintermute | jamesperis          | James Peris: No License Nor Control                                          | |
+| ⬜️ | wintermute | jamesperis2         | James Peris 2: The Fountain of Eternal Drunkenness                           | |
 | ✅ | wintermute | openquest           | Open Quest                                                                   | JenniBee |
 | ✅ | wintermute | reversion1          | Reversion: The Escape                                                        | JenniBee, GandalfTheWhite80 |
 | ✅ | wintermute | reversion2          | Reversion: The Meeting                                                       | JenniBee, GandalfTheWhite80 |
 | ⬜️ | wintermute | reversion3          | Reversion: The Return                                                        | |
+| ⬜️ | wintermute | rhiannon            | Rhiannon: Curse of the four Branches                                         | |
 | ✅ | wintermute | ritter              | 1 1/2 Ritter: Auf der Suche nach der hinreissenden Herzelinde                | tag2015 |
 | ✅ | wintermute | rosemary            | Rosemary                                                                     | tag2015 |
+| ⬜️ | wintermute | shaban              | Shaban                                                                       | |
 | ✅ | wintermute | thekite             | The Kite                                                                     | tag2015, GandalfTheWhite80 |
 | ✅ | wintermute | twc                 | The White Chamber                                                            | tag2015 |
 | ✅ | zvision | zgi                 | Zork: Grand Inquisitor                                                       | JenniBee, GandalfTheWhite80 |
