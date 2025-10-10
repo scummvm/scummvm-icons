@@ -4,6 +4,7 @@
 |---|-----------|---------------------|------------------------------------------------------------------------------|---------|
 | ✅ | example | example             | Example Entry                                                                | Your Name Here
 | ✅ | access | amazon              | Amazon: Guardians of Eden                                                    | Tucky27, GandalfTheWhite80 |
+| ⬜️ | access | martian          | Martian Memorandum                                                             | |
 | ✅ | adl | hires0              | Hi-Res Adventure #0: Mission Asteroid                                        | Tucky27, GandalfTheWhite80 |
 | ✅ | adl | hires1              | Hi-Res Adventure #1: Mystery House                                           | rehail |
 | ✅ | adl | hires2              | Hi-Res Adventure #2: Wizard and the Princess                                 | TrivialBalderdash |
@@ -76,6 +77,7 @@
 | ✅ | ags | ashinaredwitch       | Ashina: The Red Witch                                                       | Official media, GandalfTheWhite80 |
 | ✅ | ags | atotk               | A Tale Of Two Kingdoms                                                       | tag2015 |
 | ✅ | ags | bcremake            | Black Cauldron Remake                                                        | DavidAriyan, GandalfTheWhite80 |
+| ⬜️ | ags | beekeeperpicnic     | The Beekeeper's Picnic                                                       | |
 | ✅ | ags | bentheredanthat    | Ben There, Dan That!                                                          | tag2015 |
 | ✅ | ags | beyondhorizon        | Beyond Horizon                                                              | DavidAriyan, tag2015|
 | ✅ | ags | beyondowlsgard      | Beyond the Edge of Owlsgard                                                  | tag2015 |
@@ -97,6 +99,8 @@
 | ⬜️ | ags | brokenwindows4        | Broken Windows - Chapter 4                                                 | |
 | ✅ | ags | camp1                | Camp 1                                                                      | DavidAriyan |
 | ✅ | ags | captaindisaster      | Captain Disaster in: Death Has A Million Stomping Boots                     | tag2015 |
+| ⬜️ | ags | captaindisasterriskara | Captain Disaster and The Two Worlds of Riskara                            | |
+| ⬜️ | ags | carnival             | Carnival                                                                    | |
 | ✅ | ags | cartlife             | Cart Life                                                                   | tag2015 |
 | ✅ | ags | cedricandtherevolution | Cedric and the Revolution |                                               | marus70, GandalfTheWhite80 |
 | ✅ | ags | charnelhousetrilogy  | The Charnel House Trilogy                                                   | DavidAriyan, tag2015 |
@@ -112,6 +116,7 @@
 | ✅ | ags | crimsondiamond       | The Crimson Diamond                                                         | tag2015 |
 | ✅ | ags | danewguys            | Da New Guys                                                                 | DavidAriyan |
 | ✅ | ags | danewguys2           | Da New Guys: Day of the Jackass                                             | tag2015 |
+| ⬜️ | ags | darkrites           | The Dark Rites of Arkham                                                     | |
 | ⬜️ | ags | detectivebhdino     | Detective Boiled-Hard - Case File: Death of the Space Dino Hunter            | |
 | ✅ | ags | detectivegallo      | Detective Gallo                                                              | DavidAriyan, GandalfTheWhite80 |
 | ⬜️ | ags | docapocalypse       | Doc Apocalypse                                                               | |
@@ -148,6 +153,7 @@
 | ✅ | ags | inbloom              | In Bloom                                                                    | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | ioawn4t              | If On A Winter's Night: Four Travellers                                     | DavidAriyan, tag2015|
 | ✅ | ags | iwantout             | I Want Out!                                                                 | DavidAriyan |
+| ⬜️ | ags | jorry                | JORRY                                                                       | |
 | ✅ | ags | journeyhell          | Journey to Hell                                                             | DavidAriyan, tag2015|
 | ✅ | ags | journeyhome         | Journey Home                                                                 | DavidAriyan |
 | ✅ | ags | justignorethem       | Just Ignore Them                                                            | tag2015 |
@@ -166,9 +172,11 @@
 | ✅ | ags | larrylotter         | Larry Lotter and the Test of Time                                            | tag2015, GandalfTheWhite80 |
 | ⬜️ | ags | leewardep1          | Leeward - Episode 1                                                          | |
 | ✅ | ags | legendofhand         | Legend of Hand                                                              | tag2015 |
+| ⬜️ | ags | legendofskye         | The Legend of Skye                                                          | |
 | ✅ | ags | lostanswers          | Lost Answers                                                                | DavidAriyan, tag2015|
 | ✅ | ags | lostinthenightmare   | Lost In The Nightmare                                                       | DavidAriyan |
 | ✅ | ags | mage                 | Mage's Initiation: Reign of the Elements                                    | tag2015 |
+| ⬜️ | ags | maggieapartment      | Maggie's Apartment                                                          | |
 | ✅ | ags | maniacmansiondeluxe | Maniac Mansion Deluxe                                                        | GandalfTheWhite80 |
 | ✅ | ags | masked               | Masked                                                                      | tag2015 |
 | ✅ | ags | metaldead          | Metal Dead                                                                    | tag2015 |
@@ -190,6 +198,7 @@
 | ⬜️ | ags | overtheedge         | The Journey Down: Over the Edge                                              | |
 | ✅ | ags | patchwork           | Patchwork                                                                    | DavidAriyan |
 | ✅ | ags | perfecttides        | Perfect Tides                                                                | tag2015, GandalfTheWhite80 |
+| ⬜️ | ags | perfecttidess2s     | Perfect Tides: Station to Station                                            | |
 | ✅ | ags | perfidiouspetrolstation | The Perfidious Petrol Station                                            | tag2015, GandalfTheWhite80 |
 | ⬜️ | ags | personalrocket      | Personal Rocket                                                              | |
 | ✅ | ags | phantomfellows      | The Phantom Fellows                                                          | Paul Korman |
@@ -227,6 +236,8 @@
 | ✅ | ags | starshipquasar      | Starship Quasar                                                              | tag2015 |
 | ⬜️ | ags | stayingalive        | The Ancient Art of Staying Alive                                             | |
 | ⬜️ | ags | stellarmessep1      | Stellar Mess - Episode 1: The Princess Conundrum                             | |
+| ⬜️ | ags | stellarmessep2      | Stellar Mess - Episode 2: Operation Kush                                     | |
+| ⬜️ | ags | stormwater          | Stormwater                                                                   | |
 | ✅ | ags | strangeland         | Strangeland                                                                  | DavidAriyan |
 | ✅ | ags | sulifallenharmony   | Suli: Fallen Harmony                                                         | tag2015 |
 | ✅ | ags | sumatra             | Sumatra: Fate of Yandi                                                       | tag2015 |
@@ -270,6 +281,7 @@
 | ✅ | ags | witchlullaby        | The Witch's Lullaby                                                          | DavidAriyan |
 | ✅ | ags | zidjourney          | Zid Journey	                                                               | tag2015, GandalfTheWhite80 |
 | ✅ | ags | zniwadventure       | Zniw Adventure	                                                           | tag2015, GandalfTheWhite80 |
+| ⬜️ | alcachofa | aventuradecine   | Mortadelo y Filemón: Una Aventura de Cine                                | |
 | ✅ | asylum | sanitarium          | Sanitarium                                                                   | JenniBee, GandalfTheWhite80 |
 | ✅ | avalanche | avalanche           | Lord Avalot d'Argent                                                         | JenniBee, GandalfTheWhite80 |
 | ✅ | awe | anotherworld        | Another World/Out of This World                                               | GandalfTheWhite80 |
