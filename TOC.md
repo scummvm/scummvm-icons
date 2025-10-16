@@ -172,7 +172,7 @@
 | ✅ | ags | larrylotter         | Larry Lotter and the Test of Time                                            | tag2015, GandalfTheWhite80 |
 | ⬜️ | ags | leewardep1          | Leeward - Episode 1                                                          | |
 | ✅ | ags | legendofhand         | Legend of Hand                                                              | tag2015 |
-| ⬜️ | ags | legendofskye         | The Legend of Skye                                                          | |
+| ✅ | ags | legendofskye         | The Legend of Skye                                                          | WhiteRakogis |
 | ✅ | ags | lostanswers          | Lost Answers                                                                | DavidAriyan, tag2015|
 | ✅ | ags | lostinthenightmare   | Lost In The Nightmare                                                       | DavidAriyan |
 | ✅ | ags | mage                 | Mage's Initiation: Reign of the Elements                                    | tag2015 |
@@ -255,7 +255,7 @@
 | ✅ | ags | theadventuresoftheblackhawk | The Adventures of the Black Hawk                                     | tag2015, GandalfTheWhite80 |
 | ✅ | ags | theawakening         | The Awekening                                                               | DavidAriyan |
 | ✅ | ags | thecabin            | The Cabin                                                                    | DavidAriyan |
-| ✅ | ags | thecastle           | The Castle                                                                   | tag2015 |
+| ✅ | ags | thecastle           | The Castle                                                                   | tag2015, WhiteRakogis |
 | ✅ | ags | thecatlady          | The Cat Lady                                                                 | DavidAriyan |
 | ✅ | ags | theexperimentp1      | The Experiment - Part 1: The Laboratory                                     | DavidAriyan |
 | ✅ | ags | theexperimentp2      | The Experiment - Part 2: Menacing Darkness                                  | DavidAriyan |
