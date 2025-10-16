@@ -285,7 +285,8 @@
 | ✅ | asylum | sanitarium          | Sanitarium                                                                   | JenniBee, GandalfTheWhite80 |
 | ✅ | avalanche | avalanche           | Lord Avalot d'Argent                                                         | JenniBee, GandalfTheWhite80 |
 | ✅ | awe | anotherworld        | Another World/Out of This World                                               | GandalfTheWhite80 |
-| ✅ | bagel | spacebar           | Spacebar                                                                     | GandalfTheWhite80 |
+| ⬜️ | bagel | hodjnpodj          | Hodj 'n' Podj                                                                     | |
+| ✅ | bagel | spacebar           | The Space Bar                                                                     | GandalfTheWhite80 |
 | ✅ | bbvs | bbvs                | Beavis and Butt-head in Virtual Stupidity                                    | JenniBee, GandalfTheWhite80 |
 | ✅ | bladerunner | bladerunner         | Blade Runner                                                                 | NekoFever, DavidAriyan |
 | ✅ | bladerunner | bladerunner-final   | Blade Runner                                                                 | NekoFever, DavidAriyan, GandalfTheWhite80 |
@@ -765,6 +766,7 @@
 | ✅ | toltecs | toltecs             | 3 Skulls of the Toltecs                                                      |Canuma, GandalfTheWhite80|
 | ✅ | tony | tony                | Tony Tough and the Night of Roasted Moths                                    | rehail |
 | ✅ | toon | toon                | Toonstruck                                                                   | JenniBee, GandalfTheWhite80 |
+| ⬜️ | tot | tot                  | Trick or Treat                                                                | |
 | ✅ | touche | touche              | Touche: The Adventures of the Fifth Musketeer                                |Canuma|
 | ✅ | trecision | nl                  | Nightlong: Union City Conspiracy                                             | Tucky27, GandalfTheWhite80 |
 | ✅ | tsage | blueforce           | Blue Force                                                                   | JenniBee, GandalfTheWhite80 |
@@ -796,7 +798,9 @@
 | ✅ | wintermute | chivalry            | Chivalry is Not Dead                                                         | JenniBee, GandalfTheWhite80 |
 | ✅ | wintermute | corrosion           | Corrosion: Cold Winter Waiting                                               | GandalfTheWhite80 |
 | ✅ | wintermute | deadcity            | Dead City                                                                    | tag2015 |
+| ⬜️ | wintermute | devilincapital      | Devil In The Capital        	                                              | |
 | ✅ | wintermute | dirtysplit          | Dirty Split                                                                  | tag2015, GandalfTheWhite80 |
+| ⬜️ | wintermute | erinmyers           | The Death of Erin Myers	    	                                              | |
 | ✅ | wintermute | escapemansion       | Escape from the Mansion                                                      | tag2015 |
 | ⬜️ | wintermute | facenoir            | Face Noir                                                                    | |
 | ⬜️ | wintermute | ghostsheet          | Ghost in the Sheet                                                           | |
@@ -806,6 +810,7 @@
 | ⬜️ | wintermute | jamesperis          | James Peris: No License Nor Control                                          | |
 | ⬜️ | wintermute | jamesperis2         | James Peris 2: The Fountain of Eternal Drunkenness                           | |
 | ✅ | wintermute | openquest           | Open Quest                                                                   | JenniBee |
+| ⬜️ | wintermute | rebeccacarlson1     | Rebecca Carlson 1: Silent Footsteps                                          | |
 | ✅ | wintermute | reversion1          | Reversion: The Escape                                                        | JenniBee, GandalfTheWhite80 |
 | ✅ | wintermute | reversion2          | Reversion: The Meeting                                                       | JenniBee, GandalfTheWhite80 |
 | ⬜️ | wintermute | reversion3          | Reversion: The Return                                                        | |
@@ -813,6 +818,8 @@
 | ✅ | wintermute | ritter              | 1 1/2 Ritter: Auf der Suche nach der hinreissenden Herzelinde                | tag2015 |
 | ✅ | wintermute | rosemary            | Rosemary                                                                     | tag2015 |
 | ⬜️ | wintermute | shaban              | Shaban                                                                       | |
+| ⬜️ | wintermute | tehran1933          | Murder In Tehran's Alleys 1933	                                              | |
+| ⬜️ | wintermute | tehran2016          | Murder In Tehran's Alleys 2016	                                              | |
 | ✅ | wintermute | thekite             | The Kite                                                                     | tag2015, GandalfTheWhite80 |
 | ✅ | wintermute | twc                 | The White Chamber                                                            | tag2015 |
 | ✅ | zvision | zgi                 | Zork: Grand Inquisitor                                                       | JenniBee, GandalfTheWhite80 |
