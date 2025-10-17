@@ -766,7 +766,7 @@
 | ✅ | toltecs | toltecs             | 3 Skulls of the Toltecs                                                      |Canuma, GandalfTheWhite80|
 | ✅ | tony | tony                | Tony Tough and the Night of Roasted Moths                                    | rehail |
 | ✅ | toon | toon                | Toonstruck                                                                   | JenniBee, GandalfTheWhite80 |
-| ⬜️ | tot | tot                  | Trick or Treat                                                                | |
+| ✅ | tot | tot                  | Trick or Treat                                                                | GandalfTheWhite80 |
 | ✅ | touche | touche              | Touche: The Adventures of the Fifth Musketeer                                |Canuma|
 | ✅ | trecision | nl                  | Nightlong: Union City Conspiracy                                             | Tucky27, GandalfTheWhite80 |
 | ✅ | tsage | blueforce           | Blue Force                                                                   | JenniBee, GandalfTheWhite80 |
