@@ -216,7 +216,7 @@
 | ✅ | ags | rnrneverdies         | Rock 'n' Roll Will Never Die!                                               | tag2015 |
 | ✅ | ags | rogue                | Rogue                                                                       | DavidAriyan |
 | ✅ | ags | roguestate         | Rogue State                                                                   | tag2015 |
-| ⬜️ | ags | rosewater           | Rosewater                                                                    | |
+| ✅ | ags | rosewater           | Rosewater                                                                    | WhiteRakogis, GandalfTheWhite80 |
 | ✅ | ags | samaritan           | The Samaritan Paradox                                                        | DavidAriyan |
 | ✅ | ags | sepulchre            | Sepulchre                                                                   | DavidAriyan |
 | ✅ | ags | shardlight           | Shardlight                                                                  | tag2015 |
