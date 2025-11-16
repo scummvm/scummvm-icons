@@ -4,7 +4,7 @@
 |---|-----------|---------------------|------------------------------------------------------------------------------|---------|
 | ✅ | example | example             | Example Entry                                                                | Your Name Here
 | ✅ | access | amazon              | Amazon: Guardians of Eden                                                    | Tucky27, GandalfTheWhite80 |
-| ⬜️ | access | martian          | Martian Memorandum                                                             | |
+| ✅ | access | martian          | Martian Memorandum                                                             | GandalfTheWhite80 |
 | ✅ | adl | hires0              | Hi-Res Adventure #0: Mission Asteroid                                        | Tucky27, GandalfTheWhite80 |
 | ✅ | adl | hires1              | Hi-Res Adventure #1: Mystery House                                           | rehail |
 | ✅ | adl | hires2              | Hi-Res Adventure #2: Wizard and the Princess                                 | TrivialBalderdash |
