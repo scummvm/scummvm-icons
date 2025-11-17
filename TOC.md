@@ -515,7 +515,7 @@
 | ✅ | hugo | hugo3               | Hugo 3: Jungle of Doom                                                       | JenniBee, GandalfTheWhite80 |
 | ✅ | hypno | sinistersix         | Spider-Man: The Sinister Six                                                 | Tucky27 |
 | ✅ | hypno | soldierboyz         | Soldier Boyz                                                                 | Tucky27 |
-| ✅ | hypno | wetlands            | Wetlands                                                                     | Tucky27 |
+| ✅ | hypno | wetlands            | Wetlands                                                                     | Tucky27, GandalfTheWhite80 |
 | ✅ | icb | icb            | In Cold Blood                                                                      | GandalfTheWhite80 |
 | ✅ | illusions | duckman             | Duckman                                                                      | Tucky27, GandalfTheWhite80 |
 | ✅ | kingdom | kingdom          | Kingdom: The Far Reaches                                                     | GandalfTheWhite80 |
