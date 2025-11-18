@@ -670,11 +670,11 @@
 | ⬜️ | sci | sci-fanmade         | Fanmade SCI Game                                                             | |
 | ✅ | sci | shivers             | Shivers                                                                      | thedoc, GandalfTheWhite80 |
 | ✅ | sci | slater              | Slater & Charlie Go Camping                                                  | GandalfTheWhite80 |
-| ✅ | sci | sq1sci              | Space Quest I: The Sarien Encounter                                          | JenniBee, Tucky27 |
-| ✅ | sci | sq3                 | Space Quest III: The Pirates of Pestulon                                     | JenniBee |
-| ✅ | sci | sq4                 | Space Quest IV: Roger Wilco and the Time Rippers                             | JenniBee |
-| ✅ | sci | sq5                 | Space Quest V: The Next Mutation                                             | JenniBee |
-| ✅ | sci | sq6                 | Space Quest 6: The Spinal Frontier                                           | JenniBee |
+| ✅ | sci | sq1sci              | Space Quest I: The Sarien Encounter                                          | JenniBee, Tucky27, GandalfTheWhite80 |
+| ✅ | sci | sq3                 | Space Quest III: The Pirates of Pestulon                                     | JenniBee, GandalfTheWhite80 |
+| ✅ | sci | sq4                 | Space Quest IV: Roger Wilco and the Time Rippers                             | JenniBee, GandalfTheWhite80 |
+| ✅ | sci | sq5                 | Space Quest V: The Next Mutation                                             | JenniBee, GandalfTheWhite80 |
+| ✅ | sci | sq6                 | Space Quest 6: The Spinal Frontier                                           | JenniBee, GandalfTheWhite80 |
 | ✅ | sci | torin               | Torin's Passage                                                              | Urgeistenergie, GandalfTheWhite80 |
 | ✅ | scumm | activity            | Putt-Putt & Fatty Bear's Activity Pack                                       | Tucky27; GandalfTheWhite80 |
 | ✅ | scumm | airport             | Let's Explore the Airport with Buzzy                                         | Tucky27, GandalfTheWhite80 |
