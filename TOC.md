@@ -309,7 +309,7 @@
 | ✅ | cruise | cruise              | Cruise for a Corpse                                                          | rehail |
 | ✅ | cryomni3d | versailles          | Versailles 1685                                                              | Tucky27, GandalfTheWhite80 |
 | ⬜️ | darkseed  | darkseed           | Dark Seed                                                                | |
-| ⬜️ | dgds     | beamish             | Willy Beamish                                                                | |
+| ✅  | dgds     | beamish             | Willy Beamish                                                                | GandalfTheWhite80 |
 | ⬜️ | dgds     | china               | Heart of China                                                               | |
 | ✅ | dgds     | rise                | Rise of the Dragon                                                           | GandalfTheWhite80 |
 | ✅ | director | apeodyssey          | Ape Odyssey 2001                                                             | GandalfTheWhite80 |
