@@ -310,7 +310,7 @@
 | ✅ | cryomni3d | versailles          | Versailles 1685                                                              | Tucky27, GandalfTheWhite80 |
 | ⬜️ | darkseed  | darkseed           | Dark Seed                                                                | |
 | ✅  | dgds     | beamish             | Willy Beamish                                                                | GandalfTheWhite80 |
-| ⬜️ | dgds     | china               | Heart of China                                                               | |
+| ✅ | dgds     | china               | Heart of China                                                               | GandalfTheWhite80 |
 | ✅ | dgds     | rise                | Rise of the Dragon                                                           | GandalfTheWhite80 |
 | ✅ | director | apeodyssey          | Ape Odyssey 2001                                                             | GandalfTheWhite80 |
 | ✅ | director | alice               | Alice: An Interactive Museum                                                 | GandalfTheWhite80 |
