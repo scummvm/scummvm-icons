@@ -497,7 +497,7 @@
 | ✅ | gob | urban               | Urban Runner                                                                 | JenniBee, GandalfTheWhite80 |
 | ✅ | gob | ween                | Ween: The Prophecy                                                           | Canuma, GandalfTheWhite80 |
 | ✅ | gob | woodruff            | The Bizarre Adventures of Woodruff and the Schnibble                         | Matt, GandalfTheWhite80 |
-| ⬜️ | got | got                | God of Thunder                                                               | |
+| ✅ | got | got                | God of Thunder                                                               | GandalfTheWhite80 |
 | ✅ | griffon | griffon             | The Griffon Legend                                                           | GandalfTheWhite80 |
 | ✅ | grim | grim                | Grim Fandango                                                                | Thanius, GandalfTheWhite80 |
 | ✅ | grim | monkey4             | Escape From Monkey Island                                                    | Thanius, GandalfTheWhite80 |
