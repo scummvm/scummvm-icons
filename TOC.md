@@ -308,7 +308,7 @@
 | ✅ | creab    | unrest              | Unrest                                                                       | GandalfTheWhite80 |
 | ✅ | cruise | cruise              | Cruise for a Corpse                                                          | rehail |
 | ✅ | cryomni3d | versailles          | Versailles 1685                                                              | Tucky27, GandalfTheWhite80 |
-| ⬜️ | darkseed  | darkseed           | Dark Seed                                                                | |
+| ✅ | darkseed  | darkseed           | Dark Seed                                                                | GandalfTheWhite80 |
 | ✅  | dgds     | beamish             | Willy Beamish                                                                | GandalfTheWhite80 |
 | ✅ | dgds     | china               | Heart of China                                                               | GandalfTheWhite80 |
 | ✅ | dgds     | rise                | Rise of the Dragon                                                           | GandalfTheWhite80 |
