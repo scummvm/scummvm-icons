@@ -529,7 +529,7 @@
 | ⬜️ | lastexpress | lastexpress  | The Last Express                                                            | |
 | ✅ | lure | lure                | Lure of the Temptress                                                        | GandalfTheWhite80 |
 | ✅ | m4   | burger              | Orion Burger                                                                 | GandalfTheWhite80 |
-| ⬜️ | m4 | riddle                | Ripley's Believe It or Not!: The Riddle of Master Lu                         | |
+| ✅ | m4 | riddle                | Ripley's Believe It or Not!: The Riddle of Master Lu                         | GandalfTheWhite80 |
 | ✅ | made | lgop2               | Leather Goddesses of Phobos 2                                                | Matt, GandalfTheWhite80 |
 | ✅ | made | manhole             | The Manhole                                                                  | Matt, GandalfTheWhite80 |
 | ✅ | made | rodney              | Rodney's Funscreen                                                           | Matt, GandalfTheWhite80 |
