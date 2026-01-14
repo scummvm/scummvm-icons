@@ -283,7 +283,7 @@
 | ✅ | ags | zidjourney          | Zid Journey	                                                               | tag2015, GandalfTheWhite80 |
 | ✅ | ags | zniwadventure       | Zniw Adventure	                                                           | tag2015, GandalfTheWhite80 |
 | ✅ | alcachofa | aventuradecine   | Mortadelo y Filemón: Una Aventura de Cine                                | GandalfTheWhite80 |
-| ✅ | asylum | sanitarium          | Sanitarium                                                                   | JenniBee, GandalfTheWhite80 |
+| ✅ | asylum | asylum          | Sanitarium                                                                   | JenniBee, GandalfTheWhite80 |
 | ✅ | avalanche | avalanche           | Lord Avalot d'Argent                                                         | JenniBee, GandalfTheWhite80 |
 | ✅ | awe | anotherworld        | Another World/Out of This World                                               | GandalfTheWhite80 |
 | ✅ | bagel | hodjnpodj          | Hodj 'n' Podj                                                                     | GandalfTheWhite80 |
