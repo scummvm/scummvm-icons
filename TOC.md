@@ -518,6 +518,7 @@
 | ✅ | hypno | soldierboyz         | Soldier Boyz                                                                 | Tucky27 |
 | ✅ | hypno | wetlands            | Wetlands                                                                     | Tucky27, GandalfTheWhite80 |
 | ✅ | icb | icb            | In Cold Blood                                                                      | GandalfTheWhite80 |
+| ✅ | illusions | bbdou               | MTV's Beavis and Butt-Head Do U.                                             | dibz |
 | ✅ | illusions | duckman             | Duckman                                                                      | Tucky27, GandalfTheWhite80 |
 | ✅ | kingdom | kingdom          | Kingdom: The Far Reaches                                                     | GandalfTheWhite80 |
 | ✅ | kyra | eob                 | Eye of the Beholder                                                          | Tucky27, GandalfTheWhite80 |
