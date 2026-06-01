@@ -5,6 +5,7 @@
 | ✅ | example | example             | Example Entry                                                                | Your Name Here
 | ✅ | access | amazon              | Amazon: Guardians of Eden                                                    | Tucky27, GandalfTheWhite80 |
 | ✅ | access | martian          | Martian Memorandum                                                             | GandalfTheWhite80 |
+| ⬜️ | access | nocropolis         | Noctropolis                                                                | |
 | ✅ | adl | hires0              | Hi-Res Adventure #0: Mission Asteroid                                        | Tucky27, GandalfTheWhite80 |
 | ✅ | adl | hires1              | Hi-Res Adventure #1: Mystery House                                           | rehail |
 | ✅ | adl | hires2              | Hi-Res Adventure #2: Wizard and the Princess                                 | TrivialBalderdash |
@@ -283,6 +284,13 @@
 | ✅ | ags | zidjourney          | Zid Journey	                                                               | tag2015, GandalfTheWhite80 |
 | ✅ | ags | zniwadventure       | Zniw Adventure	                                                           | tag2015, GandalfTheWhite80 |
 | ✅ | alcachofa | aventuradecine   | Mortadelo y Filemón: Una Aventura de Cine                                | GandalfTheWhite80 |
+| ⬜️ | alg | cpatrol            | Crime Patrol                                                                 | |
+| ⬜️ | alg | dwars              | Crime Patrol 2: Drug Wars                                                    | |
+| ⬜️ | alg | johnroc            | Who Shot Johnny Rock?                                                        | |
+| ⬜️ | alg | lbhunter           | The Last Bounty Hunter                                                       | |
+| ⬜️ | alg | maddog             | Mad Dog McCree                                                               | |
+| ⬜️ | alg | maddog2            | Mad Dog II: The Lost Gold                                                    | |
+| ⬜️ | alg | spirates           | Space Pirates                                                                | |
 | ✅ | asylum | asylum          | Sanitarium                                                                   | JenniBee, GandalfTheWhite80 |
 | ✅ | avalanche | avalanche           | Lord Avalot d'Argent                                                         | JenniBee, GandalfTheWhite80 |
 | ✅ | awe | anotherworld        | Another World/Out of This World                                               | GandalfTheWhite80 |
@@ -291,6 +299,7 @@
 | ✅ | bbvs | bbvs                | Beavis and Butt-head in Virtual Stupidity                                    | JenniBee, GandalfTheWhite80 |
 | ✅ | bladerunner | bladerunner         | Blade Runner                                                                 | NekoFever, DavidAriyan |
 | ✅ | bladerunner | bladerunner-final   | Blade Runner                                                                 | NekoFever, DavidAriyan, GandalfTheWhite80 |
+| ⬜️ | bolt | carnival           | Cartoon Carnival                                                            | |
 | ✅ | buried | buried              | The Journeyman Project 2: Buried in Time                                     | GandalfTheWhite80 |
 | ✅ | cge | soltys              | Soltys                                                                       | JenniBee, GandalfTheWhite80 |
 | ✅ | cge2 | sfinx               | Sfinx                                                                        | JenniBee, GandalfTheWhite80 |
@@ -573,6 +582,8 @@
 | ✅ | nancy | nancy5              | Nancy Drew: The Final Scene                                                  | GandalfTheWhite80 |
 | ✅ | nancy | nancy6              | Nancy Drew: Secret of the Scarlet Hand                                       | GandalfTheWhite80 |
 | ✅ | nancy | nancy7              | Nancy Drew: Ghost Dogs of Moon Lake                                          | GandalfTheWhite80 |
+| ⬜️ | nancy | nancy8              | Nancy Drew: The Haunted Carousel                                             | |
+| ⬜️ | nancy | nancy9              | Nancy Drew: Danger on Deception Island                                       | |
 | ✅ | nancy | vampirediaries      | The Vampire Diaries                                                          | GandalfTheWhite80 |
 | ✅ | neverhood | neverhood           | The Neverhood Chronicles                                                     | JenniBee, GandalfTheWhite80 |
 | ✅ | ngi | fullpipe            | Full Pipe                                                                    | [App Store page](https://apps.apple.com/app/full-pipe-puzzle-adventure/id900071823), GandalfTheWhite80 |
@@ -580,6 +591,9 @@
 | ✅ | pegasus | pegasus             | The Journeyman Project: Pegasus Prime                                        | JenniBee, GandalfTheWhite80 |
 | ✅ | petka | petka1              | Red Comrades 1: Save the Galaxy                                              | GandalfTheWhite80 |
 | ✅ | petka | petka2              | Red Comrades 2: For the Great Justice                                        | GandalfTheWhite80 |
+| ⬜️ | phoenixvr | amerzone        | Amerzone: The Explorer's Legacy                                             | |
+| ⬜️ | phoenixvr | lochness        | The Cameron Files: The Secret at Loch Ness                                 | |
+| ⬜️ | phoenixvr | necrono         | Necronomicon: The Dawning of Darkness                                      | |
 | ✅ | pink | peril                | The Pink Panther: Passport to Peril                                        | tag2015, GandalfTheWhite80 |
 | ✅ | pink | pokus                | The Pink Panther: Hokus Pokus Pink                                         | Tucky27 |
 | ✅ | plumbers | plumbers            | Plumbers Don't Wear Ties!                                                    | nightm4re94, GandalfTheWhite80 |
