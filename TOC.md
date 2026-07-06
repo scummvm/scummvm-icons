@@ -226,6 +226,8 @@
 | ✅ | ags | shivahkosher         | The Shivah - Kosher Edition                                                 | tag2015 |
 | ✅ | ags | skumring             | Skumring                                                                    | DavidAriyan |
 | ✅ | ags | skyfall             | Skyfall                                                                      | DavidAriyan, GandalfTheWhite80 |
+| ⬜️ | ags | sovietunterzoegersdorf1 | Soviet Unterzögersdorf: Sector I                                         | |
+| ⬜️ | ags | sovietunterzoegersdorf2 | Soviet Unterzögersdorf: Sector II                                        | |
 | ⬜️ | ags | sphonx              | Sphonx                                                                       | |
 | ✅ | ags | spooks              | Spooks                                                                       | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | sq2dote             | Space Quest: Decision Of The Elders                                          | Tucky27, tag2015 |
@@ -284,6 +286,14 @@
 | ✅ | ags | zidjourney          | Zid Journey	                                                               | tag2015, GandalfTheWhite80 |
 | ✅ | ags | zniwadventure       | Zniw Adventure	                                                           | tag2015, GandalfTheWhite80 |
 | ✅ | alcachofa | aventuradecine   | Mortadelo y Filemón: Una Aventura de Cine                                | GandalfTheWhite80 |
+| ⬜️ | alcachofa | balones          | Mortadelo y Filemón: Balones y Patadones                                 | |
+| ⬜️ | alcachofa | corvino          | Mortadelo y Filemón: La Banda de Corvino                                | |
+| ⬜️ | alcachofa | escarabajo       | Mortadelo y Filemón: El escarabajo de Cleopatra                          | |
+| ⬜️ | alcachofa | mamelucos       | Mortadelo y Filemón: Mamelucos a la Romana                                | |
+| ⬜️ | alcachofa | moscu        | Mortadelo y Filemón: Operación Moscú                                         | |
+| ⬜️ | alcachofa | secta        | Mortadelo y Filemón: La Sexta Secta                                          | |
+| ⬜️ | alcachofa | terror        | Mortadelo y Filemón: Terror, Espanto y Pavor                                | |
+| ⬜️ | alcachofa | vaqueros        | Mortadelo y Filemón: Dos vaqueros chapuceros                              | |
 | ⬜️ | alg | cpatrol            | Crime Patrol                                                                 | |
 | ⬜️ | alg | dwars              | Crime Patrol 2: Drug Wars                                                    | |
 | ⬜️ | alg | johnroc            | Who Shot Johnny Rock?                                                        | |
@@ -303,6 +313,7 @@
 | ✅ | buried | buried              | The Journeyman Project 2: Buried in Time                                     | GandalfTheWhite80 |
 | ✅ | cge | soltys              | Soltys                                                                       | JenniBee, GandalfTheWhite80 |
 | ✅ | cge2 | sfinx               | Sfinx                                                                        | JenniBee, GandalfTheWhite80 |
+| ⬜️ | chamber | chamber           | Chamber of the Sci-Mutant Priestess                                         | |
 | ✅ | chewy | chewy               | Chewy: Esc from F5                                                           | GandalfTheWhite80 |
 | ✅ | cine | fw                  | Future Wars                                                                  | Thanius, GandalfTheWhite80 |
 | ✅ | cine | os                  | Operation Stealth                                                            | JenniBee, GandalfTheWhite80 |
@@ -347,6 +358,13 @@
 | ✅ | freescape | driller            | Driller                                                                     | GandalfTheWhite80 |
 | ✅ | freescape | totaleclipse       | Total Eclipse                                                               | GandalfTheWhite80 |
 | ✅ | freescape | totaleclipse2      | Total Eclipse II                                                            | GandalfTheWhite80 |
+| ⬜️ | gamos | flop            | Flip-Flop                                                                      | |
+| ⬜️ | gamos | netwalk            | NetWalk                                                                     | |
+| ⬜️ | gamos | pilots1         | Pilot Brothers: On the Track of Striped Elephant                               | |
+| ⬜️ | gamos | pilots2         | Pilot Brothers: The Case of Serial Maniac                                      | |
+| ⬜️ | gamos | solgamer         | 21 Solitaire / Пасьянс                                                        | |
+| ⬜️ | gamos | vitamin            | Vitamin                                                                     | |
+| ⬜️ | gamos | wild            | WildSnake                                                                      | |
 | ✅ | glk | 7doctors            | The seven doctors                                                            | Tucky27 |
 | ⬜️ | glk | adrianmole1         | Adrian Mole I                                                                | |
 | ⬜️ | glk | adrianmole2         | Adrian Mole II                                                               | |
@@ -517,6 +535,7 @@
 | ✅ | groovie | tlc                 | Tender Loving Care                                                           | Tucky27 |
 | ✅ | groovie | unclehenry          | Uncle Henry's Playhouse                                                      | GandalfTheWhite80 |
 | ✅ | hadesch | hadesch             | Hades Challenge                                                              | GandalfTheWhite80 |
+| ⬜️ | harvester | harvester         | Harvester                                                                    | |
 | ✅ | hdb | hdb                 | Hyperspace Delivery Boy!                                                     | SupSuper, GandalfTheWhite80 |
 | ✅ | hopkins | hopkins             | Hopkins FBI                                                                  | rehail, GandalfTheWhite80 |
 | ✅ | hpl1 | penumbraoverture    | Penumbra: Overture                                                           | GandalfTheWhite80 |
@@ -541,11 +560,15 @@
 | ✅ | lure | lure                | Lure of the Temptress                                                        | GandalfTheWhite80 |
 | ✅ | m4   | burger              | Orion Burger                                                                 | GandalfTheWhite80 |
 | ✅ | m4 | riddle                | Ripley's Believe It or Not!: The Riddle of Master Lu                         | GandalfTheWhite80 |
+| ⬜️ | macs2 | sis                | Der Schatz im Silbersee                                                      | |
 | ✅ | made | lgop2               | Leather Goddesses of Phobos 2                                                | Matt, GandalfTheWhite80 |
 | ✅ | made | manhole             | The Manhole                                                                  | Matt, GandalfTheWhite80 |
 | ✅ | made | rodney              | Rodney's Funscreen                                                           | Matt, GandalfTheWhite80 |
 | ✅ | made | rtz                 | Return to Zork                                                               | JenniBee, Tucky27, GandalfTheWhite80 |
+| ⬜️ | mads | dragonsphere        | Dragonsphere                                                                 | |
+| ⬜️ | mads | forest              | Once Upon a Forest                                                         | |
 | ✅ | mads | nebular             | Rex Nebular and the Cosmic Gender Bender                                     | TrivialBalderdash |
+| ⬜️ | mads | phantom             | Return of the Phantom                                                        | |
 | ✅ | mm | mm1                 | Might and Magic Book One: The Secret of the Inner Sanctum                    | GandalfTheWhite80, Tucky27 |
 | ✅ | mm | mm1_enh             | Might and Magic Book One: The Secret of the Inner Sanctum Enhanced           | GandalfTheWhite80, Tucky27 |
 | ✅ | mm | cloudsofxeen        | Might and Magic IV: Clouds of Xeen                                           | GandalfTheWhite80 |
@@ -592,6 +615,8 @@
 | ✅ | petka | petka1              | Red Comrades 1: Save the Galaxy                                              | GandalfTheWhite80 |
 | ✅ | petka | petka2              | Red Comrades 2: For the Great Justice                                        | GandalfTheWhite80 |
 | ⬜️ | phoenixvr | amerzone        | Amerzone: The Explorer's Legacy                                             | |
+| ⬜️ | phoenixvr | dracula1        | Dracula: Resurrection                                                       | |
+| ⬜️ | phoenixvr | dracula2        | Dracula 2: The Last Sanctuary                                              | |
 | ⬜️ | phoenixvr | lochness        | The Cameron Files: The Secret at Loch Ness                                 | |
 | ⬜️ | phoenixvr | necrono         | Necronomicon: The Dawning of Darkness                                      | |
 | ✅ | pink | peril                | The Pink Panther: Passport to Peril                                        | tag2015, GandalfTheWhite80 |
@@ -749,6 +774,8 @@
 | ✅ | scumm | putttime            | Putt-Putt Travels Through Time                                               | Retrodude, GandalfTheWhite80 |
 | ✅ | scumm | puttzoo             | Putt-Putt Saves the Zoo                                                      | Retrodude, GandalfTheWhite80 |
 | ✅ | scumm | readtime            | Blue's Reading Time Activities                                               | Tucky27 |
+| ⬜️ | scumm | rebel1              | Star Wars: Rebel Assault                                                     | |
+| ⬜️ | scumm | rebel2              | Star Wars: Rebel Assault II: The Hidden Empire                               | |
 | ✅ | scumm | samnmax             | Sam & Max Hit the Road                                                       | JenniBee, GandalfTheWhite80 |
 | ✅ | scumm | samsfunshop         | Pajama Sam's One-Stop Fun Shop                                               | GandalfTheWhite80 |
 | ✅ | scumm | soccer              | Backyard Soccer                                                              | tag2015, GandalfTheWhite80 |
@@ -805,7 +832,12 @@
 | ✅ | vcruise  | reah                 | Reah: Face the Unknown                                                        | GandalfTheWhite80 |
 | ✅ | vcruise | schizm                 | Schizm: Mysterious Journey                                                   | GandalfTheWhite80 |
 | ✅ | voyeur | voyeur              | Voyeur                                                                       | JenniBee, GandalfTheWhite80 |
+| ⬜️ | wage | afm                  | Another Fine Mess                                                             | |
+| ⬜️ | wage | amot                  | A Mess O' Trouble                                                             | |
+| ⬜️ | wage | grailquest                | GrailQuest: Adventure in the Age of King Arthur                              | |
+| ⬜️ | wage | raysmaze                | Ray's Maze                                                                    | |
 | ✅ | wage | scepters                  | Enchanted Scepters                                                           | GandalfTheWhite80 |
+| ⬜️ | wage | twisted                  | Twisted!                                                                      | |
 | ✅ | wintermute | 5ld                 | Five Lethal Demons                                                           | tag2015 |
 | ✅ | wintermute | 5ma                 | Five Magical Amulets                                                         | tag2015 |
 | ⬜️ | wintermute | alphapolaris        | Alpha Polaris                                                                | |
