@@ -226,8 +226,8 @@
 | ✅ | ags | shivahkosher         | The Shivah - Kosher Edition                                                 | tag2015 |
 | ✅ | ags | skumring             | Skumring                                                                    | DavidAriyan |
 | ✅ | ags | skyfall             | Skyfall                                                                      | DavidAriyan, GandalfTheWhite80 |
-| ⬜️ | ags | sovietunterzoegersdorf1 | Soviet Unterzögersdorf: Sector I                                         | |
-| ⬜️ | ags | sovietunterzoegersdorf2 | Soviet Unterzögersdorf: Sector II                                        | |
+| ✅ | ags | sovietunterzoegersdorf1 | Soviet Unterzögersdorf: Sector I                                         | GandalfTheWhite80 |
+| ✅ | ags | sovietunterzoegersdorf2 | Soviet Unterzögersdorf: Sector II                                        | GandalfTheWhite80 |
 | ⬜️ | ags | sphonx              | Sphonx                                                                       | |
 | ✅ | ags | spooks              | Spooks                                                                       | DavidAriyan, GandalfTheWhite80 |
 | ✅ | ags | sq2dote             | Space Quest: Decision Of The Elders                                          | Tucky27, tag2015 |
