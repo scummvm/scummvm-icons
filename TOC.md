@@ -294,8 +294,8 @@
 | ⬜️ | alcachofa | secta        | Mortadelo y Filemón: La Sexta Secta                                          | |
 | ⬜️ | alcachofa | terror        | Mortadelo y Filemón: Terror, Espanto y Pavor                                | |
 | ⬜️ | alcachofa | vaqueros        | Mortadelo y Filemón: Dos vaqueros chapuceros                              | |
-| ⬜️ | alg | cpatrol            | Crime Patrol                                                                 | |
-| ⬜️ | alg | dwars              | Crime Patrol 2: Drug Wars                                                    | |
+| ✅ | alg | cpatrol            | Crime Patrol                                                                 | Kirk42637, GandalfTheWhite80 |
+| ✅ | alg | dwars              | Crime Patrol 2: Drug Wars                                                    | Kirk42637, GandalfTheWhite80 |
 | ⬜️ | alg | johnroc            | Who Shot Johnny Rock?                                                        | |
 | ⬜️ | alg | lbhunter           | The Last Bounty Hunter                                                       | |
 | ⬜️ | alg | maddog             | Mad Dog McCree                                                               | |
