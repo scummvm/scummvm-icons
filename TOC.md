@@ -298,7 +298,7 @@
 | ✅ | alg | dwars              | Crime Patrol 2: Drug Wars                                                    | Kirk42637, GandalfTheWhite80 |
 | ⬜️ | alg | johnroc            | Who Shot Johnny Rock?                                                        | |
 | ⬜️ | alg | lbhunter           | The Last Bounty Hunter                                                       | |
-| ⬜️ | alg | maddog             | Mad Dog McCree                                                               | |
+| ✅ | alg | maddog             | Mad Dog McCree                                                               | Kirk42637, GandalfTheWhite80 |
 | ⬜️ | alg | maddog2            | Mad Dog II: The Lost Gold                                                    | |
 | ⬜️ | alg | spirates           | Space Pirates                                                                | |
 | ✅ | asylum | asylum          | Sanitarium                                                                   | JenniBee, GandalfTheWhite80 |
