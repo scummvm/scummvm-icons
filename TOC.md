@@ -166,7 +166,7 @@
 | ✅ | ags | kq2agdi             | King's Quest II: Romancing the Stones Remake                                 | tag2015 |
 | ✅ | ags | kq3agdi             | King's Quest III Redux: To Heir is Human                                     | tag2015 |
 | ⬜️ | ags | kq3vga              | King's Quest III: To Heir is Human VGA Remake                                | |
-| ⬜️ | ags | kq4retold           | King's Quest IV: The Perils of Rosella Retold                                | |
+| ✅ | ags | kq4retold           | King's Quest IV: The Perils of Rosella Retold                                | GandalfTheWhite80 |
 | ✅ | ags | lacroixpan          | La Croix Pan                                                                 | DavidAriyan |
 | ✅ | ags | lamplightcity       | Lamplight City                                                               | DavidAriyan |
 | ⬜️ | ags | lancelothangover    | Lancelot's Hangover                                                          | |
