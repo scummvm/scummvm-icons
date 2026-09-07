@@ -615,7 +615,7 @@
 | ✅ | petka | petka1              | Red Comrades 1: Save the Galaxy                                              | GandalfTheWhite80 |
 | ✅ | petka | petka2              | Red Comrades 2: For the Great Justice                                        | GandalfTheWhite80 |
 | ⬜️ | phoenixvr | amerzone        | Amerzone: The Explorer's Legacy                                             | |
-| ⬜️ | phoenixvr | dracula1        | Dracula: Resurrection                                                       | |
+| ✅ | phoenixvr | dracula1        | Dracula: Resurrection                                                       | GandalfTheWhite80 |
 | ⬜️ | phoenixvr | dracula2        | Dracula 2: The Last Sanctuary                                              | |
 | ⬜️ | phoenixvr | lochness        | The Cameron Files: The Secret at Loch Ness                                 | |
 | ⬜️ | phoenixvr | necrono         | Necronomicon: The Dawning of Darkness                                      | |
