@@ -286,7 +286,7 @@
 | ✅ | ags | zidjourney          | Zid Journey	                                                               | tag2015, GandalfTheWhite80 |
 | ✅ | ags | zniwadventure       | Zniw Adventure	                                                           | tag2015, GandalfTheWhite80 |
 | ✅ | alcachofa | aventuradecine   | Mortadelo y Filemón: Una Aventura de Cine                                | GandalfTheWhite80 |
-| ⬜️ | alcachofa | balones          | Mortadelo y Filemón: Balones y Patadones                                 | |
+| ✅ | alcachofa | balones          | Mortadelo y Filemón: Balones y Patadones                                 | GandalfTheWhite80 |
 | ⬜️ | alcachofa | corvino          | Mortadelo y Filemón: La Banda de Corvino                                | |
 | ⬜️ | alcachofa | escarabajo       | Mortadelo y Filemón: El escarabajo de Cleopatra                          | |
 | ⬜️ | alcachofa | mamelucos       | Mortadelo y Filemón: Mamelucos a la Romana                                | |
