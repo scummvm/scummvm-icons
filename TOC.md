@@ -309,7 +309,7 @@
 | ✅ | bbvs | bbvs                | Beavis and Butt-head in Virtual Stupidity                                    | JenniBee, GandalfTheWhite80 |
 | ✅ | bladerunner | bladerunner         | Blade Runner                                                                 | NekoFever, DavidAriyan |
 | ✅ | bladerunner | bladerunner-final   | Blade Runner                                                                 | NekoFever, DavidAriyan, GandalfTheWhite80 |
-| ⬜️ | bolt | carnival           | Cartoon Carnival                                                            | |
+| ✅ | bolt | carnival           | Cartoon Carnival                                                            | GandalfTheWhite80 |
 | ✅ | buried | buried              | The Journeyman Project 2: Buried in Time                                     | GandalfTheWhite80 |
 | ✅ | cge | soltys              | Soltys                                                                       | JenniBee, GandalfTheWhite80 |
 | ✅ | cge2 | sfinx               | Sfinx                                                                        | JenniBee, GandalfTheWhite80 |
