@@ -565,7 +565,7 @@
 | ✅ | made | manhole             | The Manhole                                                                  | Matt, GandalfTheWhite80 |
 | ✅ | made | rodney              | Rodney's Funscreen                                                           | Matt, GandalfTheWhite80 |
 | ✅ | made | rtz                 | Return to Zork                                                               | JenniBee, Tucky27, GandalfTheWhite80 |
-| ⬜️ | mads | dragonsphere        | Dragonsphere                                                                 | |
+| ✅ | mads | dragonsphere        | Dragonsphere                                                                 | GandalfTheWhite80 |
 | ⬜️ | mads | forest              | Once Upon a Forest                                                         | |
 | ✅ | mads | nebular             | Rex Nebular and the Cosmic Gender Bender                                     | TrivialBalderdash |
 | ⬜️ | mads | phantom             | Return of the Phantom                                                        | |
