@@ -296,7 +296,7 @@
 | ⬜️ | alcachofa | vaqueros        | Mortadelo y Filemón: Dos vaqueros chapuceros                              | |
 | ✅ | alg | cpatrol            | Crime Patrol                                                                 | Kirk42637, GandalfTheWhite80 |
 | ✅ | alg | dwars              | Crime Patrol 2: Drug Wars                                                    | Kirk42637, GandalfTheWhite80 |
-| ⬜️ | alg | johnroc            | Who Shot Johnny Rock?                                                        | |
+| ✅ | alg | johnroc            | Who Shot Johnny Rock?                                                        | GandalfTheWhite80 |
 | ⬜️ | alg | lbhunter           | The Last Bounty Hunter                                                       | |
 | ✅ | alg | maddog             | Mad Dog McCree                                                               | Kirk42637, GandalfTheWhite80 |
 | ✅ | alg | maddog2            | Mad Dog II: The Lost Gold                                                    | Kirk42637, GandalfTheWhite80 |
