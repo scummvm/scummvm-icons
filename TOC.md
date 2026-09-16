@@ -863,7 +863,7 @@
 | ⬜️ | wintermute | rebeccacarlson1     | Rebecca Carlson 1: Silent Footsteps                                          | |
 | ✅ | wintermute | reversion1          | Reversion: The Escape                                                        | JenniBee, GandalfTheWhite80 |
 | ✅ | wintermute | reversion2          | Reversion: The Meeting                                                       | JenniBee, GandalfTheWhite80 |
-| ⬜️ | wintermute | reversion3          | Reversion: The Return                                                        | |
+| ✅ | wintermute | reversion3          | Reversion: The Return                                                        | GandalfTheWhite80 |
 | ⬜️ | wintermute | rhiannon            | Rhiannon: Curse of the four Branches                                         | |
 | ✅ | wintermute | ritter              | 1 1/2 Ritter: Auf der Suche nach der hinreissenden Herzelinde                | tag2015 |
 | ✅ | wintermute | rosemary            | Rosemary                                                                     | tag2015 |
