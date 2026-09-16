@@ -358,12 +358,12 @@
 | ✅ | freescape | driller            | Driller                                                                     | GandalfTheWhite80 |
 | ✅ | freescape | totaleclipse       | Total Eclipse                                                               | GandalfTheWhite80 |
 | ✅ | freescape | totaleclipse2      | Total Eclipse II                                                            | GandalfTheWhite80 |
-| ⬜️ | gamos | flop            | Flip-Flop                                                                      | |
+| ✅ | gamos | flop            | Flip-Flop                                                                      | GandalfTheWhite80 |
 | ⬜️ | gamos | netwalk            | NetWalk                                                                     | |
 | ⬜️ | gamos | pilots1         | Pilot Brothers: On the Track of Striped Elephant                               | |
 | ⬜️ | gamos | pilots2         | Pilot Brothers: The Case of Serial Maniac                                      | |
-| ⬜️ | gamos | solgamer         | 21 Solitaire / Пасьянс                                                        | |
-| ⬜️ | gamos | vitamin            | Vitamin                                                                     | |
+| ✅ | gamos | solgamer         | 21 Solitaire / Пасьянс                                                        | GandalfTheWhite80 |
+| ✅ | gamos | vitamin            | Vitamin                                                                     | GandalfTheWhite80 |
 | ⬜️ | gamos | wild            | WildSnake                                                                      | |
 | ✅ | glk | 7doctors            | The seven doctors                                                            | Tucky27 |
 | ⬜️ | glk | adrianmole1         | Adrian Mole I                                                                | |
