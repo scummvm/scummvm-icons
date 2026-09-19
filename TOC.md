@@ -853,7 +853,7 @@
 | ⬜️ | wintermute | erinmyers           | The Death of Erin Myers	    	                                              | |
 | ✅ | wintermute | escapemansion       | Escape from the Mansion                                                      | tag2015 |
 | ⬜️ | wintermute | facenoir            | Face Noir                                                                    | |
-| ⬜️ | wintermute | ghostsheet          | Ghost in the Sheet                                                           | |
+| ✅ | wintermute | ghostsheet          | Ghost in the Sheet                                                           | GandalfTheWhite80 |
 | ⬜️ | wintermute | hamlet              | Hamlet                                                                       | |
 | ✅ | wintermute | helga               | Helga Deep In Trouble                                                        | GandalfTheWhite80 |
 | ⬜️ | wintermute | idiotstale          | The Idiot's Tale                                                             | |
