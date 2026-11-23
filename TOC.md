@@ -535,7 +535,7 @@
 | ✅ | groovie | tlc                 | Tender Loving Care                                                           | Tucky27 |
 | ✅ | groovie | unclehenry          | Uncle Henry's Playhouse                                                      | GandalfTheWhite80 |
 | ✅ | hadesch | hadesch             | Hades Challenge                                                              | GandalfTheWhite80 |
-| ⬜️ | harvester | harvester         | Harvester                                                                    | |
+| ✅ | harvester | harvester         | Harvester                                                                    | SpiralofAnts |
 | ✅ | hdb | hdb                 | Hyperspace Delivery Boy!                                                     | SupSuper, GandalfTheWhite80 |
 | ✅ | hopkins | hopkins             | Hopkins FBI                                                                  | rehail, GandalfTheWhite80 |
 | ✅ | hpl1 | penumbraoverture    | Penumbra: Overture                                                           | GandalfTheWhite80 |
